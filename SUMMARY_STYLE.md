@@ -68,3 +68,45 @@ Mark a story as skipped (no bullets) if any of these apply:
 - **Competitor News** only: the story doesn't meet the definition above.
 - **Wider Sports News** only: the story isn't about sport or the business of sport (rights, sponsorship, media, events, governing bodies). General business, politics or lifestyle pieces are skipped.
 - Any section: the story falls under "Never included" or a section's "Drop" list in EDITORIAL_GUIDE.md.
+
+## The Bigger Game extras
+
+The Bigger Game is ADNOC's sports and partnership newsletter. As well as the two
+bullets, Claude drafts these for every story it summarises. They are first drafts:
+the team edits them on the page before sending.
+
+- **label:** one to three words in capitals naming the topic, used as the row label
+  in "The week in 60 seconds". Prefer these: PRO LEAGUE, GCC FOOTBALL, F1, F1 BUSINESS,
+  MOTORSPORT, CYCLING, RUNNING, GOLF, SPORTS BUSINESS, COMPETITORS, ADNOC. Use another
+  short label only if none fit.
+- **line:** one sentence, 25 words at most, that gives the whole story at a glance for
+  "The week in 60 seconds". Lead with the fact and keep the key number or date,
+  Put [square brackets] around the three to six words that should link to the article,
+  e.g. "[Al Jazira beat Al Wasl 2-1] to go top of the ADNOC Pro League on 17 points."
+- **angle:** one sentence, 30 words at most, on what the story means for ADNOC or
+  its properties. Practical, not promotional. Used if the story becomes "Watch this".
+- **activation:** only when the story describes a brand activation, campaign or fan
+  experience that ADNOC could learn from. Otherwise null.
+  - **title:** the brand and the event, five words at most, e.g. "Shell, São Paulo GP".
+  - **what:** what the brand did, 20 words at most.
+  - **borrow:** how ADNOC could borrow the idea for one of its own properties (Abu Dhabi
+    Grand Prix, ADNOC Pro League, ADNOC Abu Dhabi Marathon, UAE Team Emirates XRG),
+    15 words at most, starting with a verb, e.g. "race week that drives people to
+    ADNOC stations, not just the track."
+- **stat:** only when the story has a striking number worth a stat box. Otherwise null.
+  - **value:** the number on its own, as short as possible: "17", "$2m", "–23", "3".
+  - **label:** eight words at most saying what the number is, e.g. "points: Al Jazira
+    top the ADNOC Pro League".
+
+### The edition draft
+
+Once per run, Claude also drafts the edition's editorial parts from the best stories:
+
+- **headline:** two short parts, together 10 words at most. The first part states what
+  happened, the second what comes next, e.g. "The double is done." + "Abu Dhabi is next."
+  Punchy and factual. No puns that need explaining, no hype words.
+- **stats:** four stat boxes, each from a different story, using that story's facts.
+- **watch:** the one story ADNOC most needs to know about or act on. A bold lead
+  sentence (15 words at most) and one or two more sentences (40 words at most) on why
+  it matters for ADNOC. Put [square brackets] around the source's name or the words
+  that should link to the article.

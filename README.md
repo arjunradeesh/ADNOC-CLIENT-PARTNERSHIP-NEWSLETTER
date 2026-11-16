@@ -16,20 +16,38 @@ then picks the stories they want and copies a ready-formatted bulletin into an e
    following **`SUMMARY_STYLE.md`**. Claude also flags off-topic stories, such as
    Competitor News that isn't really about a competitor's sports deal.
 3. **`index.html`** is the web page the team uses: pick stories, tweak bullets, then
-   click **Copy bulletin**.
+   click **Copy newsletter**.
 4. A **GitHub Action** (`.github/workflows/scrape.yml`) runs steps 1 and 2 at
    **08:50 and 09:45 UAE time** every day. GitHub sometimes starts scheduled runs 5–30 minutes late.
+
+## The Bigger Game (the newsletter)
+
+The page builds **The Bigger Game**, ADNOC's sports and partnership newsletter, in the
+house layout: headline, four stat boxes, Watch this, The week in 60 seconds,
+Activations worth stealing and On the radar.
+
+- **Claude drafts the words** on every run: a one-line summary, a row label, an ADNOC
+  angle, a "Borrow" idea for activations and a stat for each story, plus the edition's
+  headline, four stats and Watch this. The rules are in `SUMMARY_STYLE.md`
+  ("The Bigger Game extras").
+- **On the radar** comes from `radar.json`. Add upcoming events there (start and end
+  dates, event name, and `"adnoc": true` for ADNOC's own properties). Past dates drop
+  off by themselves.
+- **Your edition is saved in your browser** until you click **Start new edition**, so you
+  can build a bi-weekly edition over several days.
+- In the email, links are the words in [square brackets]; with no brackets the source
+  name is linked at the end of the line.
 
 ## Using it each morning
 
 1. Open the page (your GitHub Pages link).
-2. Pick a time window (up to **14d** for the bi-weekly edition), then click **+ Add** on up to two stories per section. The live preview on the right
+2. **Pick stories:** on each story, click where it goes: **60 seconds**, **Activation**, **Watch this** or **Stat**. The live preview on the right
    shows exactly what will paste.
-3. Click any bullet to edit it. A story marked **Needs a write-up** couldn't be read
+3. Edit any text in **Edit & preview**. A story marked **No draft yet** couldn't be read
    automatically: open the article and type two bullets.
-4. Click **Copy bulletin** and paste into your email. The links and bold formatting carry over.
+4. Open **Edit & preview**, check Claude's drafts, then click **Copy newsletter** and paste into a new email.
 
-Picks and edits are saved in each person's own browser and reset each day.
+Your edition is saved in your own browser until you click **Start new edition**.
 
 ## One-off setup: the Claude token
 

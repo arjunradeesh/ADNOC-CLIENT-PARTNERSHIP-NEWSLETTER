@@ -1,0 +1,8 @@
+[
+  {"start": "2026-11-12", "end": "2026-11-15", "event": "DP World Tour Championship, Dubai"},
+  {"start": "2026-11-19", "end": "2026-11-21", "event": "F1 Las Vegas Grand Prix"},
+  {"start": "2026-11-21", "end": "2026-11-22", "event": "SailGP Dubai"},
+  {"start": "2026-11-29", "end": "2026-11-29", "event": "EMAAR Super Cup, Al Ain v Shabab Al Ahli"},
+  {"start": "2026-12-03", "end": "2026-12-06", "event": "Abu Dhabi Grand Prix", "adnoc": true},
+  {"start": "2026-12-12", "end": "2026-12-12", "event": "ADNOC Abu Dhabi Marathon", "adnoc": true}
+]
