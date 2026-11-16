@@ -305,10 +305,12 @@ def main():
 
     # ---- Load the archive so we only do the slow work for NEW stories ----
     archive = {}
+    prev_edition = None   # Claude's draft headline/stats; summarise.py refreshes it
     if os.path.exists(OUT_PATH):
         try:
             with open(OUT_PATH, encoding="utf-8") as f:
                 prev = json.load(f)
+            prev_edition = prev.get("edition")
             for sec_items in prev.get("sections", {}).values():
                 for s in sec_items:
                     # Move stories from renamed/merged sections; drop removed sections.
@@ -460,6 +462,7 @@ def main():
         "section_order": SECTION_ORDER,
         "sections": grouped,
         "total": len(kept),
+        "edition": prev_edition,
     }
 
     os.makedirs(DATA_DIR, exist_ok=True)

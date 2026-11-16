@@ -2,169 +2,144 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>ADNOC Partnership News</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Bigger Game · newsletter builder</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700;800&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Sans+Arabic:wght@400;600&display=swap" rel="stylesheet">
 <style>
-  /* ---- ADNOC brand font ----
-     The page uses ADNOC's own font when it can find it, in this order:
-       1. installed on the viewer's computer (local), or
-       2. font files placed in a fonts/ folder in this repo (see README).
-     Put the font's exact name (as it appears in your font list) in local().
-     If neither is found, it falls back to IBM Plex Sans (+ Arabic). */
+  /* ---- ADNOC brand font for this page (see README). Falls back to IBM Plex Sans. ---- */
   @font-face{font-family:"ADNOC Brand";font-weight:400;font-display:swap;
     src:local("ADNOC Sans"),local("ADNOC Sans Regular"),url("fonts/adnoc-regular.woff2") format("woff2")}
   @font-face{font-family:"ADNOC Brand";font-weight:700;font-display:swap;
     src:local("ADNOC Sans Bold"),url("fonts/adnoc-bold.woff2") format("woff2")}
   :root{
-    --bg:#f4f5f7; --panel:#ffffff; --ink:#1a1f24; --muted:#6b7280; --soft:#9ca3af;
-    --line:#e5e7eb; --brand:#0047BA; --brand-dark:#00358C; --brand-tint:#EEF3FC;   /* ADNOC Royal Blue */
+    --brand:#0047BA; --brand-dark:#00358C; --brand-tint:#EEF3FC; --accent:#8FD3FF;   /* ADNOC Royal Blue */
+    --bg:#f4f5f7; --panel:#fff; --ink:#1a1f24; --muted:#6b7280; --soft:#9ca3af; --line:#e5e7eb;
     --chip:#eef1f4; --ok:#0a7d34; --ok-tint:#ecfdf3; --warn:#b45309; --warn-tint:#fffbeb;
     --shadow:0 1px 3px rgba(0,0,0,.06),0 8px 24px rgba(0,0,0,.04);
+    --head:"Barlow Condensed","Arial Narrow",Arial,sans-serif;
   }
   *{box-sizing:border-box}
   [hidden]{display:none !important}
   body{margin:0;font-family:"ADNOC Brand","IBM Plex Sans","IBM Plex Sans Arabic",-apple-system,"Segoe UI",Arial,sans-serif;
     background:var(--bg);color:var(--ink);line-height:1.5;-webkit-font-smoothing:antialiased}
-  a{color:var(--brand-dark);text-decoration:none}
-  a:hover{text-decoration:underline}
+  a{color:var(--brand-dark);text-decoration:none} a:hover{text-decoration:underline}
   button,input,select,textarea{font:inherit}
 
-  /* ---- header ---- */
-  header.top{background:var(--brand);color:#fff;padding:16px 22px}
-  header.top .in{max-width:1320px;margin:0 auto;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
-  header.top h1{font-size:19px;margin:0;font-weight:700;letter-spacing:.2px}
-  header.top .sub{font-size:13px;opacity:.92;margin-top:1px}
-  header.top .spacer{flex:1}
-  .hbtn{background:rgba(255,255,255,.14);color:#fff;border:1px solid rgba(255,255,255,.35);
-    border-radius:8px;padding:7px 12px;font-size:13px;cursor:pointer}
+  /* header */
+  header.top{background:var(--brand);color:#fff;padding:14px 22px;position:sticky;top:0;z-index:20}
+  header.top .in{max-width:1400px;margin:0 auto;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+  header.top h1{font-family:var(--head);font-size:24px;letter-spacing:1px;margin:0;text-transform:uppercase}
+  header.top .sub{font-size:12.5px;opacity:.9}
+  .spacer{flex:1}
+  .tabs{display:flex;background:rgba(255,255,255,.12);border-radius:10px;padding:3px}
+  .tabs button{border:0;background:none;color:#fff;padding:7px 14px;border-radius:8px;cursor:pointer;font-size:13.5px;font-weight:600;opacity:.8}
+  .tabs button.active{background:#fff;color:var(--brand);opacity:1}
+  .hbtn{background:rgba(255,255,255,.14);color:#fff;border:1px solid rgba(255,255,255,.35);border-radius:8px;padding:7px 12px;font-size:13px;cursor:pointer}
   .hbtn:hover{background:rgba(255,255,255,.24)}
 
-  .wrap{max-width:1320px;margin:0 auto;padding:18px 22px 40px;display:grid;
-    grid-template-columns:minmax(0,1fr) 400px;gap:22px;align-items:start}
+  .wrap{max-width:1400px;margin:0 auto;padding:18px 22px 50px}
+  .btn{border:0;background:var(--brand);color:#fff;border-radius:8px;padding:9px 14px;font-weight:600;cursor:pointer;font-size:13.5px}
+  .btn:hover{background:var(--brand-dark)} .btn:disabled{opacity:.45;cursor:default}
+  .btn.ghost{background:#fff;color:var(--ink);border:1px solid var(--line)} .btn.ghost:hover{background:#f9fafb}
+  .btn.small{padding:5px 10px;font-size:12.5px}
 
-  /* ---- how-to strip ---- */
-  .howto{grid-column:1/-1;background:var(--panel);border:1px solid var(--line);border-radius:12px;
-    padding:14px 18px;display:flex;gap:18px;align-items:center;flex-wrap:wrap;box-shadow:var(--shadow)}
+  /* how-to */
+  .howto{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 18px;margin-bottom:16px;
+    display:flex;gap:18px;align-items:flex-start;box-shadow:var(--shadow)}
   .howto ol{margin:0;padding:0;list-style:none;display:flex;gap:22px;flex-wrap:wrap;flex:1}
-  .howto li{display:flex;gap:9px;align-items:flex-start;font-size:13.5px;max-width:300px}
-  .howto .num{flex:0 0 22px;height:22px;border-radius:50%;background:var(--brand);color:#fff;
-    font-size:12px;font-weight:700;display:grid;place-items:center;margin-top:1px}
+  .howto li{display:flex;gap:9px;font-size:13.5px;max-width:330px}
+  .howto .num{flex:0 0 22px;height:22px;border-radius:50%;background:var(--brand);color:#fff;font-size:12px;font-weight:700;display:grid;place-items:center;margin-top:1px}
   .howto .x{border:0;background:none;color:var(--muted);cursor:pointer;font-size:13px}
 
-  /* ---- toolbar ---- */
-  .toolbar{background:var(--panel);border:1px solid var(--line);border-radius:12px;box-shadow:var(--shadow);
-    padding:12px 14px;margin-bottom:14px;position:sticky;top:10px;z-index:20}
-  .toolbar .row{display:flex;flex-wrap:wrap;gap:10px 14px;align-items:center}
-  .toolbar .row + .row{margin-top:10px;padding-top:10px;border-top:1px solid var(--line)}
-  .lbl{font-size:11.5px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;color:var(--muted)}
-  .toggle{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
-  .toggle button{border:0;background:#fff;padding:6px 12px;font-size:13px;cursor:pointer;color:var(--muted)}
+  /* ---------- PICK tab ---------- */
+  .pick{display:grid;grid-template-columns:minmax(0,1fr) 320px;gap:22px;align-items:start}
+  .toolbar{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:12px 14px;margin-bottom:16px;box-shadow:var(--shadow)}
+  .toolbar .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+  .toolbar .row+.row{margin-top:10px;padding-top:10px;border-top:1px solid var(--line)}
+  .toggle{display:flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+  .toggle button{border:0;background:#fff;padding:6px 11px;font-size:13px;cursor:pointer;color:var(--muted)}
   .toggle button.active{background:var(--brand);color:#fff;font-weight:600}
   .search{flex:1;min-width:160px;border:1px solid var(--line);border-radius:8px;padding:7px 11px;font-size:13.5px}
   .search:focus{outline:2px solid rgba(0,71,186,.25);border-color:var(--brand)}
-  details.filters summary{cursor:pointer;font-size:13px;color:var(--ink);list-style:none;
-    border:1px solid var(--line);border-radius:8px;padding:6px 11px;background:#fff}
-  details.filters summary::-webkit-details-marker{display:none}
-  details.filters[open] summary{border-color:var(--brand)}
-  .srcbox{display:flex;flex-wrap:wrap;gap:6px;margin-top:10px}
-  .chip{display:inline-flex;align-items:center;gap:6px;background:var(--chip);border:1px solid var(--line);
-    border-radius:999px;padding:4px 10px;font-size:12.5px;cursor:pointer;user-select:none;color:#374151}
-  .chip input{margin:0;accent-color:var(--brand)}
-  .chip.off{opacity:.45;text-decoration:line-through}
   .check{display:inline-flex;gap:6px;align-items:center;font-size:13px;color:#374151;cursor:pointer}
-  .check input{accent-color:var(--brand)}
-
-  .jump{display:flex;flex-wrap:wrap;gap:6px}
-  .jump a{font-size:12.5px;color:#374151;background:var(--chip);border:1px solid var(--line);border-radius:999px;
-    padding:3px 10px;white-space:nowrap}
-  .jump a:hover{text-decoration:none;border-color:var(--brand)}
+  .jump{display:flex;gap:6px;flex-wrap:wrap}
+  .jump a{font-size:12.5px;color:#374151;background:var(--chip);border:1px solid var(--line);border-radius:999px;padding:3px 10px}
   .jump a .k{font-weight:700;color:var(--ink)}
-  .jump a.has{background:var(--brand-tint);border-color:#C3D3F1}
+  .srcbox{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+  .chip{display:inline-flex;gap:5px;align-items:center;border:1px solid var(--line);border-radius:999px;padding:3px 10px;font-size:12.5px;cursor:pointer;background:#fff}
+  .chip.off{opacity:.5}.chip input{margin:0}
 
-  /* ---- sections & cards ---- */
-  section.sec{margin-bottom:24px;scroll-margin-top:150px}
-  .sec h2{font-size:14.5px;text-transform:uppercase;letter-spacing:.6px;color:var(--brand-dark);
-    border-bottom:2px solid var(--brand);padding-bottom:6px;margin:0 0 12px;display:flex;align-items:center;gap:10px}
-  .sec h2 .n{font-size:12px;color:var(--muted);font-weight:500;text-transform:none;letter-spacing:0}
-  .sec h2 .picked{margin-left:auto;font-size:12px;text-transform:none;letter-spacing:0;font-weight:600;color:var(--muted)}
-  .sec h2 .picked.full{color:var(--ok)}
-  .sec .none{color:var(--muted);font-size:13px;font-style:italic;padding:2px 0 6px}
-
-  .card{background:var(--panel);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);
-    padding:14px 16px;margin-bottom:10px;transition:border-color .15s, box-shadow .15s}
-  .card.sel{border-color:var(--brand);box-shadow:0 0 0 2px rgba(0,71,186,.14),var(--shadow)}
+  section.sec{margin-bottom:24px;scroll-margin-top:90px}
+  .sec h2{font-family:var(--head);font-size:19px;letter-spacing:.6px;text-transform:uppercase;color:var(--brand-dark);
+    margin:0 0 10px;padding-bottom:6px;border-bottom:2px solid var(--brand);display:flex;gap:10px;align-items:baseline}
+  .sec h2 .n{font-family:inherit;font-size:13px;color:var(--muted);letter-spacing:0;text-transform:none}
+  .sec .none{color:var(--muted);font-size:13px;font-style:italic}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-bottom:10px;box-shadow:var(--shadow)}
   .card.dim{opacity:.6}
-  .card .meta{display:flex;gap:8px;align-items:center;font-size:12px;color:var(--muted);margin-bottom:4px;flex-wrap:wrap}
-  .card .src{font-weight:700;color:var(--ink)}
-  .badge{font-size:10.5px;text-transform:uppercase;letter-spacing:.4px;border:1px solid var(--line);
-    border-radius:4px;padding:1px 6px;font-weight:600}
+  .card.used{border-color:var(--brand);box-shadow:0 0 0 2px rgba(0,71,186,.14),var(--shadow)}
+  .meta{display:flex;gap:8px;align-items:center;font-size:12px;color:var(--muted);margin-bottom:4px;flex-wrap:wrap}
+  .meta .src{font-weight:700;color:var(--ink)}
+  .badge{font-size:10.5px;text-transform:uppercase;letter-spacing:.4px;border:1px solid var(--line);border-radius:4px;padding:1px 6px;font-weight:600}
   .badge.ok{color:var(--ok);border-color:#bbf7d0;background:var(--ok-tint)}
   .badge.warn{color:var(--warn);border-color:#fde68a;background:var(--warn-tint)}
-  .badge.off{color:var(--muted)}
-  .card .head{display:flex;gap:12px;align-items:flex-start}
-  .card h3{margin:0 0 8px;font-size:15.5px;line-height:1.35;flex:1}
+  .badge.lab{color:var(--brand);border-color:#C3D3F1;background:var(--brand-tint)}
+  .card h3{margin:0 0 6px;font-size:15.5px;line-height:1.35}
   .card h3 a{color:var(--ink)}
-  .addbtn{flex:0 0 auto;border:1px solid var(--brand);background:#fff;color:var(--brand-dark);border-radius:8px;
-    padding:6px 12px;font-size:13px;font-weight:600;cursor:pointer;white-space:nowrap}
-  .addbtn:hover{background:var(--brand-tint)}
-  .card.sel .addbtn{background:var(--brand);color:#fff}
-  ul.bullets{margin:0;padding-left:20px}
-  ul.bullets li{font-size:13.8px;color:#374151;margin-bottom:6px}
-  .edit{outline:none;border-radius:5px;padding:1px 4px;margin-left:-4px;border:1px dashed transparent}
-  .edit:hover{border-color:var(--line)}
-  .edit:focus{border-color:var(--soft);background:#fafbfc}
-  .edit:empty::before{content:attr(data-ph);color:var(--soft);font-style:italic}
-  .hint{font-size:12px;color:var(--muted);margin-top:4px}
-  .hint a{font-weight:600}
+  .card .line{font-size:14px;color:#374151;margin:0 0 6px}
+  .card details{font-size:13px;color:#4b5563}
+  .card details summary{cursor:pointer;color:var(--muted);font-size:12.5px}
+  .card details ul{margin:6px 0 0;padding-left:18px}
+  .extras{display:flex;gap:6px;flex-wrap:wrap;margin:8px 0 2px;font-size:12.5px}
+  .extras .x{background:#fff7e0;border:1px solid #f6e3a8;border-radius:6px;padding:2px 8px;color:#5b4a12}
+  .acts{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+  .acts button{border:1px solid var(--brand);background:#fff;color:var(--brand-dark);border-radius:8px;padding:5px 10px;font-size:12.5px;font-weight:600;cursor:pointer}
+  .acts button.on{background:var(--brand);color:#fff}
 
-  /* ---- bulletin preview ---- */
-  aside.preview{position:sticky;top:10px;background:var(--panel);border:1px solid var(--line);border-radius:12px;
-    box-shadow:var(--shadow);display:flex;flex-direction:column;max-height:calc(100vh - 20px)}
-  .preview .ph{padding:14px 16px;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:10px}
-  .preview .ph h2{margin:0;font-size:15px}
-  .preview .ph .count{font-size:12.5px;color:var(--muted)}
-  .preview .pb{padding:14px 16px;overflow:auto;font-size:13px;flex:1}
-  .preview .pb .empty{color:var(--muted);font-style:italic}
-  .preview .pb p{margin:0 0 10px}
-  .preview .pb ul{margin:0 0 12px;padding-left:18px}
-  .preview .pb li{margin-bottom:4px}
-  .preview .pf{padding:12px 16px;border-top:1px solid var(--line);display:flex;gap:8px;flex-wrap:wrap}
-  .btn{background:var(--brand);color:#fff;border:0;border-radius:8px;padding:10px 16px;font-size:14px;
-    font-weight:600;cursor:pointer}
-  .btn:hover{background:var(--brand-dark)}
-  .btn.ghost{background:#fff;color:var(--ink);border:1px solid var(--line)}
-  .btn.ghost:hover{background:var(--chip)}
-  .btn:disabled{opacity:.5;cursor:not-allowed}
-  .btn.grow{flex:1}
+  .side{position:sticky;top:84px;background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px;box-shadow:var(--shadow)}
+  .side h2{font-family:var(--head);text-transform:uppercase;letter-spacing:.6px;font-size:20px;margin:0 0 10px;color:var(--brand-dark)}
+  .side .rowc{display:flex;justify-content:space-between;font-size:13.5px;padding:7px 0;border-bottom:1px solid var(--line)}
+  .side .rowc b{color:var(--brand)}
+  .side .btn{width:100%;margin-top:14px}
+  .side p{font-size:12.5px;color:var(--muted);margin:10px 0 0}
 
-  .mobilebar{display:none}
-  footer{grid-column:1/-1;text-align:center;color:var(--muted);font-size:12px;padding:10px}
+  /* ---------- EDIT tab ---------- */
+  .edit{display:grid;grid-template-columns:minmax(380px,1fr) 680px;gap:22px;align-items:start}
+  .panel{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin-bottom:14px;box-shadow:var(--shadow)}
+  .panel h3{font-family:var(--head);text-transform:uppercase;letter-spacing:.6px;font-size:18px;margin:0 0 4px;color:var(--brand-dark)}
+  .panel .help{font-size:12.5px;color:var(--muted);margin:0 0 10px}
+  .f{display:flex;flex-direction:column;gap:3px;margin-bottom:9px;font-size:12px;color:var(--muted);font-weight:600}
+  .f input,.f textarea{border:1px solid var(--line);border-radius:7px;padding:7px 9px;font-size:13.5px;color:var(--ink);font-weight:400;width:100%}
+  .f textarea{resize:vertical;min-height:54px}
+  .f input:focus,.f textarea:focus{outline:2px solid rgba(0,71,186,.2);border-color:var(--brand)}
+  .grid2{display:grid;grid-template-columns:90px 1fr;gap:8px}
+  .item{border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin-bottom:9px;background:#fbfcfe}
+  .itop{display:flex;gap:8px;align-items:center;margin-bottom:6px;font-size:12px;color:var(--muted)}
+  .itop .t{flex:1;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .itop button{border:1px solid var(--line);background:#fff;border-radius:6px;cursor:pointer;font-size:12px;padding:2px 7px}
+  .empty{font-size:13px;color:var(--muted);font-style:italic}
+  .previewbox{position:sticky;top:84px}
+  .previewbox .bar{display:flex;gap:8px;align-items:center;margin-bottom:10px}
+  .previewbox .bar .lbl{flex:1;font-size:12.5px;color:var(--muted)}
+  .previewbox .frame{border:1px solid var(--line);border-radius:12px;overflow:auto;max-height:calc(100vh - 150px);background:#E9EDF3;box-shadow:var(--shadow)}
 
-  .toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(20px);background:var(--ink);
-    color:#fff;padding:11px 20px;border-radius:8px;font-size:14px;opacity:0;pointer-events:none;transition:all .25s;z-index:60}
+  .toast{position:fixed;left:50%;bottom:24px;transform:translateX(-50%) translateY(20px);background:#111827;color:#fff;
+    padding:10px 16px;border-radius:10px;font-size:13.5px;opacity:0;transition:.25s;pointer-events:none;z-index:50}
   .toast.show{opacity:1;transform:translateX(-50%) translateY(0)}
-
-  @media (max-width: 980px){
-    .wrap{grid-template-columns:1fr;padding:14px 16px 90px}
-    aside.preview{position:fixed;inset:auto 0 0 0;border-radius:14px 14px 0 0;max-height:75vh;z-index:40;
-      transform:translateY(105%);transition:transform .25s}
-    aside.preview.open{transform:none}
-    .mobilebar{display:flex;position:fixed;left:12px;right:12px;bottom:12px;z-index:30;gap:8px}
-    .mobilebar .btn{flex:1;box-shadow:var(--shadow)}
-    .toolbar{position:static}
-    .card .head{flex-direction:column;gap:6px}
-  }
+  @media (max-width:1100px){ .pick,.edit{grid-template-columns:1fr} .side,.previewbox{position:static} }
 </style>
 </head>
 <body>
 <header class="top">
   <div class="in">
     <div>
-      <h1 id="title">ADNOC Partnership News</h1>
+      <h1>The Bigger Game</h1>
       <div class="sub" id="genline">Loading the latest stories…</div>
+    </div>
+    <div class="tabs" id="tabs">
+      <button data-tab="pick" class="active">1 · Pick stories</button>
+      <button data-tab="edit">2 · Edit &amp; preview</button>
     </div>
     <span class="spacer"></span>
     <button class="hbtn" id="refreshBtn" title="Load the latest collected stories">↻ Refresh</button>
@@ -175,341 +150,510 @@
 <div class="wrap">
   <div class="howto" id="howto">
     <ol>
-      <li><span class="num">1</span><span><b>Pick stories.</b> Click <b>Add</b> on up to two stories per section. Each one already has two summary bullets.</span></li>
-      <li><span class="num">2</span><span><b>Tweak if needed.</b> Click any bullet to edit it. Stories marked <b>Needs a write-up</b> couldn't be summarised automatically.</span></li>
-      <li><span class="num">3</span><span><b>Copy the bulletin.</b> Check the preview, click <b>Copy bulletin</b>, then paste into your email.</span></li>
+      <li><span class="num">1</span><span><b>Pick stories.</b> On each story, choose where it goes: <b>60 seconds</b>, <b>Activation</b>, <b>Watch this</b> or <b>Stat</b>. Claude has already drafted the text.</span></li>
+      <li><span class="num">2</span><span><b>Edit &amp; preview.</b> Check Claude's headline and stats, rewrite anything, and update On the radar. The preview is exactly what will paste.</span></li>
+      <li><span class="num">3</span><span><b>Copy newsletter.</b> Paste into a new email. Your edition is saved in this browser until you click <b>Start new edition</b>.</span></li>
     </ol>
     <button class="x" id="howtoClose">Hide ✕</button>
   </div>
 
-  <main>
-    <div class="toolbar">
-      <div class="row">
-        <div class="toggle" id="windowToggle">
-          <button data-h="24" class="active">Last 24h</button>
-          <button data-h="48">48h</button>
-          <button data-h="72">72h</button>
-          <button data-h="168">7d</button>
-          <button data-h="336">14d</button>
+  <!-- ===== PICK ===== -->
+  <div class="pick" id="tab-pick">
+    <main>
+      <div class="toolbar">
+        <div class="row">
+          <div class="toggle" id="windowToggle">
+            <button data-h="24">24h</button>
+            <button data-h="72">72h</button>
+            <button data-h="168">7d</button>
+            <button data-h="336" class="active">14d</button>
+          </div>
+          <input class="search" id="search" type="search" placeholder="Search headlines and summaries…">
+          <button class="btn ghost small" id="srcBtn">Sources ▾</button>
+          <label class="check"><input type="checkbox" id="showOff"> Show off-topic</label>
         </div>
-        <input class="search" id="search" type="search" placeholder="Search headlines and bullets…">
-        <details class="filters" id="filters">
-          <summary>Sources ▾</summary>
-        </details>
-        <label class="check"><input type="checkbox" id="showOff"> Show off-topic</label>
+        <div class="row"><div class="jump" id="jump"></div></div>
+        <div class="srcbox" id="sourceFilters" hidden></div>
       </div>
-      <div class="row"><div class="jump" id="jump"></div></div>
-      <div class="srcbox" id="sourceFilters" hidden></div>
-    </div>
+      <div id="sections"></div>
+    </main>
+    <aside class="side">
+      <h2>This edition</h2>
+      <div class="rowc"><span>The week in 60 seconds</span><b id="cWeek">0</b></div>
+      <div class="rowc"><span>Activations worth stealing</span><b id="cActs">0/3</b></div>
+      <div class="rowc"><span>Watch this</span><b id="cWatch">–</b></div>
+      <div class="rowc"><span>Stat boxes</span><b id="cStats">0/4</b></div>
+      <button class="btn" id="goEdit">Edit &amp; preview →</button>
+      <p>Aim for 5–7 rows in 60 seconds, 3 activations and one Watch this.</p>
+    </aside>
+  </div>
 
-    <div id="sections"></div>
-  </main>
-
-  <aside class="preview" id="preview">
-    <div class="ph">
-      <h2>Your bulletin</h2>
-      <span class="count" id="count">0 stories</span>
+  <!-- ===== EDIT ===== -->
+  <div class="edit" id="tab-edit" hidden>
+    <div id="editor"></div>
+    <div class="previewbox">
+      <div class="bar">
+        <span class="lbl">Preview: this is exactly what pastes into your email</span>
+        <button class="btn ghost small" id="newEdition">Start new edition</button>
+        <button class="btn" id="copyBtn">Copy newsletter</button>
+      </div>
+      <div class="frame" id="preview"></div>
     </div>
-    <div class="pb" id="previewBody"></div>
-    <div class="pf">
-      <button class="btn grow" id="copyBtn" disabled>Copy bulletin</button>
-      <button class="btn ghost" id="clearBtn">Clear</button>
-      <button class="btn ghost" id="closePreview" hidden>Close</button>
-    </div>
-  </aside>
-
-  <footer>Stories are collected automatically through the day, and Claude writes the two summary bullets. Your picks and edits are saved in this browser only.</footer>
+  </div>
 </div>
-
-<div class="mobilebar"><button class="btn" id="openPreview">View bulletin (0)</button></div>
 <div class="toast" id="toast"></div>
 
 <script>
-const PER_SECTION = 2;   // the bulletin's usual number of stories per section
-const today = new Date();
-const dd = String(today.getDate()).padStart(2,'0');
-const mm = String(today.getMonth()+1).padStart(2,'0');
-const STORE = 'ADNOCNews:' + today.toISOString().slice(0,10);   // picks reset each day
+/* =====================================================================
+   The Bigger Game — newsletter builder
+   Stories come from data/news.json (collected and summarised by the
+   GitHub Action). Claude's drafts: per story label/line/angle/activation/
+   stat, and per edition (news.json "edition") the headline, stats and
+   Watch this. Everything is editable; the edition is saved in this browser.
+   ===================================================================== */
+const STORE = 'TBG:edition';
+const MAX_ACTS = 3, MAX_STATS = 4;
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
-const state = { data:null, windowH:24, query:'', showOff:false, hiddenSources:new Set(),
-                picks:[], edits:{} };   // picks = story ids in the order chosen; edits = id -> [b1,b2]
-
-const $ = sel => document.querySelector(sel);
-const esc = s => (s||"").replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-
-// ---- saving picks & edits in this browser ----
-function save(){
-  try{ localStorage.setItem(STORE, JSON.stringify({picks:state.picks, edits:state.edits})); }catch(e){}
-}
-function restore(){
-  try{
-    const s = JSON.parse(localStorage.getItem(STORE) || '{}');
-    state.picks = s.picks || []; state.edits = s.edits || {};
-  }catch(e){}
-  try{ if(localStorage.getItem('ADNOCNews:hideHowto')) $('#howto').hidden = true; }catch(e){}
-}
-
-// ---- data ----
+const ui = { windowH:336, query:'', showOff:false, hiddenSources:new Set(), tab:'pick' };
+let data = null, radarSeed = [];
 const byId = new Map();
-function storyId(s){ return s.id || s.link || s.title; }
+const blankEdition = () => ({ week:[], acts:[], watch:null, stats:[], headline:['',''], radar:null,
+                              date:'', covering:'', prefilled:false });
+let ed = blankEdition();
 
+function save(){ try{ localStorage.setItem(STORE, JSON.stringify(ed)); }catch(e){} }
+function restore(){
+  try{ const s = JSON.parse(localStorage.getItem(STORE) || 'null'); if(s) ed = Object.assign(blankEdition(), s); }catch(e){}
+  try{ if(localStorage.getItem('TBG:hideHowto')) $('#howto').hidden = true; }catch(e){}
+}
+
+/* ---------- data ---------- */
 async function load(){
   try{
     const res = await fetch('data/news.json?_=' + Date.now());
-    state.data = await res.json();
-  }catch(e){
-    $('#genline').textContent = "Couldn't load the stories. Has the collector run yet?";
-    return;
-  }
+    data = await res.json();
+  }catch(e){ $('#genline').textContent = "Couldn't load the stories. Has the collector run yet?"; return; }
+  try{ radarSeed = await (await fetch('radar.json?_=' + Date.now())).json(); }catch(e){ radarSeed = []; }
   byId.clear();
-  for(const sec of state.data.section_order)
-    for(const s of (state.data.sections[sec]||[])) byId.set(storyId(s), s);
-  state.picks = state.picks.filter(id => byId.has(id));
-  $('#title').textContent = `ADNOC Partnership News ${dd}.${mm}`;
-  $('#genline').textContent = `Last updated ${timeAgo(state.data.generated_at)} · ${state.data.total} stories collected`;
-  buildSourceFilters();
-  render();
+  for(const sec of data.section_order) for(const s of (data.sections[sec]||[])) byId.set(s.id, s);
+  prefill();
+  $('#genline').textContent = `Stories updated ${timeAgo(data.generated_at)} · ${data.total} collected`;
+  buildSourceFilters(); renderPick(); renderEditor();
 }
 
+/* Claude's edition draft fills empty parts once per edition (never overwrites your edits). */
+function prefill(){
+  const d = data.edition;
+  if(!ed.radar) ed.radar = upcomingRadar();
+  if(!d || ed.prefilled) return;
+  if(!ed.headline[0] && !ed.headline[1] && d.headline) ed.headline = [d.headline[0]||'', d.headline[1]||''];
+  if(!ed.stats.length && d.stats) ed.stats = d.stats.slice(0,MAX_STATS).map(x=>({value:x.value, label:x.label, id:x.id||null}));
+  if(!ed.watch && d.watch && d.watch.id && byId.has(d.watch.id)) ed.watch = {id:d.watch.id, lead:d.watch.lead||'', text:d.watch.text||''};
+  ed.prefilled = true; save();
+}
+function upcomingRadar(){
+  const today = new Date().toISOString().slice(0,10);
+  return radarSeed.filter(r => (r.end||r.start) >= today).slice(0,6)
+    .map(r => ({dates: dateRange(r.start, r.end), event:r.event, adnoc:!!r.adnoc}));
+}
+function dateRange(a,b){
+  const f = (iso,mon)=>{ const d=new Date(iso+'T12:00:00'); return d.getDate() + (mon ? ' ' + d.toLocaleString('en-GB',{month:'short'}).toUpperCase() : ''); };
+  if(!b || a===b) return f(a,true);
+  const sameMonth = a.slice(0,7)===b.slice(0,7);
+  return sameMonth ? `${f(a,false)}–${f(b,true)}` : `${f(a,true)}–${f(b,true)}`;
+}
 function timeAgo(ts){
   if(!ts) return '';
   const m = Math.round((Date.now() - new Date(ts).getTime())/60000);
-  if(m < 1) return 'just now';
-  if(m < 60) return `${m} min ago`;
-  const h = Math.round(m/60);
-  if(h < 24) return `${h}h ago`;
-  return `${Math.round(h/24)}d ago`;
-}
-
-function bulletsFor(s){
-  const id = storyId(s);
-  if(state.edits[id]) return state.edits[id];
-  if(s.bullets && s.bullets.length) return s.bullets;
-  return ['', ''];
+  if(m < 1) return 'just now'; if(m < 60) return `${m} min ago`;
+  const h = Math.round(m/60); if(h < 24) return `${h}h ago`; return `${Math.round(h/24)}d ago`;
 }
 const isOff = s => s.summary_status === 'skipped';
-const hasSummary = s => (s.bullets||[]).length > 0;
+const lineOf = s => s.line || ((s.bullets||[])[0]||'').split(/(?<=\.)\s/)[0] || '';
+const labelOf = s => s.label || ({'ADNOC & Partner News':'ADNOC','Competitor News':'COMPETITORS','Wider Sports News':'SPORTS BUSINESS',
+  'Formula 1 & Motorsport':'F1','Cycling':'CYCLING','UAE Pro League & GCC Football':'PRO LEAGUE','Running & Endurance':'RUNNING'}[s.section] || 'NEWS');
 
+/* ---------- PICK tab ---------- */
 function visible(s){
   const ts = s.published || s.first_seen;
-  if(ts && (Date.now() - new Date(ts).getTime())/36e5 > state.windowH) return false;
-  if(state.hiddenSources.has(s.source)) return false;
-  if(isOff(s) && !state.showOff && !state.picks.includes(storyId(s))) return false;
-  if(state.query){
-    const hay = (s.title + ' ' + s.source + ' ' + bulletsFor(s).join(' ')).toLowerCase();
-    if(!hay.includes(state.query)) return false;
+  if(ts && (Date.now() - new Date(ts).getTime())/36e5 > ui.windowH) return false;
+  if(ui.hiddenSources.has(s.source)) return false;
+  if(isOff(s) && !ui.showOff && !inEdition(s.id)) return false;
+  if(ui.query){
+    const hay = (s.title+' '+s.source+' '+lineOf(s)+' '+(s.bullets||[]).join(' ')).toLowerCase();
+    if(!hay.includes(ui.query)) return false;
   }
   return true;
 }
+const inWeek = id => ed.week.some(w=>w.id===id);
+const inActs = id => ed.acts.some(a=>a.id===id);
+const isWatch = id => ed.watch && ed.watch.id===id;
+const inStats = id => ed.stats.some(x=>x.id===id);
+const inEdition = id => inWeek(id)||inActs(id)||isWatch(id)||inStats(id);
 
-// ---- toolbar ----
 function buildSourceFilters(){
   const names = new Set();
-  for(const sec of state.data.section_order)
-    for(const s of (state.data.sections[sec]||[])) names.add(s.source);
-  const box = $('#sourceFilters');
-  box.innerHTML = '';
+  for(const sec of data.section_order) for(const s of (data.sections[sec]||[])) names.add(s.source);
+  const box = $('#sourceFilters'); box.innerHTML = '';
   [...names].sort().forEach(name=>{
-    const on = !state.hiddenSources.has(name);
     const chip = document.createElement('label');
-    chip.className = 'chip' + (on?'':' off');
-    chip.innerHTML = `<input type="checkbox" ${on?'checked':''}> ${esc(name)}`;
+    chip.className = 'chip' + (ui.hiddenSources.has(name)?' off':'');
+    chip.innerHTML = `<input type="checkbox" ${ui.hiddenSources.has(name)?'':'checked'}> ${esc(name)}`;
     chip.querySelector('input').addEventListener('change', e=>{
-      e.target.checked ? state.hiddenSources.delete(name) : state.hiddenSources.add(name);
-      chip.classList.toggle('off', !e.target.checked);
-      render();
+      e.target.checked ? ui.hiddenSources.delete(name) : ui.hiddenSources.add(name);
+      chip.classList.toggle('off', !e.target.checked); renderPick();
     });
     box.appendChild(chip);
   });
 }
 
-// ---- story list ----
-function render(){
+function renderPick(){
   const root = $('#sections'), jump = $('#jump');
   root.innerHTML = ''; jump.innerHTML = '';
-  for(const sec of state.data.section_order){
-    const all = state.data.sections[sec] || [];
-    const items = all.filter(visible)
-      // stories with a summary first, then most important, then newest
-      .sort((a,b)=> (hasSummary(b)-hasSummary(a)) || ((b.priority||0)-(a.priority||0)) ||
-        ((b.published||b.first_seen||'') > (a.published||a.first_seen||'') ? 1 : -1));
-    const picked = state.picks.filter(id => byId.get(id)?.section === sec).length;
+  for(const sec of data.section_order){
+    const items = (data.sections[sec]||[]).filter(visible).sort((a,b)=>
+      ((b.bullets||[]).length>0)-((a.bullets||[]).length>0) || (b.priority||0)-(a.priority||0) ||
+      ((b.published||'') > (a.published||'') ? 1 : -1));
     const anchor = 'sec-' + sec.replace(/\W/g,'');
-
-    const j = document.createElement('a');
-    j.href = '#' + anchor; j.className = picked ? 'has' : '';
-    j.innerHTML = `${esc(sec)} <span class="k">${items.length}</span>`;
-    jump.appendChild(j);
-
-    const el = document.createElement('section');
-    el.className = 'sec'; el.id = anchor;
-    el.innerHTML = `<h2>${esc(sec)} <span class="n">${items.length} ${items.length===1?'story':'stories'}</span>
-      <span class="picked ${picked>=PER_SECTION?'full':''}">${picked}/${PER_SECTION} picked</span></h2>`;
-    if(items.length === 0){
-      el.insertAdjacentHTML('beforeend', `<div class="none">No stories in this window. It's fine to leave this section out.</div>`);
-    }
+    jump.insertAdjacentHTML('beforeend', `<a href="#${anchor}">${esc(sec)} <span class="k">${items.length}</span></a>`);
+    const el = document.createElement('section'); el.className='sec'; el.id=anchor;
+    el.innerHTML = `<h2>${esc(sec)} <span class="n">${items.length} ${items.length===1?'story':'stories'}</span></h2>`;
+    if(!items.length) el.insertAdjacentHTML('beforeend', `<div class="none">No stories in this window.</div>`);
     items.forEach(s => el.appendChild(card(s)));
     root.appendChild(el);
   }
-  renderPreview();
+  updateCounts();
 }
 
 function card(s){
-  const id = storyId(s);
-  const sel = state.picks.includes(id);
   const div = document.createElement('div');
-  div.className = 'card' + (sel?' sel':'') + (isOff(s)?' dim':'');
-
-  let badge;
-  if(isOff(s)) badge = `<span class="badge off" title="${esc(s.skip_reason||'')}">Off-topic</span>`;
-  else if(hasSummary(s)) badge = `<span class="badge ok">Summary ready</span>`;
-  else badge = `<span class="badge warn">Needs a write-up</span>`;
-
-  const b = bulletsFor(s);
-  const fallback = !hasSummary(s) && !state.edits[id];
+  div.className = 'card' + (isOff(s)?' dim':'') + (inEdition(s.id)?' used':'');
+  const ready = (s.bullets||[]).length > 0;
+  const badge = isOff(s) ? `<span class="badge" title="${esc(s.skip_reason||'')}">Off-topic</span>`
+              : ready ? `<span class="badge ok">Drafted</span>` : `<span class="badge warn">No draft yet</span>`;
+  const line = lineOf(s).replace(/\[|\]/g,'');
+  const extras = [];
+  if(s.activation) extras.push(`<span class="x">Activation idea: ${esc(s.activation.borrow)}</span>`);
+  if(s.stat) extras.push(`<span class="x">Stat: <b>${esc(s.stat.value)}</b> ${esc(s.stat.label)}</span>`);
   div.innerHTML = `
-    <div class="meta">
-      <span class="src">${esc(s.source)}</span><span>·</span>
-      <span title="${esc(s.published_label||'')}">${timeAgo(s.published || s.first_seen)}</span>
-      ${badge}
-      ${s.moved_from ? `<span class="badge off" title="Claude spotted a competitor sponsorship story">Found in ${esc(s.moved_from)}</span>` : ''}
-    </div>
-    <div class="head">
-      <h3><a href="${esc(s.link)}" target="_blank" rel="noopener">${esc(s.title)}</a></h3>
-      <button class="addbtn">${sel ? '✓ Added' : '+ Add'}</button>
-    </div>
-    <ul class="bullets">
-      <li><div class="edit" contenteditable="true" data-i="0" data-ph="First bullet: the core news, with key facts and figures">${esc(b[0])}</div></li>
-      <li><div class="edit" contenteditable="true" data-i="1" data-ph="Second bullet: a different angle, such as context, background or what's next">${esc(b[1])}</div></li>
-    </ul>
-    ${fallback ? `<div class="hint">No summary yet. <a href="${esc(s.link)}" target="_blank" rel="noopener">Read the article</a> and type two bullets above.${
-      s.copy ? ` <a href="#" class="usecopy">Or start from the article's opening</a>.` : ''}</div>` : ''}`;
-
-  div.querySelector('.addbtn').addEventListener('click', ()=> togglePick(id));
-  div.querySelectorAll('.edit').forEach(ed=>{
-    ed.addEventListener('input', ()=>{
-      const cur = [...bulletsFor(s)];
-      cur[+ed.dataset.i] = ed.innerText.trim();
-      state.edits[id] = cur;
-      save(); renderPreview();
-    });
-  });
-  const use = div.querySelector('.usecopy');
-  if(use) use.addEventListener('click', e=>{
-    e.preventDefault();
-    const parts = s.copy.split(/\n{2,}/).map(p=>p.trim()).filter(Boolean);
-    state.edits[id] = [parts[0]||'', parts.slice(1).join(' ')];
-    save(); render();
-  });
+    <div class="meta"><span class="src">${esc(s.source)}</span><span>·</span>
+      <span title="${esc(s.published_label||'')}">${timeAgo(s.published||s.first_seen)}</span>
+      ${badge}<span class="badge lab">${esc(labelOf(s))}</span>
+      ${s.moved_from ? `<span class="badge" title="Claude spotted a competitor sponsorship story">From ${esc(s.moved_from)}</span>`:''}</div>
+    <h3><a href="${esc(s.link)}" target="_blank" rel="noopener">${esc(s.title)}</a></h3>
+    ${line ? `<p class="line">${esc(line)}</p>` : `<p class="line" style="color:var(--muted)"><i>No summary yet. Add it and write the line yourself.</i></p>`}
+    ${extras.length ? `<div class="extras">${extras.join('')}</div>` : ''}
+    ${ready ? `<details><summary>Full summary</summary><ul>${s.bullets.map(b=>`<li>${esc(b)}</li>`).join('')}</ul></details>` : ''}
+    <div class="acts">
+      <button data-a="week" class="${inWeek(s.id)?'on':''}">${inWeek(s.id)?'✓':'+'} 60 seconds</button>
+      <button data-a="act" class="${inActs(s.id)?'on':''}">${inActs(s.id)?'✓':'+'} Activation</button>
+      <button data-a="watch" class="${isWatch(s.id)?'on':''}">${isWatch(s.id)?'✓':'★'} Watch this</button>
+      <button data-a="stat" class="${inStats(s.id)?'on':''}">${inStats(s.id)?'✓':'+'} Stat</button>
+    </div>`;
+  div.querySelectorAll('.acts button').forEach(b => b.addEventListener('click', ()=> toggle(b.dataset.a, s)));
   return div;
 }
 
-function togglePick(id){
-  const i = state.picks.indexOf(id);
-  if(i >= 0) state.picks.splice(i, 1);
-  else{
-    const s = byId.get(id);
-    const n = state.picks.filter(p => byId.get(p)?.section === s.section).length;
-    if(n >= PER_SECTION) toast(`That's ${n+1} stories in ${s.section}. The bulletin usually has ${PER_SECTION}.`);
-    state.picks.push(id);
-  }
-  save(); render();
-}
-
-// ---- bulletin (house format) ----
-function picksBySection(){
-  const out = [];
-  for(const sec of state.data.section_order){
-    const stories = state.picks.map(id=>byId.get(id)).filter(s => s && s.section === sec);
-    if(stories.length) out.push([sec, stories]);
-  }
-  return out;
-}
-
-function buildBulletin(){
-  const title = `ADNOC Partnership News ${dd}.${mm}`;
-  let html = `<p><b>${title}</b></p>`;
-  let text = `${title}\n`;
-  for(const [sec, stories] of picksBySection()){
-    html += `<p><b>${esc(sec)}</b></p>`;
-    text += `\n**${sec}**\n`;
-    for(const s of stories){
-      const bl = bulletsFor(s).map(x=>x.trim()).filter(Boolean);
-      html += `<p style="margin:0"><a href="${esc(s.link)}">${esc(s.source)}</a>: ${esc(s.title)}</p>`
-            + `<ul style="margin-top:4px">${bl.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`;
-      text += `\n[${s.source}](${s.link}): ${s.title}\n` + bl.map(x=>`* ${x}`).join('\n') + `\n`;
+function toggle(kind, s){
+  const id = s.id;
+  if(kind==='week'){
+    inWeek(id) ? ed.week = ed.week.filter(w=>w.id!==id) : ed.week.push({id, label:labelOf(s), line:lineOf(s)});
+  }else if(kind==='act'){
+    if(inActs(id)) ed.acts = ed.acts.filter(a=>a.id!==id);
+    else{
+      if(ed.acts.length >= MAX_ACTS) return toast(`The newsletter has ${MAX_ACTS} activations. Remove one first.`);
+      const a = s.activation || {};
+      ed.acts.push({id, title:a.title||s.title, what:a.what||lineOf(s).replace(/\[|\]/g,''), borrow:a.borrow||''});
+    }
+  }else if(kind==='watch'){
+    ed.watch = isWatch(id) ? null : {id, lead:s.title, text:s.angle||''};
+  }else if(kind==='stat'){
+    if(inStats(id)) ed.stats = ed.stats.filter(x=>x.id!==id);
+    else{
+      if(ed.stats.length >= MAX_STATS) return toast(`There are ${MAX_STATS} stat boxes. Remove one in Edit & preview first.`);
+      ed.stats.push({id, value:(s.stat||{}).value||'', label:(s.stat||{}).label||''});
     }
   }
-  return {html, text};
+  save(); renderPick(); renderEditor();
+}
+function updateCounts(){
+  $('#cWeek').textContent = ed.week.length;
+  $('#cActs').textContent = `${ed.acts.length}/${MAX_ACTS}`;
+  $('#cWatch').textContent = ed.watch ? '✓' : '–';
+  $('#cStats').textContent = `${ed.stats.length}/${MAX_STATS}`;
 }
 
-function renderPreview(){
-  const n = state.picks.length;
-  $('#count').textContent = `${n} ${n===1?'story':'stories'}`;
-  $('#openPreview').textContent = `View bulletin (${n})`;
-  $('#copyBtn').disabled = n === 0;
-  $('#previewBody').innerHTML = n ? buildBulletin().html
-    : `<p class="empty">Click <b>+ Add</b> on a story and it will appear here, formatted exactly as it will paste.</p>`;
+/* ---------- EDIT tab ---------- */
+function field(label, value, path, area){
+  return `<label class="f">${esc(label)}${area
+    ? `<textarea data-p="${path}">${esc(value)}</textarea>`
+    : `<input data-p="${path}" value="${esc(value)}">`}</label>`;
+}
+function srcTitle(id){ const s = byId.get(id); return s ? `${s.source}: ${s.title}` : 'Story no longer in the feed'; }
+function itemTop(kind, i, id){
+  return `<div class="itop"><span class="t" title="${esc(srcTitle(id))}">${esc(srcTitle(id))}</span>
+    <button data-mv="${kind}:${i}:-1" title="Move up">↑</button><button data-mv="${kind}:${i}:1" title="Move down">↓</button>
+    <button data-rm="${kind}:${i}" title="Remove">✕</button></div>`;
 }
 
-async function copyBulletin(){
-  const missing = state.picks.map(id=>byId.get(id)).filter(s => s && bulletsFor(s).filter(x=>x.trim()).length < 2);
-  const {html, text} = buildBulletin();
+function renderEditor(){
+  const autoDate = fmtDate(new Date()), autoCover = coveringText();
+  let h = `<div class="panel"><h3>Masthead</h3>
+    <p class="help">Claude drafts the headline each run. The second part is shown in light blue.</p>
+    ${field('Headline, part 1', ed.headline[0], 'headline.0')}
+    ${field('Headline, part 2 (light blue)', ed.headline[1], 'headline.1')}
+    <div class="grid2" style="grid-template-columns:1fr 1fr">
+      ${field('Edition date', ed.date || autoDate, 'date')}
+      ${field('Covering', ed.covering || autoCover, 'covering')}
+    </div></div>`;
+
+  h += `<div class="panel"><h3>Stat boxes</h3><p class="help">Four big numbers. Keep the number short ("17", "$2m", "–23").</p>`;
+  for(let i=0;i<MAX_STATS;i++){
+    const x = ed.stats[i] || {value:'',label:''};
+    h += `<div class="grid2">${field('Number', x.value, `stats.${i}.value`)}${field('What it is', x.label, `stats.${i}.label`)}</div>`;
+  }
+  h += `</div>`;
+
+  h += `<div class="panel"><h3>Watch this</h3>`;
+  if(ed.watch){
+    h += `${itemTop('watch',0,ed.watch.id)}${field('Bold lead sentence', ed.watch.lead, 'watch.lead')}
+          ${field('Why it matters for ADNOC', ed.watch.text, 'watch.text', true)}
+          <p class="help">Put [square brackets] around the words to link to the article. Without brackets, the source name is linked at the end.</p>`;
+  } else h += `<p class="empty">Pick one story with ★ Watch this.</p>`;
+  h += `</div>`;
+
+  h += `<div class="panel"><h3>The week in 60 seconds</h3>
+    <p class="help">Lines with the same label share a row. [Square brackets] mark the linked words.</p>`;
+  h += ed.week.length ? ed.week.map((w,i)=>`<div class="item">${itemTop('week',i,w.id)}
+      <div class="grid2" style="grid-template-columns:130px 1fr">${field('Label', w.label, `week.${i}.label`)}${field('Line', w.line, `week.${i}.line`, true)}</div></div>`).join('')
+    : `<p class="empty">Add stories with + 60 seconds.</p>`;
+  h += `</div>`;
+
+  h += `<div class="panel"><h3>Activations worth stealing</h3>`;
+  h += ed.acts.length ? ed.acts.map((a,i)=>`<div class="item">${itemTop('acts',i,a.id)}
+      ${field('Title (brand, event)', a.title, `acts.${i}.title`)}${field('What they did', a.what, `acts.${i}.what`, true)}
+      ${field('Borrow', a.borrow, `acts.${i}.borrow`)}</div>`).join('')
+    : `<p class="empty">Add up to three stories with + Activation.</p>`;
+  h += `</div>`;
+
+  h += `<div class="panel"><h3>On the radar</h3>
+    <p class="help">Upcoming dates come from radar.json in the repo. Tick ADNOC for its own properties (shown in blue).</p>`;
+  h += (ed.radar||[]).map((r,i)=>`<div class="item"><div class="itop"><span class="t">Date ${i+1}</span>
+      <label class="check"><input type="checkbox" data-p="radar.${i}.adnoc" ${r.adnoc?'checked':''}> ADNOC</label>
+      <button data-mv="radar:${i}:-1">↑</button><button data-mv="radar:${i}:1">↓</button><button data-rm="radar:${i}">✕</button></div>
+      <div class="grid2" style="grid-template-columns:110px 1fr">${field('Dates', r.dates, `radar.${i}.dates`)}${field('Event', r.event, `radar.${i}.event`)}</div></div>`).join('');
+  h += `<button class="btn ghost small" id="addRadar">+ Add a date</button></div>`;
+
+  const root = $('#editor'); root.innerHTML = h;
+  root.querySelectorAll('[data-p]').forEach(inp=>{
+    const ev = inp.type==='checkbox' ? 'change' : 'input';
+    inp.addEventListener(ev, ()=>{ setPath(inp.dataset.p, inp.type==='checkbox' ? inp.checked : inp.value); save(); renderPreview(); });
+  });
+  root.querySelectorAll('[data-rm]').forEach(b=>b.addEventListener('click',()=>{
+    const [k,i] = b.dataset.rm.split(':');
+    if(k==='watch') ed.watch = null; else ed[k].splice(+i,1);
+    save(); renderEditor(); renderPick();
+  }));
+  root.querySelectorAll('[data-mv]').forEach(b=>b.addEventListener('click',()=>{
+    const [k,i,d] = b.dataset.mv.split(':'); const a = ed[k], j = +i + +d;
+    if(j<0 || j>=a.length) return; [a[+i],a[j]] = [a[j],a[+i]]; save(); renderEditor();
+  }));
+  const add = $('#addRadar');
+  if(add) add.addEventListener('click',()=>{ (ed.radar = ed.radar||[]).push({dates:'',event:'',adnoc:false}); save(); renderEditor(); });
+  renderPreview(); updateCounts();
+}
+function setPath(path, val){
+  const p = path.split('.'); let o = ed;
+  for(let i=0;i<p.length-1;i++){
+    const k = isNaN(p[i]) ? p[i] : +p[i];
+    if(o[k] == null) o[k] = isNaN(p[i+1]) ? {} : [];
+    o = o[k];
+  }
+  o[isNaN(p.at(-1)) ? p.at(-1) : +p.at(-1)] = val;
+  if(path.startsWith('stats.')) ed.stats = ed.stats.map(x=>x||{value:'',label:''});
+}
+function fmtDate(d){ return d.getDate()+' '+d.toLocaleString('en-GB',{month:'short'})+' '+d.getFullYear(); }
+function coveringText(){
+  const ids = [...ed.week.map(w=>w.id), ...ed.acts.map(a=>a.id), ed.watch?.id].filter(Boolean);
+  const ts = ids.map(id=>byId.get(id)).filter(Boolean).map(s=>new Date(s.published||s.first_seen)).filter(d=>!isNaN(d));
+  if(!ts.length) return '';
+  const a = new Date(Math.min(...ts)), b = new Date(Math.max(...ts));
+  const mon = d => d.toLocaleString('en-GB',{month:'short'});
+  if(a.toDateString()===b.toDateString()) return `covering ${b.getDate()} ${mon(b)}`;
+  return 'covering ' + (mon(a)===mon(b) ? `${a.getDate()}–${b.getDate()} ${mon(b)}` : `${a.getDate()} ${mon(a)}–${b.getDate()} ${mon(b)}`);
+}
+
+/* ---------- the email (table layout + inline styles so Outlook and Gmail keep it) ---------- */
+const C = { blue:'#0047BA', dark:'#00358C', accent:'#8FD3FF', pale:'#D6E4FF', ink:'#1A1F24', grey:'#4B5563',
+            bg:'#F4F6FA', line:'#E2E6EE', borrow:'#FFF4D6', tag:'#F5B400' };
+const HEAD = "'Barlow Condensed','Arial Narrow',Arial,sans-serif";
+const BODY = "Arial,Helvetica,sans-serif";
+/* "[linked words] rest" -> link on the bracketed words; no brackets -> source name linked at the end */
+function linked(text, s, color){
+  const url = s ? esc(s.link) : '';
+  const style = `color:${color};text-decoration:underline`;
+  const t = esc(text||'');
+  if(!s) return t.replace(/\[|\]/g,'');
+  if(/\[[^\]]+\]/.test(t)) return t.replace(/\[([^\]]+)\]/, `<a href="${url}" style="${style}">$1</a>`).replace(/\[|\]/g,'');
+  return `${t.replace(/\.\s*$/,'')} (<a href="${url}" style="${style}">${esc(s.source)}</a>).`;
+}
+function h2(t){ return `<tr><td style="padding:30px 0 12px;font-family:${HEAD};font-size:24px;font-weight:800;color:${C.dark};text-transform:uppercase;letter-spacing:.3px">${t}</td></tr>`; }
+
+function buildEmail(){
+  const date = ed.date || fmtDate(new Date()), cover = ed.covering || coveringText();
+  const [h1, h2txt] = ed.headline;
+  let o = `<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#E9EDF3"><tr><td align="center" style="padding:0">
+  <table role="presentation" width="640" cellpadding="0" cellspacing="0" border="0" style="width:640px;max-width:640px;background:${C.bg};font-family:${BODY}">`;
+
+  // masthead
+  o += `<tr><td bgcolor="${C.blue}" style="background:${C.blue};padding:30px 36px 34px">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+      <td style="font-family:${HEAD};font-size:16px;font-weight:800;letter-spacing:2.5px;color:#FFFFFF;text-transform:uppercase">The Bigger Game</td>
+      <td align="right" style="font-family:${BODY};font-size:12.5px;color:${C.pale}">${esc(date)}${cover ? ' · ' + esc(cover) : ''}</td>
+    </tr></table>
+    <div style="margin-top:22px;font-family:${HEAD};font-size:46px;line-height:1.0;font-weight:800;text-transform:uppercase;color:#FFFFFF">${esc(h1||'Headline part one.')} <span style="color:${C.accent}">${esc(h2txt||'Part two.')}</span></div>
+  </td></tr>`;
+
+  // stats
+  const stats = ed.stats.filter(x=>x && (x.value||x.label));
+  if(stats.length){
+    const w = Math.floor(100/stats.length);
+    o += `<tr><td bgcolor="#FFFFFF" style="background:#FFFFFF;padding:22px 30px;border-bottom:1px solid ${C.line}">
+      <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>${stats.map(x=>`
+        <td width="${w}%" valign="top" style="padding:0 6px">
+          <div style="font-family:${HEAD};font-size:34px;line-height:1.05;font-weight:800;color:${C.blue}">${esc(x.value)}</div>
+          <div style="font-family:${BODY};font-size:12.5px;line-height:1.4;color:${C.grey};margin-top:4px">${esc(x.label)}</div>
+        </td>`).join('')}</tr></table></td></tr>`;
+  }
+
+  o += `<tr><td style="padding:6px 36px 34px"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">`;
+
+  // watch this
+  if(ed.watch){
+    const s = byId.get(ed.watch.id);
+    o += `<tr><td style="padding-top:26px"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+      <tr><td bgcolor="${C.blue}" style="background:${C.blue};border-radius:12px;padding:22px 24px">
+        <span style="display:inline-block;background:${C.tag};color:${C.ink};font-family:${BODY};font-size:11px;font-weight:700;letter-spacing:1px;padding:4px 9px;border-radius:5px">WATCH THIS</span>
+        <div style="margin-top:12px;font-family:${BODY};font-size:15px;line-height:1.55;color:#FFFFFF"><b>${esc(ed.watch.lead)}</b> ${linked(ed.watch.text, s, C.accent)}</div>
+      </td></tr></table></td></tr>`;
+  }
+
+  // the week in 60 seconds (rows grouped by label, in order)
+  if(ed.week.length){
+    const rows = [];
+    for(const w of ed.week){
+      const lab = (w.label||'').trim().toUpperCase() || 'NEWS';
+      let r = rows.find(x=>x.label===lab); if(!r) rows.push(r = {label:lab, parts:[]});
+      r.parts.push(linked(w.line, byId.get(w.id), C.blue));
+    }
+    o += h2('The week in 60 seconds');
+    o += `<tr><td><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#FFFFFF;border:1px solid ${C.line};border-radius:12px">
+      ${rows.map((r,i)=>`<tr>
+        <td width="120" valign="top" style="padding:16px 10px 16px 20px;${i?`border-top:1px solid ${C.line};`:''}font-family:${HEAD};font-size:15px;font-weight:800;color:${C.blue};text-transform:uppercase;letter-spacing:.3px">${esc(r.label)}</td>
+        <td valign="top" style="padding:15px 20px 15px 6px;${i?`border-top:1px solid ${C.line};`:''}font-family:${BODY};font-size:14.5px;line-height:1.55;color:${C.ink}">${r.parts.join(' ')}</td>
+      </tr>`).join('')}</table></td></tr>`;
+  }
+
+  // activations
+  if(ed.acts.length){
+    const w = Math.floor(100/ed.acts.length);
+    o += h2('Activations worth stealing');
+    o += `<tr><td><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>${ed.acts.map((a,i)=>{
+      const s = byId.get(a.id);
+      return `<td width="${w}%" valign="top" style="padding:0 ${i<ed.acts.length-1?'10px':'0'} 0 0">
+        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#FFFFFF;border:1px solid ${C.line};border-radius:12px"><tr><td style="padding:16px">
+          <a href="${s?esc(s.link):'#'}" style="font-family:${HEAD};font-size:16px;font-weight:800;color:${C.blue};text-transform:uppercase;text-decoration:underline">${esc(a.title)}</a>
+          <div style="font-family:${BODY};font-size:13.5px;line-height:1.5;color:${C.ink};margin:8px 0 12px">${esc(a.what)}</div>
+          ${a.borrow ? `<div style="background:${C.borrow};border-radius:8px;padding:10px 11px;font-family:${BODY};font-size:13px;line-height:1.45;color:${C.ink}"><b>Borrow:</b> ${esc(a.borrow)}</div>` : ''}
+        </td></tr></table></td>`;}).join('')}</tr></table></td></tr>`;
+  }
+
+  // on the radar (two per row)
+  const radar = (ed.radar||[]).filter(r=>r.dates||r.event);
+  if(radar.length){
+    o += h2('On the radar');
+    o += `<tr><td><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">`;
+    for(let i=0;i<radar.length;i+=2){
+      o += `<tr>${[radar[i], radar[i+1]].map((r,j)=>{
+        if(!r) return `<td width="50%"></td>`;
+        const bg = r.adnoc ? C.blue : '#FFFFFF', fg = r.adnoc ? '#FFFFFF' : C.ink, dc = r.adnoc ? C.accent : C.blue;
+        return `<td width="50%" valign="top" style="padding:0 ${j===0?'6px':'0'} 10px ${j===1?'6px':'0'}">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:${bg};border:1px solid ${r.adnoc?C.blue:C.line};border-radius:10px"><tr>
+            <td width="96" valign="top" style="padding:13px 8px 13px 14px;font-family:${HEAD};font-size:15px;font-weight:800;color:${dc};text-transform:uppercase">${esc(r.dates)}</td>
+            <td valign="top" style="padding:13px 14px 13px 4px;font-family:${BODY};font-size:14px;line-height:1.4;color:${fg};${r.adnoc?'font-weight:700':''}">${esc(r.event)}</td>
+          </tr></table></td>`;}).join('')}</tr>`;
+    }
+    o += `</table></td></tr>`;
+  }
+
+  o += `</table></td></tr>`;
+  // footer
+  o += `<tr><td bgcolor="${C.blue}" style="background:${C.blue};padding:22px 36px">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr>
+      <td style="font-family:${HEAD};font-size:15px;font-weight:800;letter-spacing:2.5px;color:#FFFFFF;text-transform:uppercase">The Bigger Game</td>
+      <td align="right" style="font-family:${BODY};font-size:12.5px;color:${C.pale}">Prepared by 160over90 · Sources linked throughout</td>
+    </tr></table></td></tr>`;
+  o += `</table></td></tr></table>`;
+  return o;
+}
+function buildText(){
+  const lines = [`THE BIGGER GAME — ${ed.date || fmtDate(new Date())}`, '', `${ed.headline[0]} ${ed.headline[1]}`, ''];
+  ed.stats.filter(x=>x&&x.value).forEach(x=>lines.push(`${x.value}  ${x.label}`));
+  const plain = (t,s)=> (t||'').replace(/\[|\]/g,'') + (s ? ` (${s.link})` : '');
+  if(ed.watch) lines.push('', 'WATCH THIS', `${ed.watch.lead} ${plain(ed.watch.text, byId.get(ed.watch.id))}`);
+  if(ed.week.length){ lines.push('', 'THE WEEK IN 60 SECONDS'); ed.week.forEach(w=>lines.push(`${w.label}: ${plain(w.line, byId.get(w.id))}`)); }
+  if(ed.acts.length){ lines.push('', 'ACTIVATIONS WORTH STEALING'); ed.acts.forEach(a=>lines.push(`${a.title}: ${a.what} Borrow: ${a.borrow}`)); }
+  const r = (ed.radar||[]).filter(x=>x.event); if(r.length){ lines.push('', 'ON THE RADAR'); r.forEach(x=>lines.push(`${x.dates}  ${x.event}`)); }
+  return lines.join('\n');
+}
+function renderPreview(){ $('#preview').innerHTML = buildEmail(); }
+
+async function copyNewsletter(){
+  const html = buildEmail(), text = buildText();
+  const missing = [];
+  if(!ed.headline[0]) missing.push('headline');
+  if(!ed.watch) missing.push('Watch this');
+  if(!ed.week.length) missing.push('60 seconds');
   try{
-    await navigator.clipboard.write([ new ClipboardItem({
-      'text/html': new Blob([html], {type:'text/html'}),
-      'text/plain': new Blob([text], {type:'text/plain'}),
-    })]);
-    toast(missing.length ? `Copied, but ${missing.length} story is missing a bullet` : 'Bulletin copied. Paste it into your email.');
+    await navigator.clipboard.write([new ClipboardItem({'text/html':new Blob([html],{type:'text/html'}),'text/plain':new Blob([text],{type:'text/plain'})})]);
+    toast(missing.length ? `Copied. Still empty: ${missing.join(', ')}` : 'Copied. Paste it into a new email.');
   }catch(e){
-    try{ await navigator.clipboard.writeText(text); toast('Copied as plain text'); }
+    try{ await navigator.clipboard.writeText(text); toast('Copied as plain text only (your browser blocked the formatted copy)'); }
     catch(_){ toast('Copy failed. Your browser blocked it.'); }
   }
 }
+function toast(msg){ const t=$('#toast'); t.textContent=msg; t.classList.add('show'); clearTimeout(toast.t); toast.t=setTimeout(()=>t.classList.remove('show'),2800); }
 
-function toast(msg){
-  const t = $('#toast'); t.textContent = msg; t.classList.add('show');
-  clearTimeout(toast.t); toast.t = setTimeout(()=>t.classList.remove('show'), 2600);
+/* ---------- wiring ---------- */
+function showTab(t){
+  ui.tab = t;
+  $('#tab-pick').hidden = t!=='pick'; $('#tab-edit').hidden = t!=='edit';
+  document.querySelectorAll('#tabs button').forEach(b=>b.classList.toggle('active', b.dataset.tab===t));
+  if(t==='edit') renderEditor(); else renderPick();
+  window.scrollTo({top:0});
 }
-
-// ---- wiring ----
+$('#tabs').addEventListener('click', e=>{ if(e.target.dataset.tab) showTab(e.target.dataset.tab); });
+$('#goEdit').addEventListener('click', ()=>showTab('edit'));
 $('#windowToggle').addEventListener('click', e=>{
-  if(e.target.tagName !== 'BUTTON') return;
-  [...e.target.parentNode.children].forEach(b=>b.classList.remove('active'));
-  e.target.classList.add('active');
-  state.windowH = +e.target.dataset.h;
-  render();
+  if(e.target.tagName!=='BUTTON') return;
+  [...e.target.parentNode.children].forEach(b=>b.classList.remove('active')); e.target.classList.add('active');
+  ui.windowH = +e.target.dataset.h; renderPick();
 });
-let searchT;
-$('#search').addEventListener('input', e=>{
-  clearTimeout(searchT);
-  searchT = setTimeout(()=>{ state.query = e.target.value.trim().toLowerCase(); render(); }, 150);
+$('#search').addEventListener('input', e=>{ ui.query = e.target.value.trim().toLowerCase(); renderPick(); });
+$('#showOff').addEventListener('change', e=>{ ui.showOff = e.target.checked; renderPick(); });
+$('#srcBtn').addEventListener('click', ()=>{ $('#sourceFilters').hidden = !$('#sourceFilters').hidden; });
+$('#copyBtn').addEventListener('click', copyNewsletter);
+$('#newEdition').addEventListener('click', ()=>{
+  if(!confirm('Clear this edition and start a new one? Claude\'s latest headline and stats will be filled in again.')) return;
+  ed = blankEdition(); prefill(); save(); renderEditor(); renderPick(); toast('New edition started');
 });
-$('#filters').addEventListener('toggle', e=>{ $('#sourceFilters').hidden = !e.target.open; });
-$('#showOff').addEventListener('change', e=>{ state.showOff = e.target.checked; render(); });
-$('#copyBtn').addEventListener('click', copyBulletin);
-$('#clearBtn').addEventListener('click', ()=>{
-  if(state.picks.length && !confirm('Remove all stories from your bulletin?')) return;
-  state.picks = []; save(); render();
-});
-$('#refreshBtn').addEventListener('click', async ()=>{ await load(); toast('Showing the latest collected stories'); });
-$('#helpBtn').addEventListener('click', ()=>{
-  $('#howto').hidden = false;
-  try{ localStorage.removeItem('ADNOCNews:hideHowto'); }catch(e){}
-  window.scrollTo({top:0, behavior:'smooth'});
-});
-$('#howtoClose').addEventListener('click', ()=>{
-  $('#howto').hidden = true;
-  try{ localStorage.setItem('ADNOCNews:hideHowto', '1'); }catch(e){}
-});
-$('#openPreview').addEventListener('click', ()=> $('#preview').classList.add('open'));
-$('#closePreview').addEventListener('click', ()=> $('#preview').classList.remove('open'));
-const mq = matchMedia('(max-width: 980px)');
-const syncMobile = () => { $('#closePreview').hidden = !mq.matches; };
-mq.addEventListener('change', syncMobile); syncMobile();
+$('#refreshBtn').addEventListener('click', load);
+$('#howtoClose').addEventListener('click', ()=>{ $('#howto').hidden = true; try{ localStorage.setItem('TBG:hideHowto','1'); }catch(e){} });
+$('#helpBtn').addEventListener('click', ()=>{ $('#howto').hidden = false; try{ localStorage.removeItem('TBG:hideHowto'); }catch(e){} window.scrollTo({top:0,behavior:'smooth'}); });
 
-restore();
-load();
+restore(); load();
 </script>
 </body>
 </html>
