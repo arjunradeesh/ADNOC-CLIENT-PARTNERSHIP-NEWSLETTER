@@ -1,0 +1,58 @@
+name: Collect morning news
+
+# Runs at 08:50 and 09:45 UAE time every day, or whenever you press "Run workflow".
+# The UAE doesn't change its clocks: 08:50 GST = 04:50 UTC, 09:45 GST = 05:45 UTC.
+on:
+  schedule:
+    - cron: "50 4 * * *"
+    - cron: "45 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect-news
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install the tools
+        run: pip install -r requirements.txt
+
+      - name: Install the headless browser
+        run: python -m playwright install --with-deps chromium
+
+      - name: Install Claude (writes the summary bullets)
+        run: npm install -g @anthropic-ai/claude-code
+
+      - name: Scrape the news
+        env:
+          WINDOW_HOURS: "48"
+          KEEP_DAYS: "14"
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: python scrape.py
+
+      - name: Write the summary bullets
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          MAX_STORIES: "120"
+        run: python summarise.py
+
+      - name: Save the results
+        run: |
+          git config user.name "news-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/news.json data/pending.json
+          git commit -m "Morning news $(date -u +'%Y-%m-%d %H:%M UTC')" || echo "No changes today"
+          git pull --rebase origin main
+          git push
