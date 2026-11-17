@@ -150,7 +150,7 @@
 <div class="wrap">
   <div class="howto" id="howto">
     <ol>
-      <li><span class="num">1</span><span><b>Pick stories.</b> On each story, choose where it goes: <b>60 seconds</b>, <b>Activation</b>, <b>Watch this</b> or <b>Stat</b>. Claude has already drafted the text.</span></li>
+      <li><span class="num">1</span><span><b>Pick stories.</b> On each story, choose where it goes: <b>60 seconds</b>, <b>Business</b>, <b>Activation</b>, <b>Watch this</b> or <b>Stat</b>. Claude has already drafted the text.</span></li>
       <li><span class="num">2</span><span><b>Edit &amp; preview.</b> Check Claude's headline and stats, rewrite anything, and update On the radar. The preview is exactly what will paste.</span></li>
       <li><span class="num">3</span><span><b>Copy newsletter.</b> Paste into a new email. Your edition is saved in this browser until you click <b>Start new edition</b>.</span></li>
     </ol>
@@ -180,11 +180,12 @@
     <aside class="side">
       <h2>This edition</h2>
       <div class="rowc"><span>The week in 60 seconds</span><b id="cWeek">0</b></div>
+      <div class="rowc"><span>The business end</span><b id="cBiz">0/3</b></div>
       <div class="rowc"><span>Activations worth stealing</span><b id="cActs">0/3</b></div>
       <div class="rowc"><span>Watch this</span><b id="cWatch">–</b></div>
       <div class="rowc"><span>Stat boxes</span><b id="cStats">0/4</b></div>
       <button class="btn" id="goEdit">Edit &amp; preview →</button>
-      <p>Aim for 5–7 rows in 60 seconds, 3 activations and one Watch this.</p>
+      <p>Aim for 5–7 rows in 60 seconds, 2–3 business stories, 3 activations and one Watch this.</p>
     </aside>
   </div>
 
@@ -212,14 +213,14 @@
    Watch this. Everything is editable; the edition is saved in this browser.
    ===================================================================== */
 const STORE = 'TBG:edition';
-const MAX_ACTS = 3, MAX_STATS = 4;
+const MAX_ACTS = 3, MAX_STATS = 4, MAX_BIZ = 3;
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 
 const ui = { windowH:336, query:'', showOff:false, hiddenSources:new Set(), tab:'pick' };
 let data = null, radarSeed = [];
 const byId = new Map();
-const blankEdition = () => ({ week:[], acts:[], watch:null, stats:[], headline:['',''], radar:null,
+const blankEdition = () => ({ week:[], biz:[], acts:[], watch:null, stats:[], headline:['',''], radar:null,
                               date:'', covering:'', prefilled:false });
 let ed = blankEdition();
 
@@ -289,9 +290,10 @@ function visible(s){
 }
 const inWeek = id => ed.week.some(w=>w.id===id);
 const inActs = id => ed.acts.some(a=>a.id===id);
+const inBiz = id => (ed.biz||[]).some(x=>x.id===id);
 const isWatch = id => ed.watch && ed.watch.id===id;
 const inStats = id => ed.stats.some(x=>x.id===id);
-const inEdition = id => inWeek(id)||inActs(id)||isWatch(id)||inStats(id);
+const inEdition = id => inWeek(id)||inBiz(id)||inActs(id)||isWatch(id)||inStats(id);
 
 function buildSourceFilters(){
   const names = new Set();
@@ -348,6 +350,7 @@ function card(s){
     ${ready ? `<details><summary>Full summary</summary><ul>${s.bullets.map(b=>`<li>${esc(b)}</li>`).join('')}</ul></details>` : ''}
     <div class="acts">
       <button data-a="week" class="${inWeek(s.id)?'on':''}">${inWeek(s.id)?'✓':'+'} 60 seconds</button>
+      <button data-a="biz" class="${inBiz(s.id)?'on':''}">${inBiz(s.id)?'✓':'+'} Business</button>
       <button data-a="act" class="${inActs(s.id)?'on':''}">${inActs(s.id)?'✓':'+'} Activation</button>
       <button data-a="watch" class="${isWatch(s.id)?'on':''}">${isWatch(s.id)?'✓':'★'} Watch this</button>
       <button data-a="stat" class="${inStats(s.id)?'on':''}">${inStats(s.id)?'✓':'+'} Stat</button>
@@ -360,6 +363,13 @@ function toggle(kind, s){
   const id = s.id;
   if(kind==='week'){
     inWeek(id) ? ed.week = ed.week.filter(w=>w.id!==id) : ed.week.push({id, label:labelOf(s), line:lineOf(s)});
+  }else if(kind==='biz'){
+    ed.biz = ed.biz || [];
+    if(inBiz(id)) ed.biz = ed.biz.filter(x=>x.id!==id);
+    else{
+      if(ed.biz.length >= MAX_BIZ) return toast(`The business end holds ${MAX_BIZ} stories. Remove one first.`);
+      ed.biz.push({id, figure:(s.stat||{}).value||'', head:s.title, line:lineOf(s).replace(/\[|\]/g,''), why:s.angle||''});
+    }
   }else if(kind==='act'){
     if(inActs(id)) ed.acts = ed.acts.filter(a=>a.id!==id);
     else{
@@ -381,6 +391,7 @@ function toggle(kind, s){
 function updateCounts(){
   $('#cWeek').textContent = ed.week.length;
   $('#cActs').textContent = `${ed.acts.length}/${MAX_ACTS}`;
+  $('#cBiz').textContent = `${(ed.biz||[]).length}/${MAX_BIZ}`;
   $('#cWatch').textContent = ed.watch ? '✓' : '–';
   $('#cStats').textContent = `${ed.stats.length}/${MAX_STATS}`;
 }
@@ -429,6 +440,14 @@ function renderEditor(){
   h += ed.week.length ? ed.week.map((w,i)=>`<div class="item">${itemTop('week',i,w.id)}
       <div class="grid2" style="grid-template-columns:130px 1fr">${field('Label', w.label, `week.${i}.label`)}${field('Line', w.line, `week.${i}.line`, true)}</div></div>`).join('')
     : `<p class="empty">Add stories with + 60 seconds.</p>`;
+  h += `</div>`;
+
+  h += `<div class="panel"><h3>The business end</h3>
+    <p class="help">Up to three sports-business deals. The figure is the big number on the left (leave it empty if there isn't one).</p>`;
+  h += (ed.biz||[]).length ? ed.biz.map((x,i)=>`<div class="item">${itemTop('biz',i,x.id)}
+      <div class="grid2">${field('Figure', x.figure, `biz.${i}.figure`)}${field('Headline', x.head, `biz.${i}.head`)}</div>
+      ${field('The deal, in one line', x.line, `biz.${i}.line`, true)}${field('Why it matters for ADNOC', x.why, `biz.${i}.why`, true)}</div>`).join('')
+    : `<p class="empty">Add up to three stories with + Business.</p>`;
   h += `</div>`;
 
   h += `<div class="panel"><h3>Activations worth stealing</h3>`;
@@ -556,6 +575,21 @@ function buildEmail(){
       </tr>`).join('')}</table></td></tr>`;
   }
 
+  // the business end
+  const biz = (ed.biz||[]).filter(x=>x.head||x.line);
+  if(biz.length){
+    o += h2('The business end');
+    o += `<tr><td><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#FFFFFF;border:1px solid ${C.line};border-radius:12px">
+      ${biz.map((x,i)=>{ const s = byId.get(x.id); const top = i ? `border-top:1px solid ${C.line};` : '';
+        return `<tr>
+        <td width="120" valign="top" style="padding:18px 10px 18px 20px;${top}font-family:${HEAD};font-size:30px;line-height:1.05;font-weight:800;color:${C.blue}">${esc(x.figure)}</td>
+        <td valign="top" style="padding:17px 20px 17px 6px;${top}font-family:${BODY};color:${C.ink}">
+          <a href="${s?esc(s.link):'#'}" style="font-size:15px;line-height:1.4;font-weight:700;color:${C.ink};text-decoration:underline">${esc(x.head)}</a>
+          ${x.line ? `<div style="font-size:14px;line-height:1.5;margin-top:5px">${esc(x.line)}</div>` : ''}
+          ${x.why ? `<div style="font-size:13px;line-height:1.5;margin-top:6px;color:${C.grey}"><b style="color:${C.blue}">Why it matters:</b> ${esc(x.why)}</div>` : ''}
+        </td></tr>`;}).join('')}</table></td></tr>`;
+  }
+
   // activations
   if(ed.acts.length){
     const w = Math.floor(100/ed.acts.length);
@@ -604,6 +638,7 @@ function buildText(){
   const plain = (t,s)=> (t||'').replace(/\[|\]/g,'') + (s ? ` (${s.link})` : '');
   if(ed.watch) lines.push('', 'WATCH THIS', `${ed.watch.lead} ${plain(ed.watch.text, byId.get(ed.watch.id))}`);
   if(ed.week.length){ lines.push('', 'THE WEEK IN 60 SECONDS'); ed.week.forEach(w=>lines.push(`${w.label}: ${plain(w.line, byId.get(w.id))}`)); }
+  if((ed.biz||[]).length){ lines.push('', 'THE BUSINESS END'); ed.biz.forEach(x=>lines.push(`${x.figure ? x.figure+'  ' : ''}${x.head}: ${x.line} Why it matters: ${x.why} (${(byId.get(x.id)||{}).link||''})`)); }
   if(ed.acts.length){ lines.push('', 'ACTIVATIONS WORTH STEALING'); ed.acts.forEach(a=>lines.push(`${a.title}: ${a.what} Borrow: ${a.borrow}`)); }
   const r = (ed.radar||[]).filter(x=>x.event); if(r.length){ lines.push('', 'ON THE RADAR'); r.forEach(x=>lines.push(`${x.dates}  ${x.event}`)); }
   return lines.join('\n');
