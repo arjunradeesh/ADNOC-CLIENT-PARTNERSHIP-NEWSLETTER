@@ -41,7 +41,8 @@ GUIDE_PATH = os.path.join(HERE, "EDITORIAL_GUIDE.md")
 
 MODEL = os.environ.get("SUMMARY_MODEL", "sonnet")
 CHECK_MODEL = os.environ.get("CHECK_MODEL", "haiku")
-PER_SECTION = int(os.environ.get("PER_SECTION", 6))
+# 12, not 6: The Bigger Game picks from more stories per section than the old bulletin.
+PER_SECTION = int(os.environ.get("PER_SECTION", 12))
 UNCAPPED_SECTIONS = {"Competitor News"}
 BATCH_SIZE = int(os.environ.get("BATCH_SIZE", 10))
 MAX_STORIES = int(os.environ.get("MAX_STORIES", 60))
