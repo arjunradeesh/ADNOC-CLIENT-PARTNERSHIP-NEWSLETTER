@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T13:52:52.729432+00:00",
-  "generated_label": "Tuesday 17 November 2026, 17:52 GST",
+  "generated_at": "2026-11-17T14:53:47.205321+00:00",
+  "generated_label": "Tuesday 17 November 2026, 18:53 GST",
   "keep_days": 14,
   "section_order": [
     "ADNOC & Partner News",
@@ -563,6 +563,39 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "RTR Sports Marketing",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Revolut under judicial administration: what is at stake for its Audi F1 sponsorship",
+        "feed_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTHRiOFViUEJzZGQwTTBBS2t0SEtuVGVqRWtvUndGeUwtWFlUQklZZWRMMXQ2cEJoc3BSREZ5N1E3YTdqZDczb21lQ1kzd3BwRmZPdUxBeFZlQzZRb3VrX1pPTUNFX2ZPWC0wWkVrckt4Ty1kakV3VS10d1lnQm9jUWJkdGlubDdrYXc?oc=5",
+        "link": "https://rtrsports.com/en/blog/revolut-judicial-administration-audi-f1-sponsorship/",
+        "published": "2026-11-17T12:30:13+00:00",
+        "published_label": "Tue 17 Nov, 16:30",
+        "summary": "Revolut under judicial administration: what is at stake for its Audi F1 sponsorship RTR Sports Marketing",
+        "id": "ec304d7fb6bd",
+        "bullets": [
+          "On 16 November 2026 the Court of Milan placed the Italian branch of Revolut Bank, the bank that gives its name to the Audi Revolut F1 Team, under judicial administration for one year. The Milan public prosecutor's office requested the order over alleged serious shortcomings in anti-money-laundering controls, and the Guardia di Finanza carried it out. Prosecutors allege that people under investigation or already convicted used the accounts, with tens of millions of euros passing through them.",
+          "The RTR Sports Marketing analysis argues that Audi is unlikely to change the contract in the short term. The bank remains open and the order is not a conviction, so the real risk lies in communications. Revolut says it will cooperate fully and that its Italian services continue normally. The piece cites F1 precedent: Mercedes suspended its FTX deal on 11 November 2022, the day FTX filed for bankruptcy protection."
+        ],
+        "triaged": true,
+        "priority": 5,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "In my view, in the short term, almost nothing. On 16 November 2026 a Milan court placed the Italian branch of Revolut, the bank that gives its name to the Audi Revolut F1 Team, under judicial administration for one year. The court granted the request of the Milan public prosecutor’s office, which alleges serious shortcomings in the bank’s anti-money-laundering controls. The bank stays open, though, and the order is not a conviction: that is why I believe Audi will leave the contract alone. The real risk lies in communications, because for a bank the product is trust.\n\nSuppose you are the head of communications at a Formula 1 team. One morning the name written on your car is in the headlines for a reason that has nothing to do with overtaking. What do you do? Do you take the logo off before the next race? Do you ring the sponsor to find out what it is going to say? Do you put out a statement? Or do you wait, hoping the story slides down the page?",
+        "first_seen": "2026-11-17T14:53:47.205321+00:00",
+        "summary_status": "done",
+        "label": "F1 BUSINESS",
+        "line": "[Revolut's Italian branch placed under judicial administration] for one year on 16 November, raising questions over its Audi F1 team sponsorship.",
+        "angle": "Shows how a title sponsor's regulatory trouble can become a communications risk for an F1 team. It is a useful reference for ADNOC's own partner-risk thinking around the Abu Dhabi Grand Prix.",
+        "stat": {
+          "value": "€3.5m",
+          "label": "fine from the Bank of Lithuania on Revolut Bank, April"
+        }
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Sportcal",
         "search": "Sportcal",
         "lang": "en",
@@ -855,13 +888,24 @@
         "published_label": "Tue 17 Nov, 14:23",
         "summary": "Drone Attack Just 68 Miles From Lusail International Circuit Intensifies Pressure on F1's Qatar, Abu Dhabi Finale Yahoo Sports",
         "id": "06d96f531492",
-        "bullets": [],
+        "bullets": [
+          "A US military base in Bahrain, 68 miles from the Lusail International Circuit, was the target of Iran's second drone attack in the region in three days. Bahrain's military said its defence systems intercepted and destroyed the attacking drones. Additional aircraft carriers, jet fighters and Marines are due in the region by the end of November, around the time of the Qatar Grand Prix on 29 November.",
+          "F1 has made no announcement, so the final two races of the 2026 season, in Qatar and Abu Dhabi, remain on schedule. F1 has told Imola it will not be needed as a contingency finale venue. If the plan has to change, the season would end in Las Vegas. F1 said commercial activity and travel remain viable in both countries, and MotoGP recently ran its Qatar round under normal conditions."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Clouds of tension are once again looming over the final two races of the 2026 Formula 1 season, with worrying news coming from Qatar. A US military base in Bahrain, just 68 miles away from the Lusail International Circuit, became the target of Iran's second drone attack in the region in three days.\n\nWhat's more concerning for the sport is the fact that additional aircraft carriers, jet fighters, and Marines will be arriving by the end of November, signaling a possible extension of the war. With the Qatar race scheduled on the 29th of November, the date is more or less the same as when additional US forces reach the area with orders on how to proceed.",
-        "first_seen": "2026-11-17T13:52:52.729432+00:00"
+        "first_seen": "2026-11-17T13:52:52.729432+00:00",
+        "summary_status": "done",
+        "label": "F1",
+        "line": "[Iran's second drone attack in three days] hit a US base in Bahrain 68 miles from Lusail, but F1 still plans to finish in Qatar and Abu Dhabi.",
+        "angle": "Directly affects the Abu Dhabi Grand Prix, ADNOC's founding-partner property, as the season finale. ADNOC may want contingency and communications plans ready if F1 changes its schedule.",
+        "stat": {
+          "value": "68",
+          "label": "miles from the attacked Bahrain base to the Lusail circuit"
+        }
       },
       {
         "section": "Wider Sports News",
@@ -1138,6 +1182,28 @@
         "read_attempts": 1,
         "copy": "Sports Entertainment Group (SEG) has announced a capital investment to establish SEN SA House, a state-of-the-art sports media and broadcast precinct at 1 King William Street on the corner of North Terrace in Adelaide’s central business district.\n\nAnnounced on 16 November 2026 to mark SEN SA’s eighth anniversary, the development is backed by a three-year naming-rights partnership with Australian insurer AAMI. Scheduled for completion in late 2026, the facility sits within walking distance of Adelaide Oval and aims to more than double SEG’s locally produced audio, television, and digital content across South Australia.",
         "first_seen": "2026-11-17T05:46:39.940226+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Youth Sports Business Report",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "LongueVue Capital Launches Sports Private Equity Strategy Targeting Youth Sports and Venue Services",
+        "feed_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYmNHLTZaRGdzQVJlUERadVlRcEtVWFF4ZUNzX0pDX19LQk5Mcm0xTklXc3lqc0RScmJCMGRaci1QbU5oczdfNzMxVk1WZnFBSmltV2Z3clJiZl81dHExcGdOWkpPWGo1bGRqVFVRMEVwVXViM3MxWGhjdEFDUEFYNVZHSWJwUmo4eGdvZlh4NXI?oc=5",
+        "link": "https://youthsportsbusinessreport.com/longuevue-capital-sports-private-equity-strategy/",
+        "published": "2026-11-16T22:04:02+00:00",
+        "published_label": "Tue 17 Nov, 02:04",
+        "summary": "LongueVue Capital Launches Sports Private Equity Strategy Targeting Youth Sports and Venue Services Youth Sports Business Report",
+        "id": "75bb46c66ec0",
+        "bullets": [],
+        "triaged": true,
+        "priority": 3,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "- New Orleans firm LongueVue Capital will target founder-owned sports businesses generating roughly $10 million to $100 million in annual revenue, per the announcement. - Youth and amateur sports is one of five named focus areas, alongside event production, venue support, team and league commercial services, and fan engagement.\n\n- Doug Thornton, who led the Superdome’s post-Katrina rebuild and later ran North American venues for Legends Global, joins as Operating Partner. - LongueVue brings more than $1 billion in committed capital across five funds to the effort, per Pulse 2.0.",
+        "first_seen": "2026-11-17T14:53:47.205321+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -2948,6 +3014,52 @@
     "Formula 1 & Motorsport": [
       {
         "section": "Formula 1 & Motorsport",
+        "source": "Formula 1",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "The Evolution Of F1 Timekeeping | TAG Heuer",
+        "feed_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQODdHSGpyT3ZFbmJFQUhqczZZb0pUeDYwbkdPQTJWYzh2dUZZV0h3WWdXZlUyeldVT1VvbXRjQUxBNUIzOGRHTWdkVHdadnNHNm0yYjBvVGRFVGxsNmNOMTJTMkNnajV3bVZJcEpla2xyZnRsWDdXck5iWjlyT1JIaUpXcnNWNVhJUllXMzZ1ampZa3ozVHVrRHU4NA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQODdHSGpyT3ZFbmJFQUhqczZZb0pUeDYwbkdPQTJWYzh2dUZZV0h3WWdXZlUyeldVT1VvbXRjQUxBNUIzOGRHTWdkVHdadnNHNm0yYjBvVGRFVGxsNmNOMTJTMkNnajV3bVZJcEpla2xyZnRsWDdXck5iWjlyT1JIaUpXcnNWNVhJUllXMzZ1ampZa3ozVHVrRHU4NA?oc=5",
+        "published": "2026-11-17T14:29:05+00:00",
+        "published_label": "Tue 17 Nov, 18:29",
+        "summary": "The Evolution Of F1 Timekeeping | TAG Heuer Formula 1",
+        "id": "f39ac6090316",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "branded sponsor content, not news",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-17T14:53:47.205321+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "People.com",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "All About the 2026 F1 Las Vegas Grand Prix, From Top Drivers to Star-Studded Parties",
+        "feed_link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN0V2cXJ3QXNJbml0eWJyLXFadWU0RV84alJ3V2pJWU9GTng0SFpCZ3VRM25tRnBpU0cyZEJhQ0ZXd0pJQzRQcXVsREJYeFZ5Mk1TUjQwZlBQRDZaQkszYXVzQnNzVzBxdGlQdW5uOEI0SWR0R1B4UEhYekNpanY2UHROemNXYXcybHlNRU1rMHl2NVdXZ3AzRE9La0pHYnFYazVDc3VVZ3ZjRnB4LU9udVRteFhrcEQ1MjVR?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPN0V2cXJ3QXNJbml0eWJyLXFadWU0RV84alJ3V2pJWU9GTng0SFpCZ3VRM25tRnBpU0cyZEJhQ0ZXd0pJQzRQcXVsREJYeFZ5Mk1TUjQwZlBQRDZaQkszYXVzQnNzVzBxdGlQdW5uOEI0SWR0R1B4UEhYekNpanY2UHROemNXYXcybHlNRU1rMHl2NVdXZ3AzRE9La0pHYnFYazVDc3VVZ3ZjRnB4LU9udVRteFhrcEQ1MjVR?oc=5",
+        "published": "2026-11-17T14:20:00+00:00",
+        "published_label": "Tue 17 Nov, 18:20",
+        "summary": "All About the 2026 F1 Las Vegas Grand Prix, From Top Drivers to Star-Studded Parties People.com",
+        "id": "5d9f24598e10",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "lifestyle and celebrity party coverage",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-17T14:53:47.205321+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
         "source": "Autosport",
         "search": "Autosport",
         "lang": "en",
@@ -3061,6 +3173,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-17T13:52:52.729432+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Yahoo Sports",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "McLaren F1 chief hopeful Novak Djokovic advice will spark bounce back",
+        "feed_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUtOTFJqZ1lLbkhVUzJkbGxvbDNQME5iMjhOQi1rdkdWV1JRUUF5MG9wQ0NtN2drYnZ4OUEtS0pUVzNnaFV5YXF0Yk1nN1Q0YjQydVhDN012dlhzNGh3TEh6aWl3OHRVQlh4aklVTkNkdVFWMTBoV0tZSDRKWkw1eVRKakxPUQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVUtOTFJqZ1lLbkhVUzJkbGxvbDNQME5iMjhOQi1rdkdWV1JRUUF5MG9wQ0NtN2drYnZ4OUEtS0pUVzNnaFV5YXF0Yk1nN1Q0YjQydVhDN012dlhzNGh3TEh6aWl3OHRVQlh4aklVTkNkdVFWMTBoV0tZSDRKWkw1eVRKakxPUQ?oc=5",
+        "published": "2026-11-17T11:42:26+00:00",
+        "published_label": "Tue 17 Nov, 15:42",
+        "summary": "McLaren F1 chief hopeful Novak Djokovic advice will spark bounce back Yahoo Sports",
+        "id": "0b7a38ae8406",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "minor team-principal comment on a driver, no new commercial or race fact",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-17T14:53:47.205321+00:00"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -3328,6 +3463,29 @@
       },
       {
         "section": "Formula 1 & Motorsport",
+        "source": "RaceFans",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "An early season finale? Five talking points for the 2026 Las Vegas Grand Prix",
+        "feed_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTDAzUEFMdVhSZS0wTGs0d2tiNUhsYmlKc0ZEWG9Zay1tYVpHTWdWczlOYWtOdzB2TWdlXzl5TlItT3hGaDB4bXN6cDB0TV9SX1VwYVR3LVQ3ck5qTGI5bEF3Vkl6Yl9mNGR3MmVJT1g3OEN5RTlsMXFmYWE4QU1HOE41N0hxdmJXeEFQd2d3UE45ZWJjaFM0ZkQ2QkRzSXVvcjRlWjZQY05FV0lEcnNDYWxRZw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTDAzUEFMdVhSZS0wTGs0d2tiNUhsYmlKc0ZEWG9Zay1tYVpHTWdWczlOYWtOdzB2TWdlXzl5TlItT3hGaDB4bXN6cDB0TV9SX1VwYVR3LVQ3ck5qTGI5bEF3Vkl6Yl9mNGR3MmVJT1g3OEN5RTlsMXFmYWE4QU1HOE41N0hxdmJXeEFQd2d3UE45ZWJjaFM0ZkQ2QkRzSXVvcjRlWjZQY05FV0lEcnNDYWxRZw?oc=5",
+        "published": "2026-11-17T09:07:11+00:00",
+        "published_label": "Tue 17 Nov, 13:07",
+        "summary": "An early season finale? Five talking points for the 2026 Las Vegas Grand Prix RaceFans",
+        "id": "2d7f4e29ddd2",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "talking-points preview piece",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-17T14:53:47.205321+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
         "source": "BBC Sport",
         "search": "BBC Sport",
         "lang": "en",
@@ -3453,6 +3611,62 @@
       },
       {
         "section": "Formula 1 & Motorsport",
+        "source": "Formula 1",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Wolff praises Antonelli despite ‘botched’ Japan start",
+        "feed_link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRV9hZVlpcW80bEw4NVBjVkUwMzkwQWRkVXI1NV84SW9VaGtYVlRDQ3ZqS3doTF9HUGUwQ0xpcEM2bVZkSDBFUFF4b0d0UDlVcVotOFBaa0pfa2tFMEdENjVrZ0djZ1V6TWd4eDJRcnYxcGlNUW1BczhkamNING53cDZqVzFia0Vla1dOTjYwSndScXVldkc4dDUzNmdQT3ZrUVRaenB3dWJGcW9rWmsxd0xaN01RVVFUVnh0WHVOdTQ1cW1LUDhGNjhMUkNIeVNkbHl4Mktfaw?oc=5",
+        "link": "https://www.formula1.com/en/latest/article/wolff-praises-antonellis-development-after-japan-win-as-he-admits-mercedes.3HVwyXe3RBdxfbyJ21LkuN",
+        "published": "2026-11-17T04:51:45+00:00",
+        "published_label": "Tue 17 Nov, 08:51",
+        "summary": "Wolff praises Antonelli despite ‘botched’ Japan start Formula 1",
+        "id": "20fcf278e0a1",
+        "bullets": [
+          "Kimi Antonelli won the Japanese Grand Prix at Suzuka, his second consecutive victory after his maiden win in China two weeks earlier. He started on pole ahead of Mercedes team mate George Russell but dropped to sixth at the start. He re-emerged in first place after pitting under the Safety Car, which followed Ollie Bearman's crash, and finished more than 13 seconds ahead of Oscar Piastri. Russell was fourth, and Antonelli became the youngest-ever leader of the Drivers' Championship.",
+          "Mercedes boss Toto Wolff called Antonelli's launch \"botched\" and said the team need to improve their starts generally. He said Antonelli was very fast when it mattered, and that extending his stint by a lap made the difference to Russell's race. Wolff said Russell had struggled after a set-up change before Saturday's Qualifying. He also noted that Antonelli joined the Mercedes Junior Programme in 2018 and is now 19."
+        ],
+        "triaged": true,
+        "priority": 4,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Kimi Antonelli has earned praise from Mercedes boss Toto Wolff following his victory in the Japanese Grand Prix, though Wolff also acknowledged that the team have work to do when it comes to their race starts.\n\nToto Wolff has praised Kimi Antonelli’s continued trajectory following the youngster’s second consecutive victory in Japan, though the Mercedes boss also acknowledged that the team need to work on their starts following a “botched” launch for the Italian.",
+        "first_seen": "2026-11-17T14:53:47.205321+00:00",
+        "summary_status": "done",
+        "label": "F1",
+        "line": "[Antonelli wins Japanese Grand Prix] for a second straight victory and becomes the youngest-ever Drivers' Championship leader, with Wolff critical of his start.",
+        "angle": "Championship context for the season run-in towards the Abu Dhabi Grand Prix finale. No direct ADNOC link.",
+        "stat": {
+          "value": "13",
+          "label": "seconds: Antonelli's winning margin over Piastri in Japan"
+        }
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Formula 1",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "5 storylines we're excited about ahead of the Las Vegas GP",
+        "feed_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTzc2TnRlNHJHa0FfbGNfWnRSR0FwcTlGUGM0aHVUMmY3elAyNXp5S2tNSFdXS2VIclk1RTd4cU9IQkJIVVZqSzZBZ2JEX0dmRlpsNGM2TlJFU19PWXpueTFWem9jYmR2N1I0M2kzVkdrYnRySnFxNWluRW9uTmY1ODFjclhLakx0YTJULXNXclFLNnZNVGNpd0ZXMldnX1JZUkdWNVg3LWJhRDZsWWd2VGNSQUd2M2t4emNDN2FkUXhjUm82cmgzcmtOeDRTRkVpVC1rb19jRGFYN0o3Z1lTaldTc3c?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTzc2TnRlNHJHa0FfbGNfWnRSR0FwcTlGUGM0aHVUMmY3elAyNXp5S2tNSFdXS2VIclk1RTd4cU9IQkJIVVZqSzZBZ2JEX0dmRlpsNGM2TlJFU19PWXpueTFWem9jYmR2N1I0M2kzVkdrYnRySnFxNWluRW9uTmY1ODFjclhLakx0YTJULXNXclFLNnZNVGNpd0ZXMldnX1JZUkdWNVg3LWJhRDZsWWd2VGNSQUd2M2t4emNDN2FkUXhjUm82cmgzcmtOeDRTRkVpVC1rb19jRGFYN0o3Z1lTaldTc3c?oc=5",
+        "published": "2026-11-17T02:50:35+00:00",
+        "published_label": "Tue 17 Nov, 06:50",
+        "summary": "5 storylines we're excited about ahead of the Las Vegas GP Formula 1",
+        "id": "a285d5035ecf",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "storylines preview, no new facts",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-17T14:53:47.205321+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
         "source": "FOX5 Vegas",
         "search": "F1 search",
         "lang": "en",
@@ -3473,6 +3687,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-17T05:23:47.932629+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Formula 1",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Why the Monaco Grand Prix is special",
+        "feed_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRkxGc3BMeFdiSWZvUEZITUZSTFhrV3BGTHJkWmR1b3ZSS2ZHWU9CMC1xLVk3N2taVFcyQ2U0el9PenIwOVZGdjhQNENmcnZQejUtbUFBNU52SUdrN29RRlpZVmlKcF84YmdwQzg1dG5oQU9fTk9qZTlZQU51Ukotb19CNm52R2VhcDNwWm9NLWhsTzRDeDRqZmg5MkZLVUt1WkxGTlM0S29XdHMyaERLWGs4bUx4aE81T2o2Ml80ZmwyWThuaGlTMDhha3c?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRkxGc3BMeFdiSWZvUEZITUZSTFhrV3BGTHJkWmR1b3ZSS2ZHWU9CMC1xLVk3N2taVFcyQ2U0el9PenIwOVZGdjhQNENmcnZQejUtbUFBNU52SUdrN29RRlpZVmlKcF84YmdwQzg1dG5oQU9fTk9qZTlZQU51Ukotb19CNm52R2VhcDNwWm9NLWhsTzRDeDRqZmg5MkZLVUt1WkxGTlM0S29XdHMyaERLWGs4bUx4aE81T2o2Ml80ZmwyWThuaGlTMDhha3c?oc=5",
+        "published": "2026-11-17T01:48:57+00:00",
+        "published_label": "Tue 17 Nov, 05:48",
+        "summary": "Why the Monaco Grand Prix is special Formula 1",
+        "id": "ab7afb4ab0f6",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "evergreen feature with no news",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-17T14:53:47.205321+00:00"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -3782,10 +4019,10 @@
         "triaged": true,
         "priority": 6,
         "is_article": true,
-        "read_attempts": 1,
+        "read_attempts": 2,
         "copy": "We can't connect to the server for this app or website at this time. There might be too much traffic or a configuration error. Try again later, or contact the app or website owner.\n\nIf you provide content to customers through CloudFront, you can find steps to troubleshoot and help prevent this error by reviewing the CloudFront documentation.",
         "first_seen": "2026-11-17T13:52:52.729432+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -7095,6 +7332,29 @@
     "UAE Pro League & GCC Football": [
       {
         "section": "UAE Pro League & GCC Football",
+        "source": "Rangers News",
+        "search": "Pro League watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Djeidi Gassama's reaction to Rangers flop spoiling Andrea Pirlo's night",
+        "feed_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFJQejgxUWVERnk5REh4bG54S1B0TEU3bEU4b0ZTaUxpQ3ZzVng3UmI4Ukk0emtLLWRuV2Zwd2lvcUVXR0o0bmtCTUw3RWtGY1BfWDZ5VU1ZNEtwWUZzbG1YNEg5R0hRRUVYcnNQVkhiRV94OGRPdEZERHc3bFp5MjJNUWZaNThxQWFLU1hyQXYyUkZ1WjJMQjlkSnZqeEQ0ckkzeFVtVEFfY3dBcUFQaWV5Z01LRG53?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOFJQejgxUWVERnk5REh4bG54S1B0TEU3bEU4b0ZTaUxpQ3ZzVng3UmI4Ukk0emtLLWRuV2Zwd2lvcUVXR0o0bmtCTUw3RWtGY1BfWDZ5VU1ZNEtwWUZzbG1YNEg5R0hRRUVYcnNQVkhiRV94OGRPdEZERHc3bFp5MjJNUWZaNThxQWFLU1hyQXYyUkZ1WjJMQjlkSnZqeEQ0ckkzeFVtVEFfY3dBcUFQaWV5Z01LRG53?oc=5",
+        "published": "2026-11-17T13:04:07+00:00",
+        "published_label": "Tue 17 Nov, 17:04",
+        "summary": "Djeidi Gassama's reaction to Rangers flop spoiling Andrea Pirlo's night Rangers News",
+        "id": "8ae0aa5d2454",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "Scottish club player reaction, not UAE or ADNOC-relevant",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-17T14:53:47.205321+00:00"
+      },
+      {
+        "section": "UAE Pro League & GCC Football",
         "source": "Retail & Leisure International",
         "search": "GCC football search",
         "lang": "en",
@@ -8296,13 +8556,13 @@
     ],
     "Running & Endurance": []
   },
-  "total": 348,
+  "total": 358,
   "edition": {
-    "drafted_at": "2026-11-17T13:56:15.424367+00:00",
+    "drafted_at": "2026-11-17T14:54:59.916061+00:00",
     "days": 14,
     "headline": [
-      "Rapha returns, TotalEnergies commits.",
-      "Abu Dhabi hosts the finale."
+      "Rivals keep signing.",
+      "Abu Dhabi hosts finales."
     ],
     "stats": [
       {
@@ -8327,9 +8587,9 @@
       }
     ],
     "watch": {
-      "id": "47acd2c017e2",
-      "lead": "TotalEnergies has signed a five-year title deal with FDJ United-Suez from 2027.",
-      "text": "It is the energy peer's first move into women's cycling, in a sport where ADNOC's UAE Team Emirates XRG is a leading property. [Cyclingnews] reports the deal begins in 2027."
+      "id": "06d96f531492",
+      "lead": "Iran drone attack in Bahrain raises pressure on F1's Qatar and Abu Dhabi finale.",
+      "text": "A second Iranian drone attack in three days hit a US base in Bahrain; F1 still plans to finish in Qatar and Abu Dhabi. ADNOC, founding partner of the Abu Dhabi Grand Prix, should follow [Yahoo Sports] reporting."
     }
   }
 }
