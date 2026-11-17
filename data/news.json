@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T05:23:47.932629+00:00",
-  "generated_label": "Tuesday 17 November 2026, 09:23 GST",
+  "generated_at": "2026-11-17T05:46:39.940226+00:00",
+  "generated_label": "Tuesday 17 November 2026, 09:46 GST",
   "keep_days": 14,
   "section_order": [
     "ADNOC & Partner News",
@@ -83,6 +83,40 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-17T05:23:47.932629+00:00"
+      },
+      {
+        "section": "Competitor News",
+        "source": "Cyclingnews",
+        "search": "Cyclingnews",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "'An important signal for women's cycling' – FDJ United-Suez welcome major new title sponsor as TotalEnergies takes big step into women’s WorldTour",
+        "feed_link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNTDQ3RU5oT1dZUmNCUlNtY2tiMWJGS0dGNWdlOUMyeXFXOEY5d2wzWkkzLXF6MGxpbVRXMXZPZVFuR2VYUHRPajByemlVcFQwV2locTRZaktfRnVzTGh4dFZWMnhmbEljZVUyNFEzanhhVV9faUVFVXRBdmotVXE3SnFrRHh2RzItQXF0cWRkU1VLb2lpMVE3ZVFKZlNLcDc1ZElkelVCNWxnYTgwRGdwTzRyZlE0LVRtYXpSVXdwbUxzeXRocDZwV1BaZVdjcENvVkxBbmlQUzBubV9WaHNlTjdOVjNSNkpNT2ZmMW5iem1RRlJRSTJWNmEySXRZdDJ2Y1g1cWRyajJLX0FaTGFUMEd5ckpHRjM4OHdtcVdKd0pPUQ?oc=5",
+        "link": "https://www.cyclingnews.com/pro-cycling/womens-cycling/an-important-signal-for-womens-cycling-fdj-united-suez-welcome-major-new-title-sponsor-as-totalenergies-takes-big-step-into-womens-worldtour/",
+        "published": "2026-11-16T17:05:02+00:00",
+        "published_label": "Mon 16 Nov, 21:05",
+        "summary": "'An important signal for women's cycling' – FDJ United-Suez welcome major new title sponsor as TotalEnergies takes big step into women’s WorldTour Cyclingnews",
+        "id": "47acd2c017e2",
+        "bullets": [
+          "FDJ United-Suez will become TotalEnergies-FDJ United in 2027 after the French energy company signed a five-year title sponsorship deal, its first involvement in women's cycling. TotalEnergies replaces Suez as naming sponsor, while FDJ United, title sponsor since 2017, stays on as second naming partner. The deal was announced on Monday.",
+          "The deal follows TotalEnergies ending its title sponsorship of Jean-René Bernaudeau's men's team, which it has backed since 2016, at the close of this year. Team manager Stephen Delcourt said talks began after the Tour de France, helped by TotalEnergies' existing partnerships with ASO for the Tour de France and Paris-Roubaix Femmes. He called it the longest deal in the team's history and an important signal for women's cycling. TotalEnergies also appears on the Netcompany Ineos jersey, and its future there is unclear."
+        ],
+        "triaged": true,
+        "priority": 6,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "FDJ United-Suez will become TotalEnergies-FDJ United in 2027 and beyond after striking a significant five-year deal to bring the French energy company into the women's peloton for the first time.\n\nThe partnership was announced on Monday afternoon, with TotalEnergies replacing Suez as a naming sponsor and finding its way back to title sponsorship of a cycling team very soon after not renewing its relationship with men's ProTeam TotalEnergies.",
+        "first_seen": "2026-11-17T05:23:47.932629+00:00",
+        "moved_from": "Cycling",
+        "summary_status": "done",
+        "label": "COMPETITORS",
+        "line": "[TotalEnergies signs a five-year title deal] with FDJ United-Suez from 2027, its first move into women's cycling.",
+        "angle": "A tracked energy peer is moving its cycling spend from a men's team to women's racing, in a sport where ADNOC backs UAE Team Emirates XRG.",
+        "stat": {
+          "value": "5",
+          "label": "years: TotalEnergies' title deal with FDJ United women's team"
+        }
       },
       {
         "section": "Competitor News",
@@ -290,40 +324,6 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-16T09:53:51.232069+00:00"
-      },
-      {
-        "section": "Competitor News",
-        "source": "Cyclingnews",
-        "search": "Cyclingnews",
-        "lang": "en",
-        "kind": "gnews",
-        "wide": false,
-        "title": "'An important signal for women's cycling' – FDJ United-Suez welcome major new title sponsor as TotalEnergies takes big step into women’s WorldTour",
-        "feed_link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNTDQ3RU5oT1dZUmNCUlNtY2tiMWJGS0dGNWdlOUMyeXFXOEY5d2wzWkkzLXF6MGxpbVRXMXZPZVFuR2VYUHRPajByemlVcFQwV2locTRZaktfRnVzTGh4dFZWMnhmbEljZVUyNFEzanhhVV9faUVFVXRBdmotVXE3SnFrRHh2RzItQXF0cWRkU1VLb2lpMVE3ZVFKZlNLcDc1ZElkelVCNWxnYTgwRGdwTzRyZlE0LVRtYXpSVXdwbUxzeXRocDZwV1BaZVdjcENvVkxBbmlQUzBubV9WaHNlTjdOVjNSNkpNT2ZmMW5iem1RRlJRSTJWNmEySXRZdDJ2Y1g1cWRyajJLX0FaTGFUMEd5ckpHRjM4OHdtcVdKd0pPUQ?oc=5",
-        "link": "https://www.cyclingnews.com/pro-cycling/womens-cycling/an-important-signal-for-womens-cycling-fdj-united-suez-welcome-major-new-title-sponsor-as-totalenergies-takes-big-step-into-womens-worldtour/",
-        "published": "2026-11-16T17:05:02+00:00",
-        "published_label": "Mon 16 Nov, 21:05",
-        "summary": "'An important signal for women's cycling' – FDJ United-Suez welcome major new title sponsor as TotalEnergies takes big step into women’s WorldTour Cyclingnews",
-        "id": "47acd2c017e2",
-        "bullets": [
-          "FDJ United-Suez will become TotalEnergies-FDJ United in 2027 after the French energy company signed a five-year title sponsorship deal, its first involvement in women's cycling. TotalEnergies replaces Suez as naming sponsor, while FDJ United, title sponsor since 2017, stays on as second naming partner. The deal was announced on Monday.",
-          "The deal follows TotalEnergies ending its title sponsorship of Jean-René Bernaudeau's men's team, which it has backed since 2016, at the close of this year. Team manager Stephen Delcourt said talks began after the Tour de France, helped by TotalEnergies' existing partnerships with ASO for the Tour de France and Paris-Roubaix Femmes. He called it the longest deal in the team's history and an important signal for women's cycling. TotalEnergies also appears on the Netcompany Ineos jersey, and its future there is unclear."
-        ],
-        "triaged": true,
-        "priority": 6,
-        "is_article": true,
-        "read_attempts": 1,
-        "copy": "FDJ United-Suez will become TotalEnergies-FDJ United in 2027 and beyond after striking a significant five-year deal to bring the French energy company into the women's peloton for the first time.\n\nThe partnership was announced on Monday afternoon, with TotalEnergies replacing Suez as a naming sponsor and finding its way back to title sponsorship of a cycling team very soon after not renewing its relationship with men's ProTeam TotalEnergies.",
-        "first_seen": "2026-11-17T05:23:47.932629+00:00",
-        "moved_from": "Cycling",
-        "summary_status": "done",
-        "label": "COMPETITORS",
-        "line": "[TotalEnergies signs a five-year title deal] with FDJ United-Suez from 2027, its first move into women's cycling.",
-        "angle": "A tracked energy peer is moving its cycling spend from a men's team to women's racing, in a sport where ADNOC backs UAE Team Emirates XRG.",
-        "stat": {
-          "value": "5",
-          "label": "years: TotalEnergies' title deal with FDJ United women's team"
-        }
       }
     ],
     "Wider Sports News": [
@@ -341,13 +341,20 @@
         "published_label": "Tue 17 Nov, 08:00",
         "summary": "Stop clock, ‘batter zones,’ and lots of Afghan players: What is new about ILT20? The National",
         "id": "8e377d2743ee",
-        "bullets": [],
+        "bullets": [
+          "The fifth season of the DP World International League T20 starts on Saturday 21 November, when defending champions Desert Vipers face MI Emirates at Dubai International Stadium. Six teams play each other twice before the play-offs and final, with league matches running to 9 December across Dubai, Sharjah and Abu Dhabi.",
+          "Each playing XI must now include at least two UAE players, two Afghans and one from an Associate country, who can also be a UAE player. New rules introduce a 'batter zone' for judging wides and extend the 60-second between-overs clock to batters, who get two warnings per innings before five penalty runs are awarded. Teams can still field up to nine overseas players, a rule the ICC is reportedly looking into ending."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "The fifth season of the DP World International League T20 starts on Saturday. Desert Vipers, the defending champions, will face MI Emirates in the opening match at Dubai International Stadium.\n\nIt is a rematch of last year’s final, when the side that had won the most matches in the competition’s history finally won the title for the first time. The 20-over competition involves six teams who play each other twice over the league phase, before play-offs and a final.",
-        "first_seen": "2026-11-17T05:23:47.932629+00:00"
+        "first_seen": "2026-11-17T05:23:47.932629+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[ILT20 season five starts Saturday] with new squad rules and a batter zone for wides, as Desert Vipers face MI Emirates in Dubai.",
+        "angle": "A UAE-hosted league with new rules and Abu Dhabi fixtures is relevant to the region's sports calendar, though the DP World name is only the event's title."
       },
       {
         "section": "Wider Sports News",
@@ -373,6 +380,51 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "Ministry of Sport",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Little Athletics Queensland Partners with Sol Xenia to Champion Sun Safety and Grassroots Sport",
+        "feed_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaW4zRm5qR0hoUVFRMUZobkwzdUhBYjNwRzZadUFkd3ItRUxXV3N1X0V3THF0bk93UjNOWE5vS0VybE9MOEo2ZlJzcE94YjFBQ3o1TUM0cmM3NnNtWlJoX25ZTWRGbzBicGF0bXZ2b1RkX2lUNTNrU1ExZ2tsWjM5ckVRX0VmSFRVd096WlpMRTdiQmFidDRha0pZaGNOOTRON0NXN0JlSlR1cW4tLV93cFdZcmlqMDJBOWVRbEIwU0dTZw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaW4zRm5qR0hoUVFRMUZobkwzdUhBYjNwRzZadUFkd3ItRUxXV3N1X0V3THF0bk93UjNOWE5vS0VybE9MOEo2ZlJzcE94YjFBQ3o1TUM0cmM3NnNtWlJoX25ZTWRGbzBicGF0bXZ2b1RkX2lUNTNrU1ExZ2tsWjM5ckVRX0VmSFRVd096WlpMRTdiQmFidDRha0pZaGNOOTRON0NXN0JlSlR1cW4tLV93cFdZcmlqMDJBOWVRbEIwU0dTZw?oc=5",
+        "published": "2026-11-17T01:39:27+00:00",
+        "published_label": "Tue 17 Nov, 05:39",
+        "summary": "Little Athletics Queensland Partners with Sol Xenia to Champion Sun Safety and Grassroots Sport Ministry of Sport",
+        "id": "d4740d0a63bd",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "grassroots sun-safety partnership",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Trinidad Guardian",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Defending champs TKR secure boost for CPL as bpTT steps up",
+        "feed_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONWg2MFNjZEdnb2ZaQm1kaWlFUXo3Rzg4S0swdVVrY2JFV29JMHBXQWFGRGtmYUR5TGZNZ1dpcS1kN3BCM21YRThQMmwwYVA4cENTSVFKMDU1THhBZlVHMkpJQmZCVGZsNGdEMUg2ZVQzeG9ncWdGSGhwcFQ3bGVHVFJUVHVXQXpKdGdMV1RqU2NZamZQcm5wekxIWWpUcmNNdTRzV3Q3eHUyc1FUTno5b3JJQTc?oc=5",
+        "link": "http://www.guardian.co.tt/sports/defending-champs-tkr-secure-boost-for-cpl-as-bptt-steps-up-6.2.2640506.c238de5b6e",
+        "published": "2026-11-17T00:07:29+00:00",
+        "published_label": "Tue 17 Nov, 04:07",
+        "summary": "Defending champs TKR secure boost for CPL as bpTT steps up Trinidad Guardian",
+        "id": "7be7e9e11feb",
+        "bullets": [],
+        "triaged": true,
+        "priority": 2,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Five-time champions and defending titleholders Trinbago Knight Riders (TKR) have secured major backing for the upcoming Republic Bank Caribbean Premier League (CPL) season, officially locking in bp Trinidad and Tobago (bpTT) as a key sponsor.\n\nThe historic partnership was sealed on Tuesday at a signing ceremony at the Hyatt Regency, Port-of-Spain, marking the energy giant’s first-ever national-level sports sponsorship of this scale.",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "الاتحاد السعودي لكرة القدم",
         "search": "Gulf sports business search",
         "lang": "en",
@@ -385,13 +437,102 @@
         "published_label": "Tue 17 Nov, 02:43",
         "summary": "Al-Mussahal Thanks the Leadership for the Historic Achievement of the Kingdom Winning the Right to Host the 2034 World Cup - Saudi Arabian Football Federation الاتحاد السعودي لكرة القدم",
         "id": "9d063ada1e84",
-        "bullets": [],
+        "bullets": [
+          "Saudi Football Federation chairman Yasser bin Hassan Al-Mussahal thanked King Salman bin Abdulaziz Al Saud and Crown Prince Mohammed bin Salman for their support after the Kingdom won the right to host the 2034 World Cup. He said the bid received the highest evaluation in the history of World Cup bids, and also thanked Sports Minister Prince Abdulaziz bin Turki Al-Faisal for his follow-up of the bid file.",
+          "Al-Mussahal thanked FIFA and the FIFA Congress members for their confidence in the Saudi bid and pledged a historic edition that brings together fans from around the world. He said the Kingdom has hosted more than 100 international sporting events and described the 2034 tournament as the crowning of that record."
+        ],
         "triaged": true,
         "priority": 5,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Saudi Football Federation Board Chairman Yasser bin Hassan Al-Mussahal, in his name and on behalf of board members, extended his highest thanks and gratitude to the Custodian of the Two Holy Mosques King Salman bin Abdulaziz Al Saud - may God support him - and to His Royal Highness Prince Mohammed bin Salman bin Abdulaziz Al Saud, Crown Prince and Prime Minister - may God protect him - for the generous support of the sports sector, which today bore fruit in the historic achievement of the Kingdom winning the right to host the 2034 World Cup.\n\nThe Saudi Federation President appreciated the great support from the Crown Prince, with direct supervision and continued attention, which had the greatest impact on the file receiving the highest evaluation in the history of World Cup bids.",
-        "first_seen": "2026-11-17T05:23:47.932629+00:00"
+        "first_seen": "2026-11-17T05:23:47.932629+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[Saudi Arabia wins the right to host] the 2034 World Cup, with the federation citing the highest bid evaluation in World Cup history.",
+        "angle": "Saudi Arabia's confirmed 2034 hosting adds to the Gulf's growing sports-hosting profile, shaping the regional competitive context for Abu Dhabi's events.",
+        "stat": {
+          "value": "100+",
+          "label": "international sporting events hosted by Saudi Arabia, per federation"
+        }
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Ministry of Sport",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Sports Entertainment Group Launches Adelaide Broadcast Precinct SEN SA House with AAMI Naming Rights",
+        "feed_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON1Vjb0hPSUtpZUJQR200c0FUalp5SHZMN2h4VGVITHAwWkFsTURxWHFELWkwcXVObDVXMW81ckNqMzNBeHFodDFUREo1MTM5QWNUa1VyeVcyUFZDeDRkUTk4OG12M1Jiak1FaEtfSk5OVDU5V18ycnUtVm9IMEQ4U0s0WUNmcDczdUdudnJ0ckVzRnJfZ3Exc0h3S3JSSl82SngzLVdPNk9iYnNwazRONTN2OS1Ea1BVU2l3TS16TUgwWmtFQW5sdQ?oc=5",
+        "link": "https://ministryofsport.com/sports-entertainment-group-launches-adelaide-broadcast-precinct-sen-sa-house-with-aami-naming-rights/",
+        "published": "2026-11-16T22:17:52+00:00",
+        "published_label": "Tue 17 Nov, 02:17",
+        "summary": "Sports Entertainment Group Launches Adelaide Broadcast Precinct SEN SA House with AAMI Naming Rights Ministry of Sport",
+        "id": "cbcdb4075669",
+        "bullets": [],
+        "triaged": true,
+        "priority": 4,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Sports Entertainment Group (SEG) has announced a capital investment to establish SEN SA House, a state-of-the-art sports media and broadcast precinct at 1 King William Street on the corner of North Terrace in Adelaide’s central business district.\n\nAnnounced on 16 November 2026 to mark SEN SA’s eighth anniversary, the development is backed by a three-year naming-rights partnership with Australian insurer AAMI. Scheduled for completion in late 2026, the facility sits within walking distance of Adelaide Oval and aims to more than double SEG’s locally produced audio, television, and digital content across South Australia.",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Yahoo Sports",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "PGA Tour Sponsorship Revenue Tops $1 Billion As Rival LIV Fades",
+        "feed_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeW5reU5xNm13a0hOLVlJZGsxMk9zUDBadjBkNHV4QjVWOEtiQXh3WlUtT0d1MVlvMUVqMktTbTFyYklTU1hyQkRIU2R0emMzOG9TT1BETUNwU1RGOVExZWpTWkFOdVdRY0VZVERDLS1FQ0tXZ0V2VmVBT2FGbXl4dDlma1JZMVFPQlE?oc=5",
+        "link": "https://sports.yahoo.com/articles/pga-tour-sponsorship-revenue-tops-213554022.html",
+        "published": "2026-11-16T21:35:54+00:00",
+        "published_label": "Tue 17 Nov, 01:35",
+        "summary": "PGA Tour Sponsorship Revenue Tops $1 Billion As Rival LIV Fades Yahoo Sports",
+        "id": "51728f0a1322",
+        "bullets": [
+          "PGA Tour sponsorship revenue has topped $1 billion for the first time, according to Mundo Deportivo, with commercial income up 14% this year. Rolex renewed its multiyear deal as official timekeeper, and agreements with Amazon Web Services, Raymond James and AbbVie also contributed to the total.",
+          "From 2028 the schedule will split into a Championship Series of about 130 players in 24 events with purses of at least $20 million, and a Challenger Series of 20 events with purses of at least $4 million. Chief commercial officer Dhruv Prasad said deals are secured for almost every Championship Series event and talks are under way for the Challenger Series. FedEx, title sponsor of the FedEx Cup since 2007, has not confirmed its deal beyond 2027, and the article says LIV Golf has begun shutting down."
+        ],
+        "triaged": true,
+        "priority": 5,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "The PGA Tour crossed a major financial milestone, as sponsorship revenue topped $1 billion for the first time. Mundo Deportivo reported the U.S.-based circuit saw a 14% increase in commercial income this year. This figure marks a new high for the organization after years of battling for control of professional golf.\n\nStrong partnerships with global brands drove this growth. Rolex renewed its multiyear deal to remain the official timekeeper across all tour platforms, according to Mundo Deportivo. Alongside Rolex, agreements with Amazon Web Services, Raymond James, and AbbVie added significant weight to the revenue total.",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00",
+        "summary_status": "done",
+        "label": "GOLF",
+        "line": "[PGA Tour sponsorship revenue tops $1 billion] for the first time, up 14%, as it plans a two-tier schedule from 2028.",
+        "angle": "A tiered, sponsor-friendly structure and record commercial income give a benchmark for packaging ADNOC's own sports properties.",
+        "stat": {
+          "value": "$1bn",
+          "label": "PGA Tour sponsorship revenue, up 14% this year"
+        }
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "WV News",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "WesBanco renews sponsorship of The Bridge Sports Complex fieldhouse",
+        "feed_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZUJSNnlDRlVjekxJZXY3QTZzbllCaHA4eWFwYUdjVFpsUFp2b0RLd2RXaHZyVVpib3Q2VXJsVXRsLVRLQl9NbjFjcFR4cUczSVc4cFM0a1NGZDVYcnRWRWttNDNnQ3Q3UVFwNVBrMzFPVUZJdXFMM2FfQ3hKejFXeDJCSFRwMUl5dHlsX0l0YVhxYW93WjZUaWtya3Y0ODJtaGt1dDlyZ1drY0tNUGg2N3ZUVkJtYWd0UmtMSVVuTUtDUDFiY2Z3OWNlcE9uRU5ZWktzS0UwdnZJVERpY0pta1RGdkliQQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZUJSNnlDRlVjekxJZXY3QTZzbllCaHA4eWFwYUdjVFpsUFp2b0RLd2RXaHZyVVpib3Q2VXJsVXRsLVRLQl9NbjFjcFR4cUczSVc4cFM0a1NGZDVYcnRWRWttNDNnQ3Q3UVFwNVBrMzFPVUZJdXFMM2FfQ3hKejFXeDJCSFRwMUl5dHlsX0l0YVhxYW93WjZUaWtya3Y0ODJtaGt1dDlyZ1drY0tNUGg2N3ZUVkJtYWd0UmtMSVVuTUtDUDFiY2Z3OWNlcE9uRU5ZWktzS0UwdnZJVERpY0pta1RGdkliQQ?oc=5",
+        "published": "2026-11-16T19:00:00+00:00",
+        "published_label": "Mon 16 Nov, 23:00",
+        "summary": "WesBanco renews sponsorship of The Bridge Sports Complex fieldhouse WV News",
+        "id": "e7982a0eae2b",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "local facility sponsorship, no ADNOC or UAE link",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -418,6 +559,28 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "Las Cruces Sun-News",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "$13 million deal brings new name to Pan American Center - Las Cruces Sun-News",
+        "feed_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQamZuRENRN0oyQngyb2pDWmlCNHF5OFFZbmk5V3dkNm9rVzBseGhYSjllZnRKUklQZEFUNndoZkhDb0N0c040Y1lyTWg5dGJtcF9xS2RIMF9oZFdZQmRLSWNJN3JHWklZSERqVmc4dkdRRll4RDA3WHFiTkdQWWtzZERhTFRLVmRmUUMzeEhiRUY1RmYtSDhieHhwT1Vsb0I2aUduY1pJRHZibmRIOFU2Y0hVNUVkUFM4LXZHYlBQS0VJV1F6SU0wN0pFSTAxUkpNSmFRelJn?oc=5",
+        "link": "https://www.lcsun-news.com/story/sports/college/2026/11/16/pan-american-center-renamed-in-13-million-deal-for-new-mexico-state/92766022007/",
+        "published": "2026-11-16T18:08:00+00:00",
+        "published_label": "Mon 16 Nov, 22:08",
+        "summary": "$13 million deal brings new name to Pan American Center Las Cruces Sun-News",
+        "id": "8ad88a2085e9",
+        "bullets": [],
+        "triaged": true,
+        "priority": 3,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "A 10-year, $13 million naming rights agreement will turn the Pan American Center into White Sands Federal Credit Union Arena at the Pan American Center. The agreement will run through the 2035-36 academic year, according to an announcement from New Mexico State University on Friday, Nov. 13. It is the first naming rights agreement in the nearly 58-year history of the NMSU venue, which opened Nov. 30, 1968.\n\nWhite Sands Federal Credit Union secured the naming rights through a partnership involving the university athletic department and Van Wagner. The arena is home to the Aggies’ men’s basketball, women’s basketball and volleyball programs.",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "SportsPro",
         "search": "SportsPro",
         "lang": "en",
@@ -430,13 +593,74 @@
         "published_label": "Mon 16 Nov, 21:57",
         "summary": "After landmark partnerships with Hello Kitty, Togethxr and Monarch Commerce, the WTA is planning to expand its merchandise offering. The post Why the WTA is ready to build its own merchandise business appeared first on SportsPro .",
         "id": "e59bca9f7127",
-        "bullets": [],
+        "bullets": [
+          "The Women's Tennis Association has made its biggest move into merchandise in its 53-year history, unveiling its first official collaboration with Sanrio's Hello Kitty at the WTA Finals in Indian Wells. The range includes co-branded t-shirts, sweatshirts and a collectible plush, delivered through Sanrio licensees Wild Collective, Forever Collectibles and Homage.",
+          "The tour has also partnered with Togethxr and Monarch Commerce, which will launch its first online fan shop in spring 2027. WTA chief brand officer Sarah Swanson said merchandise was always part of the plan once the brand was in order, and that product can act as the top of the funnel for new fans. The shop will carry white-label WTA merchandise alongside licensed Hello Kitty and Togethxr products."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "The Women’s Tennis Association (WTA) is making its biggest move into the merchandise category in its 53-year history. At last week’s WTA Finals in Indian Wells, the tour unveiled its first-ever official merchandise collaboration with Japanese entertainment company Sanrio’s Hello Kitty to create co-branded t-shirts, sweatshirts and a collectible plush. That was followed by further partnerships with women’s sports media and commerce company Togethxr and Monarch Commerce, which will launch the tour’s first online fan shop next year.\n\nThe push into consumer products comes a year after WTA Ventures, the organisation’s commercial arm, launched a refreshed brand identity for the tour as part of a wider strategy to build a lifestyle brand that has relevance beyond the sport itself.",
-        "first_seen": "2026-11-17T05:23:47.932629+00:00"
+        "first_seen": "2026-11-17T05:23:47.932629+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[WTA launches first merchandise push] with Hello Kitty, Togethxr and Monarch Commerce, with an online fan shop due in spring 2027.",
+        "angle": "Shows how a governing body can use co-branded merchandise to reach new audiences, an idea relevant to ADNOC-backed events and fan engagement.",
+        "activation": {
+          "title": "WTA, Hello Kitty collaboration",
+          "what": "The WTA launched co-branded Hello Kitty apparel and a plush at the WTA Finals, ahead of a 2027 online shop.",
+          "borrow": "Launch co-branded merchandise at the ADNOC Abu Dhabi Marathon to reach new audiences."
+        },
+        "stat": {
+          "value": "4m+",
+          "label": "spectators at WTA events in 2025"
+        }
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Saddleworth Independent -",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Saddleworth solicitors back young footballers with sponsorship - Saddleworth Independent -",
+        "feed_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbXl5WTBVVWxselB0V3FUMWhLMlRKUnRKWms2M21kVUF3WERfYnJVNGkxSmRfdGNqVmxSeXQ3N0RDVExMSzFIV3R5UHA2U0dlNEt0YTg3MU54VmN2amxwVTJyVWlNV2MtRzZkc0ZIcFJUeHdMM285V0hwTlVVZWlHMjZLTFRvMXFNcHZjMGpn?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbXl5WTBVVWxselB0V3FUMWhLMlRKUnRKWms2M21kVUF3WERfYnJVNGkxSmRfdGNqVmxSeXQ3N0RDVExMSzFIV3R5UHA2U0dlNEt0YTg3MU54VmN2amxwVTJyVWlNV2MtRzZkc0ZIcFJUeHdMM285V0hwTlVVZWlHMjZLTFRvMXFNcHZjMGpn?oc=5",
+        "published": "2026-11-16T16:39:06+00:00",
+        "published_label": "Mon 16 Nov, 20:39",
+        "summary": "Saddleworth solicitors back young footballers with sponsorship Saddleworth Independent -",
+        "id": "1c955b3e7db7",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "local grassroots sponsorship",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Yahoo Sports",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Galo announces Sólides sponsorship for the Copa Sul-Americana final",
+        "feed_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMVAwWldYcUI5NmNsWEYxMGI4UWhXQjktMVJOeFdPWm5QdnBXTGk3VHE3bzRuSnlETk1nczRpUlRXSE8xdXZrS2FTaXVMZFI2U0FKT0hpVDdjdHZqVndfcGR0T0VkNXoyYTNPdEJJbGh1a251NzdCNnhicjQ0QUdBNGhEU3dFVW5ZMUlKWXJvOA?oc=5",
+        "link": "https://sports.yahoo.com/articles/galo-announces-lides-sponsorship-copa-160000046.html",
+        "published": "2026-11-16T16:00:00+00:00",
+        "published_label": "Mon 16 Nov, 20:00",
+        "summary": "Galo announces Sólides sponsorship for the Copa Sul-Americana final Yahoo Sports",
+        "id": "349a231199de",
+        "bullets": [],
+        "triaged": true,
+        "priority": 2,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Atlético will have Sólides as a one-match sponsor for the CONMEBOL Sudamericana final. The Minas Gerais-based company will have its brand displayed on the side hem of the black-and-white shirt for the clash against Argentina's Boca Juniors, scheduled for November 21 at 7:30 p.m. (Brasília time) at the Estadio Metropolitano Roberto Meléndez in Barranquilla, Colombia.\n\nThe partnership reinforces the presence of Minas Gerais companies alongside Atlético at an important moment in the club's international journey. \"We are pleased and proud to display the brand of a company founded in Minas Gerais, but with a strong national presence, in Galo's most important match of the year. This Sólides sponsorship reinforces the club's commitment to always seeking opportunities to find partners who share our vision for the club's future,\" says Márcio Freire, Atlético's Vice President of Business.",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -458,7 +682,9 @@
         "is_article": true,
         "read_attempts": 2,
         "copy": "",
-        "first_seen": "2026-11-17T05:23:47.932629+00:00"
+        "first_seen": "2026-11-17T05:23:47.932629+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -482,6 +708,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-17T05:23:47.932629+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "RTR Sports Marketing",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "MotoGP satellite teams 2027: why it’s the right year for a sponsor",
+        "feed_link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51YWVsRHV1UTNuNVV6dmhOMlBycVB6Nl9yOC1MTkIzZm5FUlhZT0tJTU1qSEMyNmNQbF9BRGVvWmlrVjRzNUZzVkxtc2YzWUNfRV9wQ3o3Q2tTMTgtTng2YXBlbmRfaEo4eDVwY3JPa1lQTEZ1c0VTd19n?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE51YWVsRHV1UTNuNVV6dmhOMlBycVB6Nl9yOC1MTkIzZm5FUlhZT0tJTU1qSEMyNmNQbF9BRGVvWmlrVjRzNUZzVkxtc2YzWUNfRV9wQ3o3Q2tTMTgtTng2YXBlbmRfaEo4eDVwY3JPa1lQTEZ1c0VTd19n?oc=5",
+        "published": "2026-11-16T13:40:53+00:00",
+        "published_label": "Mon 16 Nov, 17:40",
+        "summary": "MotoGP satellite teams 2027: why it’s the right year for a sponsor RTR Sports Marketing",
+        "id": "bf47273009db",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "MotoGP sponsor-pitch opinion piece",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -621,6 +870,28 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "iGaming Brazil",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Flamengo revisits main sponsorship and could post a bigger-than-expected loss",
+        "feed_link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRWw5WlZQMl9kVHhqZks0VXZkWjlLeFF3bnlVLVNYVWw4UnJXM3RnZ2lMMzFkY21NRWlRcWtKUGJrZEc1M2k4b3Zla2NjTjdHemJkTmVEbC10QjdJNnpCUVpRUWhfaFVPQmNkbDJYSFd5NGdKdGJRaVpZZFFoRVdPTDlBSEh6SEtUVi1lZ2t1NV95dWtGQVowVmthdFRkdFZvTEtwQmhmRWlhbF9Pc3FHQ2doRE9RX2Vmbl81N0o0T0xUX3dQRVNhSA?oc=5",
+        "link": "https://igamingbrazil.com/en/bookmakers/2026/11/16/flamengo-revisits-main-sponsorship-and-could-post-a-bigger-than-expected-loss/",
+        "published": "2026-11-16T12:24:27+00:00",
+        "published_label": "Mon 16 Nov, 16:24",
+        "summary": "Flamengo revisits main sponsorship and could post a bigger-than-expected loss iGaming Brazil",
+        "id": "45e3543c1962",
+        "bullets": [],
+        "triaged": true,
+        "priority": 2,
+        "is_article": true,
+        "read_attempts": 2,
+        "copy": "",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Art Basel",
         "search": "Gulf sports business search",
         "lang": "en",
@@ -641,6 +912,28 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-17T05:23:47.932629+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sports Media Watch",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "News: NHL media rights, Paramount-WBD, Angels and more",
+        "feed_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMEhHNjNpdFZVcHdaTEFTQWJ3QkxkWG9KWURDNkFyU1Z5TU1UYS0yclkyaEVzZnptNGFQWk1CVkxTcnQ3aWh2dUpMRVFNdWpYbmJYUnU3bzktQ29IUlpXcVBZVU45YTBwY0xSWHh3M2JHSlJ0MExaTlNIZWNwdml4TVJvaFFWd0pEOVBYUmhIRXJqdVk?oc=5",
+        "link": "https://www.sportsmediawatch.com/2026/02/nhl-media-rights-paramount-wbd-angels-mlb-media/",
+        "published": "2026-11-16T11:40:26+00:00",
+        "published_label": "Mon 16 Nov, 15:40",
+        "summary": "News: NHL media rights, Paramount-WBD, Angels and more Sports Media Watch",
+        "id": "d24363414864",
+        "bullets": [],
+        "triaged": true,
+        "priority": 3,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "The NHL has reportedly approached ESPN and TNT Sports about media rights renewals; Paramount has updated aspects of its hostile tender offer for Warner Bros. Discovery; and in-market streaming of Los Angeles Angels broadcasts will take place through the MLB DTC platform. Plus news on ESPN, Netflix, CBS-UFC and Fubo.\n\nNHL commissioner Gary Bettman is said to have approached ESPN and TNT Sports about expediting their media rights negotiations, according to John Ourand of Puck Tuesday night. Ourand, who reported the same about the PGA Tour, wrote that the networks do not appear poised to negotiate new deals “until they know how much the NFL will ask for.” The NFL currently receives a reported sum of more than $11 billion annually for its media rights.",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -679,13 +972,24 @@
         "published_label": "Mon 16 Nov, 14:18",
         "summary": "Four-year agreement makes US sportswear giant first brand to supply match ball for all three Uefa men’s club competitions. The post Nike ends Adidas’ Champions League ball reign with €40m-a-year deal appeared first on SportsPro .",
         "id": "a65664683ea9",
-        "bullets": [],
+        "bullets": [
+          "Nike will become the official match ball provider of the Uefa Champions League from next season, ending Adidas' 25-year association with the competition. The deal runs until the end of the 2030/31 campaign and also sees Nike replace Kipsta as ball supplier for the Europa League and Conference League, the first time one company has supplied all three Uefa men's club competitions.",
+          "Financial terms were not disclosed, but SportsPro understands the deal is worth around €40 million (US$44 million) a year, which the Financial Times said doubled the value of the current agreement. Uefa club competition rights owner UC3 and its sales agency Relevent Football Partners entered exclusive talks with Nike in April after a tender process. Adidas remains ball supplier for the women's tournament and Uefa national team competitions, including Euro 2028 and the Nations League."
+        ],
         "triaged": true,
         "priority": 6,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Nike will take over as the official match ball provider of the Uefa Champions League from next season, ending its German sportswear rival Adidas’ 25-year association with European soccer’s premier competition.\n\nThe deal, which runs until the end of the 2030/31 campaign, will also see Nike replace Decathlon brand Kipsta as the ball supplier of the Europa League and Conference League, marking the first time one company has fulfilled the role for all three Uefa men’s club competitions.",
-        "first_seen": "2026-11-16T10:25:06.720631+00:00"
+        "first_seen": "2026-11-16T10:25:06.720631+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[Nike replaces Adidas as Champions League ball supplier] from next season in a deal to 2030/31, reportedly worth about €40m a year.",
+        "angle": "Shows how Uefa's new tiered sponsorship structure is reshaping category deals, a useful benchmark for ADNOC's own property packaging and supplier categories.",
+        "stat": {
+          "value": "€40m",
+          "label": "reported annual value of Nike's Champions League ball deal"
+        }
       },
       {
         "section": "Wider Sports News",
@@ -1810,13 +2114,24 @@
         "published_label": "Tue 17 Nov, 00:36",
         "summary": "What’s left to race for at F1 Las Vegas Grand Prix after champion decided? Las Vegas Review-Journal",
         "id": "05f25ba7d1b5",
-        "bullets": [],
+        "bullets": [
+          "Kimi Antonelli, 20, has already won the 2026 drivers' championship and Mercedes the constructors' title, leaving the battle for second place as the focus at the Las Vegas Grand Prix. Five drivers are separated by 33 points with three races remaining: Max Verstappen on 279, George Russell 262, Lewis Hamilton 261, Charles Leclerc 249 and Lando Norris 246.",
+          "Verstappen, 111 points behind Antonelli, is the defending Las Vegas winner and has won there twice. Practice starts on Thursday and the 50-lap race is at 8pm on Saturday on the 3.853-mile Strip circuit. Norris, the 2025 champion, was disqualified from second place at last year's race and Antonelli said he wants to finish the season with more wins."
+        ],
         "triaged": true,
         "priority": 3,
         "is_article": true,
         "read_attempts": 1,
         "copy": "The Formula One drivers and constructors world championships have both been decided heading into this week’s Las Vegas Grand Prix. But there’s still plenty of stakes on the line for a handful of the other 21 drivers.\n\nThere will be a little less buzz when F1 returns to The Strip for the Las Vegas Grand Prix after 20-year-old Kimi Antonelli won the drivers’ championship last month after a dominant season and Mercedes clinched the constructors championship on Nov. 8 in Brazil.",
-        "first_seen": "2026-11-17T05:23:47.932629+00:00"
+        "first_seen": "2026-11-17T05:23:47.932629+00:00",
+        "summary_status": "done",
+        "label": "F1",
+        "line": "[Five drivers split by 33 points] fight for second in the standings behind champion Antonelli, with three races left starting in Las Vegas.",
+        "angle": "With titles settled, interest turns to the runner-up fight and the run-in to the season finale at the Abu Dhabi Grand Prix.",
+        "stat": {
+          "value": "33",
+          "label": "points separating five drivers fighting for second place"
+        }
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -1930,13 +2245,25 @@
         "published_label": "Mon 16 Nov, 21:38",
         "summary": "Williams unveil special livery for Las Vegas Grand Prix Formula 1",
         "id": "aef69d64a3c9",
-        "bullets": [],
+        "bullets": [
+          "Williams have unveiled a one-off chrome livery for the Las Vegas Grand Prix weekend, created with title partner Atlassian and designed to shine under the lights of the Las Vegas Strip Circuit. Alex Albon and Carlos Sainz will race the car, and both drivers will also wear custom race suits and gloves that match the colour scheme.",
+          "Williams said the design reflects a shared belief that the fastest way forward is knowing where you have been. Team Principal James Vowles said the team is working with Atlassian to draw on its near-50-year history. Atlassian CEO Mike Cannon-Brookes said the partnership goes beyond the track, with the two companies building AI workflows on the Atlassian Teamwork Graph to connect the team's expertise, knowledge and projects."
+        ],
         "triaged": true,
         "priority": 2,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Williams have unveiled a special livery that will adorn their car for the Las Vegas Grand Prix weekend. The one-off chrome look is a collaboration with the team’s title partner Atlassian, designed to shine under the lights as Alex Albon and Carlos Sainz take to the Las Vegas Strip Circuit. Both drivers will also sport custom race suits and gloves in line with the colour scheme.\n\nIn an announcement revealing the livery, Williams stated that the design is “the latest embodiment of Williams and Atlassian’s belief that the fastest way forward is knowing where you have been, which is central to the partnership”.",
-        "first_seen": "2026-11-17T05:23:47.932629+00:00"
+        "first_seen": "2026-11-17T05:23:47.932629+00:00",
+        "summary_status": "done",
+        "label": "F1 BUSINESS",
+        "line": "[Williams unveil a one-off chrome livery] with title partner Atlassian for the Las Vegas Grand Prix weekend.",
+        "angle": "A title-partner livery tied to a single race weekend shows how F1 partners create one-off activations around a Grand Prix, a format ADNOC could consider for Abu Dhabi.",
+        "activation": {
+          "title": "Atlassian, Las Vegas GP",
+          "what": "Williams and Atlassian launched a one-off chrome livery with matching race suits and gloves for the Las Vegas weekend.",
+          "borrow": "Create a one-off race-weekend design that links ADNOC's Abu Dhabi Grand Prix role to a partner story."
+        }
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -1998,13 +2325,24 @@
         "published_label": "Mon 16 Nov, 20:33",
         "summary": "When is the earliest Antonelli could win the title? Formula 1",
         "id": "68eedb648350",
-        "bullets": [],
+        "bullets": [
+          "Kimi Antonelli leads the drivers' standings by 123 points from George Russell after 18 rounds of the 2026 season, with Lewis Hamilton 124 points behind in third. The Mercedes driver has topped the table since Round 3 in Japan and strengthened his position by winning the United States Grand Prix.",
+          "Five rounds remain, with a maximum of 125 points available, so only Russell and Hamilton can still mathematically beat him. Antonelli will very likely clinch the title at the Mexico City Grand Prix if he finishes ninth or higher. Mercedes can also win the Constructors' Championship there, but only if Ferrari score very few points. The title could reach Abu Dhabi only if Antonelli scores no more points and Russell or Hamilton win every remaining race."
+        ],
         "triaged": true,
         "priority": 2,
         "is_article": true,
         "read_attempts": 1,
         "copy": "POINTS PERMUTATIONS: When could Antonelli win the World Championship? As Kimi Antonelli continues to lead the standings, F1.com looks at the permutations for when the Mercedes driver could mathematically win the World Championship.\n\nKimi Antonelli has remained at the top of the drivers’ standings since Round 3 of the campaign in Japan – and his hold on the P1 slot was strengthened following his victory at the United States Grand Prix.",
-        "first_seen": "2026-11-17T05:23:47.932629+00:00"
+        "first_seen": "2026-11-17T05:23:47.932629+00:00",
+        "summary_status": "done",
+        "label": "F1",
+        "line": "[Antonelli can clinch the title] at the Mexico City Grand Prix by finishing ninth or higher, leading Russell by 123 points with five rounds left.",
+        "angle": "The title is very likely to be settled before the season finale, so the Abu Dhabi Grand Prix is unlikely to host a championship decider.",
+        "stat": {
+          "value": "123",
+          "label": "points: Antonelli's lead over Russell with five rounds left"
+        }
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -2072,7 +2410,9 @@
         "is_article": true,
         "read_attempts": 1,
         "copy": "For Mercedes fans. All the latest from the Silver Arrows, with F1 news, driver updates, car development and race analysis from Brackley and Brixworth. At the height of their bitter championship battles, the idea of Christian Horner sending Toto Wolff a warm congratulatory text would have seemed entirely fictional to most Formula 1 fans. But following Kimi Antonelli's historic 2026 title victory with Mercedes, the former Red Bull team principal reached out to his old adversary with high praise.\n\nIn an exclusive interview with the German publication BILD, Wolff was asked if he had heard from Horner amid the flood of recent congratulations. Given that Horner was Wolff's fiercest rival for years before his dismissal from Red Bull in July 2025, the interviewer questioned if the Austrian was surprised by the gesture.",
-        "first_seen": "2026-11-17T05:23:47.932629+00:00"
+        "first_seen": "2026-11-17T05:23:47.932629+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "gossip, no commercial angle"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -2168,6 +2508,29 @@
       },
       {
         "section": "Formula 1 & Motorsport",
+        "source": "Motorsport.com",
+        "search": "Motorsport.com",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "F1 Las Vegas GP 2026: UK times, schedule and how to watch",
+        "feed_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONVprV0k3OGxMbi1Ib0ZSN3ZMcmh0QmN4dmdFSE93ejBNSUZiLXlQTFlsbXBYYXJsRE4yNElTRWJxOVpsdHpoVHVjblppcDN3WkdyUTFybW5jX1lSSHJIa3pBSndZcHZaUThSNEZZbVlVOWxtZEM2Um5JaFhYUjgzUThYcm56bW5SSWdET1kwUnY1NEI2bDZfUzd5WkI?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONVprV0k3OGxMbi1Ib0ZSN3ZMcmh0QmN4dmdFSE93ejBNSUZiLXlQTFlsbXBYYXJsRE4yNElTRWJxOVpsdHpoVHVjblppcDN3WkdyUTFybW5jX1lSSHJIa3pBSndZcHZaUThSNEZZbVlVOWxtZEM2Um5JaFhYUjgzUThYcm56bW5SSWdET1kwUnY1NEI2bDZfUzd5WkI?oc=5",
+        "published": "2026-11-16T14:50:05+00:00",
+        "published_label": "Mon 16 Nov, 18:50",
+        "summary": "F1 Las Vegas GP 2026: UK times, schedule and how to watch Motorsport.com",
+        "id": "403870ccb4b1",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "viewing guide, not news",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
         "source": "Feeder Series",
         "search": "Rashid Al Dhaheri watch",
         "lang": "en",
@@ -2217,6 +2580,29 @@
         "label": "F1 BUSINESS",
         "line": "[Cadillac F1 Team signs Viatris] as Official Global Pharmaceutical Partner in a multiyear deal starting in the 2027 season.",
         "angle": "Shows the commercial pace of F1's newest team as it signs category partners, part of the wider F1 sponsorship market around the Abu Dhabi Grand Prix."
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Gulf News",
+        "search": "Rashid Al Dhaheri watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Final hours of Emirati student killed in Fujairah crash revealed by family and professor",
+        "feed_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX09KUXI1aGtjOWJFODN4OHEyTDRVYXhoejFHcThheGV3VmdCZ2NuMXFQM1BiRHo1UVlMVXAyT3gtUHRRMVoxVnJpTUk2NEppdGp4NGZraFItQXBmN0w2b25WcjV1NEphZFBxUU1oWHV4SmEya1IxR245aTM3UW5DWDQyMG9VYkM2SFhnRGFQV09UNkNPd2VRQmxzMmNOMmtoTFNBRHJScnlTM1R2QlY0dnlqakFSUEJkbjV5NjhKYjdKbEXSAdMBQVVfeXFMUEJzbFcwZkRMWHptX3o2UUVXa3c3NnlaVmhwOWxYamY0em1wQW1zcVRqSjlzX0hxd2NfU1RGSWVOY3dVTnp1dkY4ekRRVWZTTmw4ZzhaSlBSaUxVaE9lTXJNQkJJd3BqLXhUZUdqc2lEWVVxalJKSmtZdDU4TXdIN1lEVzZQVEdsdjB1SWprSlZhZ0xkdE9CSjhZdDhLUGQtQnRKUlVyRzg5MVhpT056QVE3NWJZa0oyRTVVY0R5SWFPMTNmVFUtaGhpTEFwb19LUDZxQQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOX09KUXI1aGtjOWJFODN4OHEyTDRVYXhoejFHcThheGV3VmdCZ2NuMXFQM1BiRHo1UVlMVXAyT3gtUHRRMVoxVnJpTUk2NEppdGp4NGZraFItQXBmN0w2b25WcjV1NEphZFBxUU1oWHV4SmEya1IxR245aTM3UW5DWDQyMG9VYkM2SFhnRGFQV09UNkNPd2VRQmxzMmNOMmtoTFNBRHJScnlTM1R2QlY0dnlqakFSUEJkbjV5NjhKYjdKbEXSAdMBQVVfeXFMUEJzbFcwZkRMWHptX3o2UUVXa3c3NnlaVmhwOWxYamY0em1wQW1zcVRqSjlzX0hxd2NfU1RGSWVOY3dVTnp1dkY4ekRRVWZTTmw4ZzhaSlBSaUxVaE9lTXJNQkJJd3BqLXhUZUdqc2lEWVVxalJKSmtZdDU4TXdIN1lEVzZQVEdsdjB1SWprSlZhZ0xkdE9CSjhZdDhLUGQtQnRKUlVyRzg5MVhpT056QVE3NWJZa0oyRTVVY0R5SWFPMTNmVFUtaGhpTEFwb19LUDZxQQ?oc=5",
+        "published": "2026-11-16T13:32:48+00:00",
+        "published_label": "Mon 16 Nov, 17:32",
+        "summary": "Final hours of Emirati student killed in Fujairah crash revealed by family and professor Gulf News",
+        "id": "5bb64346842d",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "not sport; crash death",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -2332,6 +2718,35 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-17T05:23:47.932629+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Motorsport.com",
+        "search": "Motorsport.com",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "James Allison reveals message to Mercedes recruits during team's four-year F1 title drought",
+        "feed_link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMm9KUjluSG1tZDN1SzVMWjEyR191eWF6ajdVMnBNejY0TnZoTk5TamhZeW1GMHJiOV94cW9PRkl2MGdmeW1FaHlqNjlwdlEwWkZZOG1vdWxhcmJoSlBpNnNzelZXSktCQWRJTXdpeDl2clRiMmY2cmUtbGxMcmFDYkhLX2REWkVwanhDekJXOS1DSG5pQVlEaktsTGNIcWVORkVZYjdvbVhTbHpPczR4SkUtT04ydG91RzhLaHFtNjNqNEZSSHh6cTVSMDBNcUdH?oc=5",
+        "link": "https://www.motorsport.com/f1/news/james-allison-reveals-message-to-mercedes-recruits-during-teams-four-year-f1-title-drought/10874833/",
+        "published": "2026-11-16T12:06:25+00:00",
+        "published_label": "Mon 16 Nov, 16:06",
+        "summary": "James Allison reveals message to Mercedes recruits during team's four-year F1 title drought Motorsport.com",
+        "id": "0063dffa9fbd",
+        "bullets": [
+          "Mercedes technical director James Allison said he told about 400 staff who joined after the team's 2021 title that they were the luckiest people in the factory because the team would win again. Mercedes won eight consecutive constructors' titles from 2014 to 2021, then went four seasons without a championship before taking both crowns in 2026.",
+          "Kimi Antonelli became the youngest champion at the Mexican Grand Prix, and the constructors' title followed at the Brazilian Grand Prix a week later. Allison said that group has grown to upwards of 600 people and that the title means more to them. He added that Mercedes has about 2,000 staff across Brackley and Brixworth, with only about 8% travelling to races."
+        ],
+        "triaged": true,
+        "priority": 3,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "For Mercedes fans. All the latest from the Silver Arrows, with F1 news, driver updates, car development and race analysis from Brackley and Brixworth. Mercedes technical director James Allison has revealed how he told hundreds of staff members who joined the Brackley outfit during the team's lean years that they would one day win, and that the championship would be theirs.\n\nMercedes won eight consecutive constructors' titles between 2014 and 2021, but then went four seasons without a championship before claiming both crowns in 2026, with Kimi Antonelli becoming the youngest champion at the Mexican Grand Prix and the team securing the constructors' crown at the Brazilian Grand Prix a week later.",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00",
+        "summary_status": "done",
+        "label": "F1",
+        "line": "[Allison says Mercedes' post-2021 recruits] built the 2026 titles, as the team ended a four-year drought.",
+        "angle": "Team culture story with no direct ADNOC link; useful only as background to the 2026 championship season heading to Abu Dhabi."
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -3726,6 +4141,29 @@
     "Cycling": [
       {
         "section": "Cycling",
+        "source": "FloBikes",
+        "search": "Cycling search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "2026 USA Cycling Cyclocross National Championships Presented By The Meteor Schedule",
+        "feed_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYzNhR0JQcWFKR0lnXzhCcURIb0ludXZVOGVNTkF6OUk5QktHNjNPLXpMVUZqdXFlSHdEbDZuang0R0VoZjNQYU9vQnBfWXZDUjNkVFhaUkxTZXZaRzJUWURNUkNvbnVYU1NWWm1oTWhVSXBJd2pCQm5rdnVRd3lpVnBfRXR0VkhoTW56R1RlOHZtS3BNNmFnbGU2UWZUaHNQbjZPbQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYzNhR0JQcWFKR0lnXzhCcURIb0ludXZVOGVNTkF6OUk5QktHNjNPLXpMVUZqdXFlSHdEbDZuang0R0VoZjNQYU9vQnBfWXZDUjNkVFhaUkxTZXZaRzJUWURNUkNvbnVYU1NWWm1oTWhVSXBJd2pCQm5rdnVRd3lpVnBfRXR0VkhoTW56R1RlOHZtS3BNNmFnbGU2UWZUaHNQbjZPbQ?oc=5",
+        "published": "2026-11-16T23:40:31+00:00",
+        "published_label": "Tue 17 Nov, 03:40",
+        "summary": "2026 USA Cycling Cyclocross National Championships Presented By The Meteor Schedule FloBikes",
+        "id": "baa7d353a1bf",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "event schedule, not news",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00"
+      },
+      {
+        "section": "Cycling",
         "source": "Brujulabike.com",
         "search": "UAE Team Emirates watch",
         "lang": "en",
@@ -3750,6 +4188,39 @@
       {
         "section": "Cycling",
         "source": "Cyclingnews",
+        "search": "Cycling search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Paul Seixas hints at 2027 debut race but Tour de France not guaranteed",
+        "feed_link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPY1E1Z2doT2F2VUhHenczOWJpbFh0LUNJaGYxQjdBLTczYjlKQzl6QXNFVm85WS13dUpJNFdtZkJaOG9mQlp1REJ6X0VzaXBDSU9iZDBjN0ZMSXVCSTNjak93U0o1Y2FhZEM5UGtfYXAwT2tlbW9uUmVPd1QxbzhkVEtQcTZROXFhbndWbVl1dlBwb3pRMGVVWUk3YzNUYnYtbFJmQXpoQjhuaUxqSlloVVV2MTdWUjFYSTltekxYNC1SLTNoNEU0M0hfSFNEZzB4elpSYVFaLWhKUjBEcUFaV2pGLW5kbHhPT1RaTnF5NHFIZXNlWG5VQWwzQWU4eGpMUkl5QktwNm11QVd4QlAxTnRUaWgyZlJDVVNDU2FCTTRHTWU2YmF3eDllejNIUQ?oc=5",
+        "link": "https://www.cyclingnews.com/pro-cycling/teams-riders/for-the-moment-im-not-able-to-win-the-tour-paul-seixas-hints-at-potential-2027-season-debut-race-with-immediate-return-to-tour-de-france-not-guaranteed/",
+        "published": "2026-11-16T18:47:07+00:00",
+        "published_label": "Mon 16 Nov, 22:47",
+        "summary": "Paul Seixas hints at 2027 debut race but Tour de France not guaranteed Cyclingnews",
+        "id": "f21e91a934be",
+        "bullets": [
+          "Paul Seixas, 20, says winning the Tour de France is a dream he cannot yet achieve, and that the World Championships road race may be his main goal for 2027. He finished fourth on his Tour debut this year as its youngest starter in 89 years. He spoke in Japan after winning the Saitama Tour de France criterium ahead of Brandon McNulty.",
+          "He said the Worlds matter to him because of his family ties, and that he may have only one chance to ride them there. He also wants to ride a Grand Tour but has not chosen which, with race planning normally done around December. He expects to open 2027 with Strade Bianche and then Tirreno, and contract talks for 2028 onwards follow his return home."
+        ],
+        "triaged": true,
+        "priority": 2,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "There's no question that at just 20 years of age, Paul Seixas looks one of the most likely contenders to inherit the position which Tadej Pogačar currently occupies as cycling's number one rider. But even with his warranted confidence as the youngest Monument winner since 1944, the French star can admit that winning the Tour de France remains a dream out of reach for the moment.\n\nFourth on debut and the youngest starter for 89 years at the Tour de France this year, Seixas delivered on his promise to finish one place down on the podium, behind Pogačar, Remco Evenepoel, and the other most likely heir to the Slovenian's crown, his UAE teammate Isaac del Toro, who is just 23.",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00",
+        "summary_status": "done",
+        "label": "CYCLING",
+        "line": "[Seixas targets the 2027 Worlds] as a main goal, saying he cannot yet win the Tour de France after finishing fourth on debut.",
+        "angle": "The article names Isaac del Toro, a UAE teammate of Pogačar, among the riders ahead of Seixas at the Tour, showing the competition for the sport's next leader.",
+        "stat": {
+          "value": "4th",
+          "label": "Seixas's Tour de France debut finish, behind Pogačar, Evenepoel and"
+        }
+      },
+      {
+        "section": "Cycling",
+        "source": "Cyclingnews",
         "search": "Cyclingnews",
         "lang": "en",
         "kind": "gnews",
@@ -3769,6 +4240,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-17T05:23:47.932629+00:00"
+      },
+      {
+        "section": "Cycling",
+        "source": "ProCyclingUK",
+        "search": "Cycling search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "TotalEnergies joins FDJ UNITED as women’s WorldTour title sponsor through 2031",
+        "feed_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOUpKYU5BTUFrbl9CTmEzT3laUXZSbnFFLVc2eXlMUUQ5elRQR2I3ZUF0N1I5M19TalZpSzJVWWpmT2VUZFRIeTRqLUxaODI1Y2lwOG5pZ1VJV0pDUkxNMVRjaUFSbDdYblBSX0FoOE1ERTFQeEZfd3Q4Q0E4c0ZiaEpLSVhSZWREdFNYT2pfbw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOUpKYU5BTUFrbl9CTmEzT3laUXZSbnFFLVc2eXlMUUQ5elRQR2I3ZUF0N1I5M19TalZpSzJVWWpmT2VUZFRIeTRqLUxaODI1Y2lwOG5pZ1VJV0pDUkxNMVRjaUFSbDdYblBSX0FoOE1ERTFQeEZfd3Q4Q0E4c0ZiaEpLSVhSZWREdFNYT2pfbw?oc=5",
+        "published": "2026-11-16T17:23:19+00:00",
+        "published_label": "Mon 16 Nov, 21:23",
+        "summary": "TotalEnergies joins FDJ UNITED as women’s WorldTour title sponsor through 2031 ProCyclingUK",
+        "id": "b1b5e477bc5e",
+        "bullets": [],
+        "triaged": true,
+        "priority": 1,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00"
       },
       {
         "section": "Cycling",
@@ -3894,6 +4388,29 @@
       {
         "section": "Cycling",
         "source": "IDLprocycling.com",
+        "search": "Cycling search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "XDS Astana news, results and rider updates",
+        "feed_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZcFM3Uk93TUFFZnNxYjhKelg5ejhZaVl1dGRFd0RETlBrOHQ1dkhuWG01a3kwZEJNMUhFWWVMSHE5UkptcU1NR0lUOHVlVC1PRkE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZcFM3Uk93TUFFZnNxYjhKelg5ejhZaVl1dGRFd0RETlBrOHQ1dkhuWG01a3kwZEJNMUhFWWVMSHE5UkptcU1NR0lUOHVlVC1PRkE?oc=5",
+        "published": "2026-11-16T12:32:00+00:00",
+        "published_label": "Mon 16 Nov, 16:32",
+        "summary": "XDS Astana news, results and rider updates IDLprocycling.com",
+        "id": "6fbf8735be11",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00"
+      },
+      {
+        "section": "Cycling",
+        "source": "IDLprocycling.com",
         "search": "UAE Team Emirates watch",
         "lang": "en",
         "kind": "gnews",
@@ -3939,6 +4456,29 @@
       },
       {
         "section": "Cycling",
+        "source": "Balls.ie",
+        "search": "Cycling search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "World’s Best Cyclist Stuns Kerry Rider With Sunday Jog After Killarney Wedding",
+        "feed_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT240WVlYNHpDZWVnZWhORUgzZFpoUGhiQ0Y5czVPQWl0WmdreGNaemRyd1daQmp2VFZFNlhiMDBjbkVYVUtMejBWbW50ZTc1dGJTVnM0bXZOYkJaamNpQzhRX0N2NVpHQl9vSmZBMzVhcVpaLU9lMEthZDBmbUcxajJR?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT240WVlYNHpDZWVnZWhORUgzZFpoUGhiQ0Y5czVPQWl0WmdreGNaemRyd1daQmp2VFZFNlhiMDBjbkVYVUtMejBWbW50ZTc1dGJTVnM0bXZOYkJaamNpQzhRX0N2NVpHQl9vSmZBMzVhcVpaLU9lMEthZDBmbUcxajJR?oc=5",
+        "published": "2026-11-16T11:37:45+00:00",
+        "published_label": "Mon 16 Nov, 15:37",
+        "summary": "World’s Best Cyclist Stuns Kerry Rider With Sunday Jog After Killarney Wedding Balls.ie",
+        "id": "754817aa9e1d",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "lifestyle anecdote",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00"
+      },
+      {
+        "section": "Cycling",
         "source": "TodoMountainBike",
         "search": "Cycling search",
         "lang": "en",
@@ -3959,6 +4499,72 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-16T09:53:51.232069+00:00"
+      },
+      {
+        "section": "Cycling",
+        "source": "Times & Star",
+        "search": "Cycling search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Inside the numbers as elite Tour de France cyclists prepare for 2027 Grand Départ",
+        "feed_link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd3JEQmUyNE4yOV96VzBuSzNNVm5udGU2Q2ItTC1NQWNhTjBUNWM3SkN1ZGNOOExZSzJ1MGxMMUE3OEdicGpWX0VicVJvN3NrTnE0aVEwWi1LSUNxYWZ0MXQ1OWEwd0xWazRSVGtwVFNXV3RwQUJ4Zk0yMzluVmRwUEtfSTE1YVFlT1NmcFFEZ0tYNUZzTGxzNFBzTQ?oc=5",
+        "link": "https://www.timesandstar.co.uk/sport/26725368.cumbria-host-tour-de-france-stages---inside-data/",
+        "published": "2026-11-16T09:00:00+00:00",
+        "published_label": "Mon 16 Nov, 13:00",
+        "summary": "Inside the numbers as elite Tour de France cyclists prepare for 2027 Grand Départ Times & Star",
+        "id": "9e26e7ca1771",
+        "bullets": [
+          "Carlisle will host the finish of Stage One of the 2027 Tour de France Grand Départ on Friday 2 July 2027, with Stage Two starting in Keswick on Saturday 3 July. Stage One covers 185km with 2,000m of elevation, while Stage Two runs 223km to Liverpool with 2,800m of elevation. An estimated 422,000 spectators are expected at the start and finish areas, and visitors are forecast to bring £48m in additional spending to Cumbria.",
+          "The Joy Makers volunteering programme has attracted more than 25,000 registrations for about 9,000 places, and more than 300 people aged 18 to 25 will join a Readiness to Work programme. Cumbria Combined Authority chief executive John Barradell said the event lets the county present itself as a place to invest. Live UK coverage will be on Channel 5 and TNT Sports, and nearly 150 million people watched live coverage of the 2026 Tour."
+        ],
+        "triaged": true,
+        "priority": 2,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "ELITE cyclists are heading to Cumbria in July 2027 for the world famous Tour de France Grand Départ, a major sporting event which is set to be a significant logistical challenge for authorities as well as a catalyst for economic development.\n\nCarlisle will host the finish to Stage One of the Grand Départ on Friday July 2, 2027 and the beginning of Stage Two, in Keswick, on Saturday July 3, 2027. Cyclists embark on a Grand Départ, or great departure, each year before heading to France for the world famous race series.",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00",
+        "summary_status": "done",
+        "label": "CYCLING",
+        "line": "[Cumbria's Tour de France Grand Départ stages] on 2-3 July 2027 are expected to draw 422,000 spectators and £48m in extra visitor spending.",
+        "angle": "The figures show the economic and community case that host regions make for major cycling events, which is useful context for ADNOC's own cycling and event properties.",
+        "stat": {
+          "value": "£48m",
+          "label": "expected extra visitor spending in Cumbria during the Tour"
+        }
+      },
+      {
+        "section": "Cycling",
+        "source": "Outside Magazine",
+        "search": "Cycling search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Chinese Bike Giant XDS Threatens Bombshell Split from Astana WorldTour Team",
+        "feed_link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQemt4YjZnbFZtVnhXb1BNZkRpZzV5cHh3Z2dkU0JsLTNyVUdiNnBYaVV4WjVXX0p6SFZFdHlnLThULUEwT1FnbXRXcmxZMDZfUzBxaVI4UWtseUFlbF9XNkJNRlRPQmJTLWpmV3lVdlVKOHctUl9JS3VneTZuOXM0QWNGb3lOUEpyTmluUVFjWHphVENpd0dTWWY1RHRnd0dOcjM5cDRpVGVqSjN3eEhyTEpQemtqaUMweGtPWA?oc=5",
+        "link": "https://velo.outsideonline.com/road/road-racing/chinese-bike-giant-xds-threatens-early-split-from-astana-worldtour-team/",
+        "published": "2026-11-16T08:09:06+00:00",
+        "published_label": "Mon 16 Nov, 12:09",
+        "summary": "Chinese Bike Giant XDS Threatens Bombshell Split from Astana WorldTour Team Outside Magazine",
+        "id": "be80e7dad80b",
+        "bullets": [
+          "Chinese bike maker XDS is reportedly threatening to end its contract with the XDS-Astana WorldTeam ahead of the 2027 season, two years into a five-year deal, according to L'Equipe. The paper says XDS is exploring joining another top-ranked team, and that a decision could come as soon as this week.",
+          "XDS took co-title sponsorship of the team at the start of 2025 and put its X-Lab bikes into the Tour de France. L'Equipe reports the company is anxious about Yana Seel's return to a commercial role at Astana in October, citing past tensions with general manager Alexander Vinokourov, though Seel said she returned to work with him. Pardus has meanwhile partnered with Xefi, the team formerly known as TotalEnergies, through 2029."
+        ],
+        "triaged": true,
+        "priority": 4,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "The marriage between Chinese bike giant XDS and the XDS-Astana WorldTeam might be on the brink of divorce. According to reports from L’Equipe, XDS is threatening to terminate its contract with Alexander Vinokourov’s team ahead of the 2027 season. That’s just two years into a five-year deal.\n\nAny possible split would be devastating for the team. XDS helped save Team Astana from WorldTour relegation when it brought big budget and its wildly popular X-Lab bikes to the squad at the start of 2025.",
+        "first_seen": "2026-11-17T05:46:39.940226+00:00",
+        "summary_status": "done",
+        "label": "CYCLING",
+        "line": "[XDS threatens to leave Astana] two years into a five-year deal, L'Equipe reports, with a decision possibly this week.",
+        "angle": "Signals sponsor volatility and shifting bike-supplier dynamics in the WorldTour, relevant to UAE Team Emirates XRG's commercial landscape.",
+        "stat": {
+          "value": "2 of",
+          "label": "years elapsed in XDS's Astana deal"
+        }
       },
       {
         "section": "Cycling",
@@ -5633,40 +6239,40 @@
     ],
     "Running & Endurance": []
   },
-  "total": 242,
+  "total": 263,
   "edition": {
-    "drafted_at": "2026-11-17T05:26:22.621660+00:00",
+    "drafted_at": "2026-11-17T05:48:49.774733+00:00",
     "days": 14,
     "headline": [
-      "TotalEnergies enters women's cycling.",
-      "Al Ain hosts the finale."
+      "Antonelli is champion.",
+      "Las Vegas is next."
     ],
     "stats": [
       {
         "value": "5",
-        "label": "years: TotalEnergies' title deal with FDJ United-Suez",
+        "label": "years: TotalEnergies' title deal with FDJ United women's team",
         "id": "47acd2c017e2"
       },
       {
-        "value": "35",
-        "label": "th Abu Dhabi Desert Challenge hosts the Rally-Raid finale",
-        "id": "0a4e62f53729"
+        "value": "$1bn",
+        "label": "PGA Tour sponsorship revenue, up 14% this year",
+        "id": "51728f0a1322"
       },
       {
-        "value": "$3bn",
-        "label": "reported minimum asking price for Cadillac F1 team",
-        "id": "e75023c05812"
+        "value": "€40m",
+        "label": "reported annual value of Nike's Champions League ball deal",
+        "id": "a65664683ea9"
       },
       {
-        "value": "10%",
-        "label": "of gambling messages removed by Premier League shirt ban",
-        "id": "c2c0d000bb97"
+        "value": "33",
+        "label": "points separating five drivers fighting for second place",
+        "id": "05f25ba7d1b5"
       }
     ],
     "watch": {
       "id": "47acd2c017e2",
-      "lead": "TotalEnergies is entering women's cycling with a five-year title deal from 2027.",
-      "text": "The FDJ United-Suez agreement puts a benchmarked energy peer in the women's WorldTour, where UAE Team L'IMAD also races. Worth reviewing ADNOC's women's cycling plans, as reported by [Cyclingnews]."
+      "lead": "TotalEnergies signs a five-year title deal with women's team FDJ United-Suez.",
+      "text": "The deal starts in 2027 and is TotalEnergies' first move into women's cycling, where UAE Team L'IMAD also races. [Cyclingnews] reports the deal as a signal for the women's WorldTour, so ADNOC should watch how rivals compete for that space."
     }
   }
 }
