@@ -24,7 +24,8 @@ then picks the stories they want and copies a ready-formatted bulletin into an e
 
 The page builds **The Bigger Game**, ADNOC's sports and partnership newsletter, in the
 house layout: headline, four stat boxes, Watch this, The week in 60 seconds,
-Activations worth stealing and On the radar.
+The business end (up to three sports-business deals), Activations worth stealing
+and On the radar.
 
 - **Claude drafts the words** on every run: a one-line summary, a row label, an ADNOC
   angle, a "Borrow" idea for activations and a stat for each story, plus the edition's
@@ -41,7 +42,7 @@ Activations worth stealing and On the radar.
 ## Using it each morning
 
 1. Open the page (your GitHub Pages link).
-2. **Pick stories:** on each story, click where it goes: **60 seconds**, **Activation**, **Watch this** or **Stat**. The live preview on the right
+2. **Pick stories:** on each story, click where it goes: **60 seconds**, **Business**, **Activation**, **Watch this** or **Stat**. The live preview on the right
    shows exactly what will paste.
 3. Edit any text in **Edit & preview**. A story marked **No draft yet** couldn't be read
    automatically: open the article and type two bullets.
