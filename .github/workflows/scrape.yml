@@ -1,11 +1,17 @@
 name: Collect morning news
 
-# Runs at 08:50 and 09:45 UAE time every day, or whenever you press "Run workflow".
-# The UAE doesn't change its clocks: 08:50 GST = 04:50 UTC, 09:45 GST = 05:45 UTC.
+# GitHub often starts scheduled runs late (hours, on busy days), so there are
+# several slots: early ones so the feed is ready by the morning even when GitHub
+# lags, and a midday catch-up. Extra runs are cheap: each one only summarises
+# stories that are new since the last run.
+# The UAE doesn't change its clocks, so UAE time = UTC + 4 all year.
 on:
   schedule:
-    - cron: "50 4 * * *"
-    - cron: "45 5 * * *"
+    - cron: "37 1 * * *"   # 05:37 UAE
+    - cron: "43 2 * * *"   # 06:43 UAE
+    - cron: "50 4 * * *"   # 08:50 UAE
+    - cron: "45 5 * * *"   # 09:45 UAE
+    - cron: "17 8 * * *"   # 12:17 UAE (catch-up)
   workflow_dispatch:
 
 permissions:
