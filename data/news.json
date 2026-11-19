@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T13:56:26.178095+00:00",
-  "generated_label": "Thursday 19 November 2026, 17:56 GST",
+  "generated_at": "2026-11-19T14:47:30.238669+00:00",
+  "generated_label": "Thursday 19 November 2026, 18:47 GST",
   "keep_days": 14,
   "section_order": [
     "ADNOC & Partner News",
@@ -1424,7 +1424,7 @@
         "read_attempts": 2,
         "copy": "",
         "first_seen": "2026-11-19T13:56:26.178095+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -1480,7 +1480,9 @@
         "is_article": true,
         "read_attempts": 2,
         "copy": "",
-        "first_seen": "2026-11-19T13:56:26.178095+00:00"
+        "first_seen": "2026-11-19T13:56:26.178095+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -1903,13 +1905,29 @@
         "published_label": "Thu 19 Nov, 01:33",
         "summary": "Snapdragon Bets On F1's Youngest-Ever Champion To Sharpen Sports Marketing Returns For Qualcomm (NASDAQ: QCOM) Foreign Policy Journal",
         "id": "0b97970cde24",
-        "bullets": [],
+        "bullets": [
+          "Qualcomm's Snapdragon brand is running a new anthem film with Formula 1 world champion Kimi Antonelli, timed to the Las Vegas Grand Prix on 21 November. Antonelli, 20, won the title this month and was already signed as a Snapdragon brand ambassador. Snapdragon's deal with the Mercedes-AMG Petronas team began in 2023 and was built around measurable marketing returns. Chief marketing officer Don McGuire said the company is already seeing higher ROI from some short-term work.",
+          "The strategy extends from content and storytelling into activations and hospitality. Apple TV's exclusive US F1 rights prevent traditional television ads around domestic coverage. The film will therefore run on Sky broadcasts outside the US, with digital placements and partnerships with Sports Illustrated and YouTube. McGuire contrasted the approach with Qualcomm's earlier Mercedes deal in the 2010s, which he said was not ROI-driven. He said a soccer sponsorship, which he did not name, is the internal benchmark for sports deals."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "When Kimi Antonelli claimed the Formula 1 World Championship title this month at just 20 years old, chipmaker Qualcomm (NASDAQ: QCOM) already had him under contract. Qualcomm’s consumer-facing brand Snapdragon had signed Antonelli as a brand ambassador, a move now anchored by a new anthem film timed to the 2026 Las Vegas Grand Prix on November 21.\n\nThe campaign marks a deliberate shift in how Qualcomm approaches sports sponsorship, prioritizing measurable returns over the prestige-driven partnerships the company pursued in previous years.",
-        "first_seen": "2026-11-19T09:25:24.836984+00:00"
+        "first_seen": "2026-11-19T09:25:24.836984+00:00",
+        "summary_status": "done",
+        "label": "F1 BUSINESS",
+        "line": "[Snapdragon launches an Antonelli anthem film] for the 21 November Las Vegas Grand Prix, with ROI at the centre of its F1 strategy.",
+        "angle": "Shows how a global brand is measuring F1 returns and working around US broadcast limits, a useful comparison for the Abu Dhabi Grand Prix.",
+        "activation": {
+          "title": "Snapdragon, Las Vegas GP",
+          "what": "Anthem film with new champion Antonelli, shown via Sky outside the US, plus digital, Sports Illustrated and YouTube.",
+          "borrow": "Build a driver-led film campaign around Abu Dhabi Grand Prix week."
+        },
+        "stat": {
+          "value": "20",
+          "label": "age of Kimi Antonelli, F1's youngest-ever champion"
+        }
       },
       {
         "section": "Wider Sports News",
@@ -2159,13 +2177,24 @@
         "published_label": "Wed 18 Nov, 20:54",
         "summary": "EHF’s rights sales model shows early results with deals in 80 territories Sportcal",
         "id": "92988ab2218a",
-        "bullets": [],
+        "bullets": [
+          "EHF Marketing, the commercial arm of the European Handball Federation, says its in-house media rights model is producing early results. The EHF Champions League and EHF European League will be broadcast in 80 territories in 2026-27. EHF Marketing took direct control of rights management, production and distribution from the 2026-27 season, after the federation ended its 10-year contract with Infront early, late last year. New agreements cover key European markets, the Middle East and North Africa, and the US.",
+          "Deals include a long-term partnership with Dyn Sports for Germany, Austria and Switzerland, and OTT distribution in Iceland via Livey. In France, matches will be on BeIN Sports and Handball TV. MSG Networks will show selected Champions League games in the US. Aurèle Weyeneth, EHF Marketing's director of rights and exploitation, said in-house management gives more flexibility in each market. Separately, France Télévisions will show France women's EHF Euro 2026 matches from 11 December under a deal with the French Handball Federation."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "EHF Marketing’s in-house media distribution strategy is paying early dividends, with the commercial arm of the European Handball Federation growing its existing network of rights agreements globally.\n\nThrough existing and new agreements, the EHF Champions League and EHF European League club competitions will be broadcast across 80 territories worldwide in the 2026-27 season.",
-        "first_seen": "2026-11-18T17:16:33.185428+00:00"
+        "first_seen": "2026-11-18T17:16:33.185428+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[EHF's in-house rights model] has put its club competitions in 80 territories for 2026-27 after it ended its Infront contract early.",
+        "angle": "An example of a governing body taking media rights in-house, relevant to how ADNOC's league and event partners distribute content.",
+        "stat": {
+          "value": "80",
+          "label": "territories for EHF club competitions in 2026-27"
+        }
       },
       {
         "section": "Wider Sports News",
@@ -2936,6 +2965,29 @@
         "read_attempts": 1,
         "copy": "RIYADH — The Ministry of Human Resources and Social Development (MHRSD) announced that a decision requiring 15 percent Saudization of designated professions in private-sector sports centers and gyms took effect on Wednesday, November 18, 2026.\n\nThe measure, implemented in partnership with the Ministry of Sport following the end of the grace period granted to affected establishments, aims to create quality employment opportunities for Saudi men and women and increase the participation of national talent in specialized sports professions.",
         "first_seen": "2026-11-18T14:33:51.835406+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "SportBusiness",
+        "search": "SportBusiness",
+        "lang": "en",
+        "kind": "direct",
+        "wide": false,
+        "title": "Kane, Mbappé and Yamal lead nominations for 17th Beyond Developments Globe Soccer Awards",
+        "feed_link": "https://www.sportbusiness.com/2026/11/kane-mbappe-and-yamal-lead-nominations-for-17th-beyond-developments-globe-soccer-awards/?utm_source=rss&utm_medium=rss&utm_campaign=kane-mbappe-and-yamal-lead-nominations-for-17th-beyond-developments-globe-soccer-awards",
+        "link": "https://www.sportbusiness.com/2026/11/kane-mbappe-and-yamal-lead-nominations-for-17th-beyond-developments-globe-soccer-awards/?utm_source=rss&utm_medium=rss&utm_campaign=kane-mbappe-and-yamal-lead-nominations-for-17th-beyond-developments-globe-soccer-awards",
+        "published": "2026-11-18T10:35:52+00:00",
+        "published_label": "Wed 18 Nov, 14:35",
+        "summary": "● UEFA Champions League winners Paris Saint-Germain and FIFA World Cup victors Spain dominate shortlists for annual awards, which will take place on 28 December ●",
+        "id": "2d50ee9d972c",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "awards nominations are player news, not sports-business",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-19T14:47:30.238669+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -6250,6 +6302,108 @@
     "Formula 1 & Motorsport": [
       {
         "section": "Formula 1 & Motorsport",
+        "source": "Tbreak UAE",
+        "search": "Abu Dhabi GP watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Yas Marina Race Week brings two Dubai restaurant pop-ups",
+        "feed_link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42NlFIN21ycGhSa0Vqc05MUkdjaWxGdE9HWWNxYlNvbW1id1hnUDBnbklkaGF4VHJTWjBacS1rTFFsbTRNSUxzMmZydGcwMk0tWnhLbVZHZ3dhZDhEZWpmYW9lRlBRZnN2ajVvR19hSQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42NlFIN21ycGhSa0Vqc05MUkdjaWxGdE9HWWNxYlNvbW1id1hnUDBnbklkaGF4VHJTWjBacS1rTFFsbTRNSUxzMmZydGcwMk0tWnhLbVZHZ3dhZDhEZWpmYW9lRlBRZnN2ajVvR19hSQ?oc=5",
+        "published": "2026-11-19T14:25:00+00:00",
+        "published_label": "Thu 19 Nov, 18:25",
+        "summary": "Yas Marina Race Week brings two Dubai restaurant pop-ups Tbreak UAE",
+        "id": "7d811bb9099b",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "restaurant pop-ups are lifestyle news, not sport",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-19T14:47:30.238669+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "People.com",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "The Top F1 Drivers to Watch at the 2026 Las Vegas Grand Prix",
+        "feed_link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNazQzdmc3eldDeV9KNE5Za1IzZWRiZ2V1QXVOTFRGal95TEtOVFlJMXpsOE9pa2FocHN0RGV3MkFGUTU1SjI3YzBzTWlnWHJWUWdsLTJIZ0ViOEJFc2dMT1VaNUFVZk82azVVaV9TbHZKcXZJd3Yzb19aTTFwajFuMUxR?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNazQzdmc3eldDeV9KNE5Za1IzZWRiZ2V1QXVOTFRGal95TEtOVFlJMXpsOE9pa2FocHN0RGV3MkFGUTU1SjI3YzBzTWlnWHJWUWdsLTJIZ0ViOEJFc2dMT1VaNUFVZk82azVVaV9TbHZKcXZJd3Yzb19aTTFwajFuMUxR?oc=5",
+        "published": "2026-11-19T14:20:00+00:00",
+        "published_label": "Thu 19 Nov, 18:20",
+        "summary": "The Top F1 Drivers to Watch at the 2026 Las Vegas Grand Prix People.com",
+        "id": "8f5e379e5b49",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "drivers-to-watch preview list",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-19T14:47:30.238669+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "ESPN",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Max Verstappen on F1 retirement, Le Mans and learning to lose: 'Stress a bit less'",
+        "feed_link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNGRWUXFWM0xaNVlKY3M2RVdoWGsxcEtuaWFCejBYQ3l2WHlkY2NFTWJlXzNZTV9yMjJ3NnJfYWhlbUE5SEFhNk44UjlQRHNQY3JEbEJFczFBdWZsOFh2Y2VVSGpBVHJpQV9wVXotMlItSGxqVU1BWVdFdlVSdFIwZ0lFdw?oc=5",
+        "link": "https://www.espn.com/f1/story/_/id/50432818/max-verstappen-red-bull-f1-future",
+        "published": "2026-11-19T14:00:00+00:00",
+        "published_label": "Thu 19 Nov, 18:00",
+        "summary": "Max Verstappen on F1 retirement, Le Mans and learning to lose: 'Stress a bit less' ESPN",
+        "id": "3d6cb1710d6b",
+        "bullets": [
+          "Max Verstappen told ESPN he \"stresses a bit less\" after winning several titles. He is second in the 2026 championship behind new champion Kimi Antonelli with three races left. He has won in Malaysia, Singapore and Mexico City this season, after Red Bull struggled early on and major upgrades brought them back. Last year's title fight went to the Abu Dhabi finale, where Lando Norris was crowned champion, 12 points ahead of Verstappen.",
+          "Verstappen, 29, had raised the possibility of retiring at the end of 2026 after criticising the new regulations. He said he still loves racing and has a contract until 2030. FIA president Mohammed Ben Sulayem has hinted that V8 engines could return in 2030. Verstappen named the Nürburgring 24 Hours and Le Mans hypercars as races he would like to enter, but gave no timeframe. His team retired from the Nürburgring 24 Hours in May with a driveshaft problem. He ruled out running a top-level team that would require constant travel."
+        ],
+        "triaged": true,
+        "priority": 4,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Max Verstappen spent four years making winning in Formula 1 look almost routine. But after two seasons without a world championship, the Red Bull driver has found himself on the other side of a title fight -- and discovered that losing doesn't weigh quite as heavily as it once might have.\n\nThe Verstappen of 2021 was desperate for a world crown after five seasons at Red Bull in which he had proved his star quality but never quite had the car to match. The Verstappen of 2026? Even a difficult start to the season -- one that had him seriously questioning his future -- hasn't stopped him finding his way back to the front.",
+        "first_seen": "2026-11-19T14:47:30.238669+00:00",
+        "summary_status": "done",
+        "label": "F1",
+        "line": "[Verstappen says he still loves racing], is second in the standings with three races left and has a contract until 2030.",
+        "angle": "Verstappen's future and the 2027 title picture matter for the Abu Dhabi Grand Prix, which closes the season.",
+        "stat": {
+          "value": "2030",
+          "label": "year Verstappen's Red Bull contract runs until"
+        }
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Federation Internationale de l'Automobile",
+        "search": "Feeder series watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "UNITED AGAINST ONLINE ABUSE LAUNCHES NEW EDUCATIONAL TOOLKIT AT LAUSANNE AUTUMN CONVENING",
+        "feed_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGdCd1k1b0V3OXdCb1FEZEtwRlIzZkFOQXFHcWdVbFVDRlZfU3FjNV90RWJfeDZpMnBRdUxOQlBYZFg2N0xFOGptT2RpWXlKaHlPMVYwOU5yeS1rczR1dlQ0TDlsTG1MeDI2bkJGV3FxYVhXdURzV2tNWks3QjhnblpBLVRzS2pjcGpuWVNlSjdLekx5U0JEWUpQTTN4ZFFKQW1lTnE2ZkRRVHk5b1E5WQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUGdCd1k1b0V3OXdCb1FEZEtwRlIzZkFOQXFHcWdVbFVDRlZfU3FjNV90RWJfeDZpMnBRdUxOQlBYZFg2N0xFOGptT2RpWXlKaHlPMVYwOU5yeS1rczR1dlQ0TDlsTG1MeDI2bkJGV3FxYVhXdURzV2tNWks3QjhnblpBLVRzS2pjcGpuWVNlSjdLekx5U0JEWUpQTTN4ZFFKQW1lTnE2ZkRRVHk5b1E5WQ?oc=5",
+        "published": "2026-11-19T13:51:00+00:00",
+        "published_label": "Thu 19 Nov, 17:51",
+        "summary": "UNITED AGAINST ONLINE ABUSE LAUNCHES NEW EDUCATIONAL TOOLKIT AT LAUSANNE AUTUMN CONVENING Federation Internationale de l'Automobile",
+        "id": "1158f1be8037",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "FIA online-abuse toolkit, not F1 or motorsport commercial news",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-19T14:47:30.238669+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
         "source": "Formula 1",
         "search": "F1 search",
         "lang": "en",
@@ -6270,6 +6424,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-19T13:56:26.178095+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "IMDb",
+        "search": "Feeder series watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Disney+ premieres The Pursuit: F1 Academy before Las Vegas",
+        "feed_link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tZFV0SGVKNDdFQzZHRVJ3Nng0SDdySmxmaWdlSTB2aUhqYi1hVzdFOUxtNXdPd3ZlUl96RjZjbVU1WE9SbzZfbmdpX3lDTWVpOFZuY2RCNTNKeFdHRUVEbEZR?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tZFV0SGVKNDdFQzZHRVJ3Nng0SDdySmxmaWdlSTB2aUhqYi1hVzdFOUxtNXdPd3ZlUl96RjZjbVU1WE9SbzZfbmdpX3lDTWVpOFZuY2RCNTNKeFdHRUVEbEZR?oc=5",
+        "published": "2026-11-19T13:34:03+00:00",
+        "published_label": "Thu 19 Nov, 17:34",
+        "summary": "Disney+ premieres The Pursuit: F1 Academy before Las Vegas IMDb",
+        "id": "b37f3e603556",
+        "bullets": [],
+        "triaged": true,
+        "priority": 1,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-19T14:47:30.238669+00:00"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -6319,6 +6496,28 @@
       },
       {
         "section": "Formula 1 & Motorsport",
+        "source": "RACER - Racing News",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Crawford gets ‘special’ first U.S. F1 outing with Las Vegas FP1 - RACER",
+        "feed_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmpKUnAzSlRieGhfbFZEZmRBbFlyM05pZ0hueTVFOVNjX29OSVhjTFJ3MDJIbGEzU3ZGeUd5Y25iU18xRzdqYW1NUnhRcmZIVU5oTGp0WWFkRGxILTB6Y3ZuY0xsVEl3MVlJQXdSSUx1ZkpYNEZnZzEwUG9mbERWR3o2OHBrWXA0OExkQmtyMFFOeWM?oc=5",
+        "link": "https://racer.com/2026/11/19/crawford-gets-special-first-u-s-f1-outing-with-las-vegas-fp1",
+        "published": "2026-11-19T13:15:00+00:00",
+        "published_label": "Thu 19 Nov, 17:15",
+        "summary": "Crawford gets ‘special’ first U.S. F1 outing with Las Vegas FP1 RACER - Racing News",
+        "id": "311ccc39b975",
+        "bullets": [],
+        "triaged": true,
+        "priority": 2,
+        "is_article": true,
+        "read_attempts": 2,
+        "copy": "",
+        "first_seen": "2026-11-19T14:47:30.238669+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
         "source": "Yahoo Sports",
         "search": "F1 search",
         "lang": "en",
@@ -6339,6 +6538,28 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-19T13:56:26.178095+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Autosport",
+        "search": "Autosport",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "Hamilton insists there are no \"trust\" problems at Ferrari",
+        "feed_link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYVVLYnlSelVoLVBrQk1WdElVN0FuRnlESTlEeW5sNElYSnMxVDVJWjdGOHJnSG45TWI2U3FiRHhtT2tGNXNWVmU5VmphbTVSSE5KSmp5amR5ckxuT2RBMXdZbXJVX0JFTHZaYzQtVTJKX3pacUZYSEdjLVd4V2V2SGI0eXRFQ09ERGZDSGQ3bnlOMWEzM2Jza3Rna0VnSE52XzJkUFlVMGo?oc=5",
+        "link": "https://www.autosport.com/f1/news/lewis-hamilton-insists-there-are-no-trust-problems-at-ferrari/10875609/",
+        "published": "2026-11-19T11:49:02+00:00",
+        "published_label": "Thu 19 Nov, 15:49",
+        "summary": "Hamilton insists there are no \"trust\" problems at Ferrari Autosport",
+        "id": "5f33d665a442",
+        "bullets": [],
+        "triaged": true,
+        "priority": 3,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Lewis Hamilton has insisted there are zero “trust” problems at Ferrari despite him overruling strategic calls becoming a repeated occurrence across recent Formula 1 grands prix.\n\nThe seven-time world champion has ignored calls to pit in two of the last four rounds - Singapore and Brazil - with both backfiring on the Scuderia driver. In Singapore he elected to keep track position under a virtual safety car, but on worn tyres he dropped from podium contention to sixth late on - for which he apologised afterwards.",
+        "first_seen": "2026-11-19T14:47:30.238669+00:00"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -7101,7 +7322,9 @@
         "is_article": true,
         "read_attempts": 2,
         "copy": "",
-        "first_seen": "2026-11-19T09:25:24.836984+00:00"
+        "first_seen": "2026-11-19T09:25:24.836984+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -7140,13 +7363,20 @@
         "published_label": "Thu 19 Nov, 10:58",
         "summary": "‘It felt like the time was right for something new’ – Piastri opens up on decision to split with management team Formula 1",
         "id": "3cca97104ff7",
-        "bullets": [],
+        "bullets": [
+          "Oscar Piastri has explained why he and his management team, led by Mark and Ann Webber, agreed to part ways. The split was announced after the Sao Paulo Grand Prix and ends a partnership that began in 2019 and helped Piastri reach his F1 debut with McLaren in 2023. Speaking in Las Vegas, he said the two sides had reached a stage where separate paths were better, and that the time felt right for something new.",
+          "The Webbers had already reduced their trackside role in 2026. Pedro Matos, Piastri's former PREMA race engineer, and mental coach Emma Murray have taken on greater roles in his close team. Piastri said his focus is on the final three rounds of 2026, starting in Las Vegas, where he expects to start further back. He hopes a new engine will help. He said the MCL40 has felt better in Malaysia, Singapore, Baku and Brazil, and that his Interlagos race pace was the strongest in a while."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Oscar Piastri has reflected on the decision to part ways with his management team, led by nine-time Grand Prix winner Mark Webber and his partner Ann Webber. Oscar Piastri has explained why he and his management team, led by Mark and Ann Webber, mutually agreed to part ways, with the Australian believing the time was right for a new chapter in his career.\n\nThe decision was announced following the Sao Paulo Grand Prix, bringing an end to a partnership that began in 2019 and helped Piastri secure his Formula 1 debut with McLaren in 2023.",
-        "first_seen": "2026-11-19T09:25:24.836984+00:00"
+        "first_seen": "2026-11-19T09:25:24.836984+00:00",
+        "summary_status": "done",
+        "label": "F1",
+        "line": "[Piastri explains split from Webber management], ending a partnership that began in 2019, as he turns to the last three rounds.",
+        "angle": "Driver-side change at McLaren ahead of the final three rounds, which end at the Abu Dhabi Grand Prix. No direct ADNOC link."
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -7885,7 +8115,7 @@
         "read_attempts": 2,
         "copy": "",
         "first_seen": "2026-11-18T17:16:33.185428+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -12769,6 +12999,35 @@
     "Cycling": [
       {
         "section": "Cycling",
+        "source": "CyclingUpToDate.com",
+        "search": "UAE Team Emirates watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "\"Now time to get serious\" - Tadej Pogacar finishes off-season and has return to full-on training scheduled",
+        "feed_link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOY1hueUJqWEVjeHZDWGcyTFB0QXM4Z0pwV2JOYzFmZzdBZDRiUVRVbkJzNnJmRUdFODA1ckJBNXFYZmg5SWFGTzdzYmh0TFBGZVdFZTFNZFk0WEJFNWN6MVlfZmUweGNNbC1TdUs2Nm5FTDVxbDB6RVF3T241enNmRGVUSHlXMjhOOWNuQWhvWm90QkQwVDdKOHdmY3FwOExxTWdJV3A2a3pWZXhZam14NjdPVU13RHpQU2t5azlfSnJERnlRRmNMNk9aNk52RHNrajZHTA?oc=5",
+        "link": "https://cyclinguptodate.com/cycling/now-time-to-get-serious-tadej-pogacar-finishes-off-season-and-has-return-to-full-on-training-scheduled",
+        "published": "2026-11-19T12:30:00+00:00",
+        "published_label": "Thu 19 Nov, 16:30",
+        "summary": "\"Now time to get serious\" - Tadej Pogacar finishes off-season and has return to full-on training scheduled CyclingUpToDate.com",
+        "id": "23c25beb9d8a",
+        "bullets": [
+          "Tadej Pogacar has completed his off-season and is returning to full training after several months of recovery from injuries and a busy year. He ended his season at the Vuelta a España, where a crash left him with a concussion and a fractured collarbone and vertebra. He could not return in time for the European Championships in Slovenia, and he learned of two further fractured vertebrae.",
+          "Pogacar wrote on Instagram that it was now time to get serious, after attending friend Eddie Dunbar's wedding in Ireland with Urska Zigart. He will take part in a UAE Team Emirates - XRG training camp in December, and the team's media day is on 18 December, a day after Team Visma | Lease a Bike. Richard Carapaz said Pogacar remains a cut above the other Tour contenders."
+        ],
+        "triaged": true,
+        "priority": 2,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Tadej Pogacar ended his season at the 2026 Vuelta a España and has since had several months to recover from his injuries and a busy year. Now he returns to training, having completed his off-season.\n\nPogacar suffered a concussion and fractured collarbone and vertebra in a crash at the Vuelta a España. The former World Champion tried to make a comeback in time for the European Championships, which took place in his home in Slovenia, but was unable to.",
+        "first_seen": "2026-11-19T14:47:30.238669+00:00",
+        "summary_status": "done",
+        "label": "CYCLING",
+        "line": "[Pogacar finishes his off-season] and returns to full training, with a UAE Team Emirates - XRG camp and media day on 18 December.",
+        "angle": "Pogacar's recovery from his first major injury sets up UAE Team Emirates - XRG's 2027 season, and the December camp and media day are the next visibility points."
+      },
+      {
+        "section": "Cycling",
         "source": "Liverpool City Region Destination Partnership",
         "search": "Cycling search",
         "lang": "en",
@@ -12838,6 +13097,39 @@
       },
       {
         "section": "Cycling",
+        "source": "CyclingUpToDate.com",
+        "search": "UAE Team Emirates watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Mark your calendars - These are the days Pogacar, Vingegaard, Evenepoel, Roglic and more reveal their 2027 goals",
+        "feed_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaktiVFpwNFNzcWllaXFNTzNPcDRZWWRqcl9fQmQ2dWd3QVRnWERUNVZMUTlHcHk5ZGh4Vmc1SUxvbG9LOFRDbGRYSjQ4bVg3WFlJMV8wazR3TFVydDhnQ0dlQ2JTMy1ZUWJmS1V1MEFKREdJektyN2RSWHJtSkY4aHR5YXhoVkRPallxS2VVaDZmcG84UmpyTC1JenZ0dEdqaDVvN2lRMUpRWG9zb3dtbW1QMzhpZlFJLUtvVGNNblRINlFucDQ1UUtLczhkcFRkVVZ2NzdFZjJxbzg?oc=5",
+        "link": "https://cyclinguptodate.com/cycling/mark-your-calendars-these-are-the-days-pogacar-vingegaard-evenepoel-roglic-and-more-reveal-their-2027-goals",
+        "published": "2026-11-19T11:37:00+00:00",
+        "published_label": "Thu 19 Nov, 15:37",
+        "summary": "Mark your calendars - These are the days Pogacar, Vingegaard, Evenepoel, Roglic and more reveal their 2027 goals CyclingUpToDate.com",
+        "id": "59db4eecc2c1",
+        "bullets": [
+          "World Tour teams will hold media days over the winter, ahead of a 2027 season that officially begins on 1 January. NSN Cycling Team opens on 25 November, led by Primoz Roglic, who has just signed a new contract. Team Jayco AlUla follows on 3 December, Uno-X Mobility and Decathlon CMA CGM on 7 December, and Red Bull - BORA - Hansgrohe on 11 December.",
+          "UAE Team Emirates - XRG hosts its media day on 18 December, with Tadej Pogacar, Isaac del Toro, João Almeida and new World Champion Brandon McNulty among those speaking. Lidl-Trek (15 December), Tudor Pro Cycling Team (16 December) and Team Visma | Lease a Bike (17 December) come before it. Soudal - Quick-Step and Lotto-Intermarché are set for 14 and 15 January. Teams usually hold two- to three-week camps in December, typically in Spain."
+        ],
+        "triaged": true,
+        "priority": 2,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Whilst the 2027 season only officially begins on the 1st of January, all World Tour teams will have already gathered and taken on a large training camp up until that point. Below, you will find the dates for the media days from the majority of the top teams in the sport.\n\nOver the winter, most pro riders take a few weeks off the bike in order to rest physically and psychologically following the year of racing. Most return to low-intensity training throughout the months of November and December.",
+        "first_seen": "2026-11-19T14:47:30.238669+00:00",
+        "summary_status": "done",
+        "label": "CYCLING",
+        "line": "[UAE Team Emirates - XRG hold their media day] on 18 December, with Pogacar, del Toro, Almeida and McNulty due to speak.",
+        "angle": "The 18 December media day is when UAE Team Emirates - XRG will set out its 2027 goals, giving ADNOC a content and communications window.",
+        "stat": {
+          "value": "18 Dec",
+          "label": "UAE Team Emirates - XRG 2027 media day"
+        }
+      },
+      {
+        "section": "Cycling",
         "source": "Inside The Games",
         "search": "Cycling search",
         "lang": "en",
@@ -12857,8 +13149,41 @@
         "read_attempts": 2,
         "copy": "",
         "first_seen": "2026-11-19T13:56:26.178095+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
+      },
+      {
+        "section": "Cycling",
+        "source": "Brujulabike.com",
+        "search": "Cycling search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "The Giro d’Italia is on board with the new cycling Super League: “We would be willing to reach an agreement”",
+        "feed_link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcm5YNmszMWtZbERuOUxGcmtPZE1XNFo4Z2FPeUU2Tk5FU0dFcW9sMWJnNHlJSENhSkVnVkJPVXlEbW5WVlpacHJEblE1c2JacDJsNF9yLUFZNHRnaWdXTGVxaG9TUEgtZ0V1SV8yRkd0VFBzd1A4NG9EYjZXamhLcjgzNmNXODlvUFJwci1RMXlTUDNPekd4cm1PVTEyQ0thdnBrRVkweVE1ajQ5RllaZTROR2ltUWNwemdpTVFwaU1hVWl2OENPRVBNcjY?oc=5",
+        "link": "https://en.brujulabike.com/the-giro-ditalia-is-on-board-with-the-new-cycling-super-league-we-would-be-willing-to-reach-an-agreement/",
+        "published": "2026-11-19T11:02:49+00:00",
+        "published_label": "Thu 19 Nov, 15:02",
+        "summary": "The Giro d’Italia is on board with the new cycling Super League: “We would be willing to reach an agreement” Brujulabike.com",
+        "id": "e61285c46224",
+        "bullets": [
+          "The Giro d'Italia has said it is willing to work with Collective Cycling Group (CCG), the project backed by 24 professional teams and successor to ONE Cycling. Luca Guercilena, the new Giro director and former Lidl-Trek manager, told Domestique he believed RCS Sport would be willing to reach an agreement. This came 24 hours after the teams announced CCG. He said professional cycling needs a different business model, and that any deal must respect the UCI's authority and regulations.",
+          "RCS Sport has not signed any agreement with CCG. Guercilena said the Tour de France is a reference point, but the Giro wants its own identity. In December, he and RCS Sport officials will visit team training camps to discuss expenses, logistics and race participation. He also wants riders such as Paul Seixas, Isaac del Toro and Giulio Pellizzari to prioritise the 2027 Giro. He prefers improving conditions to paying large participation bonuses. The article notes that Tour de France organiser ASO has historically opposed projects that could threaten its position."
+        ],
+        "triaged": true,
+        "priority": 5,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "The new cycling Super League has just been presented and has already found a potential ally among the major organizers. The Giro d'Italia has opened the door to collaborate with Collective Cycling Group, the project driven by 24 professional teams to transform the cycling business. Its new director, Luca Guercilena, believes that the sport needs a different economic model and is willing to explore agreements with the new organization.\n\nJust 24 hours after 24 teams officially announced the creation of Collective Cycling Group, RCS Sport has expressed its interest in collaborating with this initiative, the successor to the ONE Cycling project.",
+        "first_seen": "2026-11-19T14:47:30.238669+00:00",
+        "summary_status": "done",
+        "label": "CYCLING",
+        "line": "[Giro d'Italia open to working with] the new Collective Cycling Group, which 24 teams launched a day earlier.",
+        "angle": "A possible shift in cycling's commercial structure could affect the races and team economics around UAE Team Emirates XRG.",
+        "stat": {
+          "value": "24",
+          "label": "teams behind the new Collective Cycling Group"
+        }
       },
       {
         "section": "Cycling",
@@ -15387,6 +15712,52 @@
     "UAE Pro League & GCC Football": [
       {
         "section": "UAE Pro League & GCC Football",
+        "source": "Goal.com",
+        "search": "Pro League watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Newcastle United face six-club battle including rivals Sunderland and Brighton for £35m-plus Feyenoord winger Anis Hadj Moussa",
+        "feed_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOblBJYlI0ZngwRjAzeXZBUjk5VF8zNU9BU01NaGV0OXBmYUJXVF9jdVRpemktTnhwdEpGSXdqZG9pUmxkT2RVU1J3WWE4U0EwYU1YXzhZWmJPYVhfY2xqR0xjejBTb1VaWHlkMTUtSjBkYXdNNGMwcGYxeTUtMVN0aThDdGNNN3NyanMwSUtTYmYybDl1a3ZVYWNObnFjY1pSUlFkcVgzSDFnZVc1Nlh6VnhoOFRwTFItM0lXS0NLVTRIMW5OYXotb0d4dw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOblBJYlI0ZngwRjAzeXZBUjk5VF8zNU9BU01NaGV0OXBmYUJXVF9jdVRpemktTnhwdEpGSXdqZG9pUmxkT2RVU1J3WWE4U0EwYU1YXzhZWmJPYVhfY2xqR0xjejBTb1VaWHlkMTUtSjBkYXdNNGMwcGYxeTUtMVN0aThDdGNNN3NyanMwSUtTYmYybDl1a3ZVYWNObnFjY1pSUlFkcVgzSDFnZVc1Nlh6VnhoOFRwTFItM0lXS0NLVTRIMW5OYXotb0d4dw?oc=5",
+        "published": "2026-11-19T14:02:57+00:00",
+        "published_label": "Thu 19 Nov, 18:02",
+        "summary": "Newcastle United face six-club battle including rivals Sunderland and Brighton for £35m-plus Feyenoord winger Anis Hadj Moussa Goal.com",
+        "id": "9ccab50c0ec8",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "European transfer rumour with no Gulf angle",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-19T14:47:30.238669+00:00"
+      },
+      {
+        "section": "UAE Pro League & GCC Football",
+        "source": "Goal.com",
+        "search": "Pro League watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Napoli set asking price for Kevin De Bruyne as PSV Eindhoven launch cut-price January transfer bid",
+        "feed_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmdTa3dsa2NOaTkzWDM1ekFYQWljWUVHMklpSHE4V3A1aUdCenBscmZmOFU3NUxkTHNYNEthWmVOSi1uYkN4MWNhaFBUd1lLc3JmT00xMlNPdDNhS29pel8tWUxBS2JHMnNvc1pnaFBWREZNdlBkQ0ZVRkkyaDV2SkNTY2hJSGZqSjZuNnN5Vmx6T3IzTUttNVlNU25OdVlXVGlacHR2Zw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSmdTa3dsa2NOaTkzWDM1ekFYQWljWUVHMklpSHE4V3A1aUdCenBscmZmOFU3NUxkTHNYNEthWmVOSi1uYkN4MWNhaFBUd1lLc3JmT00xMlNPdDNhS29pel8tWUxBS2JHMnNvc1pnaFBWREZNdlBkQ0ZVRkkyaDV2SkNTY2hJSGZqSjZuNnN5Vmx6T3IzTUttNVlNU25OdVlXVGlacHR2Zw?oc=5",
+        "published": "2026-11-19T13:52:56+00:00",
+        "published_label": "Thu 19 Nov, 17:52",
+        "summary": "Napoli set asking price for Kevin De Bruyne as PSV Eindhoven launch cut-price January transfer bid Goal.com",
+        "id": "0a570ce8e1ea",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "European transfer rumour with no Gulf angle",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-19T14:47:30.238669+00:00"
+      },
+      {
+        "section": "UAE Pro League & GCC Football",
         "source": "Khaleej Times",
         "search": "GCC football search",
         "lang": "en",
@@ -17855,13 +18226,13 @@
     ],
     "Running & Endurance": []
   },
-  "total": 746,
+  "total": 759,
   "edition": {
-    "drafted_at": "2026-11-19T13:59:54.639876+00:00",
+    "drafted_at": "2026-11-19T14:50:15.369185+00:00",
     "days": 14,
     "headline": [
-      "The finale is confirmed.",
-      "Abu Dhabi is 6 December."
+      "F1 stays on course.",
+      "Abu Dhabi finale is 6 December."
     ],
     "stats": [
       {
@@ -17870,9 +18241,9 @@
         "id": "eb3d5f5c9ba9"
       },
       {
-        "value": "$3bn",
-        "label": "forecast F1 sponsorship spend in 2026, up 15%",
-        "id": "5a2fa0617592"
+        "value": "1st",
+        "label": "F1 Sprint Race for Abu Dhabi, in December 2027",
+        "id": "404fbc3240b3"
       },
       {
         "value": "5",
@@ -17880,15 +18251,15 @@
         "id": "47acd2c017e2"
       },
       {
-        "value": "1st",
-        "label": "F1 Sprint Race for Abu Dhabi, in December 2027",
-        "id": "404fbc3240b3"
+        "value": "$3bn",
+        "label": "forecast F1 sponsorship spend in 2026, up 15%",
+        "id": "5a2fa0617592"
       }
     ],
     "watch": {
       "id": "5836ad929d71",
-      "lead": "F1 confirms the Abu Dhabi Grand Prix will go ahead on 6 December.",
-      "text": "[grandprix247] reports F1 is pressing ahead with Qatar and Abu Dhabi despite Middle East security concerns. ADNOC, as founding partner, should be ready for safety questions and keep race-week plans on schedule."
+      "lead": "F1 is pressing ahead with the Abu Dhabi finale on 6 December despite security concerns.",
+      "text": "The Middle East conflict has cancelled or moved other Gulf events, so [grandprix247]'s report matters to ADNOC as founding partner of the Abu Dhabi Grand Prix. Drivers including Verstappen have said they back the races."
     }
   }
 }
