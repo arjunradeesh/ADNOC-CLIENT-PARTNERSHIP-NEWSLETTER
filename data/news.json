@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T09:08:28.234838+00:00",
-  "generated_label": "Friday 20 November 2026, 13:08 GST",
+  "generated_at": "2026-11-20T10:33:31.593476+00:00",
+  "generated_label": "Friday 20 November 2026, 14:33 GST",
   "keep_days": 14,
   "section_order": [
     "ADNOC & Partner News",
@@ -763,6 +763,54 @@
     "Competitor News": [
       {
         "section": "Competitor News",
+        "source": "Hypebeast",
+        "search": "Petronas search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "IWC and Mercedes-AMG Petronas Light up the Las Vegas Grid",
+        "feed_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQRi1IQ2VLdk04NHVveE1heVpLUUg0dTNJWUgwR2JlVURudkRJc25Fc2JuYl9RZ2JlUnFMdlYzeVJEaUo4YVlyQUNfb0NzdFhBbzdVbXFIQkNnbnJGai1wV1VrbkpyZ19DTGpMYWlVS1Q2M0MwZWNPenA1U0F6aHNweU5GRXc?oc=5",
+        "link": "https://hypebeast.com/2026/11/iwc-mercedes-amg-petronas-f1-collab-release-info",
+        "published": "2026-11-20T09:05:08+00:00",
+        "published_label": "Fri 20 Nov, 13:05",
+        "summary": "IWC and Mercedes-AMG Petronas Light up the Las Vegas Grid Hypebeast",
+        "id": "440eee530dfa",
+        "bullets": [],
+        "triaged": true,
+        "priority": 4,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "IWC and Mercedes-AMG PETRONAS unveiled bespoke racing suits for the Las Vegas Grand Prix. Inspired by Ceralume ceramic, the gear mirrors the material's day-to-night aesthetic shift.\n\nKimi Antonelli wears white for daylight, while George Russell wears blue for the dark. Celebrating its longstanding partnership with the newly crowned nine-time Constructors’ Champion, Mercedes-AMG PETRONAS F1 Team, IWC has unveiled a bespoke set of racing suits ahead of the Las Vegas Grand Prix.",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "IWC deal, not a listed brand's sponsorship"
+      },
+      {
+        "section": "Competitor News",
+        "source": "News Room Guyana",
+        "search": "ExxonMobil search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "PM Phillips renews support to ExxonMobil Guyana Futsal tournament in Linden",
+        "feed_link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT3pCek9qTWpyQ21UR0lRbGxUV2F2SUZFMXcyVFVCTGtFeWVWS2xBTHZFeHpURUY2eVJ3SnpLZkp0Vng5MDU1M2xkY2RYWnlmRjZFRXdPMXlCX0FZVVpXa1hlbDVZZ09rVEQwQWN2ZWtOa2pFV2s5NGhJSXRnY1JJVFltd3hkeUw3RU1zdEZBdTF5Z3QtcjdNdk9NZERUd1hKLU5jN2tHQjBnMEk?oc=5",
+        "link": "https://newsroom.gy/2026/11/20/pm-phillips-renews-support-to-exxonmobil-guyana-futsal-tournament-in-linden/",
+        "published": "2026-11-20T08:35:17+00:00",
+        "published_label": "Fri 20 Nov, 12:35",
+        "summary": "PM Phillips renews support to ExxonMobil Guyana Futsal tournament in Linden News Room Guyana",
+        "id": "9d4f7f76e0f7",
+        "bullets": [],
+        "triaged": true,
+        "priority": 3,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "The organisers of the ExxonMobil Guyana Futsal Tournament 2026 are pleased to acknowledge the continued support and sponsorship of Prime Minister Brigadier (Ret’d) Mark Phillips to the annual competition in Linden.\n\n“His longstanding commitment to the tournament reflects his dedication to youth empowerment, sports development and community advancement,” New Era Entertainment, the organising body of the tournament, highlighted in a release.",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "Named event story, not about sponsorship itself"
+      },
+      {
+        "section": "Competitor News",
         "source": "The Manila Times",
         "search": "Petronas search",
         "lang": "en",
@@ -1511,6 +1559,52 @@
     "Wider Sports News": [
       {
         "section": "Wider Sports News",
+        "source": "Sportcal",
+        "search": "Sportcal",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "Has short-form video become the front door to live sport?",
+        "feed_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeFI0a1IteGVXSVNBMC1iZjd4Qm5hU1FXTGwtd3RLNlBKTnh6YVdTTEpFYy1LNXY3TlNMdkVZeEpzdnY5bTVGc3lIZ0pmMG9aMU1ZZ2t3ZzdGdGVyQnl4SndzRjRfSlA0WGhOWEFuZTF3NVZKeE9lRTJRS2M4UVh1Yk9zUDJjUmYwcE01YUNhekNkOHFzY1EtNHFYcEdZOEU?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeFI0a1IteGVXSVNBMC1iZjd4Qm5hU1FXTGwtd3RLNlBKTnh6YVdTTEpFYy1LNXY3TlNMdkVZeEpzdnY5bTVGc3lIZ0pmMG9aMU1ZZ2t3ZzdGdGVyQnl4SndzRjRfSlA0WGhOWEFuZTF3NVZKeE9lRTJRS2M4UVh1Yk9zUDJjUmYwcE01YUNhekNkOHFzY1EtNHFYcEdZOEU?oc=5",
+        "published": "2026-11-20T10:11:57+00:00",
+        "published_label": "Fri 20 Nov, 14:11",
+        "summary": "Has short-form video become the front door to live sport? Sportcal",
+        "id": "d0b785ffcf01",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "trend opinion piece, no new facts",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "The National",
+        "search": "The National",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "India v Pakistan: How to watch Rising Stars Asia Cup showdown in UAE?",
+        "feed_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN2FiSEpGNktRb1lhYjlKdVdvSk13Ujl2NmZWRWpGRWE2SzdPRmo2MmNvXzh0bnEtSXBacEJ4UWxJSWhNZEQ2eUliOHlCamV4RmFTMjh3d2toZFE1Ymc5dk9teEVkY0l1MWU3TXZZNy1sbFNtMUdUR25SMmlBaXNEOWI5cHdiVGUwbVFrMy10eVNDUC1RRUZyMER3dEN0b082dzJZd08ycURtVDRYREVQMENaZWRwcVppanA4aGdsZi1rU2c?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN2FiSEpGNktRb1lhYjlKdVdvSk13Ujl2NmZWRWpGRWE2SzdPRmo2MmNvXzh0bnEtSXBacEJ4UWxJSWhNZEQ2eUliOHlCamV4RmFTMjh3d2toZFE1Ymc5dk9teEVkY0l1MWU3TXZZNy1sbFNtMUdUR25SMmlBaXNEOWI5cHdiVGUwbVFrMy10eVNDUC1RRUZyMER3dEN0b082dzJZd08ycURtVDRYREVQMENaZWRwcVppanA4aGdsZi1rU2c?oc=5",
+        "published": "2026-11-20T10:10:09+00:00",
+        "published_label": "Fri 20 Nov, 14:10",
+        "summary": "India v Pakistan: How to watch Rising Stars Asia Cup showdown in UAE? www.thenationalnews.com",
+        "id": "d31d99b0f14d",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "how-to-watch guide, cricket match with no business angle",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "The National",
         "search": "The National",
         "lang": "en",
@@ -1531,6 +1625,28 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-20T09:08:28.234838+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "thenational.co.za",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Leicester City terminate shirt sponsorship after adult film star backlash",
+        "feed_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbG9ZSl9EM3lXa0I5RGxMR0FoWXlxQXB6b3V4TDFHWW1RWkg5djhjWVVZa080QjBLQjV0Vkh1cjVLSkJqRmVhU0MyeFh2dG90TjJ4U3J1QU9YT3dIeVYweko4Sjh1bl9qRWdkVDgwQUpPSDVXNnZPNEZNM0tBMzVmUzBlOXNMTkdLQkZSaU1EUjg0by1LUTJwenUtbUgtcTF6N3ZqTjZTVVk2X2tOVGdrRVFhb0ZxeFU1?oc=5",
+        "link": "https://thenational.co.za/sport/2026-11-20-leicester-city-terminate-shirt-sponsorship-after-adult-film-star-backlash/",
+        "published": "2026-11-20T06:19:25+00:00",
+        "published_label": "Fri 20 Nov, 10:19",
+        "summary": "Leicester City terminate shirt sponsorship after adult film star backlash thenational.co.za",
+        "id": "c41719a79276",
+        "bullets": [],
+        "triaged": true,
+        "priority": 4,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "There was a time when Leicester City could do no wrong. The Foxes went from one of the greatest underdog stories in sporting history to FA Cup winners, capturing the imagination of football supporters around the world. Today, however, the club find themselves fighting a very different battle, with financial troubles, successive relegations and a series of controversies threatening to tarnish their remarkable legacy.\n\nTheir latest scandal, involving a betting sponsor and an adult film performer, is perhaps another indication of just how difficult it has been for the club to find stability. Few will ever forget their remarkable and awe-inspiring English Premier League championship run that had the entire world rooting for them during the 2015/16 season. As recently as 2021, the Foxes lifted the FA Cup.",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1569,13 +1685,24 @@
         "published_label": "Fri 20 Nov, 08:05",
         "summary": "BNW Developments expands sporting footprint as Principal Partner of Arabian Aces Campaign Middle East",
         "id": "d5bbbe395662",
-        "bullets": [],
+        "bullets": [
+          "BNW Developments, a UAE luxury real estate developer, is Principal Partner of Arabian Aces at the ongoing Abu Dhabi T10 2026, with its branding on the front of the franchise's jersey. The tournament is being held at Zayed Cricket Stadium until 20 November and features six franchises.",
+          "Arabian Aces are led by captain Moeen Ali and include Andre Russell, Liam Livingstone and Sam Billings. BNW chairman and founder Ankur Aggarwal said the partnership reflects a belief in building connections through shared values, while co-owner Pankaj Jain said the company's ambition aligns with the franchise. BNW has a gross development value above AED 32bn, with a portfolio concentrated in Ras Al Khaimah, and the deal builds on its growing sporting footprint."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "BNW Developments, one of the UAE’s leading luxury real estate developers, has revealed that it is a Principal Partner of Arabian Aces at the ongoing Abu Dhabi T10 2026, as it looks to contribute to international cricket, connect better with communities, and build meaningful partnerships based on shared values.\n\nWith the tournament underway at Zayed Cricket Stadium, BNW Developments is prominently featured on the front of the franchise’s jersey, marking another significant milestone in the company’s growing association with global sporting platforms.",
-        "first_seen": "2026-11-20T09:08:28.234838+00:00"
+        "first_seen": "2026-11-20T09:08:28.234838+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[BNW Developments becomes Principal Partner] of Arabian Aces at the Abu Dhabi T10, with front-of-jersey branding.",
+        "angle": "Shows UAE corporates buying into franchise cricket in Abu Dhabi, a sign of growing local sponsorship competition for event and team assets.",
+        "stat": {
+          "value": "AED 32bn",
+          "label": "BNW Developments' gross development value"
+        }
       },
       {
         "section": "Wider Sports News",
@@ -1738,13 +1865,24 @@
         "published_label": "Fri 20 Nov, 02:23",
         "summary": "TAB Replaces Aquis Australia as Gold Coast Turf Club Naming Rights Partner from November 2026 Ministry of Sport",
         "id": "7729e65511f7",
-        "bullets": [],
+        "bullets": [
+          "TAB became naming rights partner of the Gold Coast Turf Club from 1 November 2026, under an agreement covering 1 November 2026 to 2030. The venue was renamed TAB Park Gold Coast Turf Club on that date, following the end of the previous naming arrangement.",
+          "The deal ends Aquis Australia's nine-year tenure, in place since 2017, described in source material as one of the longest-running venue naming rights partnerships in Australian sport. Tabcorp operates one of its largest next-generation retail venues at the Gold Coast site. Club chief executive Steve Lines said the club is working towards its ambition of becoming a metropolitan club, as acknowledged in the recent Racing Review and The Next Lap plan."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "TAB became the naming rights partner of the Gold Coast Turf Club effective November 1, 2026, in an agreement that runs through 2030. The venue’s official name changed to TAB PARK GOLD COAST TURF CLUB on that date, ending Aquis Australia’s nine-year tenure — a partnership that had been in place since 2017.\n\nTabcorp operates one of its largest next-generation retail venues at the Gold Coast site. The club’s CEO, Steve Lines, stated the club is working towards its ambition of becoming a metropolitan club, as acknowledged in the recent Racing Review and The Next Lap plan.",
-        "first_seen": "2026-11-20T09:08:28.234838+00:00"
+        "first_seen": "2026-11-20T09:08:28.234838+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[TAB replaces Aquis as naming rights partner] of the Gold Coast Turf Club on a deal running to 2030.",
+        "angle": "A venue naming-rights change in racing; a point of comparison for the Abu Dhabi Gold Cup partnership, though without a direct Gulf link.",
+        "stat": {
+          "value": "9",
+          "label": "years of Aquis Australia's naming rights tenure"
+        }
       },
       {
         "section": "Wider Sports News",
@@ -1766,7 +1904,9 @@
         "is_article": true,
         "read_attempts": 1,
         "copy": "The future of MLB’s local media business has become a central element in the sport’s labor battle, providing yet another substantial layer to the already fractious situation. For the last six months, MLB club owners have proposed to pool the local media revenue of all 30 clubs as part of a sought-after economic system that would implement a hard salary cap and floor. Most recently, management has updated its cap offer to the MLB Players Association to a 2028 implementation, and vows there will be “no compromise” on the pursuit of a cap as the Dec. 1 expiration of the current labor deal and an expected lockout thereafter approach.\n\nThe pooling of local media revenues, and a promise to end regional blackouts that have long frustrated fans, were also part of a video recently distributed by MLB to fans. Throughout the entrenched negotiations, though, two key questions have persisted: Why are the local media and salary cap issues so deeply linked, and why couldn’t owners just agree on their own to pool that revenue, similar to how the NFL operates?",
-        "first_seen": "2026-11-20T09:08:28.234838+00:00"
+        "first_seen": "2026-11-20T09:08:28.234838+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "US baseball labour dispute, no ADNOC or Gulf angle"
       },
       {
         "section": "Wider Sports News",
@@ -1788,7 +1928,9 @@
         "is_article": true,
         "read_attempts": 1,
         "copy": "You don't have permission to access \"http://www.crainsdetroit.com/sports-recreation/cdb-rocket-redfin-las-vegas-grand-prix-20261119/\" on this server. Reference #18.c9d02e17.1795165865.31d9a151\n\nhttps://errors.edgesuite.net/18.c9d02e17.1795165865.31d9a151",
-        "first_seen": "2026-11-20T09:08:28.234838+00:00"
+        "first_seen": "2026-11-20T09:08:28.234838+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -1967,6 +2109,29 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "https://www.groundhandlinginternational.com/",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Put your company in the spotlight at the 18th Asian GHI Conference",
+        "feed_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMjBqblMzZlhUci1VR0Vsd0ZlWHE4TDlWT1R5b1hLVG5ZXzAzMkRvaWduM0RBUTQtdEU0UVFkdlVoaGlpNjBQYlRTNmI2amMxQVIwNFdNb0t2dGtHRHVyTS04dlpINTRzUHE3ckQxZE0xNVdTUl9MRGdWWXRkWlFiYlZLRTBPRWd2WHU4QmxGMUtZdHpId1VKekZUX2VtemFGdE54MGhfcXd1NHhnUnZrdVQ5QThXUU85RXhEcWRHY1Y3eUExUWEzemRR?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMjBqblMzZlhUci1VR0Vsd0ZlWHE4TDlWT1R5b1hLVG5ZXzAzMkRvaWduM0RBUTQtdEU0UVFkdlVoaGlpNjBQYlRTNmI2amMxQVIwNFdNb0t2dGtHRHVyTS04dlpINTRzUHE3ckQxZE0xNVdTUl9MRGdWWXRkWlFiYlZLRTBPRWd2WHU4QmxGMUtZdHpId1VKekZUX2VtemFGdE54MGhfcXd1NHhnUnZrdVQ5QThXUU85RXhEcWRHY1Y3eUExUWEzemRR?oc=5",
+        "published": "2026-11-19T15:45:43+00:00",
+        "published_label": "Thu 19 Nov, 19:45",
+        "summary": "Put your company in the spotlight at the 18th Asian GHI Conference https://www.groundhandlinginternational.com/",
+        "id": "e59fdddc7518",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "conference exhibitor promotion, not news",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "KOHA JONË",
         "search": "Sports business search",
         "lang": "en",
@@ -2002,13 +2167,24 @@
         "published_label": "Thu 19 Nov, 17:57",
         "summary": "FIFA Under-17 World Cup 2026 gets under way in Qatar despite USA withdrawal Al Jazeera",
         "id": "384d8d392c5f",
-        "bullets": [],
+        "bullets": [
+          "The FIFA Under-17 World Cup has kicked off in Qatar with 48 teams, despite the United States withdrawing last week over security concerns. The tournament opened with two concurrent matches on Thursday and will run for 24 days at the Aspire Zone complex. The final is on 13 December at the Ahmad bin Ali Stadium, a 2022 World Cup venue.",
+          "US Soccer withdrew its team citing safety concerns, but FIFA said its plans were unchanged. FIFA President Gianni Infantino said last week that everyone is safe in Doha. FIFA noted that Qatar had recently hosted several international events, including MotoGP's Qatar Grand Prix on 8 November and the FIP Padel World Cup 2026."
+        ],
         "triaged": true,
         "priority": 5,
         "is_article": true,
         "read_attempts": 1,
         "copy": "The FIFA Under-17 World Cup has kicked off in Qatar, with 48 teams participating in the global youth football competition despite the United States’ withdrawal over security concerns last week.\n\nThe tournament, which opened with two concurrent matches on Thursday, will be played in the 2022 World Cup host nation over the next 24 days after FIFA dismissed security concerns in the country.",
-        "first_seen": "2026-11-20T09:08:28.234838+00:00"
+        "first_seen": "2026-11-20T09:08:28.234838+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[FIFA Under-17 World Cup opens in Qatar] with 48 teams, despite the USA's withdrawal; the final is on 13 December.",
+        "angle": "Shows continued Gulf hosting of major events and how security perceptions are being handled, relevant to Abu Dhabi's own event hosting.",
+        "stat": {
+          "value": "48",
+          "label": "teams at the FIFA Under-17 World Cup in Qatar"
+        }
       },
       {
         "section": "Wider Sports News",
@@ -2294,13 +2470,24 @@
         "published_label": "Thu 19 Nov, 15:50",
         "summary": "F1 and Whoop in deal aimed at unveiling physical realities of racing Sportcal",
         "id": "837df737130e",
-        "bullets": [],
+        "bullets": [
+          "Formula 1 has agreed a multi-year commercial deal with US wearable fitness technology brand Whoop, signed days before the Las Vegas Grand Prix on 21 November. Whoop becomes an official F1 partner, with the tie-up centred on new broadcast storytelling that uses driver collaboration to show the physical realities of racing. It will also receive trackside branding at F1 races for the length of the deal.",
+          "Whoop is also set to sponsor the F1 Academy. The announcement follows F1's deal with aerospace brand Archer, which became an official supporter, a new sponsorship tier. Whoop was valued at $10.1 billion after raising $575 million in Series G funding earlier this year. F1 goes to Qatar and then Abu Dhabi for the final two races of 2026."
+        ],
         "triaged": true,
         "priority": 5,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Motor racing's top-tier Formula 1 (F1) has struck a multi-year commercial deal with US-based wearable fitness tech brand Whoop. The deal, signed days before the 2026 Las Vegas Grand Prix on November 21, sees Whoop become an official partner of F1, with the tie-up revolving around developing \"new broadcast storytelling experiences,\" using collaboration with the drivers to give fans a wider insight into the \"physical realities of racing.\"\n\nCombine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. The Las Vegas event has now become one at which brands routinely choose to activate for the first time.",
-        "first_seen": "2026-11-20T09:08:28.234838+00:00"
+        "first_seen": "2026-11-20T09:08:28.234838+00:00",
+        "summary_status": "done",
+        "label": "F1 BUSINESS",
+        "line": "[F1 signs multi-year Whoop deal] covering broadcast content, trackside branding and F1 Academy sponsorship.",
+        "angle": "Indicates F1's growing use of data-led broadcast content and new sponsor tiers, which could shape fan-engagement options around the Abu Dhabi Grand Prix.",
+        "stat": {
+          "value": "$10.1bn",
+          "label": "Whoop valuation after $575m Series G round"
+        }
       },
       {
         "section": "Wider Sports News",
@@ -2561,6 +2748,28 @@
         "first_seen": "2026-11-19T09:25:24.836984+00:00",
         "summary_attempts": 2,
         "summary_status": "unavailable"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "MediaNews4U",
+        "search": "Gulf sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Karma Developers partners with Emirates Eagles as front and back jersey sponsor for Abu Dhabi T10 2026",
+        "feed_link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSUhCSEZWMUJhalJycjFjRFFMZ1ZhNEgzeHdKWlVkMVNTeGNWM0lZd0JGVjFXWklMdXdKWG5RWTVncy03RjJobl9FUmZzSlhWTHBKNzYtVjl2cjJxZE5SYU9ZbTJDX2J3YXhvSnlPc0ZkNTFMQmltSW92ZmxjRER2bjZEdFhwQzZCdzhjbElMeG05MHc2cnpmVkNOWndNeDJXVWFEZVB6dDBOc0t6Z1Z4SFFqVEY2dURNTElfZERDb2VTckc5b2xVRXU2TQ?oc=5",
+        "link": "https://www.medianews4u.com/karma-developers-partners-with-emirates-eagles-as-front-and-back-jersey-sponsor-for-abu-dhabi-t10-2026/",
+        "published": "2026-11-19T07:47:33+00:00",
+        "published_label": "Thu 19 Nov, 11:47",
+        "summary": "Karma Developers partners with Emirates Eagles as front and back jersey sponsor for Abu Dhabi T10 2026 MediaNews4U",
+        "id": "8e25052e7b71",
+        "bullets": [],
+        "triaged": true,
+        "priority": 6,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Abu Dhabi: Karma Developers, a real estate development company, has partnered with Emirates Eagles as the franchise’s Front and Back of Jersey Sponsor for the ongoing Abu Dhabi T10 2026, being held at the Zayed Cricket Stadium in Abu Dhabi from November 7 to 20.\n\nThe Emirates Eagles are captained by West Indies batter Rovman Powell and coached by Mickey Arthur, who has previously coached the national teams of Pakistan, South Africa and Australia.",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -2838,6 +3047,28 @@
           "value": "20",
           "label": "age of Kimi Antonelli, F1's youngest-ever champion"
         }
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Yahoo Sports",
+        "search": "Gulf sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "WSL Football has agreement with clubs over avoiding gambling sponsors",
+        "feed_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZlVKR3VkNUc1LXlFNy1FLV82Q1VjLUhPVUhmamNSLUVaOHJzTGEtVElxVHBPblBoLW9jZWwyUnNCMTRyMGNESzg1aVkzbENZTDRJZ2xVWV81NXFyLXcxZFVubXpVeUtHN0RXdFF6d1ZMMGhaTnQzd0VzZ3dVS1owXzRNUXlOQVY5ZFE?oc=5",
+        "link": "https://sports.yahoo.com/articles/wsl-football-agreement-clubs-over-211606077.html",
+        "published": "2026-11-18T21:16:06+00:00",
+        "published_label": "Thu 19 Nov, 01:16",
+        "summary": "WSL Football has agreement with clubs over avoiding gambling sponsors Yahoo Sports",
+        "id": "a533b1691c46",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "WSL Football, the organisation that runs the top two tiers of English women's football, has an agreement in principle with its clubs to not do sponsorship deals with betting companies and instead prioritise other commercial categories.\n\nThe company, which governs the Women's Super League (WSL) and second-tier WSL2, agreed six new sponsors could be onboarded as part of the new structure which was established ahead of the 2024-2025 season.",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -7257,6 +7488,104 @@
     "Formula 1 & Motorsport": [
       {
         "section": "Formula 1 & Motorsport",
+        "source": "Autosport",
+        "search": "Autosport",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "Cadillac ditches plan to produce own V6 hybrid engine ahead of F1’s V8 push",
+        "feed_link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckhMM1VBM1ExTF9jeWJhTWFJVll4dm12MDFYUk9fbUdWM09SWmNzN1J0aHkydlhFSVhIVVhxNXlCRGxMNGhFVWpLRk1tdXAwMVlGd2luUlV1WnAweUVlRnZOMnVPRzU2TUdqeE9GUVUzVVFkdWxZemV4NmV5SUpuc3IweHliYS1Hd0IyNE1Kc1BrRV80ZkVZOVhycDJZTVJZeVA4Vl9NUUFHRUR4VFdydDljUzVCU1VyWUE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOckhMM1VBM1ExTF9jeWJhTWFJVll4dm12MDFYUk9fbUdWM09SWmNzN1J0aHkydlhFSVhIVVhxNXlCRGxMNGhFVWpLRk1tdXAwMVlGd2luUlV1WnAweUVlRnZOMnVPRzU2TUdqeE9GUVUzVVFkdWxZemV4NmV5SUpuc3IweHliYS1Hd0IyNE1Kc1BrRV80ZkVZOVhycDJZTVJZeVA4Vl9NUUFHRUR4VFdydDljUzVCU1VyWUE?oc=5",
+        "published": "2026-11-20T09:51:35+00:00",
+        "published_label": "Fri 20 Nov, 13:51",
+        "summary": "Cadillac ditches plan to produce own V6 hybrid engine ahead of F1’s V8 push Autosport",
+        "id": "084c79155f55",
+        "bullets": [],
+        "triaged": true,
+        "priority": 2,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Motorsport.com",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "George Russell impressed by \"exceptionally fast\" McLaren as rain delays Lando Norris' floor test",
+        "feed_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUEtVZFZaTmVwUXp0SXJOb2Fjc1lSd1Nob3ZKNTFRLXpLUVRfM1hrOGFrR0MxWDQtT0pNczFsTUZsV2Z3U2g1WEVkbHN4c0ZVT1BRYUJGNWdBV0d6enZoUEVJU3BlM1BQcGxBT3RicVNuVFE4dUlHcGotZFlTY1VHeVEzQmVvc2VwVXBrTDFWWFFqNUZkSmJRVjJvelE5TFJwT1YyY01MNU9XcmVna0FXT1Zwcm9SclppTW5JYW9udUYzXzdIRTBVSVFMdGNCXzNjR1Z3?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUEtVZFZaTmVwUXp0SXJOb2Fjc1lSd1Nob3ZKNTFRLXpLUVRfM1hrOGFrR0MxWDQtT0pNczFsTUZsV2Z3U2g1WEVkbHN4c0ZVT1BRYUJGNWdBV0d6enZoUEVJU3BlM1BQcGxBT3RicVNuVFE4dUlHcGotZFlTY1VHeVEzQmVvc2VwVXBrTDFWWFFqNUZkSmJRVjJvelE5TFJwT1YyY01MNU9XcmVna0FXT1Zwcm9SclppTW5JYW9udUYzXzdIRTBVSVFMdGNCXzNjR1Z3?oc=5",
+        "published": "2026-11-20T09:31:14+00:00",
+        "published_label": "Fri 20 Nov, 13:31",
+        "summary": "George Russell impressed by \"exceptionally fast\" McLaren as rain delays Lando Norris' floor test Motorsport.com",
+        "id": "896b8feca985",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "test session detail, minor",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "RacingNews365",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "F1 team bosses react as V8 engine return 'agreement' is reached",
+        "feed_link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbVgtX1RzWUNFU0JveDVWREJ3d0h1anVhUjN1X2s2aDBqa19DZnNCSTh5cF95S2hhbXM3QzE4VnF5dGxxdFlPdGIybzFnQWltZHg3QXVCUzlnV0h3T3JRaGFoMkVCUkpsS19FZnNlcWd2RnFwQUlrcjZvM1VxXzJlU29Ta1ozRDJTdlUyU0g3aVU?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbVgtX1RzWUNFU0JveDVWREJ3d0h1anVhUjN1X2s2aDBqa19DZnNCSTh5cF95S2hhbXM3QzE4VnF5dGxxdFlPdGIybzFnQWltZHg3QXVCUzlnV0h3T3JRaGFoMkVCUkpsS19FZnNlcWd2RnFwQUlrcjZvM1VxXzJlU29Ta1ozRDJTdlUyU0g3aVU?oc=5",
+        "published": "2026-11-20T09:18:40+00:00",
+        "published_label": "Fri 20 Nov, 13:18",
+        "summary": "F1 team bosses react as V8 engine return 'agreement' is reached RacingNews365",
+        "id": "c0d8e6000de2",
+        "bullets": [],
+        "triaged": true,
+        "priority": 3,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Gulf News",
+        "search": "Abu Dhabi GP watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Imagine Dragons to go unplugged at the Abu Dhabi Grand Prix",
+        "feed_link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVlZyWlRyUTVKN2dJc1kzYjN6b2FiRUZ3bmh4a20zWWlEX2UwellXT2N1ek83OWRpWmhUSnZKS2VFWWswRUMxRFJNTFlpUi14NkpxZGhWb2FHbVN3RnJBaEhOdEJ5dkJMQnNqSnJmeGp3anJpWnBaV0l0R0FBYmQ5SEtXZkF2YldpaWNMSVNXUHJSNTJ4c3VoM1MyT2hNeHc0bmNEMEtpdXFDZ9IBugFBVV95cUxNbUQwNzNsbmtZbENJZHVPMm5iWE1TWWFjZkZiY0ZXbUhfRTkxcXNLZW1oeWI0YmlBRFdBUnhEenNiOEFFU3NwcmJ3bGxobi12UDNlQU0xTWxkakphY1ZNT2s2SjIyUWttR0pLUDFSM2llXzgyQ1Fjc1RuVDFWSUVGWlByTkREekdUTTVPSHE1RHRISEp1cEc5SUxKRTJ0eVhCd05yWURVVDcxdlIxR0VOMzBDUHFnX2Z5VEE?oc=5",
+        "link": "https://gulfnews.com/entertainment/imagine-dragons-to-go-unplugged-at-the-abu-dhabi-grand-prix-1.500754821",
+        "published": "2026-11-20T09:11:10+00:00",
+        "published_label": "Fri 20 Nov, 13:11",
+        "summary": "Imagine Dragons to go unplugged at the Abu Dhabi Grand Prix Gulf News",
+        "id": "4671f4467158",
+        "bullets": [
+          "Imagine Dragons will play an exclusive acoustic show at House 44 on Friday 4 December, during the Formula 1 Etihad Airways Abu Dhabi Grand Prix. The invitation-only performance is part of Yasalam Unplugged, a new event this year. House 44 is a hospitality space in the F1 Paddock Club, created by F1, Lewis Hamilton and Soho House.",
+          "The Grammy-winning band will also headline the After-Race Concerts at Etihad Live on Saturday 5 December. They join a race-week line-up that includes Andrea Bocelli, Kings of Leon, Lewis Capaldi, Jennifer Lopez, The Chainsmokers, The Script and Anyma. The After-Race Concerts are open only to Grand Prix ticket holders, with Golden Circle upgrades available, while Yasalam Classics and the Official After-Party are ticketed separately."
+        ],
+        "triaged": true,
+        "priority": 7,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Imagine Dragons will play an exclusive acoustic show at House 44 on Friday 4 December, during the Formula 1 Etihad Airways Abu Dhabi Grand Prix. The invitation-only performance is part of Yasalam Unplugged, a new event this year. House 44 is a hospitality space in the F1 Paddock Club, created by F1, Lewis Hamilton and Soho House.\n\nThe Grammy-winning band, known for Believer, Thunder and Whatever It Takes, will play a stripped-back set. They’ll also headline the After-Race Concerts at Etihad Live the following night, Saturday 5 December.",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00",
+        "summary_status": "done",
+        "label": "F1",
+        "line": "[Imagine Dragons play an acoustic show] at House 44 on 4 December during Abu Dhabi Grand Prix week.",
+        "angle": "Adds to the Abu Dhabi Grand Prix race-week entertainment line-up, where ADNOC is founding partner, and shows the fan-experience offer around the event."
+      },
+      {
+        "section": "Formula 1 & Motorsport",
         "source": "Oracle Red Bull Racing",
         "search": "F1 search",
         "lang": "en",
@@ -7336,6 +7665,29 @@
       },
       {
         "section": "Formula 1 & Motorsport",
+        "source": "Autosport",
+        "search": "Autosport",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "Pirelli reintroduces stint limit for F1 Qatar GP",
+        "feed_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzEwamwxQkNsQWJxclZBdXhyMWI5bUZvcDlpWmNiUGdRMnlvX3ItQlRqMi1TcFU1ZjdTVXJXbjg2NlVmaWlfM1laWnZyTGNMbVBqLTVCTmQ2U1VZeXRLZm9fSWNsWGVtN1pwYUdxTUJOS2xuaTYtNWJwYU5JZEFERWVnTEtwWmtVOTcxVHVHMG91Q3pPdmdR?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzEwamwxQkNsQWJxclZBdXhyMWI5bUZvcDlpWmNiUGdRMnlvX3ItQlRqMi1TcFU1ZjdTVXJXbjg2NlVmaWlfM1laWnZyTGNMbVBqLTVCTmQ2U1VZeXRLZm9fSWNsWGVtN1pwYUdxTUJOS2xuaTYtNWJwYU5JZEFERWVnTEtwWmtVOTcxVHVHMG91Q3pPdmdR?oc=5",
+        "published": "2026-11-20T08:21:11+00:00",
+        "published_label": "Fri 20 Nov, 12:21",
+        "summary": "Pirelli reintroduces stint limit for F1 Qatar GP Autosport",
+        "id": "ecd393350f66",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "minor technical tyre detail",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
         "source": "Formula 1",
         "search": "F1 search",
         "lang": "en",
@@ -7348,13 +7700,24 @@
         "published_label": "Fri 20 Nov, 12:00",
         "summary": "Palmowski makes history as she secures pole in Las Vegas Formula 1",
         "id": "04c53833d91b",
-        "bullets": [],
+        "bullets": [
+          "Red Bull Racing's Alisha Palmowski took pole position for the F1 Academy Las Vegas Feature Race, her seventh pole of the season, in her final F1 Academy qualifying session. Her 2m 9.915s lap gave her the largest qualifying margin of her season and the largest in series history. Emma Felbermayr was second, 1.578s behind, with Alba Larsen a further 1.671s back in third.",
+          "Audi driver Larsen's team-mate position changed after Felbermayr's penalties: Larsen was promoted to second on the grid after two three-place penalties dropped another driver to fifth, and Megan Bruce moved into the top three. Nina Gademan will start fourth. Mathilda Paatz starts on pole for the Reverse Grid Race, set for 18:15 local time on Saturday."
+        ],
         "triaged": true,
         "priority": 5,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Red Bull Racing's Alisha Palmowski secured pole position for the F1 ACADEMY Las Vegas Feature Race. Alisha Palmowski delivered in her final F1 ACADEMY Qualifying session, leading from the halfway mark to take her seventh pole position of the season by the largest margin in the series' history.\n\nThe Red Bull Racing driver was untouchable through the second half of the 30-minute session, after topping the timesheets during the afternoon wet Practice session. After setting an initial benchmark lap time, Palmowski took a firm grip at the top of the timesheets with a 2m 9.915s effort to set her largest margin in a Qualifying session.",
-        "first_seen": "2026-11-20T09:08:28.234838+00:00"
+        "first_seen": "2026-11-20T09:08:28.234838+00:00",
+        "summary_status": "done",
+        "label": "MOTORSPORT",
+        "line": "[Alisha Palmowski took pole] for the F1 Academy Las Vegas Feature Race, her seventh of the season, by the series' largest margin.",
+        "angle": "F1 Academy is a feeder series covered in the guide; results are context only with no direct ADNOC link.",
+        "stat": {
+          "value": "7",
+          "label": "poles this season for Alisha Palmowski in F1 Academy"
+        }
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -7484,13 +7847,24 @@
         "published_label": "Fri 20 Nov, 10:35",
         "summary": "Formula 1 bosses are close to a deal that will see V8 turbo hybrid engines replace the current controversial engines in 2030.",
         "id": "1272f6400491",
-        "bullets": [],
+        "bullets": [
+          "Formula 1 bosses are close to agreeing that 2.1-litre V8 turbo hybrid engines will replace the current power units in 2030. McLaren CEO Zak Brown said an agreement in principle had been reached, though some details remain unresolved. The electrical element will be capped at 200kW, down from 350kW this year, with only half available at all times and the rest reserved for overtake mode.",
+          "The combustion engine will produce about 780bhp, giving roughly 1,050bhp in overtake mode. Engines will carry a budget cap of $190m a year and a 150kg weight limit. General Motors will delay its Cadillac engine to 2030 and be classed as a new manufacturer, while the team uses Ferrari customer engines through 2029. The rules are a compromise after FIA president Mohammed Ben Sulayem initially pushed for naturally aspirated engines."
+        ],
         "triaged": true,
         "priority": 5,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Formula 1 bosses are close to a deal that will see V8 turbo hybrid engines replace the current controversial engines in 2030. McLaren chief executive officer Zak Brown said an \"agreement in principle\" had been reached by engine manufacturers and F1 bosses on the new rules.\n\nThese will be for a 2.1-litre V8 turbo engine with a smaller electrical element than this year, as first revealed by BBC Sport last month. Some details remain to be resolved but the main core of the rules has been agreed.",
-        "first_seen": "2026-11-20T09:08:28.234838+00:00"
+        "first_seen": "2026-11-20T09:08:28.234838+00:00",
+        "summary_status": "done",
+        "label": "F1",
+        "line": "[F1 agrees in principle to 2.1-litre V8 turbo hybrid engines] from 2030, with a $190m annual engine budget cap.",
+        "angle": "Background regulation change for F1 that affects the sport's long-term direction; no direct ADNOC property impact.",
+        "stat": {
+          "value": "2030",
+          "label": "year V8 turbo hybrid engines are due to replace current"
+        }
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -7802,13 +8176,24 @@
         "published_label": "Fri 20 Nov, 08:02",
         "summary": "Cadillac scraps V6 F1 engine, delays entry as PU manufacturer Motorsport.com",
         "id": "deb0358fd3fb",
-        "bullets": [],
+        "bullets": [
+          "Cadillac will delay the introduction of its in-house F1 power unit by a year to 2030, having planned to use a General Motors engine from 2029. CEO Dan Towriss confirmed the team will remain a Ferrari customer through 2029 and bring its own unit online in 2030 with the V8. The change follows an agreement in principle on bringing forward V8 engines.",
+          "Towriss said Cadillac supports the V8 direction set under the FIA's leadership. The team's dedicated power unit facility in Charlotte, North Carolina, opens on 18 December. Cadillac will initially work on both V6 and V8 designs, though the current-generation unit will no longer need full development for 2029."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "CEO Dan Towriss says Cadillac will remain a Ferrari customer team for another year. General Motors has postponed the introduction of its own F1 power unit until the arrival of the V8 in 2030\n\nCadillac is set to delay the introduction of its in-house Formula 1 power unit by a year to 2030. The American squad's initial plan was to compete in the championship with its own General Motors power unit for the first time in 2029. However, that was based on the idea that the current regulations cycle would run its full course and that the next generation of power units would not be introduced until 2031.",
-        "first_seen": "2026-11-20T09:08:28.234838+00:00"
+        "first_seen": "2026-11-20T09:08:28.234838+00:00",
+        "summary_status": "done",
+        "label": "F1",
+        "line": "[Cadillac delays its own F1 engine] to 2030, staying a Ferrari customer through 2029.",
+        "angle": "Technical and team-structure news with no direct ADNOC link; useful context on the F1 grid.",
+        "stat": {
+          "value": "2030",
+          "label": "year Cadillac introduces its own F1 power unit"
+        }
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -7824,13 +8209,24 @@
         "published_label": "Fri 20 Nov, 07:38",
         "summary": "‘I’m part of a family’ – Mercedes’ first female junior Fluxa Cross on her F1 ACADEMY debut and Silver Arrows support Formula 1",
         "id": "15670c28babd",
-        "bullets": [],
+        "bullets": [
+          "Mercedes junior Luna Fluxa Cross, 16, makes her F1 Academy debut in Las Vegas as the Wild Card entry for Round 6, driving for Hitech. She races in the Spanish F4 Championship this season and faces a new car, new tyres, her first street circuit and jet lag.",
+          "She joined the Mercedes-AMG F1 Junior Programme in 2022 aged 11, the first female driver to do so, and is now its longest-standing junior. In 2024 she became the first female winner of an FIA international championship since 1966, taking the OK-N Senior title by 125 points. She said Mercedes have helped with training, nutrition and mindset, and that a strong weekend matters for winning a seat next year. Nine Wild Cards have earned full-time seats since 2024."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Mercedes junior Luna Fluxa Cross reflects on how she is feeling ahead of her F1 ACADEMY debut in Las Vegas. Luna Fluxa Cross has been one of the most talked about up-and-coming female drivers for the past few years. Now the Mercedes junior is preparing for the biggest stage of her career so far as she makes her F1 ACADEMY debut on the streets of Las Vegas.\n\nFluxa Cross is competing as the Wild Card entry for Round 6, a one-off appearance created to strengthen the talent pool in the regions where the all-female series races. Competing in the Spanish F4 Championship this season, the 16-year-old faces a steep learning curve. She needs to adapt to a new car, a new team in Hitech and new tyres alongside racing on a street circuit for the first time. On top of that comes the jet lag that challenges every driver on an overseas round.",
-        "first_seen": "2026-11-20T09:08:28.234838+00:00"
+        "first_seen": "2026-11-20T09:08:28.234838+00:00",
+        "summary_status": "done",
+        "label": "MOTORSPORT",
+        "line": "Mercedes junior [Luna Fluxa Cross makes her F1 Academy debut] in Las Vegas as the final Wild Card of the season.",
+        "angle": "F1 Academy is a pathway for female talent feeding F1 weekends such as Abu Dhabi, where the series' profile is relevant to ADNOC's grand prix partnership.",
+        "stat": {
+          "value": "9",
+          "label": "Wild Cards given full-time F1 Academy seats since 2024"
+        }
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -7960,13 +8356,52 @@
         "published_label": "Fri 20 Nov, 04:26",
         "summary": "Nike joins F1 as apparel partner Motorsport.com",
         "id": "fb5d040516df",
-        "bullets": [],
+        "bullets": [
+          "Nike has joined Formula 1 as an official partner and uniform supplier, taking over from Puma at the start of 2027. It will supply F1 personnel with apparel and footwear, and the partnership also extends to F1 Academy, which had also used Puma kit until this year.",
+          "Nike will also produce F1-inspired retail collections. The first, a limited Las Vegas Grand Prix x Nike capsule collection, goes on sale on 20 November at the F1 Hub and Nike Las Vegas stores. Nike CEO Elliott Hill said the company shares F1's competitive, innovative mindset and sees an opportunity to serve its athletes and fans."
+        ],
         "triaged": true,
         "priority": 6,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Athletic apparel giant Nike has joined F1 as its official partner and uniform supplier, taking over from Puma at the start of 2027. As was long rumoured, Nike will start supplying F1 personnel with apparel and footwear form the start of next season, a partnership that also extends to F1 Academy, which had both been using Puma kit until this year.\n\nThe athletic company will also come up with F1-inspired retail collections, the first of which will go on sale on Friday and be centred around the Las Vegas Grand Prix. \"Nike will bring new energy to the pinnacle of motorsport through capsule collections with a focus on style, performance, and lifestyle including footwear, apparel, and accessories, as well as performance innovations, and race-weekend experiences for the next generation of athletes and fans,\" the announcement promised.",
-        "first_seen": "2026-11-20T09:08:28.234838+00:00"
+        "first_seen": "2026-11-20T09:08:28.234838+00:00",
+        "summary_status": "done",
+        "label": "F1 BUSINESS",
+        "line": "[Nike becomes F1's apparel partner] from 2027, replacing Puma, with a Las Vegas capsule collection launching on 20 November.",
+        "angle": "Shows F1's commercial partner roster is still expanding, relevant to the Abu Dhabi Grand Prix's positioning alongside global brands.",
+        "activation": {
+          "title": "Nike, Las Vegas GP",
+          "what": "Launched a limited Las Vegas Grand Prix capsule collection at the F1 Hub and Nike stores before the race.",
+          "borrow": "Create an Abu Dhabi Grand Prix capsule collection sold at ADNOC retail sites."
+        },
+        "stat": {
+          "value": "2027",
+          "label": "year Nike replaces Puma as F1 apparel partner"
+        }
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Formula 1",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Sainz handed grid penalty for Las Vegas Grand Prix after turbo change",
+        "feed_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbi1fRTVvTzZvMHJiZTJKa3FVOVQ4eXdWN05nc1hRVmplclVfNmUzWnFmbDJZSVUtZm1tZmphTUVHc3pBT29XaFBNYVdzclNIYkxLUW0tc1NZRkZ1NjcxQnlvMGc5WmZicmV0clQtd29GbU9zRk5DRFlVYm1pVDBnZ3p0dUw0cXpBMUIwNHJlTmZ3VlRvM3ZaTV93LUp0OHBxc0JUT2xyQXNJLXVDOVhzQklkYldpNUl6MHFsSmRkcml6QTFKYlZRd2xpTjg1czA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbi1fRTVvTzZvMHJiZTJKa3FVOVQ4eXdWN05nc1hRVmplclVfNmUzWnFmbDJZSVUtZm1tZmphTUVHc3pBT29XaFBNYVdzclNIYkxLUW0tc1NZRkZ1NjcxQnlvMGc5WmZicmV0clQtd29GbU9zRk5DRFlVYm1pVDBnZ3p0dUw0cXpBMUIwNHJlTmZ3VlRvM3ZaTV93LUp0OHBxc0JUT2xyQXNJLXVDOVhzQklkYldpNUl6MHFsSmRkcml6QTFKYlZRd2xpTjg1czA?oc=5",
+        "published": "2026-11-20T00:15:00+00:00",
+        "published_label": "Fri 20 Nov, 04:15",
+        "summary": "Sainz handed grid penalty for Las Vegas Grand Prix after turbo change Formula 1",
+        "id": "6a661324a917",
+        "bullets": [],
+        "triaged": true,
+        "priority": 2,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -7988,7 +8423,9 @@
         "is_article": true,
         "read_attempts": 1,
         "copy": "From 2027, Nike will become an Official Partner of Formula 1 and the sport’s Official Apparel and Uniform Supplier, bringing together two of the world’s most influential brands at the intersection of sport, speed and culture.\n\nFormula 1 have announced a long-term partnership with Nike, bringing together two of the world’s most influential brands at the intersection of sport, speed, and culture. United by a relentless drive to push boundaries, Nike will bring new energy to the pinnacle of motorsport through capsule collections with a focus on style, performance, and lifestyle including footwear, apparel, and accessories, as well as performance innovations, and race-weekend experiences for the next generation of athletes and fans.",
-        "first_seen": "2026-11-20T09:08:28.234838+00:00"
+        "first_seen": "2026-11-20T09:08:28.234838+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of Nike F1 story"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -8004,13 +8441,24 @@
         "published_label": "Fri 20 Nov, 01:39",
         "summary": "Formula 1's governing body the FIA is to introduce permanent race stewards from the 2027 season.",
         "id": "a3decd16475c",
-        "bullets": [],
+        "bullets": [
+          "Formula 1's governing body, the FIA, will introduce permanent race stewards from the 2027 season, following repeated calls from drivers who criticised inconsistent penalty decisions for on-track incidents. It will begin recruiting and plans a \"phased introduction\" during 2027, with a small number of full-time stewards recruited that year and the group expanded from 2028.",
+          "The FIA said existing stewards will continue in a mixed roster of full-time and part-time officials, and that driver stewards, usually former drivers, will remain. Each grand prix currently has four stewards, one of them an ex-driver. The move follows the opening of an FIA race operations centre at F1's Biggin Hill headquarters. President Mohammed Ben Sulayem called it a significant step towards a dedicated officiating ecosystem. Carlos Sainz, a Grand Prix Drivers' Association director, said last year that at least two of three stewards should be permanent."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Formula 1's governing body the FIA is to introduce permanent race stewards from the 2027 season. The move follows consistent calls from grand prix drivers for the change because of criticisms of inconsistency of decisions regarding penalties for on-track incidents.\n\nThe FIA said in a statement that it would begin recruiting permanent stewards, and was planning a \"phased introduction\" during the 2027 season. The FIA statement added: \"The introduction of dedicated full-time stewards to the FIA's flagship championship will provide continuity and expertise within the stewarding structure, further advancing the FIA's commitment to fairness through the ongoing review and continuous improvement of sporting regulations and stewarding guidelines.",
-        "first_seen": "2026-11-20T09:08:28.234838+00:00"
+        "first_seen": "2026-11-20T09:08:28.234838+00:00",
+        "summary_status": "done",
+        "label": "F1",
+        "line": "The FIA will [introduce full-time F1 race stewards] from 2027, with a phased start that year and expansion from 2028.",
+        "angle": "More consistent F1 officiating supports the credibility of the championship that underpins the Abu Dhabi Grand Prix, where ADNOC is founding partner.",
+        "stat": {
+          "value": "2027",
+          "label": "year full-time F1 stewards begin phased introduction"
+        }
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -15283,6 +15731,52 @@
         "lang": "en",
         "kind": "gnews",
         "wide": true,
+        "title": "\"A guy who can do anything\" – Wout van Aert tipped to profit from potential Tadej Pogacar absence at Milano-Sanremo in 2027",
+        "feed_link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX203eGk3ellnR2JOaENFTGVRVzQ0ZzBaWGhsLTNLeWNORGpWVnRmVk1raWNzb1dFMTVqdTk2OVRBRXFyTHZrRWtRWlZNU1A5bjlFeDRuNjgyQUtzTU9DWEdtZmh6em5La0tPOUtyQk52Z3VEZGtJYnJCR0tpdDNlR2h6XzlLOXdJWFVnOGJGZUo2azBZZ3l4eUVxdmduUVh6SnhLU3BJTXMxRWtsbkwzRnpVcFcyTGxhS2cyd2ZYTFpha1RMcUxJVkFYVEFXNE1tVm10ME52Z3pYWmxCYUpQS3RIdnoxY0loMnFB?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX203eGk3ellnR2JOaENFTGVRVzQ0ZzBaWGhsLTNLeWNORGpWVnRmVk1raWNzb1dFMTVqdTk2OVRBRXFyTHZrRWtRWlZNU1A5bjlFeDRuNjgyQUtzTU9DWEdtZmh6em5La0tPOUtyQk52Z3VEZGtJYnJCR0tpdDNlR2h6XzlLOXdJWFVnOGJGZUo2azBZZ3l4eUVxdmduUVh6SnhLU3BJTXMxRWtsbkwzRnpVcFcyTGxhS2cyd2ZYTFpha1RMcUxJVkFYVEFXNE1tVm10ME52Z3pYWmxCYUpQS3RIdnoxY0loMnFB?oc=5",
+        "published": "2026-11-20T10:00:00+00:00",
+        "published_label": "Fri 20 Nov, 14:00",
+        "summary": "\"A guy who can do anything\" – Wout van Aert tipped to profit from potential Tadej Pogacar absence at Milano-Sanremo in 2027 CyclingUpToDate.com",
+        "id": "500ed15d94c4",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "speculative talking point, no new facts",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00"
+      },
+      {
+        "section": "Cycling",
+        "source": "IDLprocycling.com",
+        "search": "Cycling search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Mads Pedersen is still haunted by Tour de France stage 17: 'Damn it, I was so bitter after that stage'",
+        "feed_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUnJjV3A0TkNLaC12TkdpS3UxdDRlMENyZWpWVHFWR3Q5Qld0a1gyNEZsNTM0TzdqOGtBby1NMkoxVi1jQ1RVWFpneE1UWHJEaFlpazIxSzBPdk5BWlRoblUxX2l5Tmd3UVFXclI2RjhBcVZZV3NPVlVlbGNsUXNvZlRhQ0FoR2lLMkZrSDVHN0N0aUN6M0ROQ2lrUDhkS0lKc1lkYVNxMm03ajBHR0JNQ0lZMXVLcjVnenY4QnJlSGNhVXE3VmJMNjlURGZGMmVNb1E?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUnJjV3A0TkNLaC12TkdpS3UxdDRlMENyZWpWVHFWR3Q5Qld0a1gyNEZsNTM0TzdqOGtBby1NMkoxVi1jQ1RVWFpneE1UWHJEaFlpazIxSzBPdk5BWlRoblUxX2l5Tmd3UVFXclI2RjhBcVZZV3NPVlVlbGNsUXNvZlRhQ0FoR2lLMkZrSDVHN0N0aUN6M0ROQ2lrUDhkS0lKc1lkYVNxMm03ajBHR0JNQ0lZMXVLcjVnenY4QnJlSGNhVXE3VmJMNjlURGZGMmVNb1E?oc=5",
+        "published": "2026-11-20T09:26:00+00:00",
+        "published_label": "Fri 20 Nov, 13:26",
+        "summary": "Mads Pedersen is still haunted by Tour de France stage 17: 'Damn it, I was so bitter after that stage' IDLprocycling.com",
+        "id": "9081496f0080",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "retrospective interview, no new facts",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00"
+      },
+      {
+        "section": "Cycling",
+        "source": "CyclingUpToDate.com",
+        "search": "UAE Team Emirates watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
         "title": "Inside Tadej Pogacar's obsession - A race he will try to win again before Tour de France history and Vuelta a Espana redemption",
         "feed_link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMzZiX2J2aTRPOUI5cmk1T0ZYU1k1VTZ0Q01qTVl2U3A3ZjUwczItUmc3S3Y2NDJZQWkySUJvcE0yNGh3MkNqV3BCcmd3UUdMM01tMTd6Q3F2RHItZXNISy1NdXI0dDI0U1dwRFZDMm9qbzhUWS1UajNZbFBzS0hHRWRyMmxzeE1fMzBsR1NuZ3hZajZqVWppQXZJaHk2ZFNMYmsxOGRWZUI1Z2dxeXJEY3E2cG96Tlh4djA2V3BwbGN4TndlWTBEUEdlSzF2di1pWnFBc0llVzFyNVk4ZUFQazlfV1BsRVJud0I1Y3ZzTDZndw?oc=5",
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOMzZiX2J2aTRPOUI5cmk1T0ZYU1k1VTZ0Q01qTVl2U3A3ZjUwczItUmc3S3Y2NDJZQWkySUJvcE0yNGh3MkNqV3BCcmd3UUdMM01tMTd6Q3F2RHItZXNISy1NdXI0dDI0U1dwRFZDMm9qbzhUWS1UajNZbFBzS0hHRWRyMmxzeE1fMzBsR1NuZ3hZajZqVWppQXZJaHk2ZFNMYmsxOGRWZUI1Z2dxeXJEY3E2cG96Tlh4djA2V3BwbGN4TndlWTBEUEdlSzF2di1pWnFBc0llVzFyNVk4ZUFQazlfV1BsRVJud0I1Y3ZzTDZndw?oc=5",
@@ -15438,13 +15932,24 @@
         "published_label": "Fri 20 Nov, 00:18",
         "summary": "Pope Leo XIV names Merckx, Indurain, Seixas, Vollering and up to 100 cyclists at the Vatican Brujulabike.com",
         "id": "25214bfed04b",
-        "bullets": [],
+        "bullets": [
+          "Pope Leo XIV will receive about 100 representatives of cycling at the Vatican on the morning of Monday 23 November, the UCI has announced. The audience is organised with the Dicastery for Culture and Education of the Holy See and covers the main cycling disciplines, including para-cycling.",
+          "Guests include Eddy Merckx, Bernard Hinault, Miguel Induráin, Greg LeMond, Chris Froome, Vincenzo Nibali and Mark Cavendish, alongside current riders Demi Vollering and 20-year-old Paul Seixas, plus federation and race organiser representatives. UCI president David Lappartient said it is an opportunity to reinforce cycling's commitment to peace and intercultural dialogue. The UCI plans to symbolically hand over bicycles for young people in vulnerable situations assisted by Caritas of Rome."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "The Vatican will host an unusual meeting for professional cycling next Monday, November 23. Pope Leo XIV will receive a hundred representatives of this sport, including legends like Eddy Merckx, Bernard Hinault, and Miguel Induráin, along with current champions like Demi Vollering and Paul Seixas. An audience that also recalls the previous visits of Peter Sagan and Egan Bernal to Pope Francis, both with very special bicycles as protagonists.\n\nThe International Cycling Union (UCI) has officially announced that the meeting will take place on the morning of Monday, November 23, in the Vatican. The initiative is organized together with the Dicastery for Culture and Education of the Holy See and will feature a representation from the main cycling disciplines, including para-cycling.",
-        "first_seen": "2026-11-20T09:08:28.234838+00:00"
+        "first_seen": "2026-11-20T09:08:28.234838+00:00",
+        "summary_status": "done",
+        "label": "CYCLING",
+        "line": "[Pope Leo XIV will host about 100 cyclists] at the Vatican on 23 November, organised with the UCI.",
+        "angle": "A UCI-led profile moment for the sport that ADNOC supports through UAE Team Emirates XRG; no direct ADNOC involvement.",
+        "stat": {
+          "value": "100",
+          "label": "cycling representatives invited to the Vatican audience"
+        }
       },
       {
         "section": "Cycling",
@@ -18455,6 +18960,29 @@
     "UAE Pro League & GCC Football": [
       {
         "section": "UAE Pro League & GCC Football",
+        "source": "World Soccer Talk",
+        "search": "GCC football search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "How to watch Al Ahli vs Al Nassr match in the USA: Live stream and TV for 2026-27 Saudi Pro League",
+        "feed_link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNkF2RWhaZDhzSVVkd3ZWampIRzhBcXRfWjJHcW02MERRRmwzYnByWTlNV0UtZ1JaZ3pYSEQ2Yl9VX3Zud2sycTJpSWpqZ3dKVEhZb2hpWFo5TXNrcGNiaG5sbWMtTHlUR0Y0QU9yaHBFVUtpcmFFVHhBdzhPaFhCS0ZsTGtUeVN6REwtck9KN0xrWG5iWjgySC1DUngtSzNRSmZ0YWFkTDFfbW9WVWpFbkkxTU50UTlYLVA5MHFnRGpLcVhuQTZ4YWxYSG9vWlJseURBRU1XVEfSAdwBQVVfeXFMUGtxa1hYOVZRY3ZvTUd6cjBiNkNpSDRuTGZ1T0ptQkY3NEFrSG5lRnE1ODFUTkc3aUVQRnJBQ3F3VF9BUEpoekdaaGNXSEo3ZzRLS0JUNXFvZmhWcFRZZEVtTklhNzV2aGU0UGV3d0QtYmtGc2ZHNElKMlpBY2JoMHJnVTB1eDFkUUlIWm1tQ1o3UVRvdzBvYkQycG5qOThWX05IWE03M1NONndZMnNzUTFmaktldFp2cHBLRkJCZGhmbWkyRGdlR1BjZ3p6azNMMnF2dVlReGpuM0FOXw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNkF2RWhaZDhzSVVkd3ZWampIRzhBcXRfWjJHcW02MERRRmwzYnByWTlNV0UtZ1JaZ3pYSEQ2Yl9VX3Zud2sycTJpSWpqZ3dKVEhZb2hpWFo5TXNrcGNiaG5sbWMtTHlUR0Y0QU9yaHBFVUtpcmFFVHhBdzhPaFhCS0ZsTGtUeVN6REwtck9KN0xrWG5iWjgySC1DUngtSzNRSmZ0YWFkTDFfbW9WVWpFbkkxTU50UTlYLVA5MHFnRGpLcVhuQTZ4YWxYSG9vWlJseURBRU1XVEfSAdwBQVVfeXFMUGtxa1hYOVZRY3ZvTUd6cjBiNkNpSDRuTGZ1T0ptQkY3NEFrSG5lRnE1ODFUTkc3aUVQRnJBQ3F3VF9BUEpoekdaaGNXSEo3ZzRLS0JUNXFvZmhWcFRZZEVtTklhNzV2aGU0UGV3d0QtYmtGc2ZHNElKMlpBY2JoMHJnVTB1eDFkUUlIWm1tQ1o3UVRvdzBvYkQycG5qOThWX05IWE03M1NONndZMnNzUTFmaktldFp2cHBLRkJCZGhmbWkyRGdlR1BjZ3p6azNMMnF2dVlReGpuM0FOXw?oc=5",
+        "published": "2026-11-20T09:46:34+00:00",
+        "published_label": "Fri 20 Nov, 13:46",
+        "summary": "How to watch Al Ahli vs Al Nassr match in the USA: Live stream and TV for 2026-27 Saudi Pro League World Soccer Talk",
+        "id": "97a022d02115",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "streaming how-to-watch guide",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00"
+      },
+      {
+        "section": "UAE Pro League & GCC Football",
         "source": "Gulf News",
         "search": "GCC football search",
         "lang": "en",
@@ -19018,6 +19546,29 @@
       },
       {
         "section": "UAE Pro League & GCC Football",
+        "source": "Kayo Sports",
+        "search": "GCC football search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Watch Saudi pro league Live",
+        "feed_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV2RMY3JXbmtXZHY3cURUdmJMQjR5ZlFaTUtKVlJsYTVsd1hlSjlZb3p6WHQyOTZkcURDakR2cjZnUWFkVzlJazNyaHV0a1o0elRocU0wU3djdm9RMjhRQWtoc0JiWHZVNVFVSkRuSVBsQ3ZORTJJcnhDRUVjRmJiSDZ1aFA5eVpkd3QzWWlHZTEwSFFvWlljZGVHc1VfdlM4V2VyZE1USXZKQjFRSHFVQXlRcFo4b1pkQTFQUkV5TGd1dmFUZTItczRqZlZUcDA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV2RMY3JXbmtXZHY3cURUdmJMQjR5ZlFaTUtKVlJsYTVsd1hlSjlZb3p6WHQyOTZkcURDakR2cjZnUWFkVzlJazNyaHV0a1o0elRocU0wU3djdm9RMjhRQWtoc0JiWHZVNVFVSkRuSVBsQ3ZORTJJcnhDRUVjRmJiSDZ1aFA5eVpkd3QzWWlHZTEwSFFvWlljZGVHc1VfdlM4V2VyZE1USXZKQjFRSHFVQXlRcFo4b1pkQTFQUkV5TGd1dmFUZTItczRqZlZUcDA?oc=5",
+        "published": "2026-11-19T12:41:57+00:00",
+        "published_label": "Thu 19 Nov, 16:41",
+        "summary": "Watch Saudi pro league Live Kayo Sports",
+        "id": "92ddc19aebcd",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "streaming page, not news",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00"
+      },
+      {
+        "section": "UAE Pro League & GCC Football",
         "source": "YSscores",
         "search": "Pro League watch",
         "lang": "en",
@@ -19038,6 +19589,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-19T13:56:26.178095+00:00"
+      },
+      {
+        "section": "UAE Pro League & GCC Football",
+        "source": "Goal.com",
+        "search": "Pro League watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Arsenal dealt winter transfer blow as RB Leipzig refuse to sell 21-year-old winger Antonio Nusa before summer",
+        "feed_link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX0duTWpTMkdjRHdqTHRzZGJNWk0yblJ0Q1hFVXdpQ19GN0djQ2ZvNm1YYzR5UllNMzE3OWY0VndMWFE5aTJvN2JIeGRFWW5ManBGNGc2RkpTY3VUdkNWbEFZNGgzU1piZEZyM0h5UzNVWHpScXJpNlBIU1dCQ0dSdEw3aXNFeFlUcGw5N0R2XzN3TEoyb05fMVVNVnJURE5ucnNNSC1sUXMwRUtBTXZLT2hlSmttWVJQb3FPcm5GVEl1ZVNTUmxPVU5n?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX0duTWpTMkdjRHdqTHRzZGJNWk0yblJ0Q1hFVXdpQ19GN0djQ2ZvNm1YYzR5UllNMzE3OWY0VndMWFE5aTJvN2JIeGRFWW5ManBGNGc2RkpTY3VUdkNWbEFZNGgzU1piZEZyM0h5UzNVWHpScXJpNlBIU1dCQ0dSdEw3aXNFeFlUcGw5N0R2XzN3TEoyb05fMVVNVnJURE5ucnNNSC1sUXMwRUtBTXZLT2hlSmttWVJQb3FPcm5GVEl1ZVNTUmxPVU5n?oc=5",
+        "published": "2026-11-19T11:33:39+00:00",
+        "published_label": "Thu 19 Nov, 15:33",
+        "summary": "Arsenal dealt winter transfer blow as RB Leipzig refuse to sell 21-year-old winger Antonio Nusa before summer Goal.com",
+        "id": "c4d55eb1d6c8",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "European transfer rumour, no Gulf angle",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T10:33:31.593476+00:00"
       },
       {
         "section": "UAE Pro League & GCC Football",
@@ -21486,13 +22060,13 @@
     ],
     "Running & Endurance": []
   },
-  "total": 897,
+  "total": 916,
   "edition": {
-    "drafted_at": "2026-11-20T09:11:58.055672+00:00",
+    "drafted_at": "2026-11-20T10:35:57.751362+00:00",
     "days": 14,
     "headline": [
-      "The finale is confirmed.",
-      "Abu Dhabi is next."
+      "F1 stays on course.",
+      "Abu Dhabi is 6 December."
     ],
     "stats": [
       {
@@ -21506,20 +22080,20 @@
         "id": "404fbc3240b3"
       },
       {
-        "value": "$3bn",
-        "label": "forecast F1 sponsorship spend in 2026, up 15%",
-        "id": "5a2fa0617592"
-      },
-      {
         "value": "5",
         "label": "years: TotalEnergies' title deal with FDJ United women's team",
         "id": "47acd2c017e2"
+      },
+      {
+        "value": "16",
+        "label": "points: Al Wasl second in the ADNOC Pro League",
+        "id": "69fdf82bdbb1"
       }
     ],
     "watch": {
       "id": "5836ad929d71",
-      "lead": "F1 confirms the Abu Dhabi finale on 6 December despite security concerns.",
-      "text": "[grandprix247] reports F1 will stage the Qatar and Abu Dhabi races on 29 November and 6 December despite the Middle East conflict. As founding partner of the Abu Dhabi Grand Prix, ADNOC should be ready for questions on race-week security."
+      "lead": "F1 will race in Abu Dhabi on 6 December despite Middle East security concerns.",
+      "text": "As founding partner of the Abu Dhabi Grand Prix, ADNOC should be ready for security and reputation questions in race week. [grandprix247] reports F1 is pressing ahead with both Qatar and Abu Dhabi."
     }
   }
 }
