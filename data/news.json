@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T13:44:21.608159+00:00",
-  "generated_label": "Friday 20 November 2026, 17:44 GST",
+  "generated_at": "2026-11-20T14:22:04.851160+00:00",
+  "generated_label": "Friday 20 November 2026, 18:22 GST",
   "keep_days": 14,
   "section_order": [
     "ADNOC & Partner News",
@@ -1684,13 +1684,20 @@
         "published_label": "Fri 20 Nov, 16:35",
         "summary": "Leicester City have signed AI-powered recruitment platform Bossjob as their new principal partner, with its branding appearing on the front of the men’s first-team shirt for the rest of the 2026/27 season. Bossjob’s logo will debut on Saturday, 21st November, when the Foxes travel to Huddersfield Town in Sky Bet League One. Headquartered in Singapore, […] The post Bossjob lands Leicester City front-of-shirt deal appeared first on Sport Industry Group .",
         "id": "a37b109f3b79",
-        "bullets": [],
+        "bullets": [
+          "Leicester City have signed AI-powered recruitment platform Bossjob as principal partner, with its logo on the front of the men's first-team shirt for the rest of the 2026/27 season. The branding debuts on Saturday 21 November, when the club travel to Huddersfield Town in Sky Bet League One.",
+          "Singapore-headquartered Bossjob has offices in Singapore, the Philippines, Indonesia and Japan, and is expanding across Europe, North America and the Middle East. Commercial Director Russell Jones said the deal opens a new sponsorship category as the club looks to diversify its commercial interests, and that the club will introduce Bossjob to supporters and wider audiences."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Leicester City have signed AI-powered recruitment platform Bossjob as their new principal partner, with its branding appearing on the front of the men’s first-team shirt for the rest of the 2026/27 season.\n\nBossjob’s logo will debut on Saturday, 21st November, when the Foxes travel to Huddersfield Town in Sky Bet League One. Headquartered in Singapore, Bossjob connects candidates directly with employers and hiring managers. It has offices in Singapore, the Philippines, Indonesia and Japan, and is now expanding across Europe, North America and the Middle East. The deal also opens a new sponsorship category for the club as it looks to diversify its commercial interests.",
-        "first_seen": "2026-11-20T13:44:21.608159+00:00"
+        "first_seen": "2026-11-20T13:44:21.608159+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[Leicester City sign Bossjob] as front-of-shirt principal partner for the rest of the 2026/27 season, debuting on 21 November.",
+        "angle": "A mid-season shirt deal in a new sponsorship category shows how clubs are widening their commercial base, a point of reference for ADNOC Pro League clubs."
       },
       {
         "section": "Wider Sports News",
@@ -1737,6 +1744,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-20T13:44:21.608159+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "SportBusiness",
+        "search": "SportBusiness",
+        "lang": "en",
+        "kind": "direct",
+        "wide": false,
+        "title": "The great US rights freeze: dancing to the NFL’s tune",
+        "feed_link": "https://www.sportbusiness.com/2026/11/the-great-us-rights-freeze-dancing-to-the-nfls-tune/?utm_source=rss&utm_medium=rss&utm_campaign=the-great-us-rights-freeze-dancing-to-the-nfls-tune",
+        "link": "https://www.sportbusiness.com/2026/11/the-great-us-rights-freeze-dancing-to-the-nfls-tune/?utm_source=rss&utm_medium=rss&utm_campaign=the-great-us-rights-freeze-dancing-to-the-nfls-tune",
+        "published": "2026-11-20T12:10:59+00:00",
+        "published_label": "Fri 20 Nov, 16:10",
+        "summary": "Netflix, Amazon and Fox are in for the 2030 World Cup. Disney is out. Skydance is cutting costs. And everyone else is waiting for the NFL. After a week of meetings in New York, we take the temperature of the world’s most valuable sports media market. Source",
+        "id": "f21f6b8f3cca",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "Analysis column on US rights market, no specific deal",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T14:22:04.851160+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -1837,6 +1867,29 @@
         "label": "SPORTS BUSINESS",
         "line": "[Decimal Data become ILT20's official data and video partner] in a long-term deal ahead of the season starting 22 November.",
         "angle": "ILT20 is a UAE-hosted league titled by DP World, a listed competitor; data-rights deals show how UAE properties can widen their commercial base."
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "search": "Sportcal",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "F1 swaps Puma for Nike as apparel partner, expands Standard Chartered deal",
+        "feed_link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFk1c0tQdWpqYjZZOXNDTy1ieDRQRWdycWZSaXdEd1BTb0J5ZW5zVnNqeWh0d0RndW54dHNEWnRjc3FQS2xoSHh4VmdnRW56Vks0YkRzMkxseHpRY1FYSWZjd0ZtSi1oRzl5OFdoZmc5aHFoOFUxaGY1bW5qV25tMUc0Tmg0WTh5UThiRTRrbkEwR2lrLVU3UkVGMXB0bURReWNtcW5obw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONFk1c0tQdWpqYjZZOXNDTy1ieDRQRWdycWZSaXdEd1BTb0J5ZW5zVnNqeWh0d0RndW54dHNEWnRjc3FQS2xoSHh4VmdnRW56Vks0YkRzMkxseHpRY1FYSWZjd0ZtSi1oRzl5OFdoZmc5aHFoOFUxaGY1bW5qV25tMUc0Tmg0WTh5UThiRTRrbkEwR2lrLVU3UkVGMXB0bURReWNtcW5obw?oc=5",
+        "published": "2026-11-20T11:45:01+00:00",
+        "published_label": "Fri 20 Nov, 15:45",
+        "summary": "F1 swaps Puma for Nike as apparel partner, expands Standard Chartered deal Sportcal",
+        "id": "313390bd52ee",
+        "bullets": [],
+        "triaged": true,
+        "priority": 1,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T14:22:04.851160+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -2393,7 +2446,7 @@
         "read_attempts": 2,
         "copy": "You don't have permission to access \"http://www.crainsdetroit.com/sports-recreation/cdb-rocket-redfin-las-vegas-grand-prix-20261119/\" on this server. Reference #18.c9d02e17.1795165865.31d9a151\n\nhttps://errors.edgesuite.net/18.c9d02e17.1795165865.31d9a151",
         "first_seen": "2026-11-20T09:08:28.234838+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -3025,6 +3078,29 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "The New York Times",
+        "search": "Gulf sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Boise hosting Bama? 6 Big Ten teams? Welcome to College Football Playoff chaos - The Athletic",
+        "feed_link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZW9xUm5UcXB1UFFsRjhpSGptRHh0V1EyQUdWWVlDMHBFa292SmxCNlJBbnpZV3A3c2lFcnhPSndvdHNpc3JjYm5YNmstcS1rQmlOd25kZmtab0stU2JCaTh6c0gxRXJ2aF9oTlpINmNCNUVmTW96c1VNVWRFWk05a0Z0akxqXzVmaGNTSDVqWmxTNHhXTFVZSC1ZLUlfeHZubWk0cA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZW9xUm5UcXB1UFFsRjhpSGptRHh0V1EyQUdWWVlDMHBFa292SmxCNlJBbnpZV3A3c2lFcnhPSndvdHNpc3JjYm5YNmstcS1rQmlOd25kZmtab0stU2JCaTh6c0gxRXJ2aF9oTlpINmNCNUVmTW96c1VNVWRFWk05a0Z0akxqXzVmaGNTSDVqWmxTNHhXTFVZSC1ZLUlfeHZubWk0cA?oc=5",
+        "published": "2026-11-19T11:02:28+00:00",
+        "published_label": "Thu 19 Nov, 15:02",
+        "summary": "Boise hosting Bama? 6 Big Ten teams? Welcome to College Football Playoff chaos - The Athletic The New York Times",
+        "id": "51efd2a5be3e",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "College football playoff speculation, not sports business",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T14:22:04.851160+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "The National",
         "search": "The National",
         "lang": "en",
@@ -3579,6 +3655,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-19T09:25:24.836984+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Gulf Times",
+        "search": "Gulf sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "SC announces collaboration with Qatar Foundation to support youth development and national talent | Gulf Times",
+        "feed_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTHBsQXNRcGRadXg0QzRzTjkwVUE2b2MtQlJqMnJya05nT29ZR19jaXQ0b2RqWFEzRTFXZFBDTkhWcW5YRlFMQ2tKaThTNldlbHk2aVJRM0dmcFRscld4WEotSEpDQlhmSUpwYW13bnZ6bEFiSUxUT1B1eUxDdWthUktIRzdJZUZMNUkxUTlBNWF3S0pJbldndzQxM0lCUHpCN1FuU3g4c0NwZnE3TWlQcTBWS05HQlotUW45NEtkR2lJWlpGRXhQV0hqaXNNYS1ON3dDY2ZMdFB5ZU5qb0HSAeMBQVVfeXFMTUgzNmRIbVFLZ1BTLUdfWU80S1prbVNFN3FxX0tIUEFLT0JaRk4wUnltVUhkZERIeXhteUdnSzBnSXl4dzR3YmJzb0daMk9sYzhxX2FTLTJvOEVaOGphUFplaFFNT2ExbmZUZmlTckx3Z1RKUHI2eWswWGtZM2xEV29xLTl1UGVTMU5maF9LRDJYNjZyS292c08wM3ltWkhHZFBENnZpR2pEWWoxTmhHdW5RczRGRS1DVC1iV245ZzBxdmRadldhdmJuckk5OWFiZ3gzdlpTMUpwcWE3UGJIY3U3aFE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQTHBsQXNRcGRadXg0QzRzTjkwVUE2b2MtQlJqMnJya05nT29ZR19jaXQ0b2RqWFEzRTFXZFBDTkhWcW5YRlFMQ2tKaThTNldlbHk2aVJRM0dmcFRscld4WEotSEpDQlhmSUpwYW13bnZ6bEFiSUxUT1B1eUxDdWthUktIRzdJZUZMNUkxUTlBNWF3S0pJbldndzQxM0lCUHpCN1FuU3g4c0NwZnE3TWlQcTBWS05HQlotUW45NEtkR2lJWlpGRXhQV0hqaXNNYS1ON3dDY2ZMdFB5ZU5qb0HSAeMBQVVfeXFMTUgzNmRIbVFLZ1BTLUdfWU80S1prbVNFN3FxX0tIUEFLT0JaRk4wUnltVUhkZERIeXhteUdnSzBnSXl4dzR3YmJzb0daMk9sYzhxX2FTLTJvOEVaOGphUFplaFFNT2ExbmZUZmlTckx3Z1RKUHI2eWswWGtZM2xEV29xLTl1UGVTMU5maF9LRDJYNjZyS292c08wM3ltWkhHZFBENnZpR2pEWWoxTmhHdW5RczRGRS1DVC1iV245ZzBxdmRadldhdmJuckk5OWFiZ3gzdlpTMUpwcWE3UGJIY3U3aFE?oc=5",
+        "published": "2026-11-18T20:12:00+00:00",
+        "published_label": "Thu 19 Nov, 00:12",
+        "summary": "SC announces collaboration with Qatar Foundation to support youth development and national talent | Gulf Times Gulf Times",
+        "id": "74fbddabd5e7",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "Youth development MoU, not sports business or sponsorship",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T14:22:04.851160+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -7975,6 +8074,29 @@
     "Formula 1 & Motorsport": [
       {
         "section": "Formula 1 & Motorsport",
+        "source": "Sports Video Group",
+        "search": "Feeder series watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Apple TV Becomes U.S. Home of F1 Academy Beginning in 2027",
+        "feed_link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2Y1cDF5ODRSb2pfc1d1TXR0UW85UmF4QVprVWE3NTBCNHhmby1aUzFzeWpyQkNkN3FtbFo4ZTFydnBKTV8tUUNseUxTeER5MC13TlMtZW9pRFFsUDJaT05tLUZLczdQcU5yQ3VickZWenhnMF9YN0dVd2s5RkhsVlZoSE5YTmZUMng3dFZfay1yYXFRWFdlSEZGV0twUQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN2Y1cDF5ODRSb2pfc1d1TXR0UW85UmF4QVprVWE3NTBCNHhmby1aUzFzeWpyQkNkN3FtbFo4ZTFydnBKTV8tUUNseUxTeER5MC13TlMtZW9pRFFsUDJaT05tLUZLczdQcU5yQ3VickZWenhnMF9YN0dVd2s5RkhsVlZoSE5YTmZUMng3dFZfay1yYXFRWFdlSEZGV0twUQ?oc=5",
+        "published": "2026-11-20T14:03:02+00:00",
+        "published_label": "Fri 20 Nov, 18:03",
+        "summary": "Apple TV Becomes U.S. Home of F1 Academy Beginning in 2027 Sports Video Group",
+        "id": "014df64ef582",
+        "bullets": [],
+        "triaged": true,
+        "priority": 3,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T14:22:04.851160+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
         "source": "Khaleej Times",
         "search": "Abu Dhabi GP watch",
         "lang": "en",
@@ -7995,6 +8117,39 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-20T13:44:21.608159+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Khaleej Times",
+        "search": "Abu Dhabi GP watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "F1 Abu Dhabi GP: Jennifer Lopez, The Chainsmokers to perform; check entertainment schedule",
+        "feed_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHdPTS0xRUZYMHJyRGhvejZieUFqajB0QlJGR2hNeHNCbGdNUVNCdFM3djRkUVZIMXQ3clo5Y3BySDdwb1FreWU4TUVmbEx5LWlSc1FxMUFyT0dhMEZsVHdIUXdkRzJfaWJ0LWR1d2tjUG1YWklfMDBQQTFYOUhscmNsV29iUEp6VEFmWjBmYVRxM2FsWi1hbEQ0ZTVQX1pndm8wTTM4Ujhabko0Y3l1UEkwZ2LSAbwBQVVfeXFMUHBFOTFMeTl6X01HVjlMcXdUcmFKZ2lZUmk2ZUNuck5CN2h5TU5zeEZVUGhZVXZlS2xNQzFqX0U3QTZsbGR0a0VRSmM4bkI5RmMyRDlBcU45SjJrXzR3N3d6Q0lTN2hFdC1GRkgyVUZXdDE0TmlGRWdSaGotMllIM0doWFRrR2lhTGcxZmFJc1NYTXZqblpuZkNYYW94WmhTM1I5T2JMVVpiU0FOY3g3QWdGVG82bnRtYnBSRUg?oc=5",
+        "link": "https://www.khaleejtimes.com/sports/f1/f1-abu-dhabi-jennifer-lopez-the-chainsmokers-perform-entertainment-schedule",
+        "published": "2026-11-20T12:40:53+00:00",
+        "published_label": "Fri 20 Nov, 16:40",
+        "summary": "F1 Abu Dhabi GP: Jennifer Lopez, The Chainsmokers to perform; check entertainment schedule Khaleej Times",
+        "id": "097b18986f98",
+        "bullets": [
+          "The 18th Formula 1 Etihad Airways Abu Dhabi Grand Prix will close the 2026 season at Yas Marina Circuit, starting in daylight and finishing under floodlights after a 5pm start on Sunday 6 December, followed by fireworks. The Yasalam After-Race Concerts feature Kings of Leon and Lewis Capaldi on Thursday, Jennifer Lopez on 4 December, Imagine Dragons on 5 December, and The Chainsmokers and The Script on 6 December.",
+          "The entertainment programme, Yasalam presented by e&, opens on Wednesday 2 December with Andrea Bocelli at Etihad Arena. Fans can join a Pit Lane Walk on 3 December, and F1 drivers appear in the Fan Zone on 4 December. AZM GT makes its debut with a Trophy Round alongside the FIA Formula 2 season finale, while the 16/360 area at Turn 16 hosts Shimza, CamelPhat and Black Coffee. The drivers' parade is on 6 December from 3pm."
+        ],
+        "triaged": true,
+        "priority": 6,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "The Formula 1 Etihad Airways Abu Dhabi Grand Prix is set to stage a spectacular F1 season finale, with Yas Island ready to come alive during a week of racing, entertainment and electric atmosphere.\n\nWith blockbuster After-Race Concerts, trackside experiences, Fan Zones and a stunning twilight Grand Prix, the event programme offers a packed schedule of activities accompanying the 18th edition.",
+        "first_seen": "2026-11-20T14:22:04.851160+00:00",
+        "summary_status": "done",
+        "label": "F1",
+        "line": "[Abu Dhabi GP race week] runs 2 to 6 December, with five concert nights and the season finale at 5pm on Sunday 6 December.",
+        "angle": "The race-week programme of concerts, fan zones and a new GT round shows the fan experience around ADNOC's founding-partner property, the Abu Dhabi Grand Prix.",
+        "stat": {
+          "value": "5",
+          "label": "nights of Yasalam After-Race Concerts at the Abu Dhabi GP"
+        }
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -8063,7 +8218,7 @@
         "read_attempts": 2,
         "copy": "",
         "first_seen": "2026-11-20T13:44:21.608159+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -8202,6 +8357,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-20T13:44:21.608159+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Motorsport.com",
+        "search": "Motorsport.com",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "What Flavio Briatore takes from McLaren after Fernando Alonso \"disaster\"",
+        "feed_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMWtCWld0elFMWm1iYnZIcUs4OXNaQi03NnpxYU12aHNYeVJ4cTFlTUV0ZEVaNmlfVklRR1ZKTmVFQTBJeVdCcVNWdXBLSHhWUW54MG1wcTI0SWZlUTBCQ1JwN2ROeVA0a25iMHJPdWg1eE1fNGx6MzVPbmRkblIzWXRyRE9ScVR0VWRqT1NGN3dTVXVleXBVal9OOEtKeno0aVl4UEE3a181WHgyUndGRllwYVZmUQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMWtCWld0elFMWm1iYnZIcUs4OXNaQi03NnpxYU12aHNYeVJ4cTFlTUV0ZEVaNmlfVklRR1ZKTmVFQTBJeVdCcVNWdXBLSHhWUW54MG1wcTI0SWZlUTBCQ1JwN2ROeVA0a25iMHJPdWg1eE1fNGx6MzVPbmRkblIzWXRyRE9ScVR0VWRqT1NGN3dTVXVleXBVal9OOEtKeno0aVl4UEE3a181WHgyUndGRllwYVZmUQ?oc=5",
+        "published": "2026-11-20T10:45:02+00:00",
+        "published_label": "Fri 20 Nov, 14:45",
+        "summary": "What Flavio Briatore takes from McLaren after Fernando Alonso \"disaster\" Motorsport.com",
+        "id": "2edfe508ce98",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "Opinion/talking-point piece on a personnel figure",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T14:22:04.851160+00:00"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -16676,6 +16854,72 @@
         "lang": "en",
         "kind": "gnews",
         "wide": true,
+        "title": "UAE want to make Isaac del Toro their Giro d'Italia leader - But he reportedly wants to ride with Tadej Pogacar instead",
+        "feed_link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaDF3LVRzTU1fVzM1dVlGV05RWlExSXhrMVJxandUVWtsNVpBZWIzMWx3eXlBVkpwY1RpMHlpZjZXTllyN0d6Y182ajRlZXh2UEQ2ZE5wWU1HT1JieUxiRFZXdjRnb3F1QWRVTWJQSEkzSWlWQWI1ME1pbHhadmFMNUlJNkhtejI2aUxPeDR1TkNEc096bmJ4cnJmWm5EYkZsN2t0UHV3S3FjVW5DTXpYQlVFdDlQWUpqM1RidFNCaHljWGtnUk5WQ2p1UVNlbmhGLU02NENTMDNwcEdISDZIcGZJUlJtcXc?oc=5",
+        "link": "https://cyclinguptodate.com/cycling/uae-want-to-make-isaac-del-toro-their-giro-ditalia-leader-but-he-reportedly-wants-to-ride-with-tadej-pogacar-instead",
+        "published": "2026-11-20T13:59:00+00:00",
+        "published_label": "Fri 20 Nov, 17:59",
+        "summary": "UAE want to make Isaac del Toro their Giro d'Italia leader - But he reportedly wants to ride with Tadej Pogacar instead CyclingUpToDate.com",
+        "id": "c2854dfde4e5",
+        "bullets": [
+          "Isaac del Toro's 2027 plans remain undecided amid reports that he is at odds with UAE Team Emirates-XRG over his Grand Tour programme. The team reportedly wants the Mexican, who finished third at the 2026 Tour de France and won the white jersey, to lead at the Giro d'Italia, with Tadej Pogacar leading at the Tour. Del Toro is said to prefer returning to the Tour to support Pogacar.",
+          "Team leaders Mauro Gianetti and Joxean Matxin are reluctant to send young riders to two three-week races in one season, and Matxin said he prefers riders to be at least 24 before doing so. Del Toro turns 23 next week. The report, attributed to journalist David Faitelson, says the issue could continue until the team's media day on 18 December, when his schedule is expected to be confirmed."
+        ],
+        "triaged": true,
+        "priority": 8,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Isaac del Toro's plans for the 2027 season are still undecided, with reports now circulating that the Mexican rider is at odds with UAE Team Emirates-XRG over his Grand Tour ambitions for next season.\n\nWhile UAE have made no secret of their aim to win all three of cycling's Grand Tours in 2027, a report has emerged that part of that plan is to have the Tour podium finisher at the Giro d'Italia, and Tadej Pogacar at the Tour de France.",
+        "first_seen": "2026-11-20T14:22:04.851160+00:00",
+        "summary_status": "done",
+        "label": "CYCLING",
+        "line": "[UAE reportedly want Del Toro at the Giro] in 2027, but he wants to ride the Tour with Pogacar; schedule due 18 December.",
+        "angle": "Team scheduling for UAE Team Emirates XRG, ADNOC's cycling property, will shape its 2027 Grand Tour visibility; details are due at the 18 December media day.",
+        "stat": {
+          "value": "3rd",
+          "label": "Del Toro's place at the 2026 Tour de France"
+        }
+      },
+      {
+        "section": "Cycling",
+        "source": "Cyclingnews",
+        "search": "Cycling search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "WorldTour team ignored by new Collective Cycling Group reform project",
+        "feed_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZEk4STdPc1dIbXc0X0NISkpMdHNmSlJRQTM4Skg5NmZWMmlYZ1NpanJ1b0h4STJneGg3UVVoVXJpODhwRFd4QjNTdWd0QUZmZ0VjN1J3M0VqUWtQQ09hUkJsc3hDRmZqbkZzd2hoVmE2RmF5ZDJpS3F0d0o5NzNQeFVYTXdrdnJrMW9mQ3RtRE9sXzNmS0N2T3ZYVDRhM2RsOHVMblVzSHZkdUpLN1FRRnduSm1OSHItVExnX0dWZlY?oc=5",
+        "link": "https://www.cyclingnews.com/pro-cycling/teams-riders/worldtour-team-ignored-by-new-collective-cycling-group-reform-project/",
+        "published": "2026-11-20T13:43:11+00:00",
+        "published_label": "Fri 20 Nov, 17:43",
+        "summary": "WorldTour team ignored by new Collective Cycling Group reform project Cyclingnews",
+        "id": "d48c9a543ad5",
+        "bullets": [
+          "The Collective Cycling Group (CCG), a coalition of 24 teams seeking to overhaul cycling's economic model, launched publicly on Wednesday as the successor to the failed One Cycling movement. Human Powered Health, a US team in the Women's WorldTour since 2022, told Cyclingnews its senior management was never approached or made aware of the project.",
+          "Not all 32 men's and women's WorldTour teams signed up, and Tadej Pogačar's UAE Team Emirates is the most notable to decline. Pinarello-Q36.5 and Tudor Pro Cycling, both second-division men's teams, are shareholders. CEO Oliver Ciesla called the CCG a \"broad and inclusive initiative\", and a spokesperson said the group is open to growing over time."
+        ],
+        "triaged": true,
+        "priority": 4,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "The nascent Collective Cycling Group (CCG), a coalition of teams bidding to overhaul cycling’s economic model, did not seek the involvement of all the WorldTour teams, with Human Powered Health telling Cyclingnews they were ignored by the project.\n\nThe CCG, which is the new version of the failed One Cycling movement, launched publicly on Wednesday, with 24 teams coming together in a bid to \"unlock the value potential of professional cycling\".",
+        "first_seen": "2026-11-20T14:22:04.851160+00:00",
+        "summary_status": "done",
+        "label": "CYCLING",
+        "line": "[24 teams launch the Collective Cycling Group] to reform cycling's economics, but UAE Team Emirates declined and Human Powered Health says it was never approached.",
+        "angle": "UAE Team Emirates XRG staying outside the CCG matters for ADNOC, given any commercial reform could change how team sponsorships are valued.",
+        "stat": {
+          "value": "24",
+          "label": "teams in the new Collective Cycling Group"
+        }
+      },
+      {
+        "section": "Cycling",
+        "source": "CyclingUpToDate.com",
+        "search": "UAE Team Emirates watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
         "title": "Why Paul Seixas will never break 122-year Tour de France record despite his age - And the clock is ticking if he wants to beat Tadej Pogacar achievement",
         "feed_link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxORXZnbGxkQWt3ZFNGQm03a2k1cDFSMXNfTDVGbnNtclpmTjQyd1hnVkJ0VlMxTDVqMjBkTlhhdTRPS1ZScGdjcDVlendTT1Jtc05TZjZjOG5teUtvUGJaSjg2NVpnWEVQeExiMDVuWHJiWnB2bG5OalNYQUh5RkJfS2VDcElNRGlqUFA3ZWxHVVNHa3Rrcl9SS3V6cHFYOXViVGV1dXNQQnlBSkk4S3p4NGpsZDJTbVZ1SkdudVI4NWtBTXZ2bkpzdzN6M0dyLVg5YkdScm9kSkV1cTJNaG9fRXVlb2F2YVRhQUpoTnRiMExua054ZXdZcjFXRm1YY0RfTEd5S1lyVHVwMnhtSFN5YkFDRlg?oc=5",
         "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxORXZnbGxkQWt3ZFNGQm03a2k1cDFSMXNfTDVGbnNtclpmTjQyd1hnVkJ0VlMxTDVqMjBkTlhhdTRPS1ZScGdjcDVlendTT1Jtc05TZjZjOG5teUtvUGJaSjg2NVpnWEVQeExiMDVuWHJiWnB2bG5OalNYQUh5RkJfS2VDcElNRGlqUFA3ZWxHVVNHa3Rrcl9SS3V6cHFYOXViVGV1dXNQQnlBSkk4S3p4NGpsZDJTbVZ1SkdudVI4NWtBTXZ2bkpzdzN6M0dyLVg5YkdScm9kSkV1cTJNaG9fRXVlb2F2YVRhQUpoTnRiMExua054ZXdZcjFXRm1YY0RfTEd5S1lyVHVwMnhtSFN5YkFDRlg?oc=5",
@@ -20053,6 +20297,29 @@
     "UAE Pro League & GCC Football": [
       {
         "section": "UAE Pro League & GCC Football",
+        "source": "BeSoccer Livescore",
+        "search": "GCC football search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Pre-match Shabab Al Ahli Dubai vs Ajman, UAE League Round 9",
+        "feed_link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LT2RJYlc4TWM5V2JoZ0M5eEF2Z1lmMHZSdmpVeGVkajFuVEtqMWNZZVB5b0VVdWZpZ2wtaUNFbGFKVHJvdmtteDJnRGVJWXdMaTdJVTdTdHhsal9QcW16TWV2cFZkRF95MERKa3R3d1c1TzhwdlhR?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LT2RJYlc4TWM5V2JoZ0M5eEF2Z1lmMHZSdmpVeGVkajFuVEtqMWNZZVB5b0VVdWZpZ2wtaUNFbGFKVHJvdmtteDJnRGVJWXdMaTdJVTdTdHhsal9QcW16TWV2cFZkRF95MERKa3R3d1c1TzhwdlhR?oc=5",
+        "published": "2026-11-20T13:26:41+00:00",
+        "published_label": "Fri 20 Nov, 17:26",
+        "summary": "Pre-match Shabab Al Ahli Dubai vs Ajman, UAE League Round 9 BeSoccer Livescore",
+        "id": "5323c6a76b10",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "Pre-match preview, dropped per guide",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-20T14:22:04.851160+00:00"
+      },
+      {
+        "section": "UAE Pro League & GCC Football",
         "source": "World Soccer Talk",
         "search": "GCC football search",
         "lang": "en",
@@ -23245,13 +23512,13 @@
     ],
     "Running & Endurance": []
   },
-  "total": 966,
+  "total": 976,
   "edition": {
-    "drafted_at": "2026-11-20T13:46:28.613844+00:00",
+    "drafted_at": "2026-11-20T14:23:18.088379+00:00",
     "days": 14,
     "headline": [
-      "The finale is confirmed.",
-      "Abu Dhabi is next."
+      "Abu Dhabi finale confirmed.",
+      "Concerts and a Sprint follow."
     ],
     "stats": [
       {
@@ -23260,25 +23527,25 @@
         "id": "7416683044e8"
       },
       {
+        "value": "10",
+        "label": "points: Al Jazira climb to second in the ADIB Cup",
+        "id": "9e5234c337b3"
+      },
+      {
         "value": "5",
         "label": "years: TotalEnergies' title deal with FDJ United women's team",
         "id": "47acd2c017e2"
       },
       {
-        "value": "16",
-        "label": "points: Al Wasl second in the ADNOC Pro League",
-        "id": "69fdf82bdbb1"
-      },
-      {
-        "value": "1st",
-        "label": "F1 Sprint Race for Abu Dhabi, in December 2027",
-        "id": "404fbc3240b3"
+        "value": "€40m",
+        "label": "reported annual value of Nike's Champions League ball deal",
+        "id": "a65664683ea9"
       }
     ],
     "watch": {
       "id": "5836ad929d71",
-      "lead": "F1 is keeping Abu Dhabi's 6 December finale despite Middle East security concerns.",
-      "text": "[grandprix247] reports F1 will also race in Qatar on 29 November. As founding partner of the Abu Dhabi Grand Prix, ADNOC should prepare its security and fan messaging, with Verstappen, Russell and Norris reported as comfortable racing."
+      "lead": "F1 is pressing ahead with Abu Dhabi on 6 December despite security concerns.",
+      "text": "The [grandprix247] report says the Qatar and Abu Dhabi races will go ahead despite the Middle East conflict. ADNOC, as founding partner of the Abu Dhabi Grand Prix, needs a clear plan for race-week communications and security."
     }
   }
 }
