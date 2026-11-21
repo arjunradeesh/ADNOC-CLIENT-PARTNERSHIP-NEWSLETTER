@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T13:43:11.408602+00:00",
-  "generated_label": "Saturday 21 November 2026, 17:43 GST",
+  "generated_at": "2026-11-21T16:10:31.812270+00:00",
+  "generated_label": "Saturday 21 November 2026, 20:10 GST",
   "keep_days": 14,
   "section_order": [
     "ADNOC & Partner News",
@@ -13,6 +13,39 @@
   ],
   "sections": {
     "ADNOC & Partner News": [
+      {
+        "section": "ADNOC & Partner News",
+        "source": "Sharjah24",
+        "search": "ADNOC watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Baniyas secures first win in ADNOC Pro League",
+        "feed_link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pQXF1SXhPb0tUYTN0R2h3R3dTWHlGRS12T21PWnZkb3N0TVJfbXg0V3MzRGFxWlNMOFBPQzNZNG5JOE5ubFJ2MWg2c3BSMVhieDZVWGZ5b3VMTjA?oc=5",
+        "link": "https://sharjah24.ae/en/Articles/2026/11/21/d65",
+        "published": "2026-11-21T16:07:30+00:00",
+        "published_label": "Sat 21 Nov, 20:07",
+        "summary": "Baniyas secures first win in ADNOC Pro League Sharjah24",
+        "id": "09ddf84cffe2",
+        "bullets": [
+          "Baniyas claimed their first win of the season in the ADNOC Pro League, coming from behind to beat Al-Nasr 2-1 at Baniyas Stadium in the ninth round. Youssouf Niakaté and Al-Hassan Koroma scored in the 64th and 70th minutes respectively.",
+          "Ramón Miérez had given Al-Nasr the lead in the 46th minute. The result lifts Baniyas to 5 points and 13th in the table, while Al-Nasr remain on 11 points in 7th."
+        ],
+        "triaged": true,
+        "priority": 4,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Sharjah24: Baniyas claimed their first win of the season in the ADNOC Pro League, coming from behind to beat Al-Nasr 2-1 at Baniyas Stadium in the ninth round of the competition.\n\nYoussouf Niakaté and Al-Hassan Koroma scored for Baniyas in the 64th and 70th minutes respectively, Ramón Miérez scored the only goal for Al-Nasr in the 46th minute. With that result Baniyas are at 5 points, 13th in the table, Al-Nasr remain on 11 points and are 7th.",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00",
+        "summary_status": "done",
+        "label": "PRO LEAGUE",
+        "line": "[Baniyas beat Al-Nasr 2-1] for their first ADNOC Pro League win of the season, moving to 5 points.",
+        "angle": "Round nine results show a tight ADNOC Pro League table, with Baniyas still 13th despite the win.",
+        "stat": {
+          "value": "5",
+          "label": "points: Baniyas move to 13th in the ADNOC Pro League"
+        }
+      },
       {
         "section": "ADNOC & Partner News",
         "source": "Cyclingnews",
@@ -1873,6 +1906,62 @@
     "Wider Sports News": [
       {
         "section": "Wider Sports News",
+        "source": "The National",
+        "search": "The National",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "Man City v Fulham ratings: Anderson 8, Haaland 6; Affengruber 9, Muniz 8",
+        "feed_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUjc1a0JsR2JrMk9QNE9VM3J0LWc4QmlmaC1sVmlFOXNzc3lQalVRVXpqd21KTGVXVHpnVEhYd0hkQzRsS1BaLW53eHF2X3dMWEhRZFdDcXNqTW0zR1VmYnV6a3BYNmlTR3EzVFp1TVBaZ0k0OFgyQ1ZLZi04c3A3ZWtpcjY1WHBGNHhvSER6Nm1IdG5UMElUblRzMXVlWE91MC1GYjVWNnQtTHUtdUtEM0tMTmRHeEhZZHNzOU9TRWpUQXBBWnc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUjc1a0JsR2JrMk9QNE9VM3J0LWc4QmlmaC1sVmlFOXNzc3lQalVRVXpqd21KTGVXVHpnVEhYd0hkQzRsS1BaLW53eHF2X3dMWEhRZFdDcXNqTW0zR1VmYnV6a3BYNmlTR3EzVFp1TVBaZ0k0OFgyQ1ZLZi04c3A3ZWtpcjY1WHBGNHhvSER6Nm1IdG5UMElUblRzMXVlWE91MC1GYjVWNnQtTHUtdUtEM0tMTmRHeEhZZHNzOU9TRWpUQXBBWnc?oc=5",
+        "published": "2026-11-21T15:15:58+00:00",
+        "published_label": "Sat 21 Nov, 19:15",
+        "summary": "Man City v Fulham ratings: Anderson 8, Haaland 6; Affengruber 9, Muniz 8 www.thenationalnews.com",
+        "id": "034553d90a80",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "match ratings, no new news",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Asia-Pacific Golf Confederation",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "ISPS HANDA Expands Support for Golf as G4D Open Partner - Asia-Pacific Golf Confederation",
+        "feed_link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3JjbW1qZkg0eVd2aEpRZ2NVcldjYlZjbzViMEpIUXlZVl9qdnJ5UmFMbTd1LUsyQVE1OGVSRThLSzlySXYtVzk5OUN6TkloUDI1SThONXloODJFZEdqNUV0bkxzM095Q1pSOTR5dUUtcWpQeWpPWmdic2ZiMXNHZlhmcldHUzc0WkxRbmo2RQ?oc=5",
+        "link": "https://www.apgc.online/isps-handa-expands-support-for-golf-as-g4d-open-title-partner/",
+        "published": "2026-11-21T15:00:17+00:00",
+        "published_label": "Sat 21 Nov, 19:00",
+        "summary": "ISPS HANDA Expands Support for Golf as G4D Open Partner Asia-Pacific Golf Confederation",
+        "id": "52397c588801",
+        "bullets": [
+          "ISPS HANDA has become the first-ever title partner of The G4D Open, the international championship for golfers with disabilities, which will now be known as the ISPS HANDA G4D Open. The event was established in 2023 and is held annually by The R&A and the DP World Tour. It features 80 male and female amateur and professional golfers.",
+          "ISPS HANDA will cover the full entry fee of each competitor and introduce an annual monetary ISPS HANDA Inspiration Award for contributions to golf for people with disabilities. The deal extends its golf support, which includes title sponsorship of the Senior Open and support of the Women's Amateur Asia-Pacific. The 2026 edition was staged in Wales for the first time, at Celtic Manor Resort in May, after three editions at Woburn. Simon Lee Seung-min of Korea and Germany's Jennifer Sräga won the men's and women's events."
+        ],
+        "triaged": true,
+        "priority": 3,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "St Andrews, Scotland: ISPS HANDA is expanding its support for golf as the first-ever title partner of The G4D Open, the international championship for golfers with disabilities.\n\nEstablished in 2023, The G4D Open – held annually in partnership by The R&A and the DP World Tour – is one of the most inclusive championships, featuring 80 male and female amateur and professional golfers.",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00",
+        "summary_status": "done",
+        "label": "GOLF",
+        "line": "[ISPS HANDA becomes first title partner] of the G4D Open for golfers with disabilities, covering all 80 players' entry fees.",
+        "angle": "Paying competitors' entry fees is an accessibility-led sponsorship feature that could inform inclusive elements of ADNOC's community sport programmes.",
+        "stat": {
+          "value": "80",
+          "label": "golfers in the ISPS HANDA G4D Open"
+        }
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Inside The Games",
         "search": "Gulf sports business search",
         "lang": "en",
@@ -1897,6 +1986,29 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "Yahoo News UK",
+        "search": "Gulf sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Qatar’s Film Committee and Watermelon Pictures Forge Partnership to Co-Produce a Slate of Films From the ‘Global South’",
+        "feed_link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUnpHbEVOdldtbHB2ZjRPMnl4bzNJeWxTSUdIUENoaUhzWG53TXNZZ1lMSnNNNFRZeWFUcXdKMmVyWlZmZzFNQ1c3cWVTeWkwNy16aElsVS1IRVNDZmFEeGpqQmRXR2hURExPMDBmN0lrdFVXQ3FXOThJb0MzUW00Wk5BTnRTYUxh?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUnpHbEVOdldtbHB2ZjRPMnl4bzNJeWxTSUdIUENoaUhzWG53TXNZZ1lMSnNNNFRZeWFUcXdKMmVyWlZmZzFNQ1c3cWVTeWkwNy16aElsVS1IRVNDZmFEeGpqQmRXR2hURExPMDBmN0lrdFVXQ3FXOThJb0MzUW00Wk5BTnRTYUxh?oc=5",
+        "published": "2026-11-21T11:36:53+00:00",
+        "published_label": "Sat 21 Nov, 15:36",
+        "summary": "Qatar’s Film Committee and Watermelon Pictures Forge Partnership to Co-Produce a Slate of Films From the ‘Global South’ Yahoo News UK",
+        "id": "dd9f8479307a",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "film partnership, not sport",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Johannesburg Sunday World",
         "search": "Sports business search",
         "lang": "en",
@@ -1909,13 +2021,29 @@
         "published_label": "Sat 21 Nov, 14:51",
         "summary": "SA top sprinter Akani Simbine joins forces with Sibanye-Stillwater MyGold road race Johannesburg Sunday World",
         "id": "6228d2f394b9",
-        "bullets": [],
+        "bullets": [
+          "Sibanye-Stillwater and the Simbine Classic have announced a three-year sponsorship that introduces the Sibanye-Stillwater MyGold 5km and 10km road races at the 2027 World Athletics Continental Tour event. The mining company holds the naming rights to both mass participation races, which debut in Pretoria on 17 April 2027. Ticket holders who donate R50 to the Akani Simbine Foundation receive automatic entry, and 10km finishers under 60 minutes get a commemorative medal.",
+          "Sibanye-Stillwater will also donate R1 million to the Akani Simbine Foundation, which supports underserved youth through sport, education and community welfare. Akani Simbine, founder of the event, said the races will let everyone take part, from first-timers to those chasing personal bests. The wider programme includes development sprint races, South Africa's rising track and field stars, and an elite field. Ticket and entry details will be announced in the coming weeks."
+        ],
         "triaged": true,
         "priority": 3,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Sibanye-Stillwater and the Simbine Classic have announced a three-year sponsorship that will introduce the Sibanye-Stillwater MyGold 5km and 10km road races at the 2027 World Athletics Continental Tour event, providing recreational runners and walkers with the opportunity to participate in one of the country’s premier athletics showcases.\n\nThe MyGold races will make their debut in Pretoria on 17 April 2027, with mining company Sibanye-Stillwater holding the naming rights to both mass participation races, which form part of an expanded festival of athletics designed to bring communities, families, aspiring athletes and elite performers together through the power of sport.",
-        "first_seen": "2026-11-21T13:02:54.112181+00:00"
+        "first_seen": "2026-11-21T13:02:54.112181+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[Sibanye-Stillwater sponsors Simbine Classic] road races for three years, with debut MyGold 5km and 10km in Pretoria on 17 April 2027.",
+        "angle": "Adding a mass-participation race to an elite athletics meeting is a model comparable to the ADNOC Abu Dhabi Marathon's community runs.",
+        "activation": {
+          "title": "Sibanye-Stillwater, Simbine Classic",
+          "what": "Naming rights to new 5km and 10km mass races, with ticket holders' R50 donations funding a youth foundation.",
+          "borrow": "Add ticket-linked charity entry races to ADNOC events."
+        },
+        "stat": {
+          "value": "R1m",
+          "label": "donation to the Akani Simbine Foundation"
+        }
       },
       {
         "section": "Wider Sports News",
@@ -1977,13 +2105,47 @@
         "published_label": "Sat 21 Nov, 14:28",
         "summary": "Cricket stars descend upon the UAE as DP World ILT20 Season 5 gets under way Arab News",
         "id": "cff0016819e0",
-        "bullets": [],
+        "bullets": [
+          "The DP World ILT20 Season 5 gets under way in the UAE on Saturday 21 November 2026 with defending champions Desert Vipers facing MI Emirates at Dubai International Stadium. The tournament comprises 34 matches across six franchises. Key players from all six sides spoke to the media on Friday at the DP World Office, Expo City, Dubai.",
+          "Players on show include Colin Munro (Abu Dhabi Knight Riders), Babar Azam and Tom Curran (Desert Vipers), Faf du Plessis (Dubai Capitals), Heinrich Klaasen (Gulf Giants), Rashid Khan (MI Emirates) and Sikandar Raza (Sharjah Warriorz). Raza said each squad includes one associate player in the playing XI and two in the wider squad. Brett Lee, Navjot Singh Sidhu and Robin Uthappa join the commentary panel. Broadcasters include Unite8 Sports, Z5, Z Zest and FanCode in India, and TNT and HBO in the UK."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 2,
         "copy": "",
-        "first_seen": "2026-11-21T13:43:11.408602+00:00"
+        "first_seen": "2026-11-21T13:43:11.408602+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[DP World ILT20 Season 5 begins] in the UAE on 21 November with Desert Vipers facing MI Emirates in Dubai.",
+        "angle": "A major UAE-hosted league carrying a competitor's name shows the scale of cricket's commercial presence in the UAE market.",
+        "stat": {
+          "value": "34",
+          "label": "matches in DP World ILT20 Season 5"
+        }
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "The National",
+        "search": "The National",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "Harry Kane's sparkling year for Bayern Munich and England brought to early finish due to ankle injury",
+        "feed_link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPa2tRRUVDS2NoaVdNQWc1UHRYY0RPSU82NnVGUXVScVJVamY0NjB4VGFNdkVqaHlDLUlQS1NJN04wbVVZS1Fpa0hEanZhM3NIRzFQQy1IQ2tmNG9XRHJxbzlzTkNEVlBmN3B3WS0xZjdSZk5xYWZzNmwtSUNadVB1RGFGT1dZRnpUX1diMkF3RDd6ck9TZXlBX29PUHNBZ0pLQXQzZWlpdHhtU2dmT182SEVPZXdFVFU4ZTBoUkZTb3FiTDFzbjRSSjE2d2cyTE53b2VtcXNFU2g5amVCcURpX1hHTGQzRWZBWlE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPa2tRRUVDS2NoaVdNQWc1UHRYY0RPSU82NnVGUXVScVJVamY0NjB4VGFNdkVqaHlDLUlQS1NJN04wbVVZS1Fpa0hEanZhM3NIRzFQQy1IQ2tmNG9XRHJxbzlzTkNEVlBmN3B3WS0xZjdSZk5xYWZzNmwtSUNadVB1RGFGT1dZRnpUX1diMkF3RDd6ck9TZXlBX29PUHNBZ0pLQXQzZWlpdHhtU2dmT182SEVPZXdFVFU4ZTBoUkZTb3FiTDFzbjRSSjE2d2cyTE53b2VtcXNFU2g5amVCcURpX1hHTGQzRWZBWlE?oc=5",
+        "published": "2026-11-21T09:49:30+00:00",
+        "published_label": "Sat 21 Nov, 13:49",
+        "summary": "Harry Kane's sparkling year for Bayern Munich and England brought to early finish due to ankle injury The National",
+        "id": "92273d3b79ba",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "player injury news, not in scope",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -2109,6 +2271,28 @@
           "value": "34",
           "label": "matches in ILT20 Season 5 across three UAE venues"
         }
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sports Media Watch",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "News: ESPN-NFLN studio, Phillies RSN, PGA Tour and more",
+        "feed_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVEZiTVZQcmFvYXlGSWV2d1VfNGpiU2ZYaGI0cFFXc1NCNFozSEJWV0NnX01qc1dQS09ZRjcwNXZ3b0tKRTBTZVVOaXc0U2JxWW9WWldGUXVPSzBkcVFwemlvOWpaQThyUlEtdGRXYWZsT2V2TFlZczZnNTZLZm9VcUc0YkFfa0lTdlk2ME9MVnFZSkhU?oc=5",
+        "link": "https://www.sportsmediawatch.com/2026/07/espn-west-coast-production-phillies-rsn-pga-tour/",
+        "published": "2026-11-21T05:11:17+00:00",
+        "published_label": "Sat 21 Nov, 09:11",
+        "summary": "News: ESPN-NFLN studio, Phillies RSN, PGA Tour and more Sports Media Watch",
+        "id": "8a0a2990481f",
+        "bullets": [],
+        "triaged": true,
+        "priority": 2,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "ESPN is consolidating its West Coast production to the NFL Network facility in Inglewood; the Philadelphia Phillies have reportedly done groundwork on what would be required to launch their own network; and select PGA Tour events will air on the ESPN linear network next month. Plus news on the Emirates NBA Cup, Elle Duncan, Jonathan Jones and ESPN.\n\nESPN shuttering L.A. Live studio, moving West Coast production to NFL Network building ESPN will close its current Los Angeles studio space at L.A. Live and consolidate its West Coast production within the NFL Network facility in nearby Inglewood, as first reported by Austin Karp of Sports Business Journal. The approximately 160 employees who still worked at the L.A. Live facility will shift to new locations without planned layoffs. The move is expected to take place by early September.",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -2311,13 +2495,29 @@
         "published_label": "Sat 21 Nov, 00:28",
         "summary": "Frontier Airlines & BarkleyOKRP ink the world’s first-ever official sports NIL butt sponsorship Roastbrief US",
         "id": "0382bef3cbaa",
-        "bullets": [],
+        "bullets": [
+          "Frontier Airlines and agency BarkleyOKRP have signed what they call the world's first official sports NIL \"butt sponsorship\" with two University of Georgia offensive linemen, Jahzare Jackson (6'10\", 350 lbs) and Juan Gaston (6'7\", 360 lbs). The pair, who together weigh 710 pounds, made the deal official by dipping their backsides in paint and stamping their contracts. The campaign launches on 18 November across social and digital channels.",
+          "The stunt supports Frontier's effort to reshape perceptions of the airline through cabin upgrades, including First Class seating, more extra-legroom options, in-seat power and Starlink Wi-Fi. The idea is that if the new First Class seats can fit two SEC linemen, they can fit almost anyone. The campaign is positioned as a twist on both airline advertising and the crowded NIL deal market."
+        ],
         "triaged": true,
         "priority": 3,
         "is_article": true,
         "read_attempts": 1,
         "copy": "November, 2026.- Most airlines launch premium seats with typical luxury marketing and visuals. Not Frontier Airlines. They decided to pen the world’s first-ever official sports NIL butt sponsorship, literally sponsoring the actual rear ends of college football’s heaviest players.\n\nFrontier and BarkleyOKRP partnered with two #2-ranked University of Georgia offensive linemen, Jahzare Jackson (6’10”, 350 lbs) and Juan Gaston (6’7”, 360 lbs), for what they’re calling the world’s “biggest” NIL deal. And they took the signing quite literally. The 710-pound duo made their endorsements official by dipping their backsides in paint and stamping their contracts with their butts.",
-        "first_seen": "2026-11-21T08:43:24.573242+00:00"
+        "first_seen": "2026-11-21T08:43:24.573242+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[Frontier Airlines signs two Georgia linemen] to a novelty NIL deal to promote its new First Class seats, launching 18 November.",
+        "angle": "A product-led athlete endorsement, shown as a low-cost way to demonstrate a service feature; limited direct relevance to ADNOC.",
+        "activation": {
+          "title": "Frontier Airlines, Georgia NIL",
+          "what": "Signed two heavyweight linemen to a stamped-contract NIL deal to demonstrate First Class seat size.",
+          "borrow": "Use athlete partnerships to demonstrate an ADNOC product or service feature."
+        },
+        "stat": {
+          "value": "710",
+          "label": "pounds: combined weight of Frontier's two NIL linemen"
+        }
       },
       {
         "section": "Wider Sports News",
@@ -2377,6 +2577,28 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "Youth Sports Business Report",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Volleyball Global Reach Hits 1.2 Billion People, Nielsen Research Finds",
+        "feed_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNanVmZVRMalRleGtFeHlVNHItZWx1QnVhVjBSeUJkRXpXQWRjOXFUYnVEYUZxcml6UWI0M0xJUXMzb2xKUXdoR3Eya0N0N3hDNWtlUU5RaXJaakJua2h6UmFQVDBxNmlMRzFuOFg2QkZnVW44NGZBRVVFSjRhMWJxMm1WQWVtbXhJZHc?oc=5",
+        "link": "https://youthsportsbusinessreport.com/volleyball-global-reach-1-2-billion-nielsen/",
+        "published": "2026-11-20T18:15:32+00:00",
+        "published_label": "Fri 20 Nov, 22:15",
+        "summary": "Volleyball Global Reach Hits 1.2 Billion People, Nielsen Research Finds Youth Sports Business Report",
+        "id": "726f04b4adea",
+        "bullets": [],
+        "triaged": true,
+        "priority": 3,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "- More than 1.2 billion people across 42 markets are now connected to volleyball, about one in seven people worldwide, per Nielsen research for the FIVB. - In the 21 markets Nielsen first measured in 2023, the sport’s connected audience grew from 800 million to more than one billion people.\n\n- Separate Nielsen benchmarking places volleyball and beach volleyball combined joint second globally, level with basketball and trailing only football. - The FIVB’s Strategic Vision 2032 targets 1.6 billion connected people, leaving roughly 400 million to add over the next six years.",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "The National",
         "search": "The National",
         "lang": "en",
@@ -2428,7 +2650,9 @@
         "is_article": true,
         "read_attempts": 1,
         "copy": "You don't have permission to access \"http://www.wzzm13.com/article/sports/local-sports/kalamazoos-515m-downtown-events-center-naming-rights/69-c77a662d-6033-451d-ad42-46c01eb1b81f\" on this server.\n\nReference #18.861c2117.1795250814.61c2283a https://errors.edgesuite.net/18.861c2117.1795250814.61c2283a",
-        "first_seen": "2026-11-21T08:43:24.573242+00:00"
+        "first_seen": "2026-11-21T08:43:24.573242+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -2474,7 +2698,7 @@
         "read_attempts": 2,
         "copy": "",
         "first_seen": "2026-11-21T08:43:24.573242+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -3076,6 +3300,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-20T10:33:31.593476+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Gulf News",
+        "search": "Gulf sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Aspora and OGold Partner to Bring Gold Investing to Overt Two Million NRI Customers in the UAE",
+        "feed_link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRkJnVWM1OUJISEtlbDUyWHFBbmpESlpfYUNKUmZ1YVJwQThQV2VobG9pRzZzZ2dEY25PRU5KeUlWam9PWmE2RDIycUdNdzRzRGpYaUpocG9UZGFkeFZtOF9hSVNSYi11cTU4cldwdDNEYnllM0xKVWhIVjRlaDltV2dkVnJvZEhSZzdkQkVZakVxakZOSVBQaC1oMTg4RVlfXzFqWlo4bmY3QlM0NnBjbjMxRG9uSjVwZk5Jei1JX3h1S1UzeEFMNnY0TGZSODl0M1JiTWZIRkJLSjlhd0t3a0hoVHV3R0lUZ1NIYnlqNU5BY3pVNkdhatIB-AFBVV95cUxPRkJnVWM1OUJISEtlbDUyWHFBbmpESlpfYUNKUmZ1YVJwQThQV2VobG9pRzZzZ2dEY25PRU5KeUlWam9PWmE2RDIycUdNdzRzRGpYaUpocG9UZGFkeFZtOF9hSVNSYi11cTU4cldwdDNEYnllM0xKVWhIVjRlaDltV2dkVnJvZEhSZzdkQkVZakVxakZOSVBQaC1oMTg4RVlfXzFqWlo4bmY3QlM0NnBjbjMxRG9uSjVwZk5Jei1JX3h1S1UzeEFMNnY0TGZSODl0M1JiTWZIRkJLSjlhd0t3a0hoVHV3R0lUZ1NIYnlqNU5BY3pVNkdhag?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRkJnVWM1OUJISEtlbDUyWHFBbmpESlpfYUNKUmZ1YVJwQThQV2VobG9pRzZzZ2dEY25PRU5KeUlWam9PWmE2RDIycUdNdzRzRGpYaUpocG9UZGFkeFZtOF9hSVNSYi11cTU4cldwdDNEYnllM0xKVWhIVjRlaDltV2dkVnJvZEhSZzdkQkVZakVxakZOSVBQaC1oMTg4RVlfXzFqWlo4bmY3QlM0NnBjbjMxRG9uSjVwZk5Jei1JX3h1S1UzeEFMNnY0TGZSODl0M1JiTWZIRkJLSjlhd0t3a0hoVHV3R0lUZ1NIYnlqNU5BY3pVNkdhatIB-AFBVV95cUxPRkJnVWM1OUJISEtlbDUyWHFBbmpESlpfYUNKUmZ1YVJwQThQV2VobG9pRzZzZ2dEY25PRU5KeUlWam9PWmE2RDIycUdNdzRzRGpYaUpocG9UZGFkeFZtOF9hSVNSYi11cTU4cldwdDNEYnllM0xKVWhIVjRlaDltV2dkVnJvZEhSZzdkQkVZakVxakZOSVBQaC1oMTg4RVlfXzFqWlo4bmY3QlM0NnBjbjMxRG9uSjVwZk5Jei1JX3h1S1UzeEFMNnY0TGZSODl0M1JiTWZIRkJLSjlhd0t3a0hoVHV3R0lUZ1NIYnlqNU5BY3pVNkdhag?oc=5",
+        "published": "2026-11-20T09:47:17+00:00",
+        "published_label": "Fri 20 Nov, 13:47",
+        "summary": "Aspora and OGold Partner to Bring Gold Investing to Overt Two Million NRI Customers in the UAE Gulf News",
+        "id": "5676e37c36e4",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "gold investing, finance news",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -9214,6 +9461,154 @@
     "Formula 1 & Motorsport": [
       {
         "section": "Formula 1 & Motorsport",
+        "source": "Feeder Series",
+        "search": "Rashid Al Dhaheri watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "FR World Cup Saturday review: Al Dhaheri finally victorious at Macau in qualifying race",
+        "feed_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeElkLVRvV3otYkNZbXdTTUk5S3ZWZVY3MUU4WUxLcTZHajZJc2JxRFIyM0ZqYlQyVFZFT0dLMVNPVXZydTN6Z2FTZEtIVk9WWUdydHV3STJIb3gyYnJQb2N4MG5KZ3k2Q0RkeTlxRG50UVRFVzBaUHhuYmxVT1phZkozR2xGRmhzQ0tpRmVUR2FoOW1LY1FyaENVbFNIU1lESlJoeEdUTFJlaTVWZDh6dHBrdUV3TExHOW4td3JMNU8?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeElkLVRvV3otYkNZbXdTTUk5S3ZWZVY3MUU4WUxLcTZHajZJc2JxRFIyM0ZqYlQyVFZFT0dLMVNPVXZydTN6Z2FTZEtIVk9WWUdydHV3STJIb3gyYnJQb2N4MG5KZ3k2Q0RkeTlxRG50UVRFVzBaUHhuYmxVT1phZkozR2xGRmhzQ0tpRmVUR2FoOW1LY1FyaENVbFNIU1lESlJoeEdUTFJlaTVWZDh6dHBrdUV3TExHOW4td3JMNU8?oc=5",
+        "published": "2026-11-21T15:42:24+00:00",
+        "published_label": "Sat 21 Nov, 19:42",
+        "summary": "FR World Cup Saturday review: Al Dhaheri finally victorious at Macau in qualifying race Feeder Series",
+        "id": "4cae9627130d",
+        "bullets": [],
+        "triaged": true,
+        "priority": 1,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "RacingNews365",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "2026 F1 Las Vegas Grand Prix start time",
+        "feed_link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEbFVfSXZvS0NFZFVraFduSUpMSjMyTGJ5cm9sX3ktRUpKU1c4eFNnMUhGNkhDdzhTczF6b3MtRlBUNWtabno5QlhTdV85c3JhWTJhanpqaC16NGg5Y3g4dk5YclFRTTB4YkstWDVDaTk4MHM?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBEbFVfSXZvS0NFZFVraFduSUpMSjMyTGJ5cm9sX3ktRUpKU1c4eFNnMUhGNkhDdzhTczF6b3MtRlBUNWtabno5QlhTdV85c3JhWTJhanpqaC16NGg5Y3g4dk5YclFRTTB4YkstWDVDaTk4MHM?oc=5",
+        "published": "2026-11-21T15:40:00+00:00",
+        "published_label": "Sat 21 Nov, 19:40",
+        "summary": "2026 F1 Las Vegas Grand Prix start time RacingNews365",
+        "id": "ac019c6e38db",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "schedule logistics only",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "USA Today",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Formula 1 returns to Las Vegas: How to watch F1 Las Vegas Grand Prix",
+        "feed_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQTFzNnNsUG5KRDBOTndhb1JlbVRUU0h3eEJiOHZKNDBEYWNDTnNwTmFxLThoZWY4ZEpZYWNGZEVSRkJXbFVqQmxMQkVwb2JCdVVCWllvNlFrQ05MeWY5S29RM1pqZGpCdWFwU2tZRkNld2stbmtpTWx1N0xhRkZ5b1lMaEVEeTBSWXhlTXJDZXpVVHZac0R2Q0Vjek03YTh0V3A0Y3Fra2NRRjhlcURrQTFQWVZMaXJFcVNwOGdMTEU?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQTFzNnNsUG5KRDBOTndhb1JlbVRUU0h3eEJiOHZKNDBEYWNDTnNwTmFxLThoZWY4ZEpZYWNGZEVSRkJXbFVqQmxMQkVwb2JCdVVCWllvNlFrQ05MeWY5S29RM1pqZGpCdWFwU2tZRkNld2stbmtpTWx1N0xhRkZ5b1lMaEVEeTBSWXhlTXJDZXpVVHZac0R2Q0Vjek03YTh0V3A0Y3Fra2NRRjhlcURrQTFQWVZMaXJFcVNwOGdMTEU?oc=5",
+        "published": "2026-11-21T15:01:00+00:00",
+        "published_label": "Sat 21 Nov, 19:01",
+        "summary": "Formula 1 returns to Las Vegas: How to watch F1 Las Vegas Grand Prix USA Today",
+        "id": "a7ef11cab5ba",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "how-to-watch guide, no news",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Sports Illustrated",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Cadillac Has Confirmed Its 2027 F1 Drivers, but There’s Far More Uncertainty to Clear Up",
+        "feed_link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ1hLVTg0LUxVTXZnWjZJa1EyZFFYVDkzTDRnajUwSkI0M29GdFBDdHdiXy1PMklQcnRtaGJfVFl6cHNnM1I2LUxYLTY0YXk5bnd4WHR3YzRidEN2dU9Cb2d2M2VEOWZZS2ZQdVNkMDg2OFBlYlZuamZhVjFZUmliWVByUmpWMWc?oc=5",
+        "link": "https://www.si.com/racing/formula-1/cadillac-confirm-2027-f1-drivers-uncertainty",
+        "published": "2026-11-21T14:40:43+00:00",
+        "published_label": "Sat 21 Nov, 18:40",
+        "summary": "Cadillac Has Confirmed Its 2027 F1 Drivers, but There’s Far More Uncertainty to Clear Up Sports Illustrated",
+        "id": "7513426eb51d",
+        "bullets": [
+          "Cadillac has confirmed Valtteri Bottas will stay for the 2027 Formula 1 season, ending weeks of speculation, with the announcement made on the Wednesday before the Las Vegas Grand Prix. The team enters the weekend scoreless after 20 races and last among 11 teams. Its best 2026 result was Bottas's 13th place at the Chinese Grand Prix, and the drivers have had 15 DNFs in 39 race entries. Cadillac sits seven points behind Aston Martin and 12 behind Williams.",
+          "Sergio Pérez said the team expected to be sharper operationally, citing a 9.68-second pit stop in Brazil, and called for a stronger team culture. Team principal Graeme Lowden was replaced by Marcin Budkowski in August. Mark Walter, owner of TWG Motorsport, is exploring a sale of his stake, and Sportico reported he is seeking a $3 billion valuation. Cadillac has also said it intends to become a full works team with its own power units by the end of the decade."
+        ],
+        "triaged": true,
+        "priority": 3,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "LAS VEGAS — A critical piece of the puzzle for the 2027 Formula One season fell into place on the Wednesday ahead of the Las Vegas Grand Prix when Cadillac announced that Valtteri Bottas would return to the team for another season. The announcement ended weeks of speculation that the veteran driver could be on his way out amid struggles in races throughout the 2026 campaign.\n\nAlas, the team ultimately chose to carry on with Bottas. That’s one question answered for Cadillac. But the laundry list of others looms large as F1’s newest team stumbles its way to the end of its inaugural season.",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00",
+        "summary_status": "done",
+        "label": "F1 BUSINESS",
+        "line": "[Cadillac keeps Bottas for 2027] while remaining scoreless after 20 races, as owner Mark Walter explores selling his stake.",
+        "angle": "Ownership uncertainty at F1's newest team is a commercial development to watch across the grid ahead of the Abu Dhabi finale.",
+        "stat": {
+          "value": "$3bn",
+          "label": "valuation reportedly sought for Cadillac F1 stake"
+        }
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Formula Scout",
+        "search": "Rashid Al Dhaheri watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Al Dhaheri holds off Colnaghi to win Macau FRegional qualification race",
+        "feed_link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNmdLQm4taUhXanZrRE1lVmI4bGtLYk5yNDQ4azNtcHRNVmRUVjBqd004b2FxTnFPYWwwSG50R3hORTZhRmxKNVZ2aEU2VHJNeEc3aHZ5dVVXa09wUzdkNEVIQzN5MmhBdUN4T3ZsVlNZZ2pHTEpmQUlPNWNocGRDXzRzR0o4c0xGNkZIMjA2dUpZUi1NTnEtcmlWY0s4V1BGU3VYc3dB?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNmdLQm4taUhXanZrRE1lVmI4bGtLYk5yNDQ4azNtcHRNVmRUVjBqd004b2FxTnFPYWwwSG50R3hORTZhRmxKNVZ2aEU2VHJNeEc3aHZ5dVVXa09wUzdkNEVIQzN5MmhBdUN4T3ZsVlNZZ2pHTEpmQUlPNWNocGRDXzRzR0o4c0xGNkZIMjA2dUpZUi1NTnEtcmlWY0s4V1BGU3VYc3dB?oc=5",
+        "published": "2026-11-21T14:27:08+00:00",
+        "published_label": "Sat 21 Nov, 18:27",
+        "summary": "Al Dhaheri holds off Colnaghi to win Macau FRegional qualification race Formula Scout",
+        "id": "b503bc8f0d9c",
+        "bullets": [],
+        "triaged": true,
+        "priority": 1,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Yahoo Sports",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "2026 F1 Las Vegas Grand Prix starting grid & lineup after penalties",
+        "feed_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fd192Ynp5S1dPTkZHSGVKbXM1aEZCUi1uSklfMHdqYjJnWDRsaXhwNy1TdzFOTmtFZV9ZV0RpVlBEZU9qRy1vTXFxNUVWOEVHT2NRYnRWTnRPbGxBczR6d05PajNSdVNTSVVMT0lWakJFYkpqVTJTMGpoTy0?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fd192Ynp5S1dPTkZHSGVKbXM1aEZCUi1uSklfMHdqYjJnWDRsaXhwNy1TdzFOTmtFZV9ZV0RpVlBEZU9qRy1vTXFxNUVWOEVHT2NRYnRWTnRPbGxBczR6d05PajNSdVNTSVVMT0lWakJFYkpqVTJTMGpoTy0?oc=5",
+        "published": "2026-11-21T14:03:05+00:00",
+        "published_label": "Sat 21 Nov, 18:03",
+        "summary": "2026 F1 Las Vegas Grand Prix starting grid & lineup after penalties Yahoo Sports",
+        "id": "950d7dfdfb83",
+        "bullets": [],
+        "triaged": true,
+        "priority": 1,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
         "source": "Formula Scout",
         "search": "Feeder series watch",
         "lang": "en",
@@ -10276,10 +10671,10 @@
         "triaged": true,
         "priority": 2,
         "is_article": true,
-        "read_attempts": 1,
+        "read_attempts": 2,
         "copy": "Max Verstappen took pole position after qualifying for the 2026 Formula 1 Las Vegas Grand Prix. Check out the provisional starting grid, pending its final validation by the FIA.\n\n*Kimi Antonelli, Oscar Piastri, Carlos Sainz, Lance Stroll and Oliver Bearman have been penalised for power unit component changes. There is one major upside to F1's painful start in 2026 – and we'll see it in 3.5 years",
         "first_seen": "2026-11-21T08:43:24.573242+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -10417,6 +10812,35 @@
           "value": "52",
           "label": "points: Campos Racing's lead in F1 Academy Teams' standings"
         }
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Yahoo Sports",
+        "search": "Abu Dhabi GP watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "F1 Broadcasters Announce Bad News for Qatar Grand Prix Amid Middle East Conflicts",
+        "feed_link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcnFzSVMySUFtWkJfSkRqR3pTX0hqckFjTTFRYW1NNjRBQkYyNmNESEhBQlE5dVdBZVdqcTBCOEtSN1M1MlNoX2F4czRDOVdmcXlURmhtcnZra1pGT2h6amtuZXotT1I4dFNRSlJra0xRZ0ZTOGdDN2tnclhVTlJJaVpPT0xQZXhxblE?oc=5",
+        "link": "https://sports.yahoo.com/articles/f1-broadcasters-announce-bad-news-033951663.html",
+        "published": "2026-11-21T03:39:00+00:00",
+        "published_label": "Sat 21 Nov, 07:39",
+        "summary": "F1 Broadcasters Announce Bad News for Qatar Grand Prix Amid Middle East Conflicts Yahoo Sports",
+        "id": "3c28b105f9d1",
+        "bullets": [
+          "Sky Germany will not send an editorial team to the Qatar Grand Prix at Lusail International Circuit on 27-29 November, citing security concerns in the Middle East. Its commentary will come from Unterföhring, near Munich, with pre-race coverage starting 60 minutes before the race. According to SID, ServusTV in Austria, Canal+ in France and DAZN's Spanish operation also plan to work without on-site crews. Sky UK and Sky Italia are reported to be considering their options, but neither has confirmed a withdrawal.",
+          "Sky Germany currently intends to send a crew to the Abu Dhabi season finale at Yas Marina Circuit on 4-6 December, but says staff safety is its priority and it will keep monitoring developments. Mercedes team principal Toto Wolff urged people to trust F1 and the FIA rather than social media, and said no employee will be obliged to travel. FIA president Mohammed Ben Sulayem said: \"We are ready for Qatar and Abu Dhabi.\" Both races remain on the calendar."
+        ],
+        "triaged": true,
+        "priority": 5,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Formula 1 is facing an unusual broadcasting situation ahead of the Qatar Grand Prix, with several television networks opting against sending their crews to the Lusail International Circuit amid security concerns in the Middle East. Sky Germany has confirmed that it will produce its coverage remotely, while other broadcasters are also expected to follow a similar approach.\n\nSky Deutschland confirmed to the German Sport-Informations-Dienst (SID) that it would not send an editorial team to Qatar for the November 27-29 race weekend. \"We have decided to forego an editorial team on site,\" the broadcaster said. Its commentary will instead come from Unterföhring, near Munich, with pre-race coverage beginning 60 minutes before the Grand Prix.",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00",
+        "summary_status": "done",
+        "label": "F1",
+        "line": "[Broadcasters skip Qatar GP travel] over Middle East security, while Sky Germany still plans to attend Abu Dhabi on 4-6 December.",
+        "angle": "Broadcaster attendance at the Abu Dhabi Grand Prix finale is undecided for at least Sky Germany, which bears on media coverage of an ADNOC-founded event."
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -10806,6 +11230,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-20T16:59:04.048125+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Dubai Eye 103.8",
+        "search": "Abu Dhabi GP watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Imagine Dragons to perform exclusive acoustic show for Abu Dhabi GP",
+        "feed_link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHFyaFJOSmlzUEZWbm9tcFg1VFUtRVFHLXZwa0VIMTN3anBSMmsySzZwekFNVXcyVFpfQ3BvbFR5TjBhd0xEUl9EZlp5a0NvWHlscVRxR3ZQcFZ3WHdaTWNDWms1MHJFMWVhbnQ1cXNyTjNHRzdNb3Z5VXVGb2w2XzkyWnJWXzYtVzdnRDNBNVc4cTZYM1ZTYmV4MjIxSG1XSjhlTjV5aVp3dmNzOEZ0WGNINzAyTXM?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNHFyaFJOSmlzUEZWbm9tcFg1VFUtRVFHLXZwa0VIMTN3anBSMmsySzZwekFNVXcyVFpfQ3BvbFR5TjBhd0xEUl9EZlp5a0NvWHlscVRxR3ZQcFZ3WHdaTWNDWms1MHJFMWVhbnQ1cXNyTjNHRzdNb3Z5VXVGb2w2XzkyWnJWXzYtVzdnRDNBNVc4cTZYM1ZTYmV4MjIxSG1XSjhlTjV5aVp3dmNzOEZ0WGNINzAyTXM?oc=5",
+        "published": "2026-11-20T16:25:10+00:00",
+        "published_label": "Fri 20 Nov, 20:25",
+        "summary": "Imagine Dragons to perform exclusive acoustic show for Abu Dhabi GP Dubai Eye 103.8",
+        "id": "c2aa53fe19b6",
+        "bullets": [],
+        "triaged": true,
+        "priority": 1,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -19926,6 +20373,35 @@
     "Cycling": [
       {
         "section": "Cycling",
+        "source": "IDLprocycling.com",
+        "search": "Cycling search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "AlUla Tour removed from the calendar due to war in Iran",
+        "feed_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcnRLOGVad3E1dnZkbFdkbXhLc2wtVHV5MHRGOHJyZmI0MHVWTGg5YXpPdEVhRlBOWDRyc0R0N2lGcEd4dnRBTFRBRENHay00NGRQRmIwSnpyaEs2WUYyc3N6ZHVkbEJpUTZ1SThFWHJPV29DMUl2X0ZzSWtQQUlzWDk1Qk1sMEl3UlBQVDFhd3NUTnJMSHM1UkNWVG1QSlRBSjF2ekdMdUZBZTk0NWY4SGlKN04xRGxkbEVzeEJLWFpYNnN4UnV6a0FNdTcwQWJfUUVrYXpQYThNM243Ync?oc=5",
+        "link": "https://www.idlprocycling.com/cycling/middle-east-tensions-spill-over-into-the-worldtour-alula-tour-removed-from-the-calendar-and-as-team-sponsor",
+        "published": "2026-11-21T13:48:00+00:00",
+        "published_label": "Sat 21 Nov, 17:48",
+        "summary": "AlUla Tour removed from the calendar due to war in Iran IDLprocycling.com",
+        "id": "4e931c4a9280",
+        "bullets": [
+          "AlUla, the Saudi Arabian city, has withdrawn from cycling with immediate effect, ending both the AlUla Tour race and its jersey sponsorship of the WorldTour team Jayco-AlUla, which began in 2023. Escape Collective reported the news on Saturday. The team, owned by Gerry Ryan, must now find a new jersey sponsor for 2027. The article links the exit to security risks and air-travel disruption following the war involving the United States, Israel and Iran, which began in late February 2026.",
+          "The article says Formula 1 cancelled its Saudi Arabia and Bahrain Grands Prix earlier this year, and the UCI cancelled the Urban Cycling World Championships in Riyadh in October. GreenEDGE Cycling had faced funding and ownership restructuring, delaying its 2027 WorldTour licence application. The men's and women's teams are not seen as immediately at risk, and new investors have been attracted. The team will race next season under a new name and identity, with a greater focus on young talent and a tighter budget. Other Middle East projects may also be in jeopardy."
+        ],
+        "triaged": true,
+        "priority": 5,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "AlUla has withdrawn from cycling effective immediately, Escape Collective reported on Saturday morning. The city in Saudi Arabia organised a cycling race earlier this year called the AlUla Tour, as well as being the jersey sponsor of the WorldTour team Jayco-AlUla since 2023. Both partnerships have now been terminated.\n\nThe news of AlUla’s withdrawal will come as a bombshell, but it’s not so surprising after reading the entire article by Escape Collective. Tensions in the Middle East have escalated sharply in recent months.",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00",
+        "summary_status": "done",
+        "label": "CYCLING",
+        "line": "[AlUla ends cycling backing], dropping the AlUla Tour and Jayco-AlUla jersey sponsorship, with the team needing a new sponsor for 2027.",
+        "angle": "Regional security risks are pushing Gulf sponsors out of international sport, which is relevant to ADNOC's cycling and motorsport properties."
+      },
+      {
+        "section": "Cycling",
         "source": "Vatican News",
         "search": "Cycling search",
         "lang": "en",
@@ -20003,6 +20479,29 @@
           "value": "18 Dec",
           "label": "date Pogacar will speak to the media"
         }
+      },
+      {
+        "section": "Cycling",
+        "source": "Cyclingnews",
+        "search": "Cyclingnews",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "Zwift promo codes for Nov 2026 | Exclusive $300.99 OFF",
+        "feed_link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkeXVqRF9zRjBIOHMtWjBST3NiMFViWWxpMDJNaGZTdHdkd3FESWFwM0NUcjR4S01rWUtwUVFIVzZZTzE4SnVmd2t3QzdKMjA2YW42UQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBkeXVqRF9zRjBIOHMtWjBST3NiMFViWWxpMDJNaGZTdHdkd3FESWFwM0NUcjR4S01rWUtwUVFIVzZZTzE4SnVmd2t3QzdKMjA2YW42UQ?oc=5",
+        "published": "2026-11-21T08:35:53+00:00",
+        "published_label": "Sat 21 Nov, 12:35",
+        "summary": "Zwift promo codes for Nov 2026 | Exclusive $300.99 OFF Cyclingnews",
+        "id": "aef11cc942d1",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "promo codes, never included",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
       },
       {
         "section": "Cycling",
@@ -20243,6 +20742,29 @@
           "value": "5",
           "label": "minutes the Il Lombardia start was delayed"
         }
+      },
+      {
+        "section": "Cycling",
+        "source": "Cyclingnews",
+        "search": "Cyclingnews",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "Shirin van Anrooij to make cyclo-cross debut with Canyon-SRAM alongside Zoe Backstedt next week",
+        "feed_link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdTRWak5BYVFBaGxRYXJuclFLcGtNQTkwVlVrbHlMWGktRFFiWHViWWt6T1RXSG5oZVN2bTFibnBfX3BoVmhpOUoyWEJBMU50U3NvT3hmQm5XYzBuUFZYOUF6TGRMXzlqMUU5dmpUNUV0ZGl6Q1pjekxWbzB3OXRKblNnZWJ1RFVWNFUyQnJfY2ZSa2V4b2RqSDdPY1Q3Z2ZQbDdESVBtQWZIdGxva2Y5dDU3YlVFNjJmR0w1NGpnMjNEejJnem5xcTBrWnF4N2g3RjhfY3Q3N2lVY2VxcmR6LVFydWJ6QQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdTRWak5BYVFBaGxRYXJuclFLcGtNQTkwVlVrbHlMWGktRFFiWHViWWt6T1RXSG5oZVN2bTFibnBfX3BoVmhpOUoyWEJBMU50U3NvT3hmQm5XYzBuUFZYOUF6TGRMXzlqMUU5dmpUNUV0ZGl6Q1pjekxWbzB3OXRKblNnZWJ1RFVWNFUyQnJfY2ZSa2V4b2RqSDdPY1Q3Z2ZQbDdESVBtQWZIdGxva2Y5dDU3YlVFNjJmR0w1NGpnMjNEejJnem5xcTBrWnF4N2g3RjhfY3Q3N2lVY2VxcmR6LVFydWJ6QQ?oc=5",
+        "published": "2026-11-20T16:54:56+00:00",
+        "published_label": "Fri 20 Nov, 20:54",
+        "summary": "Shirin van Anrooij to make cyclo-cross debut with Canyon-SRAM alongside Zoe Backstedt next week Cyclingnews",
+        "id": "86ea568f6235",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "cyclo-cross debut, no UAE or XRG link",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
       },
       {
         "section": "Cycling",
@@ -20841,6 +21363,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-20T09:08:28.234838+00:00"
+      },
+      {
+        "section": "Cycling",
+        "source": "Cyclingnews",
+        "search": "Cyclingnews",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "Zwift goes big and early with up to 27% off for Black Friday – Grab your Zwift Cyber Week deal now",
+        "feed_link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUEdDWXAzV2xrbGRua3VpcE5BTjM1MW9neGxFNXFiWWVWZTNPTWNYTXF0QkZ5N18wWW03TEhDY0dDZklKRnFMdXl5M3p4VGtpZjRTQkQyZWR2bWs1RmpuYmVfbWxyMHYyb01lbWdwLUg3UzNhSlppS2FzYXg1LXlSc1p1SERqaHBhaW83eUhoSlRoYjB6STlLb1lHLU1hRUxoaC1WNjJ4UFdpWlJyVmx1cEpodHpqSTRzOURONWZmWUZ3VHdCdzV2blE3WXJwZWtRTlROZVVlNGo3eHlyd0NETDFxcjhIaXBYcWw1S1dmeWRFbG5EeUJ4bG02ZkwxdHpo?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQUEdDWXAzV2xrbGRua3VpcE5BTjM1MW9neGxFNXFiWWVWZTNPTWNYTXF0QkZ5N18wWW03TEhDY0dDZklKRnFMdXl5M3p4VGtpZjRTQkQyZWR2bWs1RmpuYmVfbWxyMHYyb01lbWdwLUg3UzNhSlppS2FzYXg1LXlSc1p1SERqaHBhaW83eUhoSlRoYjB6STlLb1lHLU1hRUxoaC1WNjJ4UFdpWlJyVmx1cEpodHpqSTRzOURONWZmWUZ3VHdCdzV2blE3WXJwZWtRTlROZVVlNGo3eHlyd0NETDFxcjhIaXBYcWw1S1dmeWRFbG5EeUJ4bG02ZkwxdHpo?oc=5",
+        "published": "2026-11-20T00:09:17+00:00",
+        "published_label": "Fri 20 Nov, 04:09",
+        "summary": "Zwift goes big and early with up to 27% off for Black Friday – Grab your Zwift Cyber Week deal now Cyclingnews",
+        "id": "a9ac93676701",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "product discount promo",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
       },
       {
         "section": "Cycling",
@@ -24044,6 +24589,75 @@
     "UAE Pro League & GCC Football": [
       {
         "section": "UAE Pro League & GCC Football",
+        "source": "YSscores",
+        "search": "Pro League watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Match Goals Baniyas - Al-Nasr SC | UAE Pro League | Yalla Shoot",
+        "feed_link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xZFBBamtCYUdrSXVpUzBKdVpKQ2tVWjd3NXNBcERfMFZhZ2dtSEphSW5HbDU4ZDNKbFBCN1lyMnJ1OHNLUHlBSnpFQnZaV0hnMlE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xZFBBamtCYUdrSXVpUzBKdVpKQ2tVWjd3NXNBcERfMFZhZ2dtSEphSW5HbDU4ZDNKbFBCN1lyMnJ1OHNLUHlBSnpFQnZaV0hnMlE?oc=5",
+        "published": "2026-11-21T14:45:24+00:00",
+        "published_label": "Sat 21 Nov, 18:45",
+        "summary": "Match Goals Baniyas - Al-Nasr SC | UAE Pro League | Yalla Shoot YSscores",
+        "id": "d98ea1b18c23",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "match goals highlights page",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
+      },
+      {
+        "section": "UAE Pro League & GCC Football",
+        "source": "Gulf News",
+        "search": "GCC football search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Al Ain hunting and equestrian exhibition returns November 25: What to expect",
+        "feed_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNFVEQlcxMFFneVFxOWxETlZkQ2hTM3psQnhKa0prWkY1QVp5V0FpUjVGaDFoaDlEdkx4ZEVEZ2FvUjhTX3Z6SXlxSkJlYlBYbG1NS2ZXTTZDQkQwMWxGZWd0b3lqSUJUYkQya19xVjI2M3NZakVXUmtDX3A3b2Zrc3FIS0tpVnk1UlMtdUZUVDBVOGl4eUhFMDl0eWdTNkVpcVhNRy1NMXc5T0RDc25nZWpjb1NKcG5vbVBldDhZSGXSAdMBQVVfeXFMTjg2QzY4MkxpbWJ3Q0FyNkFpaDMwMUh1cEgtU1ZiNnJ2RFMyWVNqaFp0eUp0WU1aSFM4Y0xubl9HZEJUT1UyRmJCTEdBSi1fU0lFRVdoVU12N1ZwX2xEUWphRUtla2NLZGp0c09YcXhzWk12X0FYUmFROElic0w1SWZPUXVGVmUxTjBocHZQbHAtbG5MZVNwZGE0RmJhLWVJZk9hQVl4cUFtdGtCQzFiN2pCc2lsRlFxaURPWWhQZWh2OVJLTFdqYy1zNEJSOFNMN2NNWQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNFVEQlcxMFFneVFxOWxETlZkQ2hTM3psQnhKa0prWkY1QVp5V0FpUjVGaDFoaDlEdkx4ZEVEZ2FvUjhTX3Z6SXlxSkJlYlBYbG1NS2ZXTTZDQkQwMWxGZWd0b3lqSUJUYkQya19xVjI2M3NZakVXUmtDX3A3b2Zrc3FIS0tpVnk1UlMtdUZUVDBVOGl4eUhFMDl0eWdTNkVpcVhNRy1NMXc5T0RDc25nZWpjb1NKcG5vbVBldDhZSGXSAdMBQVVfeXFMTjg2QzY4MkxpbWJ3Q0FyNkFpaDMwMUh1cEgtU1ZiNnJ2RFMyWVNqaFp0eUp0WU1aSFM4Y0xubl9HZEJUT1UyRmJCTEdBSi1fU0lFRVdoVU12N1ZwX2xEUWphRUtla2NLZGp0c09YcXhzWk12X0FYUmFROElic0w1SWZPUXVGVmUxTjBocHZQbHAtbG5MZVNwZGE0RmJhLWVJZk9hQVl4cUFtdGtCQzFiN2pCc2lsRlFxaURPWWhQZWh2OVJLTFdqYy1zNEJSOFNMN2NNWQ?oc=5",
+        "published": "2026-11-21T14:30:11+00:00",
+        "published_label": "Sat 21 Nov, 18:30",
+        "summary": "Al Ain hunting and equestrian exhibition returns November 25: What to expect Gulf News",
+        "id": "80f8f4893961",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "local equestrian exhibition, no sport-business angle",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
+      },
+      {
+        "section": "UAE Pro League & GCC Football",
+        "source": "Sofascore",
+        "search": "GCC football search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Al Bataeh U16 vs Shabab Al Ahli Dubai U16 live score, H2H and lineups",
+        "feed_link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmxNZzQ5MTNTSXE5T0M2UjN0aTNoRjROVmFpV1pZSUEtU3lIdUJ3VC1HYmp1azZ1YmJVRTZ2MFZRQ2E0dEU2eUpjVmJ6MnE0TlBWeDFxUm03RG5PLU5GNUJaY0owcWJ6d3ZKWmtkM2pFcWg3VW5SR3JqV2V3SEJWei1FQ1hIY3ZNb0tUbnFhNWN5b2M?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdmxNZzQ5MTNTSXE5T0M2UjN0aTNoRjROVmFpV1pZSUEtU3lIdUJ3VC1HYmp1azZ1YmJVRTZ2MFZRQ2E0dEU2eUpjVmJ6MnE0TlBWeDFxUm03RG5PLU5GNUJaY0owcWJ6d3ZKWmtkM2pFcWg3VW5SR3JqV2V3SEJWei1FQ1hIY3ZNb0tUbnFhNWN5b2M?oc=5",
+        "published": "2026-11-21T13:43:25+00:00",
+        "published_label": "Sat 21 Nov, 17:43",
+        "summary": "Al Bataeh U16 vs Shabab Al Ahli Dubai U16 live score, H2H and lineups Sofascore",
+        "id": "0ee1b3211beb",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "youth live score",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
+      },
+      {
+        "section": "UAE Pro League & GCC Football",
         "source": "مكتب أبوظبي الإعلامي",
         "search": "GCC football search",
         "lang": "en",
@@ -24488,6 +25102,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-21T08:43:24.573242+00:00"
+      },
+      {
+        "section": "UAE Pro League & GCC Football",
+        "source": "FOX Sports",
+        "search": "GCC football search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Cristiano Ronaldo Misses Penalty As Al Nassr Falls To 3rd In Saudio Pro League",
+        "feed_link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVhSSXZiOFZLRzRJS083azVEckJGMzJkUUFPVmNFcGFoV1Y5QjF0Q0lhTTlSTDh1dENfZ3NkSmpxSlQtRERxR1czZFV3Q1Z5SUJ5R3ZjSWs5T1d0NV85U0J3NS00N2xXeUtKbjhZOGtJaDk0RUlFVTNLMTZhM1B2YmUtT3ZPN1VTcWFMVXZjb1VOR1BuWVFvN3I2eTloZVZWUDdRMXFUNWFFcXJvZ0lZ0gGvAUFVX3lxTE40YjNoTjRmZ2p5ZFVsTnE2Q1l2eERnemk2d3NUQXlKMG95LXlDWnN2TXVzejFieVdVSUxCMG8tWEcxWDJ6MS1YUzgwYXREOXh6Q01QOHMzNHNZVHQ0ak56cE1adEw0NUJsaTViOWFSeFQ4a3BhN3c2aU1WTmdYR2REbFUwaXRRUW0zR0VyTkQtdUpXbTF1Y2doNG1RY2tmVEhWZGFOVUNXRWo4LXp6V1U?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYVhSSXZiOFZLRzRJS083azVEckJGMzJkUUFPVmNFcGFoV1Y5QjF0Q0lhTTlSTDh1dENfZ3NkSmpxSlQtRERxR1czZFV3Q1Z5SUJ5R3ZjSWs5T1d0NV85U0J3NS00N2xXeUtKbjhZOGtJaDk0RUlFVTNLMTZhM1B2YmUtT3ZPN1VTcWFMVXZjb1VOR1BuWVFvN3I2eTloZVZWUDdRMXFUNWFFcXJvZ0lZ0gGvAUFVX3lxTE40YjNoTjRmZ2p5ZFVsTnE2Q1l2eERnemk2d3NUQXlKMG95LXlDWnN2TXVzejFieVdVSUxCMG8tWEcxWDJ6MS1YUzgwYXREOXh6Q01QOHMzNHNZVHQ0ak56cE1adEw0NUJsaTViOWFSeFQ4a3BhN3c2aU1WTmdYR2REbFUwaXRRUW0zR0VyTkQtdUpXbTF1Y2doNG1RY2tmVEhWZGFOVUNXRWo4LXp6V1U?oc=5",
+        "published": "2026-11-20T20:05:15+00:00",
+        "published_label": "Sat 21 Nov, 00:05",
+        "summary": "Cristiano Ronaldo Misses Penalty As Al Nassr Falls To 3rd In Saudio Pro League FOX Sports",
+        "id": "6f91d983ae28",
+        "bullets": [],
+        "triaged": true,
+        "priority": 1,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T16:10:31.812270+00:00"
       },
       {
         "section": "UAE Pro League & GCC Football",
@@ -28085,13 +28722,13 @@
       }
     ]
   },
-  "total": 1164,
+  "total": 1188,
   "edition": {
-    "drafted_at": "2026-11-21T13:44:25.021902+00:00",
+    "drafted_at": "2026-11-21T16:12:29.872289+00:00",
     "days": 14,
     "headline": [
-      "MERCEDES SEAL THE DOUBLE.",
-      "ABU DHABI FINALE IS NEXT."
+      "Mercedes won the double.",
+      "Abu Dhabi is next."
     ],
     "stats": [
       {
@@ -28110,15 +28747,15 @@
         "id": "47acd2c017e2"
       },
       {
-        "value": "8",
-        "label": "clubs in the fourth Qatar-UAE Super Cup, 17-20 December",
-        "id": "e9ca2396a9ea"
+        "value": "€40m",
+        "label": "reported annual value of Nike's Champions League ball deal",
+        "id": "a65664683ea9"
       }
     ],
     "watch": {
-      "id": "404fbc3240b3",
-      "lead": "Abu Dhabi will host its first F1 Sprint Race in 2027.",
-      "text": "The 10–12 December season finale at Yas Marina Circuit adds a new race format, which ADNOC, as founding partner of the Abu Dhabi Grand Prix, will need to plan around. [What's On] sets out how fans can get first access to tickets."
+      "id": "5836ad929d71",
+      "lead": "F1 is pressing ahead with Abu Dhabi on 6 December despite security concerns.",
+      "text": "ADNOC, as founding partner of the Abu Dhabi Grand Prix, has most at stake in the finale. [Grandprix247] reports that F1 is holding firm on the date, and drivers including Verstappen have backed the race."
     }
   }
 }
