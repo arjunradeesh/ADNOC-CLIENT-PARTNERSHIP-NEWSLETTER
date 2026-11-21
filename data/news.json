@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T13:02:54.112181+00:00",
-  "generated_label": "Saturday 21 November 2026, 17:02 GST",
+  "generated_at": "2026-11-21T13:43:11.408602+00:00",
+  "generated_label": "Saturday 21 November 2026, 17:43 GST",
   "keep_days": 14,
   "section_order": [
     "ADNOC & Partner News",
@@ -1892,7 +1892,7 @@
         "read_attempts": 2,
         "copy": "",
         "first_seen": "2026-11-21T13:02:54.112181+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -1939,6 +1939,51 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-21T13:02:54.112181+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Arab News",
+        "search": "Arab News",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "‘Bringing back the sound, emotion and pure racing’: FIA President hails return of V8 engines to Formula 1 from 2030",
+        "feed_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVXJpVkNUQUx6MEZGcDNCVkpkTUxNQVlxSTAyMHE1UFJhcVJLWkIxNWp5eEdrSV9GV1p1SHZmdllBT0ZvQkpMdmNNT28zaWp1MVlLSlZER0Q5aWIzdjVrMVNRN0ZzVmxEeXFDOEJscElLdGU1ZkJXVmVfLTJXSmhGTjVyN1dSM3ozNjBWREZ2Z2pWMlhoSURQZU5haF9mQ0dON2Vud2JodmNVck91ZkJvOTFCWjNneFFlUzF3SHlxSEpmemF1S0lqRHhGOXBYd2ZLeksyOWxtejVFNDU4R1Y3TnA0Wng?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVXJpVkNUQUx6MEZGcDNCVkpkTUxNQVlxSTAyMHE1UFJhcVJLWkIxNWp5eEdrSV9GV1p1SHZmdllBT0ZvQkpMdmNNT28zaWp1MVlLSlZER0Q5aWIzdjVrMVNRN0ZzVmxEeXFDOEJscElLdGU1ZkJXVmVfLTJXSmhGTjVyN1dSM3ozNjBWREZ2Z2pWMlhoSURQZU5haF9mQ0dON2Vud2JodmNVck91ZkJvOTFCWjNneFFlUzF3SHlxSEpmemF1S0lqRHhGOXBYd2ZLeksyOWxtejVFNDU4R1Y3TnA0Wng?oc=5",
+        "published": "2026-11-21T10:29:03+00:00",
+        "published_label": "Sat 21 Nov, 14:29",
+        "summary": "‘Bringing back the sound, emotion and pure racing’: FIA President hails return of V8 engines to Formula 1 from 2030 Arab News",
+        "id": "c787c615a58e",
+        "bullets": [],
+        "triaged": true,
+        "priority": 3,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T13:43:11.408602+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Arab News",
+        "search": "Arab News",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "Cricket stars descend upon the UAE as DP World ILT20 Season 5 gets under way",
+        "feed_link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON1FQUFM3RDVfM3JHRThGYzI3MWg1a2w3Q2pGVUU1MU85aTlfMVNOdjVBZUZRQjFnd08tYVpoZDhTUlRBcFBhR2RYcl8yZS1iQnd5RjF0alF1RmFKRDR0TTloMmxsdzRWQnVLVk5TSm1WVGRBbHNKNkhySTRZbXBLc0E3R2tmUUszUXROVUo0TndERWthVlhfMkIyaFlTaG9heDJ6WWZVNVRtbFgxc1RialJNWU9mZw?oc=5",
+        "link": "https://www.arabnews.com/sport/cricket-stars-descend-upon-the-uae-as-dp-world-ilt20-season-5-gets-under-way-3013321",
+        "published": "2026-11-21T10:28:48+00:00",
+        "published_label": "Sat 21 Nov, 14:28",
+        "summary": "Cricket stars descend upon the UAE as DP World ILT20 Season 5 gets under way Arab News",
+        "id": "cff0016819e0",
+        "bullets": [],
+        "triaged": true,
+        "priority": 4,
+        "is_article": true,
+        "read_attempts": 2,
+        "copy": "",
+        "first_seen": "2026-11-21T13:43:11.408602+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -2172,6 +2217,29 @@
           "value": "2036",
           "label": "year Nike's Chicago Marathon partnership now runs to"
         }
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Youth Sports Business Report",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "AI Agents for Youth Sports Parents Will Likely Run Through the iPhone, Siri, and iMessage",
+        "feed_link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkRVb0FOcFdJVm9ROXF0YUMtRWt2TUFrdjYzMDBXcklWbE5hdTdMMElCMS1wU1puaVliVjRZdEJQTEgtYTFWeEs1d0ZKQ3ZkRTJwTUFJbHp1NU1sX21INjVPRnR3djlJN2ZZMjZGUk94S1hVQTR2RkJDTUxOdlVQQnRHOGxCNkxXcEM4dTJNYVgyZ0RfZ1BR?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkRVb0FOcFdJVm9ROXF0YUMtRWt2TUFrdjYzMDBXcklWbE5hdTdMMElCMS1wU1puaVliVjRZdEJQTEgtYTFWeEs1d0ZKQ3ZkRTJwTUFJbHp1NU1sX21INjVPRnR3djlJN2ZZMjZGUk94S1hVQTR2RkJDTUxOdlVQQnRHOGxCNkxXcEM4dTJNYVgyZ0RfZ1BR?oc=5",
+        "published": "2026-11-20T22:02:38+00:00",
+        "published_label": "Sat 21 Nov, 02:02",
+        "summary": "AI Agents for Youth Sports Parents Will Likely Run Through the iPhone, Siri, and iMessage Youth Sports Business Report",
+        "id": "733c9c292146",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "off-topic sports-tech lifestyle piece",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T13:43:11.408602+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -3008,6 +3076,28 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-20T10:33:31.593476+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Middle East Online",
+        "search": "Gulf sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "T100 World Champion Kate Waugh to race World Triathlon Women’s Cup Dubai",
+        "feed_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbkpSRzY2M1NDMlA3QVZVelVMTFJ4ZGhOLXppdGt6VWdvSXMyaUUwbUJQWDNYUmdnbmhtZnlobHN5VklhSDVNckpFanU0bmxtcjhVWjNlZHp4bENKbUR5bmVTOGRyN0tob2xYbWlYUVBrbFFHak5XTWs5cXZGYjFfcnIxTjcxUjh4bXlUcVdXM1RoclJEaHJrZ2diTkVqX0FjV21OeWV2WWtuZW56UnVDUw?oc=5",
+        "link": "https://middle-east-online.com/en/t100-world-champion-kate-waugh-race-world-triathlon-women%E2%80%99s-cup-dubai",
+        "published": "2026-11-20T09:45:17+00:00",
+        "published_label": "Fri 20 Nov, 13:45",
+        "summary": "T100 World Champion Kate Waugh to race World Triathlon Women’s Cup Dubai Middle East Online",
+        "id": "9531fdd82db8",
+        "bullets": [],
+        "triaged": true,
+        "priority": 4,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "DUBAI - Reigning T100 World Champion Kate Waugh will lead the Elite field at the World Triathlon Women’s Cup Dubai on December 6. Olympians from Chile, Australia, Italy and Colombia are also on the start list at Al Mamzar Beach Park.\n\nThe second World Triathlon Women’s Cup to be held anywhere in the world, it is the only event of its kind dedicated entirely to women, bringing elite athletes and amateurs together to race at the same venue on the same day.",
+        "first_seen": "2026-11-21T13:43:11.408602+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -9198,6 +9288,29 @@
         "lang": "en",
         "kind": "gnews",
         "wide": false,
+        "title": "Why F1's planned 2030 changes are a good compromise between old and new",
+        "feed_link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnRmSzRRZkZ4TmlnNWdEa0lQZmw3ekFfSE9ucm5TeHdrUi1rcXlZT2xORkhxbGpjdUdpUjk4dXU2U2VTS2lPdk9qa1dvcjk3UndTNnJKNHdlaUhuOEl1OEJjdjFROWMwZmI1VllHcWlUdTZuZE9kNkFPS0xMaGUwTlU0Ti1wcVdHRGhqeG1IeXg0Tzl5QU1RdTZxazQ3SkNTZElnQkc1MnM3czVhc2l1OEdhWTY?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdnRmSzRRZkZ4TmlnNWdEa0lQZmw3ekFfSE9ucm5TeHdrUi1rcXlZT2xORkhxbGpjdUdpUjk4dXU2U2VTS2lPdk9qa1dvcjk3UndTNnJKNHdlaUhuOEl1OEJjdjFROWMwZmI1VllHcWlUdTZuZE9kNkFPS0xMaGUwTlU0Ti1wcVdHRGhqeG1IeXg0Tzl5QU1RdTZxazQ3SkNTZElnQkc1MnM3czVhc2l1OEdhWTY?oc=5",
+        "published": "2026-11-21T11:56:00+00:00",
+        "published_label": "Sat 21 Nov, 15:56",
+        "summary": "Why F1's planned 2030 changes are a good compromise between old and new Autosport",
+        "id": "10e9731989e9",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "opinion/analysis piece, no new facts",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T13:43:11.408602+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Autosport",
+        "search": "Autosport",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
         "title": "Russell slams Verstappen after Las Vegas GP practice clash: ‘He walks around like he’s bigger and better than everyone’",
         "feed_link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMFBFQ2hkdkljX1d3blBiYTloOTh5dl9oMEgwR2JUb2dNdlgxYmFpV0ZSQU12WHA1bGZGZEljdVoxT0FuYi1fZlpkbEZKQzByRHNmX0U3dWJZb25mSGdzTGs4NmRWQkF1YXoza3J5aTcwaFE0N1l6YnlVSHYxWGlkX0sta05jOExhR0tGYm91OTBlb19TTmJPZE9XSXN2cUQ4T2psaERfeTl1dzY4aTl2TnowNGhucGpFR0hsZmxjVDNnVUdCVlUwRy1HbVFVczhHWkxCUnZELWptNTQ?oc=5",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMFBFQ2hkdkljX1d3blBiYTloOTh5dl9oMEgwR2JUb2dNdlgxYmFpV0ZSQU12WHA1bGZGZEljdVoxT0FuYi1fZlpkbEZKQzByRHNmX0U3dWJZb25mSGdzTGs4NmRWQkF1YXoza3J5aTcwaFE0N1l6YnlVSHYxWGlkX0sta05jOExhR0tGYm91OTBlb19TTmJPZE9XSXN2cUQ4T2psaERfeTl1dzY4aTl2TnowNGhucGpFR0hsZmxjVDNnVUdCVlUwRy1HbVFVczhHWkxCUnZELWptNTQ?oc=5",
@@ -9329,6 +9442,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-21T10:15:25.698864+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Al Jazeera",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Verstappen escapes Vegas F1 discipline, takes pole as Antonelli penalised",
+        "feed_link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc2ZtMHhFazJkckVxbGJLeW16M1h1MHE1MHRBcHZ5ZkJKT2M0QWgzQ2FtcTkwaUlJWl83ZW9JYnNfWXdtX0lkNzNsdzRiemxKaV9SQTlwMUd3dTU2R1I0TWRDalRkTVotdS1nRTM2bzdtMEM0RXM3aGJRVko2cDhaX3Z5eXpQTzFnNHFCRDMyNkcxdGdtRUx1ZUdLMFRJNl96ZDVQMmd3X1NCamlhd2RSZHg0cWhsMlJn0gG-AUFVX3lxTE9fRW9mSkhvSFA5QTZ1MFdWTGtJbGc1VHFpVGJrRXlLdm9CTVZEODVKYzJaenRpeGtzaWlEVmlzSlB0M2huYTkzZ1pyV3NmdG50Q1FXV0hhcWpDNmJzNldSTE51c1FnU0ZQY0pwYjdKYWcxN2U0VmpyN21Cbm5SZkU0aU5xRG13eVV3OGRENjZvTTAzSmtIZVdJQ3k0eUNoOVdjNmNWSzNhRXRjWjJXYjRHSmFhMVV4YVhrN2s4Snc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc2ZtMHhFazJkckVxbGJLeW16M1h1MHE1MHRBcHZ5ZkJKT2M0QWgzQ2FtcTkwaUlJWl83ZW9JYnNfWXdtX0lkNzNsdzRiemxKaV9SQTlwMUd3dTU2R1I0TWRDalRkTVotdS1nRTM2bzdtMEM0RXM3aGJRVko2cDhaX3Z5eXpQTzFnNHFCRDMyNkcxdGdtRUx1ZUdLMFRJNl96ZDVQMmd3X1NCamlhd2RSZHg0cWhsMlJn0gG-AUFVX3lxTE9fRW9mSkhvSFA5QTZ1MFdWTGtJbGc1VHFpVGJrRXlLdm9CTVZEODVKYzJaenRpeGtzaWlEVmlzSlB0M2huYTkzZ1pyV3NmdG50Q1FXV0hhcWpDNmJzNldSTE51c1FnU0ZQY0pwYjdKYWcxN2U0VmpyN21Cbm5SZkU0aU5xRG13eVV3OGRENjZvTTAzSmtIZVdJQ3k0eUNoOVdjNmNWSzNhRXRjWjJXYjRHSmFhMVV4YVhrN2s4Snc?oc=5",
+        "published": "2026-11-21T10:05:37+00:00",
+        "published_label": "Sat 21 Nov, 14:05",
+        "summary": "Verstappen escapes Vegas F1 discipline, takes pole as Antonelli penalised Al Jazeera",
+        "id": "a699fab6118e",
+        "bullets": [],
+        "triaged": true,
+        "priority": 3,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T13:43:11.408602+00:00"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -9483,6 +9619,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-21T13:02:54.112181+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "ESPN",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Drivers limited to 27-lap tyre stint as rule reintroduced for Qatar Grand Prix",
+        "feed_link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdzJkQTUwUGpTcWZOTGlXVGlnY0h3cURFeDN6d3Q1YmlEZjVvaFVSWGlFS2RuWExubkhUYmtuRUUxcFZWamJab19ZMjFSLS0tYUt0U3R2eHhiTlAxRjVEZDRsY1pZOFQ5UlZPaGxTeTJOMm9MamUwbFdxTktLVktXSk93akc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdzJkQTUwUGpTcWZOTGlXVGlnY0h3cURFeDN6d3Q1YmlEZjVvaFVSWGlFS2RuWExubkhUYmtuRUUxcFZWamJab19ZMjFSLS0tYUt0U3R2eHhiTlAxRjVEZDRsY1pZOFQ5UlZPaGxTeTJOMm9MamUwbFdxTktLVktXSk93akc?oc=5",
+        "published": "2026-11-21T08:36:00+00:00",
+        "published_label": "Sat 21 Nov, 12:36",
+        "summary": "Drivers limited to 27-lap tyre stint as rule reintroduced for Qatar Grand Prix ESPN",
+        "id": "aeccaeb8ade4",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T13:43:11.408602+00:00"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -9861,6 +10020,29 @@
       },
       {
         "section": "Formula 1 & Motorsport",
+        "source": "Autosport",
+        "search": "Autosport",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "Floor damage, deployment down to Hamilton's Las Vegas GP Q2 exit",
+        "feed_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0VGWjdZcGRUbmJEUDJnclhWRmxEZTEwY2tYYmxnbFBWT3p0LVFKRWtJdjRJRTdqRUY5LTJ3QXg4NHliWE5ZNFFjLW1EWVB4TmxWcGtsNVdBNXUtREhvSF9IMTRHX1Y3Uy05S201Q1BnZi1rMGZHR1F6N0FmTkZNdjdod2laUUo0ek83V2duWXQzMjQzMGcxSjdvRDFTNUFXSDl3Qkh3MGhPakhRd2c?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ0VGWjdZcGRUbmJEUDJnclhWRmxEZTEwY2tYYmxnbFBWT3p0LVFKRWtJdjRJRTdqRUY5LTJ3QXg4NHliWE5ZNFFjLW1EWVB4TmxWcGtsNVdBNXUtREhvSF9IMTRHX1Y3Uy05S201Q1BnZi1rMGZHR1F6N0FmTkZNdjdod2laUUo0ek83V2duWXQzMjQzMGcxSjdvRDFTNUFXSDl3Qkh3MGhPakhRd2c?oc=5",
+        "published": "2026-11-21T06:36:17+00:00",
+        "published_label": "Sat 21 Nov, 10:36",
+        "summary": "Floor damage, deployment down to Hamilton's Las Vegas GP Q2 exit Autosport",
+        "id": "85c08d3d7e61",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "minor technical race-weekend detail",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T13:43:11.408602+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
         "source": "Formula 1",
         "search": "F1 search",
         "lang": "en",
@@ -10057,13 +10239,24 @@
         "published_label": "Sat 21 Nov, 09:48",
         "summary": "Toto Wolff wants answers after George Russell misses Vegas pole despite “ideal” final-lap position Motorsport.com",
         "id": "edc29575f50d",
-        "bullets": [],
+        "bullets": [
+          "Max Verstappen took pole for the Las Vegas Grand Prix with a 1m34.151s, 0.073s ahead of Mercedes' George Russell on 1m34.224s. Kimi Antonelli topped Q3 with 1m33.893s but drops to sixth on the grid after a five-place penalty for taking Mercedes' updated ADUO turbocharger.",
+          "Toto Wolff said Russell had the perfect position, four seconds behind the car in front, and that Mercedes must find out whether a mistake at Turns 7 to 9 or something else cost him pole. Russell, third in the standings and 17 points behind Verstappen, starts second after both Ferraris were knocked out in Q2. Verstappen received an FIA warning after a Turn 14 clash with Russell in final practice."
+        ],
         "triaged": true,
         "priority": 3,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Toto Wolff wants answers after George Russell misses Las Vegas GP pole by 0.073s to Max Verstappen despite ideal track position For Mercedes fans. All the latest from the Silver Arrows, with F1 news, driver updates, car development and race analysis from Brackley and Brixworth.\n\nMercedes left Friday night qualifying at the Las Vegas Strip Circuit with the fastest car on track, yet team principal Toto Wolff still had questions to answer. World champion Kimi Antonelli topped Q3 with a 1m33.893s, only to drop to sixth on the grid due to a five-place penalty for taking Mercedes’ updated ADUO turbocharger. Instead of team-mate George Russell inheriting pole, Red Bull’s Max Verstappen snatched top spot with a 1m34.151s - edging Russell’s 1m34.224s by just 0.073 seconds.",
-        "first_seen": "2026-11-21T08:43:24.573242+00:00"
+        "first_seen": "2026-11-21T08:43:24.573242+00:00",
+        "summary_status": "done",
+        "label": "F1",
+        "line": "[Verstappen takes Las Vegas pole] by 0.073s from George Russell, with Antonelli sixth after a five-place penalty.",
+        "angle": "The Drivers' Championship fight is tightening ahead of the Abu Dhabi Grand Prix season finale, which supports interest in the ADNOC-backed race.",
+        "stat": {
+          "value": "0.073s",
+          "label": "Verstappen's pole margin over Russell in Las Vegas"
+        }
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -10085,7 +10278,9 @@
         "is_article": true,
         "read_attempts": 1,
         "copy": "Max Verstappen took pole position after qualifying for the 2026 Formula 1 Las Vegas Grand Prix. Check out the provisional starting grid, pending its final validation by the FIA.\n\n*Kimi Antonelli, Oscar Piastri, Carlos Sainz, Lance Stroll and Oliver Bearman have been penalised for power unit component changes. There is one major upside to F1's painful start in 2026 – and we'll see it in 3.5 years",
-        "first_seen": "2026-11-21T08:43:24.573242+00:00"
+        "first_seen": "2026-11-21T08:43:24.573242+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -10340,6 +10535,29 @@
       },
       {
         "section": "Formula 1 & Motorsport",
+        "source": "Sky Sports",
+        "search": "Feeder series watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Las Vegas Grand Prix | F1 Academy Race One",
+        "feed_link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTGpNVkJzYXRWTHV3VkRNYUNzRGtaU1gzNzRtaGxUc3pqRk1tdmxSQnJXaXFZbjJFSEFhVjZ5Yk14MFBfQlljSFhPOWJRVDdLOXVCaEhzS3V1Nk8ybmFjTi1jVVhKR3E1ckFKS3RwSVJWdVI4bXYzREV0RUFScXR6OVlTS1NTQzk5clVqeQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTGpNVkJzYXRWTHV3VkRNYUNzRGtaU1gzNzRtaGxUc3pqRk1tdmxSQnJXaXFZbjJFSEFhVjZ5Yk14MFBfQlljSFhPOWJRVDdLOXVCaEhzS3V1Nk8ybmFjTi1jVVhKR3E1ckFKS3RwSVJWdVI4bXYzREV0RUFScXR6OVlTS1NTQzk5clVqeQ?oc=5",
+        "published": "2026-11-21T03:02:28+00:00",
+        "published_label": "Sat 21 Nov, 07:02",
+        "summary": "Las Vegas Grand Prix | F1 Academy Race One Sky Sports",
+        "id": "cdfee56a0ea4",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "video page",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T13:43:11.408602+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
         "source": "Yahoo Sports",
         "search": "F1 search",
         "lang": "en",
@@ -10462,6 +10680,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-21T08:43:24.573242+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Autosport",
+        "search": "Autosport",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "F1 set for V8 return from 2030",
+        "feed_link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NUUJaMTZpRG03ZlcxLTdfVV9pc2NmZTgxTkVnMEZEZ0FrSVk3cXF3WlBNV081NGY0QWhqclhHOVlncS1IYjlURDg2RXd0SlF3SllhSGZPaVNESk5SWGxGT3N2LVAzTmxDaUk1M0JiZklVcEZUcFd0c2ZBTTc3OGs?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NUUJaMTZpRG03ZlcxLTdfVV9pc2NmZTgxTkVnMEZEZ0FrSVk3cXF3WlBNV081NGY0QWhqclhHOVlncS1IYjlURDg2RXd0SlF3SllhSGZPaVNESk5SWGxGT3N2LVAzTmxDaUk1M0JiZklVcEZUcFd0c2ZBTTc3OGs?oc=5",
+        "published": "2026-11-20T19:02:00+00:00",
+        "published_label": "Fri 20 Nov, 23:02",
+        "summary": "F1 set for V8 return from 2030 Autosport",
+        "id": "f9a5e4676c00",
+        "bullets": [],
+        "triaged": true,
+        "priority": 3,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T13:43:11.408602+00:00"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -19943,6 +20184,35 @@
       },
       {
         "section": "Cycling",
+        "source": "3bikes.fr",
+        "search": "Cycling search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "MAAP to supply the Giro jerseys starting in 2027 | 3bikes.fr, your Cycling, Gravel & Triathlon magazine",
+        "feed_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbGNtRHVsWGNQSm4wZXc5RXNjQVRpR2NoQXkyNlVBaWNYWEdqdmlLUEZPNlllVkNiVm5wdlluN1pkaWxZeXlvNU5hazNyelJNNnlqRzFMR1BBaEpMQzNpeENVNml0UHlVWjRjckZnQWJBNWRTTUI2MU96TnJFQU9zcnd1M2hwYVJaWTJfczRn?oc=5",
+        "link": "https://www.3bikes.fr/en/2026/11/20/maap-to-supply-the-giro-jerseys-starting-in-2027/",
+        "published": "2026-11-20T19:29:05+00:00",
+        "published_label": "Fri 20 Nov, 23:29",
+        "summary": "MAAP to supply the Giro jerseys starting in 2027 | 3bikes.fr, your Cycling, Gravel & Triathlon magazine 3bikes.fr",
+        "id": "2ee9669a99e0",
+        "bullets": [
+          "Australian brand MAAP has signed a multi-year agreement with RCS Sport to supply the leader jerseys for the Giro d'Italia, the Giro d'Italia Women and the Giro Next Gen from 2027. It will design the distinctive jerseys of the three Giros, including the Maglia Rosa worn by the general classification leader.",
+          "The deal also covers Strade Bianche, the men's and women's Milan-San Remo, Tirreno-Adriatico, the Giro di Lombardia, Milano-Torino, the Giro d'Abruzzo, GranPiemonte and the Giro-E. MAAP will develop apparel and accessories collections inspired by each event, with the first unveiled ahead of Milan-San Remo. The Melbourne-based brand was founded twelve years ago and is already in the peloton through GreenEDGE Cycling."
+        ],
+        "triaged": true,
+        "priority": 4,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Australian brand MAAP has signed a multi-year agreement with RCS Sport to supply the leader jerseys for the Giro d’Italia, the Giro d’Italia Women and the Giro Next Gen starting in 2027. The partnership will also extend to several major races on the Italian calendar, including Strade Bianche, Milan-San Remo and the Giro di Lombardia.\n\nBased in Melbourne, MAAP will bring its visual identity and expertise in technical apparel to the events organized by RCS Sport. The brand will notably be responsible for designing the distinctive jerseys of the three Giros, including the famous Maglia Rosa worn by the general classification leader.",
+        "first_seen": "2026-11-21T13:43:11.408602+00:00",
+        "summary_status": "done",
+        "label": "CYCLING",
+        "line": "[MAAP to supply Giro leader jerseys] from 2027 under a multi-year deal with RCS Sport, covering Strade Bianche and Milan-San Remo.",
+        "angle": "Shows how race organisers package kit supply and event-branded collections, a model relevant to UAE Tour and other cycling properties linked to UAE Team Emirates XRG."
+      },
+      {
+        "section": "Cycling",
         "source": "Cyclingnews",
         "search": "Cyclingnews",
         "lang": "en",
@@ -20354,6 +20624,29 @@
           "value": "3",
           "label": "UAE Tour wins for Pogačar: 2021, 2022 and 2025"
         }
+      },
+      {
+        "section": "Cycling",
+        "source": "Cyclingnews",
+        "search": "Cyclingnews",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "Save big with the Le Col Extra 20% Off Weekend – Ends Sunday",
+        "feed_link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNQTR3eFBSR1QyZ3lDZ0RKbEdkbDRVM2J3a1FUUWtKd0NIUm5EZGxJQVdmVjM4TElkZ3ljaENUYnJKME1JZUt1ZnFoa1hLUnp3dWM0QnFrdkpTWm41V2tsaE1rb3RNaEZENHRnZHhoUTRhLTJmMmJlR0U5dTRYQk5QeHJtWjI0Nk45QmJmeXR6Rk9tLVFZNXNoa0xCbzdkN1pQZVlvSnFwV0RNbmtuaG9qSG1HbWo3YUZSVU1falhfRHFKb1VtLW5ONER0XzhOUE5Mem5ETkVmUldpODNjaUo1VHhYMmVYR1ZHRTE4VWlBb1JVTVNwUGNsMXl0dVlMTU9kUEJBRXZkaUhaX3pCU1BMUlZ5Um1PcDRQU1JTb3F6N0RleTdZ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNQTR3eFBSR1QyZ3lDZ0RKbEdkbDRVM2J3a1FUUWtKd0NIUm5EZGxJQVdmVjM4TElkZ3ljaENUYnJKME1JZUt1ZnFoa1hLUnp3dWM0QnFrdkpTWm41V2tsaE1rb3RNaEZENHRnZHhoUTRhLTJmMmJlR0U5dTRYQk5QeHJtWjI0Nk45QmJmeXR6Rk9tLVFZNXNoa0xCbzdkN1pQZVlvSnFwV0RNbmtuaG9qSG1HbWo3YUZSVU1falhfRHFKb1VtLW5ONER0XzhOUE5Mem5ETkVmUldpODNjaUo1VHhYMmVYR1ZHRTE4VWlBb1JVTVNwUGNsMXl0dVlMTU9kUEJBRXZkaUhaX3pCU1BMUlZ5Um1PcDRQU1JTb3F6N0RleTdZ?oc=5",
+        "published": "2026-11-20T11:11:50+00:00",
+        "published_label": "Fri 20 Nov, 15:11",
+        "summary": "Save big with the Le Col Extra 20% Off Weekend – Ends Sunday Cyclingnews",
+        "id": "f96d6d788b39",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "retail sale promotion, gear",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T13:43:11.408602+00:00"
       },
       {
         "section": "Cycling",
@@ -23794,6 +24087,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-21T13:02:54.112181+00:00"
+      },
+      {
+        "section": "UAE Pro League & GCC Football",
+        "source": "winwin.com",
+        "search": "Pro League watch (Arabic)",
+        "lang": "ar",
+        "kind": "gnews",
+        "wide": true,
+        "title": "مباراة خورفكان ضد الجزيرة الإماراتي : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin",
+        "feed_link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQUWxiN3Z6V0FwMHJaSExHUzhKaGN2Z2FyZFNUN2paa1V4amMtemMwVmlMbmptdjZSM2FkMmhkeGtKcUZUdzRVeEM1V0hlV3gyWmlxRUxVLXE3cUdDZGdqeVM3NjNvRGFRbnI3eUlNQ2dlUDU1dWhBY3ZPY1lqXzFfWlpoZUFIRzBQNDdXRDFFMkRqVEdEWEl4bGRWdE5NNjZnaDhGMVV4MVBtN0huZXN1SmJzUkhUNV94TVltaVZhZG50djRxVmRfTHBpLTY5QVREb1N3VG9GdE90Q2hFM0xFXzJSbVhQcVp3R3U3RkRXRnlXNGF2bmJWS2xXT3FjanRLZGpZcVI2dG5ybnhZVW5JekQyYW5mRmNCRzBvUlNxNjVkUGhYUlF4ZHpuNWxheEdGajQwSnBLZU94X0YzaXFReWV1bEM3eGNiREMzRllCc0RIdXk1YWVyaV9DVF9xYmNpLUxGNWhaR0hCdGl2Q09jQnJVdjhZQ1hQbUE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxQUWxiN3Z6V0FwMHJaSExHUzhKaGN2Z2FyZFNUN2paa1V4amMtemMwVmlMbmptdjZSM2FkMmhkeGtKcUZUdzRVeEM1V0hlV3gyWmlxRUxVLXE3cUdDZGdqeVM3NjNvRGFRbnI3eUlNQ2dlUDU1dWhBY3ZPY1lqXzFfWlpoZUFIRzBQNDdXRDFFMkRqVEdEWEl4bGRWdE5NNjZnaDhGMVV4MVBtN0huZXN1SmJzUkhUNV94TVltaVZhZG50djRxVmRfTHBpLTY5QVREb1N3VG9GdE90Q2hFM0xFXzJSbVhQcVp3R3U3RkRXRnlXNGF2bmJWS2xXT3FjanRLZGpZcVI2dG5ybnhZVW5JekQyYW5mRmNCRzBvUlNxNjVkUGhYUlF4ZHpuNWxheEdGajQwSnBLZU94X0YzaXFReWV1bEM3eGNiREMzRllCc0RIdXk1YWVyaV9DVF9xYmNpLUxGNWhaR0hCdGl2Q09jQnJVdjhZQ1hQbUE?oc=5",
+        "published": "2026-11-21T10:58:02+00:00",
+        "published_label": "Sat 21 Nov, 14:58",
+        "summary": "مباراة خورفكان ضد الجزيرة الإماراتي : اهداف المباراة مع تشكيلة الفريقين والنتائج : مباشر على Winwin winwin.com",
+        "id": "563e6ba0a5b4",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "live match page, betting-site style",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-21T13:43:11.408602+00:00"
       },
       {
         "section": "UAE Pro League & GCC Football",
@@ -27769,13 +28085,13 @@
       }
     ]
   },
-  "total": 1151,
+  "total": 1164,
   "edition": {
-    "drafted_at": "2026-11-21T13:04:03.857075+00:00",
+    "drafted_at": "2026-11-21T13:44:25.021902+00:00",
     "days": 14,
     "headline": [
-      "MERCEDES WON THE DOUBLE.",
-      "ABU DHABI IS NEXT."
+      "MERCEDES SEAL THE DOUBLE.",
+      "ABU DHABI FINALE IS NEXT."
     ],
     "stats": [
       {
@@ -27794,15 +28110,15 @@
         "id": "47acd2c017e2"
       },
       {
-        "value": "€40m",
-        "label": "reported annual value of Nike's Champions League ball deal",
-        "id": "a65664683ea9"
+        "value": "8",
+        "label": "clubs in the fourth Qatar-UAE Super Cup, 17-20 December",
+        "id": "e9ca2396a9ea"
       }
     ],
     "watch": {
-      "id": "5836ad929d71",
-      "lead": "F1 is pressing ahead with Abu Dhabi on 6 December despite security concerns.",
-      "text": "The season finale is confirmed, and Verstappen, Russell and Norris say they are comfortable. Other Gulf events have been cancelled or moved, so delivery of race week matters for ADNOC as founding partner. See [grandprix247]."
+      "id": "404fbc3240b3",
+      "lead": "Abu Dhabi will host its first F1 Sprint Race in 2027.",
+      "text": "The 10–12 December season finale at Yas Marina Circuit adds a new race format, which ADNOC, as founding partner of the Abu Dhabi Grand Prix, will need to plan around. [What's On] sets out how fans can get first access to tickets."
     }
   }
 }
