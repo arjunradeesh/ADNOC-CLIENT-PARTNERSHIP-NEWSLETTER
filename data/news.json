@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T12:53:16.457567+00:00",
-  "generated_label": "Sunday 22 November 2026, 16:53 GST",
+  "generated_at": "2026-11-22T13:37:00.142974+00:00",
+  "generated_label": "Sunday 22 November 2026, 17:37 GST",
   "keep_days": 14,
   "section_order": [
     "ADNOC & Partner News",
@@ -2055,6 +2055,52 @@
     "Wider Sports News": [
       {
         "section": "Wider Sports News",
+        "source": "The National",
+        "search": "Gulf sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "UAE to train 1 million AI coders in Dominican Republic under digital drive",
+        "feed_link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNXpvemJkeWhzekM4SlFWb2dxN1BPZ1JBOHAzQXlYeVZiTDZ6WEhXQXJRWkxZTjJ0VXVDNVdNRTRIaTJFSk1rR20zTmVCTWJEMlBNUDRONF9ndjFQQ2ZvUDBXY1p4MTNPNTVtSXhBYzVMclV1MHlRNnB6UGVLSlJBSUtXZjBmUkdFMDhrV3hYek8tN1MzcVhaZDBRcHk5X1JzLXQ1VGlMZE04MEg5S09DSTMzX3ZSTE1Qc29qd0FtM0VfTW1Eb1E?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNXpvemJkeWhzekM4SlFWb2dxN1BPZ1JBOHAzQXlYeVZiTDZ6WEhXQXJRWkxZTjJ0VXVDNVdNRTRIaTJFSk1rR20zTmVCTWJEMlBNUDRONF9ndjFQQ2ZvUDBXY1p4MTNPNTVtSXhBYzVMclV1MHlRNnB6UGVLSlJBSUtXZjBmUkdFMDhrV3hYek8tN1MzcVhaZDBRcHk5X1JzLXQ1VGlMZE04MEg5S09DSTMzX3ZSTE1Qc29qd0FtM0VfTW1Eb1E?oc=5",
+        "published": "2026-11-22T13:15:24+00:00",
+        "published_label": "Sun 22 Nov, 17:15",
+        "summary": "UAE to train 1 million AI coders in Dominican Republic under digital drive The National",
+        "id": "67d65fbbf649",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "AI training programme; not sport",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-22T13:37:00.142974+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Gulf News",
+        "search": "Gulf sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Saudi Arabia to Saudise 50% of jobs in 17 financial professions from May 2027",
+        "feed_link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUkNnN1F6UnVJeGh2OEZTQUlGZEpuUzJZSkY4NEJ0ZXpkcFN1ZV9ydmMzTmRpd05QLXoyLWVUU3hPVGQtVm1RNmFRNmRvbkpNcFdpZzJPZ0VJQks2cUxHMkV4MlZSZ2U0R29HU2J2OUk3UGF5UU5OQkczS2IxWDJJRVJmRGZvX0tSMzlic0FEOEZUdmZPSmI3U2RrRDVHV0cxVkE5TEthQW1TdFN2NzZxYTlGV3ppUl9NT1NvTzlRSGUzZ2t50gHaAUFVX3lxTE92U21sWVUtTkstSHBrejkwVnM0R05uandmZGZiWXZrT0N4UlZUNWxJWU1ZZ2NmOHdIZ2pMX2hWWnZ5ZHRlYS1GajlNMXg1Z2tSWFBDdDFzcl9fS3NibGFuS0M1SlJnV2dPS1dyNXA2M2FIaTFVV1d4aUVLaXNvdS1Ray1ZTUZXM0ZqTWRQM3JEYUJXWlRpTGgzeWxXVjVQbTZHcjRtdEJnMjJPX1ZXNkxveUE4VkM3QnpZYzFiM1lIRG9oYkE5WTFNa0ZMRmFnTDdHbkJ2a1l4bDZR?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUkNnN1F6UnVJeGh2OEZTQUlGZEpuUzJZSkY4NEJ0ZXpkcFN1ZV9ydmMzTmRpd05QLXoyLWVUU3hPVGQtVm1RNmFRNmRvbkpNcFdpZzJPZ0VJQks2cUxHMkV4MlZSZ2U0R29HU2J2OUk3UGF5UU5OQkczS2IxWDJJRVJmRGZvX0tSMzlic0FEOEZUdmZPSmI3U2RrRDVHV0cxVkE5TEthQW1TdFN2NzZxYTlGV3ppUl9NT1NvTzlRSGUzZ2t50gHaAUFVX3lxTE92U21sWVUtTkstSHBrejkwVnM0R05uandmZGZiWXZrT0N4UlZUNWxJWU1ZZ2NmOHdIZ2pMX2hWWnZ5ZHRlYS1GajlNMXg1Z2tSWFBDdDFzcl9fS3NibGFuS0M1SlJnV2dPS1dyNXA2M2FIaTFVV1d4aUVLaXNvdS1Ray1ZTUZXM0ZqTWRQM3JEYUJXWlRpTGgzeWxXVjVQbTZHcjRtdEJnMjJPX1ZXNkxveUE4VkM3QnpZYzFiM1lIRG9oYkE5WTFNa0ZMRmFnTDdHbkJ2a1l4bDZR?oc=5",
+        "published": "2026-11-22T12:46:48+00:00",
+        "published_label": "Sun 22 Nov, 16:46",
+        "summary": "Saudi Arabia to Saudise 50% of jobs in 17 financial professions from May 2027 Gulf News",
+        "id": "7eb8e9459f88",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "Saudisation of financial jobs; not sport",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-22T13:37:00.142974+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "وكالة الأنباء العمانية (العمانية)",
         "search": "Sports business search",
         "lang": "en",
@@ -2075,6 +2121,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-22T12:53:16.457567+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "وكالة الأنباء العمانية (العمانية)",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "OQ Signs Social Investment Agreements",
+        "feed_link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UMVJsYXM0NW8tVEFkLUZUa0ZvNjFOXzRubHdkYjM5NnJrU2luN19YSlFicXpfbnRrSE1WSXFMQ3V2c081dXhROWxMYVU5T0RQbmsxLXVSeGY2U0tPOVE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5UMVJsYXM0NW8tVEFkLUZUa0ZvNjFOXzRubHdkYjM5NnJrU2luN19YSlFicXpfbnRrSE1WSXFMQ3V2c081dXhROWxMYVU5T0RQbmsxLXVSeGY2U0tPOVE?oc=5",
+        "published": "2026-11-22T12:19:22+00:00",
+        "published_label": "Sun 22 Nov, 16:19",
+        "summary": "OQ Signs Social Investment Agreements وكالة الأنباء العمانية (العمانية)",
+        "id": "1dee6926196b",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "OQ social investment; not sport",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-22T13:37:00.142974+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -2415,6 +2484,68 @@
         "label": "SPORTS BUSINESS",
         "line": "[Abu Dhabi's support advances jiu-jitsu's Olympic bid], says JJEU President Michael Korn at the JJIF Congress in Abu Dhabi.",
         "angle": "Abu Dhabi's role in a sport's Olympic bid shows the emirate's standing as a host and backer of international federations."
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "The Times of India",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Patrick and Brittany Mahomes' $325 million sports investment followed an unusual rule, giving 10% of part",
+        "feed_link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNeDduSncxWGc5MnlCU3VOdTRtQW1OQ0w0Smh4NnNQTW9CeFV4aXk5ejQxR1E0cW41Z2loak1OTW14X3RUN1RkdlRjWFRqTVkyQk9WQVl6Qk5qQ2x0alU4alVhS1NISk5EaVhwQURLY3dtd1pxX2psbzVCdFRnS00yVV9DTmtkb2RHQlp4LUUtX0hvTGszMW41cHpBMFAxQ0t1S1FTRnJNdGExeHp4eXhGUEw2X0F4S05QZFdvZ0ZXekVwUmJNdXBtRFFKX1B5OGc1RXdtNkZ2Vm4za0pscnFiWHA3SjRFVTlQZlFGUDV0aWhkeEJ6ZDJYcTFEVVpVOVJYWmc2LWRIcWMtUnpRVU9UNXRHQ3ZmOUpNX1lDRDdISk1jNHpNMDk0eU1VU3VXSUc3WUVXdFZOdG1NUdIBvwJBVV95cUxOTzA4YjlJYkxpX3FfaHhHZDBGYW4wNWtTOWpHT3lFX0pCTFNpdWxMbE9uRnRVTWNyaEFUQXMzM1BkcndIcEV4cmRMRDItSWFLWlJMa2NtSDdwLTM1LTFGSEVObjh3bmpTbzBSdWVObkNKUmNUdENTRzdLOTV6XzdzUjRzS3hqYk1xNHVzZDZ2dkJnQ1h1bUs5dVJKZWNKc2hKdXN2bDlWdDRhd1l2YlJjeFFlS1FPX3dCYnNrRnY0THp1aEl3bi1xdGZrNUFXdlRpSGx2elluYnNjU2dQOEplZTFaSzh3UzRmN1FrdkotRUVfN2tzV1BJb2ZnTFlQNmZRZjFnT3hqYklEOVFtMDNWemE0ZEd2TFVFT25xMm4wRUJhS1gxRGE1SmdNNzNkRFlTZkROVDBwYlA1MFF5cHMw?oc=5",
+        "link": "https://timesofindia.indiatimes.com/sports/nfl/news/patrick-and-brittany-mahomes-325-million-sports-investment-followed-an-unusual-rule-giving-10-of-partnership-revenue-back-to-kansas-city/articleshow/136052135.cms",
+        "published": "2026-11-21T23:12:00+00:00",
+        "published_label": "Sun 22 Nov, 03:12",
+        "summary": "Patrick and Brittany Mahomes' $325 million sports investment followed an unusual rule, giving 10% of part The Times of India",
+        "id": "62cae82dd2a0",
+        "bullets": [
+          "Patrick and Brittany Mahomes are part of the ownership group of the Kansas City Current, the NWSL club reportedly valued at $325 million. The club has committed to directing 10% of its partnership revenue to local programmes in Kansas City. Brittany was already an owner, and Patrick joined in January 2023 as the first active NFL player with a stake in an NWSL team.",
+          "The pledge dates from April 2021, when the club, then known as KC NWSL, announced Palmer Square Capital Management as its first founding partner, so it predates Patrick's involvement. It has led to partner activity such as Boulevard Brewing Company donating 10% of proceeds from its Teal Rising drink to WIN for KC, which supports women and girls through sport, fitness and leadership. The club also backs youth soccer and mini-pitches."
+        ],
+        "triaged": true,
+        "priority": 3,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "built more than a stake in a professional women's soccer club. Their involvement with the Kansas City Current also placed them inside a business model that tied commercial success to the city around it. The club committed to directing 10% of its partnership revenue towards local programmes, making community investment part of its identity from the start. It was a notable promise in a sports industry where sponsorship deals often focused on visibility, brand exposure and financial returns.\n\nThe policy dated back to April 2021, when the club, then known as KC NWSL, announced its first founding partner, Palmer Square Capital Management. That announcement also introduced the commitment to return 10% of partnership revenue to the community.",
+        "first_seen": "2026-11-22T13:37:00.142974+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[Kansas City Current pledge 10%] of partnership revenue to local programmes, a policy set in 2021 before Patrick Mahomes became co-owner.",
+        "angle": "Linking sponsor revenue to community programmes gives partners a purpose beyond visibility, a model relevant to ADNOC's community sport work.",
+        "activation": {
+          "title": "Kansas City Current partnerships",
+          "what": "Pledges 10% of partnership revenue to local programmes, and partners such as Boulevard Brewing add their own donations.",
+          "borrow": "Tie ADNOC Pro League partner revenue to community football programmes."
+        },
+        "stat": {
+          "value": "10%",
+          "label": "of partnership revenue pledged to local programmes"
+        }
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "The Globe and Mail",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Manchester United Reports Higher Revenue, Wider Quarterly Loss",
+        "feed_link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVWpGYWM4N3dRS3dHWENwWjJQZnU3TjYwUW5jY1F0X3NEMVFvQnlrbzByZFFmaHJvaWVwUlVCR2t2dWlnWkxzVzk5bzZtTU5fdVduZURaVHQ0S1NPWmtPWGQyUXFnTUVheHFQd0V4VXhNYnNRS0FCOFpLcmFrWk42Q2Y5U2lkVl94R2o2ZTBEODI0UWFpZUdWeFpkejI0RG0tanl1MFVHTWlqZklJRnRXdWZYZXh0dVdkeXIzSWN4VzNMNVRBaElsNDkwLVpUMXJaY01sZlgwOEVKdVoxaV9J?oc=5",
+        "link": "https://www.theglobeandmail.com/investing/markets/stocks/MANU/pressreleases/8953161/manchester-united-reports-higher-revenue-wider-quarterly-loss/",
+        "published": "2026-11-21T23:11:17+00:00",
+        "published_label": "Sun 22 Nov, 03:11",
+        "summary": "Manchester United Reports Higher Revenue, Wider Quarterly Loss The Globe and Mail",
+        "id": "0ac3072aec84",
+        "bullets": [],
+        "triaged": true,
+        "priority": 4,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Manchester United ( (MANU) ) has issued an update. Manchester United is a global sports team and sports brand in the sports industry, with revenue streams including sponsorship, merchandising, product licensing, broadcasting and matchday activities. Its market focus is worldwide, supported by a global community of fans and followers and partnerships with leading companies.\n\nOn November 20, 2026, Manchester United reported unaudited results for the three months ended September 30, 2026, with revenue up 4.1% to £146.1 million from £140.3 million; broadcasting revenue rose 17.7% to £35.2 million and matchday revenue increased 2.3% to £26.8 million, while commercial revenue was nearly unchanged at £84.1 million. Loss after tax widened to £18.1 million from £6.6 million, while total operating expenses fell 1.5% to £169.8 million and employee benefit expenses rose 8.6% to £79.9 million; sponsorship revenue declined 3.0% to £45.6 million, primarily because of a smaller preseason tour, partly offset by the new Betway training-kit partnership.",
+        "first_seen": "2026-11-22T13:37:00.142974+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "Club earnings stock release, not sports-business news"
       },
       {
         "section": "Wider Sports News",
@@ -10408,6 +10539,50 @@
     "Formula 1 & Motorsport": [
       {
         "section": "Formula 1 & Motorsport",
+        "source": "Sportsnet.ca",
+        "search": "Abu Dhabi GP watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "F1 presses on with Qatar and Abu Dhabi finale despite rising tensions",
+        "feed_link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWh1elFMUFlYeS1mYUxtbHh2X1ZyT0V6ZWlvbkdsQkNYUk5maWM5ODl0Z3hFUVU4SDMwellUa1ZrYUlnajZWNVJXWW50VHZxNG1QTGoxUzZZNVRxSGpab0NTZ2NDMG1kN2V2TTVSS1JyQWNSZ1B5NThZYkxqVmpiZ245a0ZTaUxMQzNCLU9NYXFxUmR2cVhiUW12Ukw0U0ZyaXR6UTllYXozY3E2WXhLczZOZw?oc=5",
+        "link": "https://www.sportsnet.ca/formula-1/article/f1-presses-on-with-qatar-and-abu-dhabi-finale-despite-rising-tensions/",
+        "published": "2026-11-22T13:27:00+00:00",
+        "published_label": "Sun 22 Nov, 17:27",
+        "summary": "F1 presses on with Qatar and Abu Dhabi finale despite rising tensions Sportsnet.ca",
+        "id": "a662f6859e91",
+        "bullets": [],
+        "triaged": true,
+        "priority": 9,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "LAS VEGAS — There was a chance for a short time that the Las Vegas Grand Prix could be the final Formula 1 race of the season. Adding a stop in Italy was also considered. But in the end, F1 officials decided to stay with the original schedule of finishing the season in Qatar and Abu Dhabi even with tensions in the Middle East heightened by the conflict between the United States and Iran.\n\nEarlier this season, the Bahrain Grand Prix was moved to Malaysia and the Saudi Arabian Grand Prix canceled. Concerns about a return to a more all-out war are growing after U.S. President Donald Trump said Friday that Iran isn't willing to make a deal he can accept.",
+        "first_seen": "2026-11-22T13:37:00.142974+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Federation Internationale de l'Automobile",
+        "search": "Feeder series watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "KEAN NAKAMURA-BERTA WINS THE FIA FR WORLD CUP IN MACAU",
+        "feed_link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1RVNHRmV1STY5bjgxYUxENzZ5d0pWQWU1bUF3X3lubzFpN2FXeTY4LXBnVkZhYjBELW5fM3cweHNoUDI0NzJKQ29MOUJWUFFxazhuYXBIODZlVm1DRHFiVkVsSzQ5ZjZDTjdRc1N5MXNSN0tDMUN1dktoNHE?oc=5",
+        "link": "https://www.fia.com/news/kean-nakamura-berta-wins-fia-fr-world-cup-macau",
+        "published": "2026-11-22T12:27:00+00:00",
+        "published_label": "Sun 22 Nov, 16:27",
+        "summary": "KEAN NAKAMURA-BERTA WINS THE FIA FR WORLD CUP IN MACAU Federation Internationale de l'Automobile",
+        "id": "fe5a452d4105",
+        "bullets": [],
+        "triaged": true,
+        "priority": 3,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Kean Nakamura-Berta fought through from sixth on the grid to win the 2026 FIA World Cup and add his name to the list of legends who have claimed victory in the Macau Grand Prix, the ultimate end-of-season single-seater showdown.\n\nDriving for SJM Theodore Racing, Nakamura-Berta made a rapid getaway from the line and maintained his momentum on the charge to Lisboa Bend, reaching the tight right-hander in second place behind Enzo Deligny, who also made a lightening start.",
+        "first_seen": "2026-11-22T13:37:00.142974+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
         "source": "The Guardian",
         "search": "F1 search",
         "lang": "en",
@@ -10428,6 +10603,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-22T12:53:16.457567+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Autoweek",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Verstappen Says Russell Is ‘So Far Below My Level’ After F1 Las Vegas GP",
+        "feed_link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTDBPVFdncUtGeE1ZNjV3S0JUZUkwTTVoNTlYWkQzaWlnbTFLSnVrd1NZOWQ4M0tkLVR0SW5vVmJZRDBJVVN0UGFTXzg0bTUyNl83UENBTUtYZmlOdVBSWkVEMXJjWF9wYXRPZXlhcU9SRGFlT01ScVRsa0ZLSE1wZVRVaW8wNlNlbXN2a1JQdnhOT0wxLWJudnhxNXM?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTDBPVFdncUtGeE1ZNjV3S0JUZUkwTTVoNTlYWkQzaWlnbTFLSnVrd1NZOWQ4M0tkLVR0SW5vVmJZRDBJVVN0UGFTXzg0bTUyNl83UENBTUtYZmlOdVBSWkVEMXJjWF9wYXRPZXlhcU9SRGFlT01ScVRsa0ZLSE1wZVRVaW8wNlNlbXN2a1JQdnhOT0wxLWJudnhxNXM?oc=5",
+        "published": "2026-11-22T12:03:00+00:00",
+        "published_label": "Sun 22 Nov, 16:03",
+        "summary": "Verstappen Says Russell Is ‘So Far Below My Level’ After F1 Las Vegas GP Autoweek",
+        "id": "ebb0e14c49c3",
+        "bullets": [],
+        "triaged": true,
+        "priority": 1,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-22T13:37:00.142974+00:00"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -11294,6 +11492,28 @@
           "value": "6",
           "label": "wins: Palmowski's tally in the 2026 F1 Academy season"
         }
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Autosport",
+        "search": "Autosport",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "“My mistake was to lift” – Why Antonelli lost power in Las Vegas GP victory battle",
+        "feed_link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWDIxODR5VEd5VmZNZmpfeGVXbFQwNjEtZmVBaWpaMTVtS0RtemxVOGtSM1RfWllYQmNzUjV3T2IxcEE0YnhnTU0zYVQ3aDZWR1R6eGZjOV91d2lxaG9udHRZYWtaWVIyamF6WHVkaUdSWWhvUUZNZ2czSmFXLW9faWFsZi1pUk1GSEdOOE5zV0tTS24tczI4d3NPdGVrZkNuRHE3TURDQW12UWg3aHBFTE9DdEEzWC1vOWNadkpoWQ?oc=5",
+        "link": "https://www.autosport.com/f1/news/my-mistake-was-to-lift-why-antonelli-lost-power-in-las-vegas-gp-victory-battle/10876786/",
+        "published": "2026-11-22T07:28:26+00:00",
+        "published_label": "Sun 22 Nov, 11:28",
+        "summary": "“My mistake was to lift” – Why Antonelli lost power in Las Vegas GP victory battle Autosport",
+        "id": "9242148053bd",
+        "bullets": [],
+        "triaged": true,
+        "priority": 4,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Kimi Antonelli has explained the quirky “mistake” that cost him a shot at Formula 1 victory in the Las Vegas Grand Prix. The fastest driver in qualifying, Antonelli was sixth on the grid owing to a five-place drop for an engine change and was the only top-10 starter on mediums rather than softs, which contributed to a further two-position drop on lap one.\n\nThe new world champion recovered to fourth by lap 17 and went on to challenge polesitter Max Verstappen and Mercedes team-mate George Russell in the second half of the race, emerging as the Red Bull’s main rival late on.",
+        "first_seen": "2026-11-22T13:37:00.142974+00:00"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -23129,6 +23349,29 @@
       },
       {
         "section": "Cycling",
+        "source": "Cyclingnews",
+        "search": "Cyclingnews",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "AlUla Tour and Tour of Qatar cancelled for 2027 as Middle East tensions threaten racing calendar",
+        "feed_link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZFc1UldPQUV5NHk5UkxJQ1kxMXdvQ0FqYjE1ZUlYd2tITlhLOHVFU1FXdHp1bnNHUDRxQXFGSlhULVo2TXJBRld6UjFtMjNLa3hCbHRPMjZsRzliUzFobFJmMGNOUnVKN3VzdzRsS1E0UWI2czlReXY0eTEzclV2RUoyaUpneWw1WjRNZ3VWRUVHOW9kV0psZEVldjRNQ2R0ZXJlQzdHb3l5SGw2TDNvWldGNk80czBHdVVqT3JNWVpfbkFuTk1RbUNISTlIOWhDUENQanE3MTY0Z0FRR3VIdVcyemo?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZFc1UldPQUV5NHk5UkxJQ1kxMXdvQ0FqYjE1ZUlYd2tITlhLOHVFU1FXdHp1bnNHUDRxQXFGSlhULVo2TXJBRld6UjFtMjNLa3hCbHRPMjZsRzliUzFobFJmMGNOUnVKN3VzdzRsS1E0UWI2czlReXY0eTEzclV2RUoyaUpneWw1WjRNZ3VWRUVHOW9kV0psZEVldjRNQ2R0ZXJlQzdHb3l5SGw2TDNvWldGNk80czBHdVVqT3JNWVpfbkFuTk1RbUNISTlIOWhDUENQanE3MTY0Z0FRR3VIdVcyemo?oc=5",
+        "published": "2026-11-22T11:18:02+00:00",
+        "published_label": "Sun 22 Nov, 15:18",
+        "summary": "AlUla Tour and Tour of Qatar cancelled for 2027 as Middle East tensions threaten racing calendar Cyclingnews",
+        "id": "28b49cc05848",
+        "bullets": [],
+        "triaged": true,
+        "priority": 3,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-22T13:37:00.142974+00:00"
+      },
+      {
+        "section": "Cycling",
         "source": "Brujulabike.com",
         "search": "Cycling search",
         "lang": "en",
@@ -23214,6 +23457,39 @@
         "stat": {
           "value": "71km",
           "label": "time trial in the 2027 Tour de France route"
+        }
+      },
+      {
+        "section": "Cycling",
+        "source": "CyclingUpToDate.com",
+        "search": "UAE Team Emirates watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "From rookie to challenging Pogacar in 7 months - British time trialist reveals himself at La Vuelta",
+        "feed_link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa3h4SVp1VG05S1ptdUdVWFMzSHEwd2NwbTAtX1hockl2ejVhbHhUamlxN2JYZUZfVDJ4eEttYVN1cmhXU19iOFY1WTc5eXNROEhlU0hxZUcwRTlzUzU2TmhoTE5DVVBuM3ctTkxocGo3LUZ3dlNUUFoyVzRnemljZklxRVg3cFdiLTZWOWtrb2VwREN0NDg5YzdaYjdlN2RpNE14UGtXc1V4b1Z4LWFUTG91U1VYTkoyRW1iSXVqUHJKRG9RWGJPR051NjlpUQ?oc=5",
+        "link": "https://cyclinguptodate.com/cycling/from-rookie-to-challenging-pogacar-in-7-months-british-time-trialist-reveals-himself-at-la-vuelta",
+        "published": "2026-11-22T05:00:00+00:00",
+        "published_label": "Sun 22 Nov, 09:00",
+        "summary": "From rookie to challenging Pogacar in 7 months - British time trialist reveals himself at La Vuelta CyclingUpToDate.com",
+        "id": "0e4b238d0290",
+        "bullets": [
+          "Callum Thornley, a 23-year-old Scot riding his first Grand Tour, finished fourth in the opening 9.4-kilometre individual time trial of the 2026 Vuelta a España in Monaco. He was five seconds behind winner Tadej Pogacar and four seconds ahead of Wout van Aert. He later came within two seconds of a stage victory in Jerez de la Frontera.",
+          "Thornley, from Peebles in the Scottish Borders, joined Red Bull–BORA–hansgrohe's senior roster in January 2026 after a season in the team's under-23 Rookies programme. He was the first Rookies rider promoted to the WorldTour team. He also finished inside the top ten at both the World and European Time Trial Championships, and won the British under-23 time trial title in 2025."
+        ],
+        "triaged": true,
+        "priority": 3,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "When the 2026 Vuelta a España rolled down the start ramp in Monaco for its opening 9.4-kilometre individual time trial, almost every pre-race headline belonged to Tadej Pogacar and Wout van Aert. By the time the dust settled along the Principality's Formula 1 corners, however, a 23-year-old Scottish neophyte riding his first Grand Tour had forced his way into the conversation. Finishing fourth on the stage, just five seconds behind winner Pogacar and four seconds clear of Van Aert, Callum Thornley announced himself to the wider cycling public in the sharpest possible terms.\n\nStanding 1.90 metres tall and weighing 76 kilograms, Thornley possesses the classic physiological blueprint of a modern rouleur and time trial specialist. Yet his rise to the front end of a WorldTour Grand Tour leaderboard was anything but conventional. Hailing from Peebles in the Scottish Borders, far removed from the traditional heartlands of European road racing, Thornley entered 2026 as a first-year professional on Red Bull–BORA–hansgrohe's senior roster, having spent the previous season in the team's under-23 development ranks.",
+        "first_seen": "2026-11-22T13:37:00.142974+00:00",
+        "summary_status": "done",
+        "label": "CYCLING",
+        "line": "[Callum Thornley finished fourth] in the Vuelta's opening Monaco time trial, five seconds behind Tadej Pogacar.",
+        "angle": "Pogacar won the Vuelta's opening time trial, and a young time-trial rival is emerging. The article does not mention ADNOC or UAE Team Emirates XRG.",
+        "stat": {
+          "value": "5",
+          "label": "seconds: Thornley's gap to Pogacar in Vuelta time trial"
         }
       },
       {
@@ -27671,6 +27947,29 @@
     "UAE Pro League & GCC Football": [
       {
         "section": "UAE Pro League & GCC Football",
+        "source": "الاتحاد للأخبار",
+        "search": "Pro League watch (Arabic)",
+        "lang": "ar",
+        "kind": "gnews",
+        "wide": true,
+        "title": "يوسف نياكتيه.. النصر ضحيته المفضّلة بـ5 أهداف في دوري المحترفين",
+        "feed_link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxQa0RQWkpEMnZHRUx0QTllVzdGODd4V1RfM3JIb2J1d3RoeEdkTkxFTS1Eb3FCY0lEaHEwWWlBVUQ4bXh0cUg0bVh4T0N5UWRrSFo3Q29mbW1Ld0x0U2U3Tm8tUU90d0Z1bHFOZXFyYUxhY2VkMDZfZnZ2eHRqZThLeVJCa2hwanBHQVhUTEd6aHRsbjlWc2w0djZjeVRtd2hVeGZUS2lQWmVwNlhySzFNZDEyLU9FcXZTdkFUc2sxMmNFckpJZVJSeUVBZWVQR0cyczc4WE05Q2FyWEVXRldqbUlPaUh3dFJuVDJMd3JkVVNiY3JqWjExRVJHQWNjeXJmb21pUTdpdXNSZFhvbk9iRmdFTjRBeTU1M01NQlZxVFRXQm16ZFJ3dlpCaHl0RVVENk1FRW9zcUgwdXZ6bVZ0bGppTDdibGNWX1JIMjZvbHUyNTVXQmJoVTZLalZUYVBMd1lrR1daTl9qR04wanMxMUhkZkhrVXhJZVFUdnBKZ3FZdll5dWdmRUtRX3hLdE5venZtV3dNN3BMNkJVaklvWGotR3ZSaFBaanJHNS1ZWlFlUlBFX3V6cnU5bmNYWUJVYXJoNTRxREFMbVdlbElZS18wdEtfZXlLVS04dWprWTdIQUJfZWU1UmdaMUt3WThCSmc0aUYwbXhrVE9zRXdObUxVeDEtdE5nSWVVcElfbHo3UTFuRVlV?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMilwRBVV95cUxQa0RQWkpEMnZHRUx0QTllVzdGODd4V1RfM3JIb2J1d3RoeEdkTkxFTS1Eb3FCY0lEaHEwWWlBVUQ4bXh0cUg0bVh4T0N5UWRrSFo3Q29mbW1Ld0x0U2U3Tm8tUU90d0Z1bHFOZXFyYUxhY2VkMDZfZnZ2eHRqZThLeVJCa2hwanBHQVhUTEd6aHRsbjlWc2w0djZjeVRtd2hVeGZUS2lQWmVwNlhySzFNZDEyLU9FcXZTdkFUc2sxMmNFckpJZVJSeUVBZWVQR0cyczc4WE05Q2FyWEVXRldqbUlPaUh3dFJuVDJMd3JkVVNiY3JqWjExRVJHQWNjeXJmb21pUTdpdXNSZFhvbk9iRmdFTjRBeTU1M01NQlZxVFRXQm16ZFJ3dlpCaHl0RVVENk1FRW9zcUgwdXZ6bVZ0bGppTDdibGNWX1JIMjZvbHUyNTVXQmJoVTZLalZUYVBMd1lrR1daTl9qR04wanMxMUhkZkhrVXhJZVFUdnBKZ3FZdll5dWdmRUtRX3hLdE5venZtV3dNN3BMNkJVaklvWGotR3ZSaFBaanJHNS1ZWlFlUlBFX3V6cnU5bmNYWUJVYXJoNTRxREFMbVdlbElZS18wdEtfZXlLVS04dWprWTdIQUJfZWU1UmdaMUt3WThCSmc0aUYwbXhrVE9zRXdObUxVeDEtdE5nSWVVcElfbHo3UTFuRVlV?oc=5",
+        "published": "2026-11-22T12:22:30+00:00",
+        "published_label": "Sun 22 Nov, 16:22",
+        "summary": "يوسف نياكتيه.. النصر ضحيته المفضّلة بـ5 أهداف في دوري المحترفين الاتحاد للأخبار",
+        "id": "0e11358a872b",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "player performance feature on Saudi Pro League scoring, not headline news",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-22T13:37:00.142974+00:00"
+      },
+      {
+        "section": "UAE Pro League & GCC Football",
         "source": "www.wam.ae",
         "search": "GCC football search",
         "lang": "en",
@@ -27690,8 +27989,31 @@
         "read_attempts": 2,
         "copy": "",
         "first_seen": "2026-11-22T12:53:16.457567+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
+      },
+      {
+        "section": "UAE Pro League & GCC Football",
+        "source": "BBC",
+        "search": "GCC football search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Al Hazem vs Al Nassr: Saudi Pro League stats & head-to-head",
+        "feed_link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwckpqRnE1ejJTRGJjSm9XTHBJXzZnWW9xQ0hYTmlScmxvWUpuWjJGYUdvelN4VEx0emtNSTRIaG50dzAyMTEzWnhJVHpnUXZUQ1lqTWtZdHVXdkxrV2ZMQjJZdw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwckpqRnE1ejJTRGJjSm9XTHBJXzZnWW9xQ0hYTmlScmxvWUpuWjJGYUdvelN4VEx0emtNSTRIaG50dzAyMTEzWnhJVHpnUXZUQ1lqTWtZdHVXdkxrV2ZMQjJZdw?oc=5",
+        "published": "2026-11-22T11:06:44+00:00",
+        "published_label": "Sun 22 Nov, 15:06",
+        "summary": "Al Hazem vs Al Nassr: Saudi Pro League stats & head-to-head BBC",
+        "id": "5a5dfe3c4b77",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "match preview built from stats and head-to-head; repeats known information",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-22T13:37:00.142974+00:00"
       },
       {
         "section": "UAE Pro League & GCC Football",
@@ -32082,19 +32404,19 @@
       }
     ]
   },
-  "total": 1325,
+  "total": 1338,
   "edition": {
-    "drafted_at": "2026-11-22T12:55:20.894684+00:00",
+    "drafted_at": "2026-11-22T13:38:23.877081+00:00",
     "days": 14,
     "headline": [
-      "Abu Dhabi finale is on.",
-      "Sprint arrives in 2027."
+      "Verstappen wins in Vegas.",
+      "Abu Dhabi finale is next."
     ],
     "stats": [
       {
-        "value": "18",
-        "label": "points: Al Jazira level with Sharjah at the top",
-        "id": "d97e5f157f87"
+        "value": "6 Dec",
+        "label": "Abu Dhabi Grand Prix season finale confirmed",
+        "id": "5836ad929d71"
       },
       {
         "value": "1st",
@@ -32102,20 +32424,20 @@
         "id": "404fbc3240b3"
       },
       {
-        "value": "339,000",
-        "label": "fans at the record 2025 Abu Dhabi Grand Prix",
-        "id": "7416683044e8"
-      },
-      {
         "value": "5",
         "label": "years: TotalEnergies' title deal with FDJ United women's team",
         "id": "47acd2c017e2"
+      },
+      {
+        "value": "18",
+        "label": "points: Al Jazira level with Sharjah at the top",
+        "id": "d97e5f157f87"
       }
     ],
     "watch": {
       "id": "5836ad929d71",
-      "lead": "F1 confirms Abu Dhabi will host the 6 December finale despite Middle East security concerns.",
-      "text": "Verstappen, Russell and Norris have all said they are comfortable racing in the region. [grandprix247] reports F1 is pressing ahead, while other Gulf events have been cancelled or moved. ADNOC should be ready for security and attendance questions in race week."
+      "lead": "F1 is pressing ahead with the Abu Dhabi finale on 6 December despite security concerns.",
+      "text": "ADNOC is founding partner of the Abu Dhabi Grand Prix, so any change to the race's security picture affects its flagship property. Verstappen, Russell and Norris have backed the race, per [Gulf News](https://www.gulfnews.com)."
     }
   }
 }
