@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-24T15:19:26.980904+00:00",
-  "generated_label": "Tuesday 24 November 2026, 19:19 GST",
+  "generated_at": "2026-11-24T16:24:58.317938+00:00",
+  "generated_label": "Tuesday 24 November 2026, 20:24 GST",
   "keep_days": 14,
   "section_order": [
     "ADNOC & Partner News",
@@ -2233,9 +2233,65 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-16T09:53:51.232069+00:00"
+      },
+      {
+        "section": "Competitor News",
+        "source": "Sportcal",
+        "search": "Sportcal",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "SailGP adds 14th team as Bake, Mubadala back UAE expansion franchise",
+        "feed_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWDJHN18zTmwtNVg2dF90UTVpZ1QydDNLWmJqWEs3bV9OOGpXSmtRb25Vd0lrenA3YUhTN2xGZlF5ZnJKcG1lUWhBQkxXWGpCSWVsVEdLUGdMeC1ncV9sUUN5UGdjTG1jbFpldHlsalNWZzBjbG9rZDJGVmlHSHdTaDNJV01jQnJHSFBZNXQ3MXd1b19wOFNia2NVaEYyLTQ?oc=5",
+        "link": "https://www.sportcal.com/news/sailgp-adds-14th-team-as-bake-mubadala-back-uae-expansion-franchise/",
+        "published": "2026-11-24T15:23:11+00:00",
+        "published_label": "Tue 24 Nov, 19:23",
+        "summary": "SailGP adds 14th team as Bake, Mubadala back UAE expansion franchise Sportcal",
+        "id": "ef4002c28774",
+        "bullets": [
+          "SailGP has confirmed a 14th team, a UAE-backed entry co-owned by British investor Chris Bake and Abu Dhabi state-owned investment firm Mubadala. It will be the first Middle East-registered team in the series and will debut at the 2027 season-opening Hong Kong Sail Grand Prix on 23 and 24 January.",
+          "Bake already part-owns the British team Emirates GBR, while Mubadala owns and title-sponsors the Mubadala Brazil team. Mubadala has partnered SailGP since January 2022 and is title sponsor of the New York and Abu Dhabi Sail Grand Prix events. Two of the 13 annual races are held in the UAE, in Dubai and Abu Dhabi. The new team is a step towards SailGP's ambition of a 20-team, 20-race competition."
+        ],
+        "triaged": true,
+        "priority": 6,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "The elite SailGP series has confirmed its 14th team, with a United Arab Emirates (UAE) backed entry joining the competition. British investor Chris Bake and Abu Dhabi state-owned investment firm Mubadala will co-own the franchise, which will be the first Middle East-registered competitor in SailGP.\n\nCombine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. It will debut at the 2027 season-opening Hong Kong Sail Grand Prix on January 23 and 24.",
+        "first_seen": "2026-11-24T16:24:58.317938+00:00",
+        "moved_from": "Wider Sports News",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "SailGP [confirms a 14th team], the first Middle East-registered entry, co-owned by Chris Bake and Mubadala, debuting in Hong Kong in January 2027.",
+        "angle": "Abu Dhabi investor Mubadala deepens its SailGP role beyond sponsorship, a benchmark for how a UAE peer builds sports equity alongside the Abu Dhabi calendar.",
+        "stat": {
+          "value": "14",
+          "label": "teams in SailGP after UAE entry confirmed"
+        }
       }
     ],
     "Wider Sports News": [
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "search": "Sportcal",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "LPGA to replace Japan Classic with Konami-backed event",
+        "feed_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMV9PM2dXNUNWNHNJNGFoaVlrVWhTbmk2b3cxWTNPTnpKRjM3LTJuVm1iYmx2ajRCU3J2bzBQOEUxeUVObU1oVkNMeGlBYkU2NEJHQzJ4UXIxV1g3WDhtaTZoNkUyMTdaZ091V2pRWDlPdEJ2T25XTURzZWpEX1VnQ28wVDNjcUE1VlJoV0ZR?oc=5",
+        "link": "https://www.sportcal.com/news/lpga-to-replace-japan-classic-with-konami-backed-event/",
+        "published": "2026-11-24T15:53:11+00:00",
+        "published_label": "Tue 24 Nov, 19:53",
+        "summary": "LPGA to replace Japan Classic with Konami-backed event Sportcal",
+        "id": "ef189ea88ab9",
+        "bullets": [],
+        "triaged": true,
+        "priority": 3,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "Women’s golf’s top-tier LPGA has announced that its tournament in Japan will be revamped next year with a larger prize purse and title sponsorship from Japanese video game developer Konami.\n\nThe Konami Championship replaces the LPGA’s Toto Japan Classic in 2027 and will be held over four days, from November 4 to 7, at Taiheiyo Club’s Minori Course in Omitama, Ibaraki Prefecture, Japan.",
+        "first_seen": "2026-11-24T16:24:58.317938+00:00"
+      },
       {
         "section": "Wider Sports News",
         "source": "Sports Business Journal",
@@ -2258,6 +2314,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-24T15:19:26.980904+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Sportcal",
+        "search": "Sportcal",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "Meta’s AI glasses to power new 49ers sponsorship deal",
+        "feed_link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaTVWcm94VTQyLWN1QzNWdHdaWFhRbFFHcXhqejJVcVUzXzVVY0VkS3U3VlNJS1VRZk5lVVlNZExLQ1QwdktPRzdZQmt1X1Z0bm1BZHNBSFBISVZOUmRZVUVldDF6aUw0Zm1oQm9wY2sxeXFici0wLVh5UUtjNlZCckhuX3F4Q001QmE0?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaTVWcm94VTQyLWN1QzNWdHdaWFhRbFFHcXhqejJVcVUzXzVVY0VkS3U3VlNJS1VRZk5lVVlNZExLQ1QwdktPRzdZQmt1X1Z0bm1BZHNBSFBISVZOUmRZVUVldDF6aUw0Zm1oQm9wY2sxeXFici0wLVh5UUtjNlZCckhuX3F4Q001QmE0?oc=5",
+        "published": "2026-11-24T14:44:39+00:00",
+        "published_label": "Tue 24 Nov, 18:44",
+        "summary": "Meta’s AI glasses to power new 49ers sponsorship deal Sportcal",
+        "id": "2a2a354f974f",
+        "bullets": [],
+        "triaged": true,
+        "priority": 3,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-24T16:24:58.317938+00:00"
       },
       {
         "section": "Wider Sports News",
@@ -2305,6 +2384,29 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "The Times of India",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "In 2019, Patrick Mahomes launched his first charity gala; seven years later, his foundation is offering $",
+        "feed_link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxObW5fTGJvNExocDJvSnJMeVZXUXpvTG4zUHJZNXd3UWlHZDZXT3ludWdZaXVIanZCZmRYMUxHeXIxSmNFLXdlam94ZG5QbU9tV3NOTW1ySVBKTlVjd2lHdGNPZ3V4SXhybldFQ0lTN1lfRDNmZlpDczFORFJCRlNMcHoxQkRLSmdJWHRzYkpwYnQzV2NDNmVQYWxuLVZ1cDlka1ZOaUtXZUlLM1paUFpRWTdwRDFTVzlmYWg4VDhXLVBhMU55UjU2X25kUnVyMmJRMzBTSWJrM2R1TnhwRm9RMW1lZG1JMzB2QVZhWnVxbFBuTnQwMEREN1k5ZkxWOTJsVVVVV3lTTHFfUEQtQmtnOWpRWkRhTGRrZWhObnd0bWNJSGlTNWFwUVVmSGJvdlR6bzBHTVh3S05oZHE4QzFCa1dLRGYtajB1X1Q1Zk9Mb0psRF8wVEU2V2ZYbkJwMm_SAd8CQVVfeXFMTm1uX0xibzRMaHAyb0pyTHlWV1F6b0xuM1ByWTV3d1FpR2Q2V095bnVnWWl1SGp2QmZkWDFMR3lyMUpjRS13ZWpveGRuUG1PbVdzTk1tcklQSk5VY3dpR3RjT2d1eEl4cm5XRUNJUzdZX0QzZmZaQ3MxTkRSQkZTTHB6MUJES0pnSVh0c2JKcGJ0M1djQzZlUGFsbi1WdXA5ZGtWTmlLV2VJSzNaWlBaUVk3cEQxU1c5ZmFoOFQ4Vy1QYTFOeVI1Nl9uZFJ1cjJiUTMwU0liazNkdU54cEZvUTFtZWRtSTMwdkFWYVp1cWxQbk50MDBERDdZOWZMVjkybFVVVVd5U0xxX1BELUJrZzlqUVpEYUxka2VoTm53dG1jSUhpUzVhcFFVZkhib3ZUem8wR01Yd0tOaGRxOEMxQmtXS0RmLWowdV9UNWZPTG9KbERfMFRFNldmWG5CcDJv?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxObW5fTGJvNExocDJvSnJMeVZXUXpvTG4zUHJZNXd3UWlHZDZXT3ludWdZaXVIanZCZmRYMUxHeXIxSmNFLXdlam94ZG5QbU9tV3NOTW1ySVBKTlVjd2lHdGNPZ3V4SXhybldFQ0lTN1lfRDNmZlpDczFORFJCRlNMcHoxQkRLSmdJWHRzYkpwYnQzV2NDNmVQYWxuLVZ1cDlka1ZOaUtXZUlLM1paUFpRWTdwRDFTVzlmYWg4VDhXLVBhMU55UjU2X25kUnVyMmJRMzBTSWJrM2R1TnhwRm9RMW1lZG1JMzB2QVZhWnVxbFBuTnQwMEREN1k5ZkxWOTJsVVVVV3lTTHFfUEQtQmtnOWpRWkRhTGRrZWhObnd0bWNJSGlTNWFwUVVmSGJvdlR6bzBHTVh3S05oZHE4QzFCa1dLRGYtajB1X1Q1Zk9Mb0psRF8wVEU2V2ZYbkJwMm_SAd8CQVVfeXFMTm1uX0xibzRMaHAyb0pyTHlWV1F6b0xuM1ByWTV3d1FpR2Q2V095bnVnWWl1SGp2QmZkWDFMR3lyMUpjRS13ZWpveGRuUG1PbVdzTk1tcklQSk5VY3dpR3RjT2d1eEl4cm5XRUNJUzdZX0QzZmZaQ3MxTkRSQkZTTHB6MUJES0pnSVh0c2JKcGJ0M1djQzZlUGFsbi1WdXA5ZGtWTmlLV2VJSzNaWlBaUVk3cEQxU1c5ZmFoOFQ4Vy1QYTFOeVI1Nl9uZFJ1cjJiUTMwU0liazNkdU54cEZvUTFtZWRtSTMwdkFWYVp1cWxQbk50MDBERDdZOWZMVjkybFVVVVd5U0xxX1BELUJrZzlqUVpEYUxka2VoTm53dG1jSUhpUzVhcFFVZkhib3ZUem8wR01Yd0tOaGRxOEMxQmtXS0RmLWowdV9UNWZPTG9KbERfMFRFNldmWG5CcDJv?oc=5",
+        "published": "2026-11-24T13:45:00+00:00",
+        "published_label": "Tue 24 Nov, 17:45",
+        "summary": "In 2019, Patrick Mahomes launched his first charity gala; seven years later, his foundation is offering $ The Times of India",
+        "id": "48de938fb16c",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "celebrity charity gala, lifestyle rather than sports business",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-24T16:24:58.317938+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Sportcal",
         "search": "Sportcal",
         "lang": "en",
@@ -2317,13 +2419,20 @@
         "published_label": "Tue 24 Nov, 16:53",
         "summary": "Disney+ grows DACH portfolio with Bundesliga highlights sublicence from RTL Sportcal",
         "id": "7cdca12e7fd2",
-        "bullets": [],
+        "bullets": [
+          "Disney has sub-licensed a package of Bundesliga rights from RTL Deutschland for Disney+ in Germany, Austria, Switzerland and Liechtenstein. The service will carry highlights of every Bundesliga and Bundesliga 2 game, starting on 1 January and covering the second half of 2026-27 and the 2027-28 and 2028-29 seasons. Coverage will sit in the ESPN content area at no extra cost to existing users.",
+          "RTL Deutschland's Inga Leschek said the deal strengthens a long-standing content licensing relationship and the leagues' visibility, while Disney's Diego Londono called it a milestone as ESPN on Disney+ expands across Europe. In Germany the platform also holds UEFA Women's Champions League and Formula E rights. Its wider lineup includes NCAA basketball and college football, plus NHL and NBA rights in 11 European markets."
+        ],
         "triaged": true,
         "priority": 3,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Media giant Disney has sub-licensed a package of rights concerning the German Bundesliga elite soccer property from rights holder RTL Deutschland, expanding its sports portfolio across the DACH region.\n\nThe Disney+ OTT streaming service will now broadcast highlights packages for every Bundesliga and second-tier Bundesliga 2 game in the territories of Germany, Austria, Switzerland, and Liechtenstein (the DACH region).",
-        "first_seen": "2026-11-24T12:57:22.542070+00:00"
+        "first_seen": "2026-11-24T12:57:22.542070+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[Disney+ sub-licenses Bundesliga highlights] from RTL for the DACH region, running from 1 January 2027 through the 2028-29 season.",
+        "angle": "Shows streamers building sports portfolios through sub-licensing, relevant to how ADNOC Pro League highlights could reach audiences across platforms."
       },
       {
         "section": "Wider Sports News",
@@ -2513,7 +2622,9 @@
         "is_article": true,
         "read_attempts": 2,
         "copy": "",
-        "first_seen": "2026-11-24T12:57:22.542070+00:00"
+        "first_seen": "2026-11-24T12:57:22.542070+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
       },
       {
         "section": "Wider Sports News",
@@ -2641,6 +2752,29 @@
       },
       {
         "section": "Wider Sports News",
+        "source": "Bizcommunity",
+        "search": "Sports business search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Simbine Classic adds 5km and 10km races for 2027",
+        "feed_link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWtTaXFYNnJrX1ZrTHdrZUR6czRrM25KU1pOVzhQVk9qSHB1dFJZekNHc2RWdnRHU3NvanJyQk84NW5fYWpiWEt4cmJ6ZXJZX0JQZUVTWXNhUnZ6U0VvTnF3eEduUlBLc3l2akNELU9PTFdZN255cHhKSjYtdHkzYTl6aklyRjF1QVl4SmxyYzc1X1dkeENOdw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWtTaXFYNnJrX1ZrTHdrZUR6czRrM25KU1pOVzhQVk9qSHB1dFJZekNHc2RWdnRHU3NvanJyQk84NW5fYWpiWEt4cmJ6ZXJZX0JQZUVTWXNhUnZ6U0VvTnF3eEduUlBLc3l2akNELU9PTFdZN255cHhKSjYtdHkzYTl6aklyRjF1QVl4SmxyYzc1X1dkeENOdw?oc=5",
+        "published": "2026-11-24T10:52:20+00:00",
+        "published_label": "Tue 24 Nov, 14:52",
+        "summary": "Simbine Classic adds 5km and 10km races for 2027 Bizcommunity",
+        "id": "98c690e3e865",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "minor local road-running event change, no ADNOC or UAE link",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-24T16:24:58.317938+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "SportBusiness",
         "search": "SportBusiness",
         "lang": "en",
@@ -2698,13 +2832,24 @@
         "published_label": "Tue 24 Nov, 14:27",
         "summary": "AMEX exits, Palo Alto Networks steps in to sponsor La Quinta PGA Tour event Sportcal",
         "id": "4c81a1e75061",
-        "bullets": [],
+        "bullets": [
+          "American Express is ending its title sponsorship of the Desert Classic at La Quinta Country Club, California, a year early, after the 2027 edition. The event has been known as The American Express since 2019, and the deal was renewed in 2022 to run through the 2028 season. Palo Alto Networks will become primary sponsor from 2028, with a new name yet to be announced.",
+          "The exit follows the PGA Tour's format change from 2028, when it will split into a top-tier Championship Series and a secondary Challenger Series, with players promoted or relegated on performance. The Desert Classic will sit in the Challenger tier, which reduces its exposure and is likely to devalue the investment. The Challenger Series will have at least 20 tournaments, with purses of at least $4 million each."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "The PGA Tour’s upcoming format change is already having effects, with credit card giant American Express (AMEX) pulling its sponsorship of the annual Desert Classic event, which will be part of the second tier of events.\n\nThe Desert Classic, held at the La Quinta Country Club in California, has been known as The American Express since 2019, a deal that was renewed in 2022 to run through the 2028 PGA Tour season.",
-        "first_seen": "2026-11-24T11:33:42.822459+00:00"
+        "first_seen": "2026-11-24T11:33:42.822459+00:00",
+        "summary_status": "done",
+        "label": "GOLF",
+        "line": "[American Express exits the Desert Classic] a year early, with Palo Alto Networks taking over as primary sponsor from 2028.",
+        "angle": "Shows how a tour restructure can prompt sponsors to exit early, a reminder to check tier and exposure terms in long-running title deals.",
+        "stat": {
+          "value": "2028",
+          "label": "year Palo Alto Networks becomes primary sponsor"
+        }
       },
       {
         "section": "Wider Sports News",
@@ -2743,13 +2888,24 @@
         "published_label": "Tue 24 Nov, 14:00",
         "summary": "Strauss chief executive Henning Strauss tells SportsPro how sponsorship is helping the workwear brand expand beyond its German heartland. The post ‘Our category felt dusty’: Why Strauss now spends a third of its marketing budget on sponsorship appeared first on SportsPro .",
         "id": "58fcd7c6953b",
-        "bullets": [],
+        "bullets": [
+          "German workwear brand Strauss ended its sponsorship of the German Football Association (DFB), in place since 2010, at the end of 2025. It now spends about a third of its marketing budget, which runs to a few hundred million euros, on sponsorship. In September it became UEFA's first official referee partner, covering men's and women's club and national team competitions including the Champions League and Euros.",
+          "Chief executive Henning Strauss said the brand is growing faster abroad, notably in the UK, Australia and North America, so spending has shifted away from Germany. Its portfolio includes MLB, the AFL, the Big Ten, the NFL in Europe, Liverpool, Los Angeles FC, Nottingham Forest and Euro 2028. The UEFA deal includes logos on referee sleeves and VAR monitors. He said the aim is to sit alongside premium global brands such as Adidas, Coca-Cola and Mastercard."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "When German workwear brand Strauss concluded its long-running sponsorship of the country’s national soccer team at the end of 2025, it might have seemed peculiar timing. The company had been a partner of the German Football Association (DFB) since 2010, and the relationship ended on the eve of a Fifa World Cup year – a major tournament where interest around Die Mannschaft would typically peak.\n\nHowever, in September, a new deal with Uefa offered some insight into how Strauss’s sponsorship strategy is shifting. Already a sponsor of the Europa League and Conference League club competitions, the company expanded its relationship with European soccer’s governing body to become its first-ever official referee partner, spanning men’s and women’s club and national team competitions, including the Champions League and the Euros.",
-        "first_seen": "2026-11-24T11:33:42.822459+00:00"
+        "first_seen": "2026-11-24T11:33:42.822459+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[Strauss now spends a third] of its marketing budget on sponsorship, shifting from the DFB to UEFA referees and overseas partnerships.",
+        "angle": "A case study in using sponsorship to build awareness in growth markets and choosing partners by the quality of the surrounding sponsor ecosystem.",
+        "stat": {
+          "value": "1/3",
+          "label": "of Strauss's marketing budget goes on sponsorship"
+        }
       },
       {
         "section": "Wider Sports News",
@@ -3073,13 +3229,20 @@
         "published_label": "Tue 24 Nov, 04:33",
         "summary": "Queensland Rugby Union and KDL Property Group Expand Partnership Through 2028 Ministry of Sport",
         "id": "a8315f1037a1",
-        "bullets": [],
+        "bullets": [
+          "The Queensland Rugby Union has expanded and extended its partnership with Gold Coast-based developer KDL Property Group through 2028, moving the company from a junior pathways sponsor onto the elite kits of the Queensland Reds. KDL's logo will appear on the playing shorts of the Reds men's, women's and sevens teams for the first time.",
+          "The relationship began in 2024 and already includes front-of-jersey placement on Reds under-age squads and a three-year naming-rights deal for the KDL Property Group Emerging Reds Cup, launched in September 2026. The agreement extends visibility across Suncorp Stadium and international fixtures ahead of the Men's Rugby World Cup Australia 2027. KDL managing director Kent Leicester said the company now supports Queensland rugby from junior pathways to elite level, while QRU chief executive David Hanham said it aligned with the union's vision."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "The Queensland Rugby Union (QRU) has expanded and extended its commercial partnership with Gold Coast-based residential developer KDL Property Group through 2028, elevating the company from a junior pathways sponsor onto the elite playing kits of the Queensland Reds.\n\nThe agreement sees KDL Property Group branding appear on the playing shorts of the Queensland Reds men’s, women’s, and sevens teams for the first time. The expansion builds directly on a relationship initiated in 2024, which already includes front-of-jersey placement across Reds under-age representative squads and a three-year naming-rights commitment for the KDL Property Group Emerging Reds Cup launched in September 2026.",
-        "first_seen": "2026-11-24T11:33:42.822459+00:00"
+        "first_seen": "2026-11-24T11:33:42.822459+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[Queensland Rugby Union extends KDL Property Group] through 2028, adding the Reds' playing shorts to its junior pathway and naming-rights deal.",
+        "angle": "An example of growing a sponsor from grassroots into elite inventory, a model for ADNOC's community-to-professional property links."
       },
       {
         "section": "Wider Sports News",
@@ -13377,6 +13540,75 @@
     "Formula 1 & Motorsport": [
       {
         "section": "Formula 1 & Motorsport",
+        "source": "Formula 1",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "What time is the 2026 Qatar GP and how can I watch it?",
+        "feed_link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNlhNdUlJbnRaaXNwYTk5OG9rdVdiUTJUNW9nNVZWWWk3aHh6SVlCM3R1eVZQTnZ4SUQ1aW9laDdoZDJNX3FPSUx2cHhYR0lIc0tWWjNBMnFIaHY0M0Y0YU0tYWcxRHkycGhxX3kwSndRSi1tSUhuMGlnTWtZRTNlMHdJdThPMXdkckZ4bkFKblZXaXZtemxSb3ZfaXh5QzhDWlhqWFV3Q05NS3lsYVpFRFlmMTJhNEp6bzFVenVlUEY1YS1XOHVqbmFfMEdWek50MWc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNlhNdUlJbnRaaXNwYTk5OG9rdVdiUTJUNW9nNVZWWWk3aHh6SVlCM3R1eVZQTnZ4SUQ1aW9laDdoZDJNX3FPSUx2cHhYR0lIc0tWWjNBMnFIaHY0M0Y0YU0tYWcxRHkycGhxX3kwSndRSi1tSUhuMGlnTWtZRTNlMHdJdThPMXdkckZ4bkFKblZXaXZtemxSb3ZfaXh5QzhDWlhqWFV3Q05NS3lsYVpFRFlmMTJhNEp6bzFVenVlUEY1YS1XOHVqbmFfMEdWek50MWc?oc=5",
+        "published": "2026-11-24T16:15:00+00:00",
+        "published_label": "Tue 24 Nov, 20:15",
+        "summary": "What time is the 2026 Qatar GP and how can I watch it? Formula 1",
+        "id": "861be8732fd3",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "TV viewing guide, not news",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-24T16:24:58.317938+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Formula 1",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Who impressed our Power Rankings judges in Las Vegas?",
+        "feed_link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQkYzRVhYQkthWTZxR3kxbzBoTy1VYlptOUFrekdmTkRXNUZGUXEzQ1czQTJxbl9GMFp4czc1REpPdXB0dTJlU3hQUjloUzBkcTQ2dk5NMl9yeFBXUFNRc1pmZ3piRDJXalBhVUVqZllpQWloYVZzcDJRYmVXV0hfYUR5N1o2cTlaU3oxSzFPanJiZU9Xbm1IaDFqWlVrVFBEekxNbldOZ09pbjZZbno3aGFrS0Nycm54S0hHVG95ekxnRW5CR2JObW5EUU5pS1o5RHlF?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQkYzRVhYQkthWTZxR3kxbzBoTy1VYlptOUFrekdmTkRXNUZGUXEzQ1czQTJxbl9GMFp4czc1REpPdXB0dTJlU3hQUjloUzBkcTQ2dk5NMl9yeFBXUFNRc1pmZ3piRDJXalBhVUVqZllpQWloYVZzcDJRYmVXV0hfYUR5N1o2cTlaU3oxSzFPanJiZU9Xbm1IaDFqWlVrVFBEekxNbldOZ09pbjZZbno3aGFrS0Nycm54S0hHVG95ekxnRW5CR2JObW5EUU5pS1o5RHlF?oc=5",
+        "published": "2026-11-24T14:56:00+00:00",
+        "published_label": "Tue 24 Nov, 18:56",
+        "summary": "Who impressed our Power Rankings judges in Las Vegas? Formula 1",
+        "id": "106f8023cb54",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "power rankings, talking-points piece",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-24T16:24:58.317938+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Mashable",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Lego F1 Speed Champions 2027: Driver minifigures and where to buy",
+        "feed_link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanFlbWVuZWVWMElGakowcFk5OGJfcno2ZlhmNjJ1V3ZrcWFUcFBpV0dFdENGckNzSmFsaEV5VGlFQl9XMmk4UGFRSTNoMU55Y0N2bUVKamdXRjlPaW1qRHZ2bklaSkljSFdmNzM2VEZuM3c5ZmNTWWdpaGptb2pHaHlMSzVLZw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanFlbWVuZWVWMElGakowcFk5OGJfcno2ZlhmNjJ1V3ZrcWFUcFBpV0dFdENGckNzSmFsaEV5VGlFQl9XMmk4UGFRSTNoMU55Y0N2bUVKamdXRjlPaW1qRHZ2bklaSkljSFdmNzM2VEZuM3c5ZmNTWWdpaGptb2pHaHlMSzVLZw?oc=5",
+        "published": "2026-11-24T14:54:40+00:00",
+        "published_label": "Tue 24 Nov, 18:54",
+        "summary": "Lego F1 Speed Champions 2027: Driver minifigures and where to buy Mashable",
+        "id": "752ca1ad8944",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "toy product and buying guide",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-24T16:24:58.317938+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
         "source": "Coveteur",
         "search": "F1 search",
         "lang": "en",
@@ -13412,13 +13644,29 @@
         "published_label": "Tue 24 Nov, 18:00",
         "summary": "F1’s Las Vegas Grand Prix has now delivered $3.2bn for Southern Nevada Sector - The Business of F1",
         "id": "05aa6da2e342",
-        "bullets": [],
+        "bullets": [
+          "The Las Vegas Grand Prix has generated $3.2bn in cumulative economic impact for Southern Nevada since its 2023 debut, according to F1. This year's race was the 21st consecutive sell-out and ran over 50 laps with a record number of overtakes. The 2025 race produced $43m in state and local tax revenue, drew 165,000 unique visitors from 49 countries and reached a record worldwide audience of more than 67 million.",
+          "The second annual F1 Business Summit was held during the weekend, bringing together leaders from technology, finance, luxury, fashion, hospitality, media, entertainment and sport. Nike and WHOOP signed as new partners and Standard Chartered expanded to become a Global Partner, among seven partnership announcements in four days. F1 says it has 53 million US fans, up 11% from 2023. President and CEO Stefano Domenicali said F1 will return to Las Vegas next year."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 2,
         "copy": "",
-        "first_seen": "2026-11-24T15:19:26.980904+00:00"
+        "first_seen": "2026-11-24T15:19:26.980904+00:00",
+        "summary_status": "done",
+        "label": "F1 BUSINESS",
+        "line": "[Las Vegas Grand Prix has delivered $3.2bn] in economic impact for Southern Nevada since 2023, with seven partnership announcements in four days.",
+        "angle": "Gives a benchmark for economic-impact reporting and a race-week business summit model that could inform the Abu Dhabi Grand Prix, where ADNOC is founding partner.",
+        "activation": {
+          "title": "F1, Las Vegas Business Summit",
+          "what": "F1 ran its second Business Summit during race weekend, convening leaders from technology, finance, luxury, media and sport.",
+          "borrow": "Host a race-week business forum in Abu Dhabi for ADNOC partners and clients."
+        },
+        "stat": {
+          "value": "$3.2bn",
+          "label": "economic impact for Southern Nevada since 2023"
+        }
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -13503,13 +13751,47 @@
         "published_label": "Tue 24 Nov, 17:00",
         "summary": "Formula 1 driver change creates rare situation seen just once in 77 years Beyond the Flag",
         "id": "d286aa3443bc",
-        "bullets": [],
+        "bullets": [
+          "Haas has confirmed that Rafael Camara will drive the final two races of the 2026 season, in Qatar and Abu Dhabi. The team dropped Esteban Ocon with five races left and brought in Ryo Hirakawa in Mexico City. Camara, already named Ocon's 2027 replacement, raced in São Paulo and Las Vegas.",
+          "Only one seat remains open on the 2027 grid, alongside Camara at Haas, and it would be a major shock if it did not go to Ollie Bearman, who has been with the team since 2025. If so, the season-finale line-up would match the next season's opener, which has happened once in F1's 77-year history, in 2023-24. That followed Daniel Ricciardo replacing Nyck de Vries at AlphaTauri, with Liam Lawson later replacing Ricciardo for the final six races of 2024."
+        ],
         "triaged": true,
         "priority": 3,
         "is_article": true,
         "read_attempts": 1,
         "copy": "There has been just one driver change confirmed for the 2027 Formula 1 season thus far, and given the confirmations throughout the rest of the grid, it is unlikely that there will be any more.\n\nThat lone change has already been enacted, as Haas dropped Esteban Ocon with five races remaining on the 2026 schedule and brought in Ryo Hirakawa as his replacement in Mexico City.",
-        "first_seen": "2026-11-24T15:19:26.980904+00:00"
+        "first_seen": "2026-11-24T15:19:26.980904+00:00",
+        "summary_status": "done",
+        "label": "F1",
+        "line": "[Haas confirm Rafael Camara] for the Qatar and Abu Dhabi finales, leaving one 2027 seat open, likely for Ollie Bearman.",
+        "angle": "Camara's Yas Marina appearance sets up a Haas line-up that may carry unchanged into 2027, relevant to Abu Dhabi Grand Prix storylines.",
+        "stat": {
+          "value": "77",
+          "label": "years of F1 history with this line-up scenario only once"
+        }
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Formula 1",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "PALMER: Where do Ferrari go from here after Las Vegas clash?",
+        "feed_link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOemMyb2RKeVUxRkUzV2l5b2pVY0pmV0Z4VFpwVFdBTUhsdEpGTTRHdFJaekhOUXhYb1NROGVHcS1CV2RjaUdQX1M1RS05OU83cVI2SUozQUZuLWZWb213c1dzamxnUXA3TFE4bWtWbkNtbTJ4c0FtRnBmWmlmS2QwQS1oZEhZX1BuVU1SYjRFM1JOT3RIODBub0FQc1A1enBONmxpa2RaaFFJTm40MWpQcXkyUGZORTJPeUNqSWo4WndCUUtMZlFMR1d1alFncW8?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOemMyb2RKeVUxRkUzV2l5b2pVY0pmV0Z4VFpwVFdBTUhsdEpGTTRHdFJaekhOUXhYb1NROGVHcS1CV2RjaUdQX1M1RS05OU83cVI2SUozQUZuLWZWb213c1dzamxnUXA3TFE4bWtWbkNtbTJ4c0FtRnBmWmlmS2QwQS1oZEhZX1BuVU1SYjRFM1JOT3RIODBub0FQc1A1enBONmxpa2RaaFFJTm40MWpQcXkyUGZORTJPeUNqSWo4WndCUUtMZlFMR1d1alFncW8?oc=5",
+        "published": "2026-11-24T12:54:28+00:00",
+        "published_label": "Tue 24 Nov, 16:54",
+        "summary": "PALMER: Where do Ferrari go from here after Las Vegas clash? Formula 1",
+        "id": "46b6242634c1",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "opinion column",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-24T16:24:58.317938+00:00"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -14768,6 +15050,29 @@
       },
       {
         "section": "Formula 1 & Motorsport",
+        "source": "AutoRacing1.com",
+        "search": "Rashid Al Dhaheri watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Macau GP: Nakamura-Berta wins Formula Regional race from 6th",
+        "feed_link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcVY2YUxybGl0OWtWbUdTSUFRZVZnZU5xaDZsYkN2TjhONlhaSmJhRktNNXNLUmFZTHV5MTRRN2kwZmhqaW9jUER2cjhJVFc3eUxnSnJXcWl0SUlZdUlWNWRscUc0TTF0Z1hoWFFTbHI0NHdhOWk3dEhYdkdGQnNDdEtTZlpvQVVHSHVremtDa1Y2dmd3MTJGRF9PVlNuN0k?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcVY2YUxybGl0OWtWbUdTSUFRZVZnZU5xaDZsYkN2TjhONlhaSmJhRktNNXNLUmFZTHV5MTRRN2kwZmhqaW9jUER2cjhJVFc3eUxnSnJXcWl0SUlZdUlWNWRscUc0TTF0Z1hoWFFTbHI0NHdhOWk3dEhYdkdGQnNDdEtTZlpvQVVHSHVremtDa1Y2dmd3MTJGRF9PVlNuN0k?oc=5",
+        "published": "2026-11-23T15:17:29+00:00",
+        "published_label": "Mon 23 Nov, 19:17",
+        "summary": "Macau GP: Nakamura-Berta wins Formula Regional race from 6th AutoRacing1.com",
+        "id": "6b521867fb5e",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "Macau Formula Regional race result; other series, no UAE angle",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-24T16:24:58.317938+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
         "source": "Autoweek",
         "search": "F1 search",
         "lang": "en",
@@ -15650,6 +15955,29 @@
           "value": "26",
           "label": "points for Herta from 12 F2 rounds before leaving Hitech"
         }
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Autosport",
+        "search": "Autosport",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "Herta replaced at Hitech to end F2 season early",
+        "feed_link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRVN2N2MtRzkyQ1NueDF4RzFJSnpDcnhrZEI3RlE4Y2ItbFBaT29RcUdzQXZ1aUZxTGZaSTRXR0l5YTVjY0N3cXRId0tMSC0teXl5X0I2c0VYQTdkZ0tlVEkxWXJiaDFBMTV1UjdlV0RNUGhCdXRINTBsa080aW1YSUliZE02OWtmZVR5RkM3Q3haY2dteHllTFhxVTBKa1ZRV05EMHRZS3JXdWktZ3c?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRVN2N2MtRzkyQ1NueDF4RzFJSnpDcnhrZEI3RlE4Y2ItbFBaT29RcUdzQXZ1aUZxTGZaSTRXR0l5YTVjY0N3cXRId0tMSC0teXl5X0I2c0VYQTdkZ0tlVEkxWXJiaDFBMTV1UjdlV0RNUGhCdXRINTBsa080aW1YSUliZE02OWtmZVR5RkM3Q3haY2dteHllTFhxVTBKa1ZRV05EMHRZS3JXdWktZ3c?oc=5",
+        "published": "2026-11-23T09:51:17+00:00",
+        "published_label": "Mon 23 Nov, 13:51",
+        "summary": "Herta replaced at Hitech to end F2 season early Autosport",
+        "id": "d344c8d366b9",
+        "bullets": [],
+        "triaged": true,
+        "priority": 2,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-24T16:24:58.317938+00:00"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -29824,6 +30152,75 @@
     "Cycling": [
       {
         "section": "Cycling",
+        "source": "Cyclingnews",
+        "search": "Cyclingnews",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "My daughter loved the Prevelo Zulu Four - it's probably the best 24-inch bike out there",
+        "feed_link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oNEI1cktqWWhVcVBmZEFXeWY0TkNjZ0UyUzluUXNyQTNROUFsNXBqNmlrWEVXeklnY1dfdjNCMklRQURFbFNGS2laeV9KQm9LUkNSNWcwMGtJc3dZTk41UUhvYU8xU1gxX3k0?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9oNEI1cktqWWhVcVBmZEFXeWY0TkNjZ0UyUzluUXNyQTNROUFsNXBqNmlrWEVXeklnY1dfdjNCMklRQURFbFNGS2laeV9KQm9LUkNSNWcwMGtJc3dZTk41UUhvYU8xU1gxX3k0?oc=5",
+        "published": "2026-11-24T15:58:07+00:00",
+        "published_label": "Tue 24 Nov, 19:58",
+        "summary": "My daughter loved the Prevelo Zulu Four - it's probably the best 24-inch bike out there Cyclingnews",
+        "id": "eaea269790a7",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "product review of a bike",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-24T16:24:58.317938+00:00"
+      },
+      {
+        "section": "Cycling",
+        "source": "Cyclingnews",
+        "search": "Cyclingnews",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "Zwift Ride now works with Rouvy – You can save up to 23% on the Rouvy Edition bundle this Black Friday",
+        "feed_link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOT3JSWGJEUndnLVJ0Q2ljdVpiTkNNVG12U0l2ZFRqUHpydVRVTF9xcjlZY2kzTXhQNlhvdFR6Ui1tZE85ajRta2ZCdC0xSENORVFHRkhtdU9xWFdSbmhfbE5VNGI0dk5nVTQ2SVh4c3dNWjJqazRRSGRIemtyZi1PUElRVVhLZDVnREMzWlJFTDlmbWNTR0g5VE93NWNUY3pXRmpWVTVxWUYydk9tYXVrWUYyWW9zZUJ5akFvd0Y2eVlLakJHZDY0ODFaS0E0ZDJBTVZIdWd0ekpuQkE0MFBONmZrNHpqUllsZ2RGTmppdWRHRGZMNFNBUUJaLXd1enVxTW8ySXBB?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOT3JSWGJEUndnLVJ0Q2ljdVpiTkNNVG12U0l2ZFRqUHpydVRVTF9xcjlZY2kzTXhQNlhvdFR6Ui1tZE85ajRta2ZCdC0xSENORVFHRkhtdU9xWFdSbmhfbE5VNGI0dk5nVTQ2SVh4c3dNWjJqazRRSGRIemtyZi1PUElRVVhLZDVnREMzWlJFTDlmbWNTR0g5VE93NWNUY3pXRmpWVTVxWUYydk9tYXVrWUYyWW9zZUJ5akFvd0Y2eVlLakJHZDY0ODFaS0E0ZDJBTVZIdWd0ekpuQkE0MFBONmZrNHpqUllsZ2RGTmppdWRHRGZMNFNBUUJaLXd1enVxTW8ySXBB?oc=5",
+        "published": "2026-11-24T15:51:01+00:00",
+        "published_label": "Tue 24 Nov, 19:51",
+        "summary": "Zwift Ride now works with Rouvy – You can save up to 23% on the Rouvy Edition bundle this Black Friday Cyclingnews",
+        "id": "2694c3f8b595",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "product promotion for cycling trainer software, not news",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-24T16:24:58.317938+00:00"
+      },
+      {
+        "section": "Cycling",
+        "source": "Cyclingnews",
+        "search": "Cycling search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "'This team has been my home' – Former Tour de France champion Egan Bernal extends his contract with Netcompany Ineos until 2029",
+        "feed_link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQV01Lak5QeWQwanRRUzU1bnRXd3JKVGowWktMM2JWYWp5T0w5a1NOdDhxcUM1M2NfUjhFQTVldEx4X3hjQUxQX3k0UnRiUkFQSlhMRWpBa3A2X1kxWXlzTGFsWE41QUhKa3o5aDlzMER0cnNDX2QzRTAzZ3laNGlCdlhxZzFzcnJFSkZscUdyaXd6TVoyMGdWWEp1Mmk0QjVqeXpRNHpXOV81bWxlSkxfdkowNWFrTjFTM29ycEM3ZUNGc2pXMjVtT2pwenAyZTJVa3NvbTFXb3NLUS1CLTlRZFdabzZFaF9SOXFSbzFVVldmYWNlZlUyeFZuMTVudXBnOHJ1MFd1YkI?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQV01Lak5QeWQwanRRUzU1bnRXd3JKVGowWktMM2JWYWp5T0w5a1NOdDhxcUM1M2NfUjhFQTVldEx4X3hjQUxQX3k0UnRiUkFQSlhMRWpBa3A2X1kxWXlzTGFsWE41QUhKa3o5aDlzMER0cnNDX2QzRTAzZ3laNGlCdlhxZzFzcnJFSkZscUdyaXd6TVoyMGdWWEp1Mmk0QjVqeXpRNHpXOV81bWxlSkxfdkowNWFrTjFTM29ycEM3ZUNGc2pXMjVtT2pwenAyZTJVa3NvbTFXb3NLUS1CLTlRZFdabzZFaF9SOXFSbzFVVldmYWNlZlUyeFZuMTVudXBnOHJ1MFd1YkI?oc=5",
+        "published": "2026-11-24T14:35:48+00:00",
+        "published_label": "Tue 24 Nov, 18:35",
+        "summary": "'This team has been my home' – Former Tour de France champion Egan Bernal extends his contract with Netcompany Ineos until 2029 Cyclingnews",
+        "id": "5d000af2fcf9",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "rider contract extension with non-UAE team; outside cycling keep rules",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-24T16:24:58.317938+00:00"
+      },
+      {
+        "section": "Cycling",
         "source": "IDLprocycling.com",
         "search": "UAE Team Emirates watch",
         "lang": "en",
@@ -35813,6 +36210,30 @@
       }
     ],
     "UAE Pro League & GCC Football": [
+      {
+        "section": "UAE Pro League & GCC Football",
+        "source": "The AFC",
+        "search": "GCC football search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Group D: East Bengal FC (IND) 1-0 Al Hussein (JOR)",
+        "feed_link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPejdSVXhoYUlza0JPcFhGa3E5V0VhWkc1SnZLdS1QT3pHZlFrV0NuZ1FVRnlQcDRvQV9ZcFZZb0RUcGZCa3dSU1k5OU9PSURiWTNWQ1kwaFRHRTNPS2JvTV9aS3ZlT3ZwZ0Y3OF9pY2luM1NWUENlaC1hdkVLWlRsOUtQMmNOS2tVaDVfbE9rR1RrTHUyQVpaZlMxaEx1clktUmNmT1lpWDJIM2QyMjRjZzR3?oc=5",
+        "link": "https://www.the-afc.com/en/club/afc_champions_league_two.html/news/group-d-east-bengal-fc-ind-1-0-al-hussein-jor",
+        "published": "2026-11-24T15:48:30+00:00",
+        "published_label": "Tue 24 Nov, 19:48",
+        "summary": "Group D: East Bengal FC (IND) 1-0 Al Hussein (JOR) The AFC",
+        "id": "f10b947b6b32",
+        "bullets": [],
+        "triaged": true,
+        "priority": 2,
+        "is_article": true,
+        "read_attempts": 1,
+        "copy": "The win moved East Bengal to second in Group D with five points, level with the Jordanian outfit and opened up the fight for the second knockout spot, with Iraq's Al Shorta already assured of advancing.\n\nBoth sides had chances in the opening 10 minutes, Mahmoud Al Mardi’s heavy touch from the centre rolling past the left post and East Bengal’s Chris Ikonomidis’ half-volley punched away by Mahmoud Al Kawamleh.",
+        "first_seen": "2026-11-24T16:24:58.317938+00:00",
+        "summary_status": "skipped",
+        "skip_reason": "Routine match report, no Gulf angle"
+      },
       {
         "section": "UAE Pro League & GCC Football",
         "source": "The National",
@@ -42310,40 +42731,40 @@
       }
     ]
   },
-  "total": 1741,
+  "total": 1756,
   "edition": {
-    "drafted_at": "2026-11-24T15:20:43.508014+00:00",
+    "drafted_at": "2026-11-24T16:26:38.281734+00:00",
     "days": 14,
     "headline": [
-      "F1 finale confirmed.",
-      "Abu Dhabi hosts on 6 December."
+      "Abu Dhabi finale holds.",
+      "The 2027 Sprint is next."
     ],
     "stats": [
-      {
-        "value": "339,000",
-        "label": "fans at the record 2025 Abu Dhabi Grand Prix",
-        "id": "7416683044e8"
-      },
       {
         "value": "18",
         "label": "points: Al Jazira level with Sharjah at the top",
         "id": "d97e5f157f87"
       },
       {
-        "value": "5",
-        "label": "years: TotalEnergies' title deal with FDJ United women's team",
-        "id": "47acd2c017e2"
+        "value": "339,000",
+        "label": "fans at the record 2025 Abu Dhabi Grand Prix",
+        "id": "7416683044e8"
       },
       {
         "value": "1st",
         "label": "F1 Sprint Race for Abu Dhabi, in December 2027",
         "id": "404fbc3240b3"
+      },
+      {
+        "value": "5",
+        "label": "years: TotalEnergies' title deal with FDJ United women's team",
+        "id": "47acd2c017e2"
       }
     ],
     "watch": {
       "id": "5836ad929d71",
-      "lead": "F1 confirms the Abu Dhabi finale will go ahead on 6 December despite regional tensions.",
-      "text": "[Grandprix247] reports F1 will stage the Qatar and Abu Dhabi races on 29 November and 6 December despite the Middle East conflict. ADNOC, as founding partner, should prepare for security and attendance questions around race week."
+      "lead": "F1 confirms the Abu Dhabi Grand Prix finale will go ahead on 6 December.",
+      "text": "The race proceeds despite Middle East security concerns, so ADNOC, as founding partner, should be ready for questions in race week. [grandprix247] reports Qatar runs first, on 29 November."
     }
   }
 }
