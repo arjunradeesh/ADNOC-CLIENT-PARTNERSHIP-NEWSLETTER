@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T14:30:08.331068+00:00",
-  "generated_label": "Thursday 26 November 2026, 18:30 GST",
+  "generated_at": "2026-11-26T15:47:00.534034+00:00",
+  "generated_label": "Thursday 26 November 2026, 19:47 GST",
   "keep_days": 14,
   "section_order": [
     "ADNOC & Partner News",
@@ -2638,6 +2638,52 @@
     "Wider Sports News": [
       {
         "section": "Wider Sports News",
+        "source": "Arab News",
+        "search": "Arab News",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "‘Bigger than us as players’: Algeria on the brink of history after qualifying for first FIFA Women’s World Cup",
+        "feed_link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdEMzNC1mNm5YNkpWWDNCTDM5a3hzWkJBRHNsdVBydFBVVzRpNGxlOGlDMmtYVFJvY2pnYk9lNEI0cVZtV2l5ZVBfMW1heFc3QnJuOFFiNUJZUDNXeDVBTnp6RG5HZ0RlN01fWkZON2YwakJwT0QtX3hwbi11ZXlKR2xlRnVOS0I5RWFnLThVZTRFMkM5cTIyMFJ4alU2VjRNV2dMcnhWNVkycV9MYVhGaHE5T2RMZThpcUk1TF81MkM5cG1rWi1UVUY3S1RhZHRWOUV6YjNhal9ySnlaRWc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdEMzNC1mNm5YNkpWWDNCTDM5a3hzWkJBRHNsdVBydFBVVzRpNGxlOGlDMmtYVFJvY2pnYk9lNEI0cVZtV2l5ZVBfMW1heFc3QnJuOFFiNUJZUDNXeDVBTnp6RG5HZ0RlN01fWkZON2YwakJwT0QtX3hwbi11ZXlKR2xlRnVOS0I5RWFnLThVZTRFMkM5cTIyMFJ4alU2VjRNV2dMcnhWNVkycV9MYVhGaHE5T2RMZThpcUk1TF81MkM5cG1rWi1UVUY3S1RhZHRWOUV6YjNhal9ySnlaRWc?oc=5",
+        "published": "2026-11-26T15:33:12+00:00",
+        "published_label": "Thu 26 Nov, 19:33",
+        "summary": "‘Bigger than us as players’: Algeria on the brink of history after qualifying for first FIFA Women’s World Cup Arab News",
+        "id": "6fe3f4c26bde",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "player quote piece on a qualifier; match or player news, not sports business",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-26T15:47:00.534034+00:00"
+      },
+      {
+        "section": "Wider Sports News",
+        "source": "Arab News",
+        "search": "Arab News",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "La Liga clubs complete second Champions League clean sweep of the season",
+        "feed_link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcWRKZm9vc0prbDJKa2kyWTNGVzFpbGNubHRtS0FLZXI3c1dxWWh6YmJPbkFmUnVQM1E3X3NKcDR1OUFyakY1WmUwUEV5YWJNMEVpS1ladU9HOW5wSXUtUEQtcVJvcE83OFdISlJ0bS1XS0JkNVNESWxmamtxR1R1WjAzelZ2ekdHU0JtUEEzQnYxSGF2R0pBN1Etd2lfTFZXYjBOSk5vYXc1RkZIN3BNcA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcWRKZm9vc0prbDJKa2kyWTNGVzFpbGNubHRtS0FLZXI3c1dxWWh6YmJPbkFmUnVQM1E3X3NKcDR1OUFyakY1WmUwUEV5YWJNMEVpS1ladU9HOW5wSXUtUEQtcVJvcE83OFdISlJ0bS1XS0JkNVNESWxmamtxR1R1WjAzelZ2ekdHU0JtUEEzQnYxSGF2R0pBN1Etd2lfTFZXYjBOSk5vYXc1RkZIN3BNcA?oc=5",
+        "published": "2026-11-26T15:25:45+00:00",
+        "published_label": "Thu 26 Nov, 19:25",
+        "summary": "La Liga clubs complete second Champions League clean sweep of the season Arab News",
+        "id": "95ed79313518",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "match result news, not commercial",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-26T15:47:00.534034+00:00"
+      },
+      {
+        "section": "Wider Sports News",
         "source": "Sportcal",
         "search": "Sportcal",
         "lang": "en",
@@ -2650,13 +2696,20 @@
         "published_label": "Thu 26 Nov, 18:21",
         "summary": "Team Marketing enters motorsport with Pramac Racing remit Sportcal",
         "id": "4544fdad67a5",
-        "bullets": [],
+        "bullets": [
+          "Pramac Racing has hired sports and commercial agency Team Marketing to lead the development of its sponsorship portfolio. The team races in MotoGP as Prima Pramac Yamaha MotoGP and in Moto2 as BLU CRU Pramac Yamaha Moto2 Team. It wants to add more international brands ahead of a prospective entry into Moto3, and in particular to bring in sponsors from outside the traditional motorsport industry.",
+          "This is Team's first motorsport deal, as it widens its reach beyond its initial European football remit. Its UEFA contract for the global media and commercial rights to men's club competitions, excluding US media rights, ends after 2026-27, with Relevent taking over from 2027-28. Team has also added English rugby union club Wasps as a client in a deal running until June 2031. Pramac won the 2023 Team World Championship, and Jorge Martin won the 2024 Riders World Championship. Toprak Razgatlıoğlu joined the MotoGP grid for 2026."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Pramac Racing, the prominent motorcycle racing organization, has hired prominent sports and commercial agency Team Marketing to lead the development of its sponsorship portfolio.\n\nThe team, which competes in the elite MotoGP series as Prima Pramac Yamaha MotoGP, and in the secondary Moto2 category as BLU CRU Pramac Yamaha Moto2 Team, is aiming to add more “international brands” to its partnership roster, ahead of a prospective entry into the Moto3 category.",
-        "first_seen": "2026-11-26T14:30:08.331068+00:00"
+        "first_seen": "2026-11-26T14:30:08.331068+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[Pramac Racing hires Team Marketing] to lead its sponsorship portfolio, aiming to attract brands from outside traditional motorsport.",
+        "angle": "Shows how a MotoGP team is seeking non-endemic sponsors through an agency, a model ADNOC's motorsport and league properties could watch."
       },
       {
         "section": "Wider Sports News",
@@ -2672,13 +2725,24 @@
         "published_label": "Thu 26 Nov, 18:21",
         "summary": "Saran renews LaLiga rights in Türkiye through 2031-32 Sportcal",
         "id": "2f6cc2e3fe55",
-        "bullets": [],
+        "bullets": [
+          "Saran Media Group has renewed its LaLiga rights in Türkiye for five more years, covering the 2027-28 season through 2031-32. Matches will continue to be shown on its S Sport television channel and S Sport Plus streaming platform. The renewal builds on the original agreement, which began with the 2022-23 season and includes expert commentary and analysis alongside live matches.",
+          "LaLiga president Javier Tebas described Türkiye as a strategic market with a young, highly engaged and digitally connected football audience. Saran's wider portfolio includes the 2027 Women's World Cup in 24 European and Eurasian countries, the Premier League and FA Cup in Eastern European and Central Asian territories through 2027-28, the Bundesliga through 2028-29, and the Saudi Pro League. Chairman Kenan Saran said the deal reflects the group's growing regional reach and long-term commitment."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Saran Media Group, the prominent Turkish media operation, has renewed its rights for Spanish soccer’s top-tier LaLiga for another five years. The renewed agreement, which runs from the 2027-28 season through 2031- 32, will see Saran Media Group continue to provide coverage of league matches via its S Sport television channel and S Sport Plus streaming platform across Türkiye.\n\nCombine business intelligence and editorial excellence to reach engaged professionals across 36 leading media platforms. The renewal builds on the pair’s original broadcast agreement, which began with the 2022-23 season, and has seen Saran Media Group provide expert commentary and analysis alongside live matches.",
-        "first_seen": "2026-11-26T14:30:08.331068+00:00"
+        "first_seen": "2026-11-26T14:30:08.331068+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[Saran renews LaLiga rights in Türkiye] for five years, running from 2027-28 through 2031-32.",
+        "angle": "Long-term regional broadcast deals like this show how leagues build international audiences, relevant to the ADNOC Pro League's reach.",
+        "stat": {
+          "value": "5",
+          "label": "years: Saran's renewed LaLiga rights in Türkiye"
+        }
       },
       {
         "section": "Wider Sports News",
@@ -2795,13 +2859,24 @@
         "published_label": "Thu 26 Nov, 16:20",
         "summary": "Global advisory and broking firm WTW has joined Everton as insurance partner in a multi-year deal, extending its growing footprint in English football. As Everton’s exclusive partner in the insurance brokerage category, WTW will provide the club with tailored risk and insurance advice and solutions. The deal also gives it brand visibility at Hill Dickinson […] The post WTW becomes Everton insurance partner appeared first on Sport Industry Group .",
         "id": "328aa5d98978",
-        "bullets": [],
+        "bullets": [
+          "Global advisory and broking firm WTW has become Everton's exclusive insurance brokerage partner in a multi-year deal. It will provide the club with risk and insurance advice and gain brand visibility at Hill Dickinson Stadium and across Everton's digital and social channels. The agreement also includes activation rights and stadium access for client hospitality and business events.",
+          "The 52,769-capacity stadium opened in August 2025 and is a host venue for Euro 2028. The deal follows WTW's September agreement with WSL Football and its role as global insurance partner of the INEOS Grenadiers cycling team. WTW places more than $100m of sports premium in global insurance markets each year. It is Everton's second commercial agreement in three days, after US power technology brand NOCO joined as battery charging partner."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Global advisory and broking firm WTW has joined Everton as insurance partner in a multi-year deal, extending its growing footprint in English football. As Everton’s exclusive partner in the insurance brokerage category, WTW will provide the club with tailored risk and insurance advice and solutions. The deal also gives it brand visibility at Hill Dickinson Stadium and across Everton’s digital and social channels, alongside commercial activation rights and access to the stadium for client hospitality and business events. The partners may also develop community initiatives over the course of the deal.\n\nSince opening in August 2025, the 52,769-capacity stadium has hosted the Rugby League Ashes and an England Women’s international. It is also a host venue for Euro 2028, and Everton have applied to double the number of non-sporting events, including concerts, held there each year.",
-        "first_seen": "2026-11-26T14:30:08.331068+00:00"
+        "first_seen": "2026-11-26T14:30:08.331068+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[WTW becomes Everton's insurance partner] in a multi-year deal that includes hospitality and activation rights.",
+        "angle": "Category-specific partnerships with hospitality access show a B2B sponsorship model ADNOC properties could consider.",
+        "stat": {
+          "value": "$100m",
+          "label": "of sports premium WTW places in insurance markets yearly"
+        }
       },
       {
         "section": "Wider Sports News",
@@ -2862,13 +2937,29 @@
         "published_label": "Thu 26 Nov, 15:50",
         "summary": "Foot Locker has become presenting partner of the NBA Manchester Game 2027, which will stage Manchester’s first NBA regular-season fixture at Co-op Live on 17th January 2027 The game will see the New Orleans Pelicans face the San Antonio Spurs, bringing NBA regular-season basketball to Manchester for the first time. As presenting partner, Foot Locker […] The post Foot Locker partners with NBA Manchester Game appeared first on Sport Industry Group .",
         "id": "d457cdd96d17",
-        "bullets": [],
+        "bullets": [
+          "Foot Locker has been named presenting partner of the NBA Manchester Game, in which the New Orleans Pelicans will face the San Antonio Spurs at Co-op Live. It will be the first NBA regular-season game in Manchester. Foot Locker will deliver fan engagement activity in the build-up, across NBA programming in the city and inside the arena on game night.",
+          "The agreement builds on the retailer's existing role as an NBA marketing partner in Europe. The fixture is the NBA's second game in Manchester and the 20th involving an NBA team in England since 1993, as part of the league's efforts to grow its audience and commercial presence in the UK. The Spurs roster includes Victor Wembanyama, while the Pelicans feature Zion Williamson. The partnership links basketball with sneaker culture, with retail, fashion and fan experiences planned around the event."
+        ],
         "triaged": true,
         "priority": 4,
         "is_article": true,
         "read_attempts": 1,
         "copy": "The game will see the New Orleans Pelicans face the San Antonio Spurs, bringing NBA regular-season basketball to Manchester for the first time. As presenting partner, Foot Locker will deliver fan engagement activity in the build-up to the fixture, across NBA programming in Manchester and inside Co-op Live on game night. The agreement builds on the retailer’s existing role as an NBA marketing partner in Europe.\n\nThe fixture represents the NBA’s second game in Manchester and the 20th involving an NBA team in England since 1993. It forms part of the league’s continued efforts to develop its audience and commercial presence in the UK.",
-        "first_seen": "2026-11-26T14:30:08.331068+00:00"
+        "first_seen": "2026-11-26T14:30:08.331068+00:00",
+        "summary_status": "done",
+        "label": "SPORTS BUSINESS",
+        "line": "[Foot Locker named presenting partner] of the NBA Manchester Game between the Pelicans and Spurs at Co-op Live.",
+        "angle": "A retailer-led city activation around a one-off fixture offers a model for event-week programming at ADNOC-backed events.",
+        "activation": {
+          "title": "Foot Locker, NBA Manchester",
+          "what": "Fan engagement in the build-up, across NBA programming in Manchester and inside Co-op Live on game night.",
+          "borrow": "Build retail and fan programming around one-off fixtures, not only the venue."
+        },
+        "stat": {
+          "value": "20th",
+          "label": "NBA game involving a team in England since 1993"
+        }
       },
       {
         "section": "Wider Sports News",
@@ -16547,6 +16638,29 @@
     "Formula 1 & Motorsport": [
       {
         "section": "Formula 1 & Motorsport",
+        "source": "GPblog",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Haas confirm F1 driver line up for 2027 in new partnership",
+        "feed_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SLVAwUTlNREZaekd5bThQVzRaWUZUZDNZQjhYVXpRZHI5S25manFTdHdWby1uR0dRaHhFVzVzR2pUTE52dUlZQUt6VHdhQWNsa3RORFE0QjFLYW1oRE45aWpYM1U2WHB2NS1MaDlFVWwyRWVLZHc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SLVAwUTlNREZaekd5bThQVzRaWUZUZDNZQjhYVXpRZHI5S25manFTdHdWby1uR0dRaHhFVzVzR2pUTE52dUlZQUt6VHdhQWNsa3RORFE0QjFLYW1oRE45aWpYM1U2WHB2NS1MaDlFVWwyRWVLZHc?oc=5",
+        "published": "2026-11-26T14:57:53+00:00",
+        "published_label": "Thu 26 Nov, 18:57",
+        "summary": "Haas confirm F1 driver line up for 2027 in new partnership GPblog",
+        "id": "4f1e007c1071",
+        "bullets": [],
+        "triaged": true,
+        "priority": 1,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-26T15:47:00.534034+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
         "source": "RACER - Racing News",
         "search": "F1 search",
         "lang": "en",
@@ -16590,6 +16704,53 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-26T14:30:08.331068+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Sector - The Business of F1",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Frontieras explains its Cadillac F1 partnership to investors - Sector",
+        "feed_link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRjZlQ3VRdlhma3ZpS0pQbGE0MllyN1RNY0NMVTBpbnRodklFTkpjSVFJLWcxRG1RWUV3eVZXLXlmLThnNDBhTm1JUnV3VGFuV0JJVHZ0WlNfYmE2azBMVEFyYklXS3lFT3FuTVNsZ1NLVnhjblFZSzdxY0NwNDh3MWZsaklxeUZURExyMjYyaGx5anU3?oc=5",
+        "link": "https://sector.world/2026/11/frontieras-explains-its-cadillac-f1-partnership-to-investors/",
+        "published": "2026-11-26T14:13:00+00:00",
+        "published_label": "Thu 26 Nov, 18:13",
+        "summary": "Frontieras explains its Cadillac F1 partnership to investors Sector - The Business of F1",
+        "id": "92dc269bd2d9",
+        "bullets": [],
+        "triaged": true,
+        "priority": 3,
+        "is_article": true,
+        "read_attempts": 2,
+        "copy": "",
+        "first_seen": "2026-11-26T15:47:00.534034+00:00",
+        "summary_attempts": 1,
+        "summary_status": "unavailable"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "DroneXL",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Las Vegas Police Ran a Dutch Drone Radar Over the F1 Grand Prix",
+        "feed_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMzM3el9kMFVldzF6MkJLMkVOUFAtWEdBeWJDYzR3R2VCdjZ4QUxRc2pMRmh4X1pFV1AtZ1M1UnlxdDdXMHkyNWhZRTZCaDNjbkxiYXVVeWdkVzB2OWhIVk1SNGRpcDdTOXE2eWRRcmlSYlRTT0VsZ3EzcF83bElXeEdaRnJVMmtTcFB4UHZR?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMzM3el9kMFVldzF6MkJLMkVOUFAtWEdBeWJDYzR3R2VCdjZ4QUxRc2pMRmh4X1pFV1AtZ1M1UnlxdDdXMHkyNWhZRTZCaDNjbkxiYXVVeWdkVzB2OWhIVk1SNGRpcDdTOXE2eWRRcmlSYlRTT0VsZ3EzcF83bElXeEdaRnJVMmtTcFB4UHZR?oc=5",
+        "published": "2026-11-26T14:02:00+00:00",
+        "published_label": "Thu 26 Nov, 18:02",
+        "summary": "Las Vegas Police Ran a Dutch Drone Radar Over the F1 Grand Prix DroneXL",
+        "id": "702f0278dab0",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "security and drone-radar operations story, not F1 sport or commercial news",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-26T15:47:00.534034+00:00"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -16784,6 +16945,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-26T14:30:08.331068+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Yahoo Sports",
+        "search": "F1 search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Ollie Bearman signs new Haas contract to remain in F1 for 2027",
+        "feed_link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcjZURE5mNkczZUYwYXR3b0x6ZzdzYVlLTFdwUGkxOHVZUUNsVzdiUVNhRnZWNDdGaGdDODlOczZmc3F2aTBINl9PajNKZHpMQ1BrZ2FTSWYtR3RfQi1FYVcwdk5iakpMdlFSYUZDMl9oVlJ4SDN6UzVndktmVlhFUTNJSzFpS2RvSUZPSHFB?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcjZURE5mNkczZUYwYXR3b0x6ZzdzYVlLTFdwUGkxOHVZUUNsVzdiUVNhRnZWNDdGaGdDODlOczZmc3F2aTBINl9PajNKZHpMQ1BrZ2FTSWYtR3RfQi1FYVcwdk5iakpMdlFSYUZDMl9oVlJ4SDN6UzVndktmVlhFUTNJSzFpS2RvSUZPSHFB?oc=5",
+        "published": "2026-11-26T11:38:48+00:00",
+        "published_label": "Thu 26 Nov, 15:38",
+        "summary": "Ollie Bearman signs new Haas contract to remain in F1 for 2027 Yahoo Sports",
+        "id": "200e4d834e83",
+        "bullets": [],
+        "triaged": true,
+        "priority": 1,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-26T15:47:00.534034+00:00"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -17512,6 +17696,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-26T09:59:45.732108+00:00"
+      },
+      {
+        "section": "Formula 1 & Motorsport",
+        "source": "Formula2",
+        "search": "Feeder series watch",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "PREVIEW: Looking to lay claim to the title around Lusail",
+        "feed_link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdGtrbFhlSHZrU3BlR2pzaVQtN0tSWVQ4clctd0NTUTlISGJsRENzSkVpdnhSY0FRVlFRVk8zR2J2aFQtYmNnVks5Ukg0bm9nNVhVSVVaQ2ZkdjZadlRNbzFaRlNOX0hhX2FDLWo1eVhtWlE4WVRTMkF3RHlUNUY3N0lzZEpFQllJRElmT3ViWGlTTHlJWWpZTGwxWWRRNkJ5X1lyQl9Mb19FZFlmT0xtSFlPd2c4YkFFVWtvOWNyVXZVUQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdGtrbFhlSHZrU3BlR2pzaVQtN0tSWVQ4clctd0NTUTlISGJsRENzSkVpdnhSY0FRVlFRVk8zR2J2aFQtYmNnVks5Ukg0bm9nNVhVSVVaQ2ZkdjZadlRNbzFaRlNOX0hhX2FDLWo1eVhtWlE4WVRTMkF3RHlUNUY3N0lzZEpFQllJRElmT3ViWGlTTHlJWWpZTGwxWWRRNkJ5X1lyQl9Mb19FZFlmT0xtSFlPd2c4YkFFVWtvOWNyVXZVUQ?oc=5",
+        "published": "2026-11-26T04:22:30+00:00",
+        "published_label": "Thu 26 Nov, 08:22",
+        "summary": "PREVIEW: Looking to lay claim to the title around Lusail Formula2",
+        "id": "19caebb685ad",
+        "bullets": [],
+        "triaged": true,
+        "priority": 1,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-26T15:47:00.534034+00:00"
       },
       {
         "section": "Formula 1 & Motorsport",
@@ -36457,11 +36664,34 @@
         "triaged": true,
         "priority": 7,
         "is_article": true,
-        "read_attempts": 1,
+        "read_attempts": 2,
         "copy": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.\n\nYou can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
         "first_seen": "2026-11-26T14:30:08.331068+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
+      },
+      {
+        "section": "Cycling",
+        "source": "Team Visma",
+        "search": "Cycling search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Visma extends partnership with Yellow B. as a Founding Partner",
+        "feed_link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLVF6cHlJck1QRGdxWUFMY3l1UmVHLVdoRjVydmNfUzhtY0RTS0FCLS1Xb1BnRmEwS3c5akJZTFRXNVJQaTF4TlgzQVduLTVyWEFLQnlWV3BpZVBXQ0hEeTZ4ZjhjcWZZRkJKZVlCUmJsT3YxZTRtUklEbUNmU2M1a1JyVVV4d3lPMm9wcFJtUk9qakxmMnRLNDlaeXBtN2M2YkpjWFk1T3U4RkcwRXBmWGFvQkp1dzNWSlJYQmZEWGk?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLVF6cHlJck1QRGdxWUFMY3l1UmVHLVdoRjVydmNfUzhtY0RTS0FCLS1Xb1BnRmEwS3c5akJZTFRXNVJQaTF4TlgzQVduLTVyWEFLQnlWV3BpZVBXQ0hEeTZ4ZjhjcWZZRkJKZVlCUmJsT3YxZTRtUklEbUNmU2M1a1JyVVV4d3lPMm9wcFJtUk9qakxmMnRLNDlaeXBtN2M2YkpjWFk1T3U4RkcwRXBmWGFvQkp1dzNWSlJYQmZEWGk?oc=5",
+        "published": "2026-11-26T13:04:45+00:00",
+        "published_label": "Thu 26 Nov, 17:04",
+        "summary": "Visma extends partnership with Yellow B. as a Founding Partner Team Visma",
+        "id": "68ed7f4908ed",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "minor team sponsor renewal, no UAE link and not in cycling keep rules",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-26T15:47:00.534034+00:00"
       },
       {
         "section": "Cycling",
@@ -36625,6 +36855,29 @@
       },
       {
         "section": "Cycling",
+        "source": "Outside Magazine",
+        "search": "Cycling search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "'So Stupid': Mads Pedersen Dumps on One of UCI's Most Ridiculous Rules",
+        "feed_link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZWRnQXFuNHVZby1INmVoMzZaNDVpd2EydXlINmRYZGlBN1NidWJBc0YtWnhVSWc1bVU1a1dqUWRMaFJuQ0RXVHBFd3JlUHZqbTZOYlFaU1c3VFBoV0NBbDE1N0I5dFlnOC1kZ0oxcVhNWEp5M3NGcVptUHczYkNvNHozRFJYVmNfaHhLNEdzbWVEbzMwcFJHNGd3?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZWRnQXFuNHVZby1INmVoMzZaNDVpd2EydXlINmRYZGlBN1NidWJBc0YtWnhVSWc1bVU1a1dqUWRMaFJuQ0RXVHBFd3JlUHZqbTZOYlFaU1c3VFBoV0NBbDE1N0I5dFlnOC1kZ0oxcVhNWEp5M3NGcVptUHczYkNvNHozRFJYVmNfaHhLNEdzbWVEbzMwcFJHNGd3?oc=5",
+        "published": "2026-11-26T11:08:16+00:00",
+        "published_label": "Thu 26 Nov, 15:08",
+        "summary": "'So Stupid': Mads Pedersen Dumps on One of UCI's Most Ridiculous Rules Outside Magazine",
+        "id": "36aa3d8cce3b",
+        "bullets": [],
+        "triaged": true,
+        "priority": 1,
+        "summary_status": "skipped",
+        "skip_reason": "duplicate of a story we already have",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-26T15:47:00.534034+00:00"
+      },
+      {
+        "section": "Cycling",
         "source": "Brujulabike.com",
         "search": "Cycling search",
         "lang": "en",
@@ -36645,6 +36898,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-26T11:34:25.199594+00:00"
+      },
+      {
+        "section": "Cycling",
+        "source": "Velora Cycling",
+        "search": "Cycling search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "‘Focused on the 20% rather than the 80' – Geraint Thomas on the shortcomings of modern WorldTour riders",
+        "feed_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kQy1FZ2VFTnpOLTBZYXdzWUN0c2xPZW1yYk5QdWN3ZkdUOTdONlN4dnl0QklyWTZCZW1SUXljOVFVZDhmUldNZDRESzFweHZTSi1PTmt4MlF2c0tlQVFDel9ZWUwtOTRYVkFiaTZhejBGWi1fc1E?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kQy1FZ2VFTnpOLTBZYXdzWUN0c2xPZW1yYk5QdWN3ZkdUOTdONlN4dnl0QklyWTZCZW1SUXljOVFVZDhmUldNZDRESzFweHZTSi1PTmt4MlF2c0tlQVFDel9ZWUwtOTRYVkFiaTZhejBGWi1fc1E?oc=5",
+        "published": "2026-11-26T10:23:49+00:00",
+        "published_label": "Thu 26 Nov, 14:23",
+        "summary": "‘Focused on the 20% rather than the 80' – Geraint Thomas on the shortcomings of modern WorldTour riders Velora Cycling",
+        "id": "5ffadb8e2b66",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "opinion or talking-points piece with no new facts",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-26T15:47:00.534034+00:00"
       },
       {
         "section": "Cycling",
@@ -36724,6 +37000,29 @@
         "is_article": true,
         "copy": "",
         "first_seen": "2026-11-26T09:59:45.732108+00:00"
+      },
+      {
+        "section": "Cycling",
+        "source": "Daniel Benson's Cycling Substack",
+        "search": "Cycling search",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": true,
+        "title": "Exclusive: 24 questions with Primož Roglič 🇸🇮",
+        "feed_link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpMFloenA1QVE2ZkVxZld1LUdINjZyLWZZUmJvNEhNbkdjdGhweW5vdHpoYUZEbEJWa0pHYTVBTTU2X2swdXJiN0wzd3hXZ2hLTll2eGJRSmhlWVRpNVUtSjYzTTJRNTlTODU0QVROLThEcldxSEE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBpMFloenA1QVE2ZkVxZld1LUdINjZyLWZZUmJvNEhNbkdjdGhweW5vdHpoYUZEbEJWa0pHYTVBTTU2X2swdXJiN0wzd3hXZ2hLTll2eGJRSmhlWVRpNVUtSjYzTTJRNTlTODU0QVROLThEcldxSEE?oc=5",
+        "published": "2026-11-25T18:33:43+00:00",
+        "published_label": "Wed 25 Nov, 22:33",
+        "summary": "Exclusive: 24 questions with Primož Roglič 🇸🇮 Daniel Benson's Cycling Substack",
+        "id": "f04986c88b0c",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "rider Q&A interview with no UAE or commercial angle",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-26T15:47:00.534034+00:00"
       },
       {
         "section": "Cycling",
@@ -36851,6 +37150,52 @@
         "label": "CYCLING",
         "line": "[Pedersen criticises UCI contract rule] forcing riders to train in old-team kit until 31 December.",
         "angle": "A UCI governance issue affecting winter branding for all WorldTour teams, including sponsor visibility for UAE Team Emirates XRG's incoming riders."
+      },
+      {
+        "section": "Cycling",
+        "source": "Cyclingnews",
+        "search": "Cyclingnews",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "'It's really the hope that kills you' – A season of resets for Rory Townsend",
+        "feed_link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUU4UWpxYlkwQ1VzUVlkUnZ1S0d2M1hPcU01TVZJSFB0RGZobzZWNFg0bUd1M21PeVpTbkwzZXdRMUhMZjBXci1NdGM4ZktMeVFFLXBtZHNNSmtzdGw2ZUp4SW1hUW40bjdIV3ZNTXR2WTVVUzVLTHhybGFjdGRxS1hhTmpheXJRVEx5ZTRkYXpQNlhaTFdvdnVVM3F2N2xUcUphdHFHUEhyOXNSZ0YyVVNWdmlwaTZyYWM3Qjc0Y1d1bGM?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUU4UWpxYlkwQ1VzUVlkUnZ1S0d2M1hPcU01TVZJSFB0RGZobzZWNFg0bUd1M21PeVpTbkwzZXdRMUhMZjBXci1NdGM4ZktMeVFFLXBtZHNNSmtzdGw2ZUp4SW1hUW40bjdIV3ZNTXR2WTVVUzVLTHhybGFjdGRxS1hhTmpheXJRVEx5ZTRkYXpQNlhaTFdvdnVVM3F2N2xUcUphdHFHUEhyOXNSZ0YyVVNWdmlwaTZyYWM3Qjc0Y1d1bGM?oc=5",
+        "published": "2026-11-25T14:32:08+00:00",
+        "published_label": "Wed 25 Nov, 18:32",
+        "summary": "'It's really the hope that kills you' – A season of resets for Rory Townsend Cyclingnews",
+        "id": "884d0ad1de50",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "personal rider feature with no UAE or commercial angle",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-26T15:47:00.534034+00:00"
+      },
+      {
+        "section": "Cycling",
+        "source": "Cyclingnews",
+        "search": "Cyclingnews",
+        "lang": "en",
+        "kind": "gnews",
+        "wide": false,
+        "title": "This Garmin flagship smartwatch just got a huge $250 Black Friday discount at Amazon",
+        "feed_link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNczBXVTJ5VzF6QnJUSklrR1oyTnZGRG9tSUdvTzJNeGlaVG9aa2VGb1BSX3NKNndEU0JUcDNRZXlrVFZKMHBlWXRfemdOa0drNnotQ05JdHUtNDFsWmp0ODI3bWJGSlhRa1dCUUFCWURpN011QzA1MDRqcGV2aDFqQ3EtTUc4eWlpQ3pZMHNZcG5NS3lTTl9IY01rckxSNUhoT0NUamFBNEh5cFZya1ZqTnlmWFA2LUktaGZDbXdhRE9GS0ZCUzY4S2x6Yk1YUWtlOW1BOVB3?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNczBXVTJ5VzF6QnJUSklrR1oyTnZGRG9tSUdvTzJNeGlaVG9aa2VGb1BSX3NKNndEU0JUcDNRZXlrVFZKMHBlWXRfemdOa0drNnotQ05JdHUtNDFsWmp0ODI3bWJGSlhRa1dCUUFCWURpN011QzA1MDRqcGV2aDFqQ3EtTUc4eWlpQ3pZMHNZcG5NS3lTTl9IY01rckxSNUhoT0NUamFBNEh5cFZya1ZqTnlmWFA2LUktaGZDbXdhRE9GS0ZCUzY4S2x6Yk1YUWtlOW1BOVB3?oc=5",
+        "published": "2026-11-25T14:18:28+00:00",
+        "published_label": "Wed 25 Nov, 18:18",
+        "summary": "This Garmin flagship smartwatch just got a huge $250 Black Friday discount at Amazon Cyclingnews",
+        "id": "90cffe5b83d8",
+        "bullets": [],
+        "triaged": true,
+        "priority": 5,
+        "summary_status": "skipped",
+        "skip_reason": "product deal on a smartwatch, equipment and buying guide",
+        "is_article": true,
+        "copy": "",
+        "first_seen": "2026-11-26T15:47:00.534034+00:00"
       },
       {
         "section": "Cycling",
@@ -43892,7 +44237,7 @@
         "read_attempts": 2,
         "copy": "",
         "first_seen": "2026-11-26T14:30:08.331068+00:00",
-        "summary_attempts": 1,
+        "summary_attempts": 2,
         "summary_status": "unavailable"
       },
       {
@@ -43984,13 +44329,24 @@
         "published_label": "Thu 26 Nov, 16:04",
         "summary": "Group G: Tampines Rovers FC (SGP) 1-7 Shanghai Shenhua FC (CHN) The AFC",
         "id": "743a9b1d16e6",
-        "bullets": [],
+        "bullets": [
+          "Shanghai Shenhua beat Tampines Rovers 7-1 in AFC Champions League Two Group G, moving up to seven points. Xie Pengfei scored a hat-trick, with goals in the ninth and 23rd minutes and a lob in the 77th. Luis Asue added two, and Rafael Ratao scored once. Seiga Sumi scored Tampines' goal in added time at the end of the first half.",
+          "Shenhua's final group match, against Cambodia's Preah Khan Reach Svay Rieng, will decide who joins FC Machida Zelvia in the Round of 16. Tampines had Amirul Haikal sent off in the 53rd minute for a foul on Asue in the box. Wilson Manafa then hit the crossbar from the resulting penalty."
+        ],
         "triaged": true,
         "priority": 1,
         "is_article": true,
         "read_attempts": 1,
         "copy": "Shenhua moved up to seven points in Group G, with the China PR side’s clash with Cambodia’s Preah Khan Reach Svay Rieng FC next week to decide who accompanies FC Machida Zelvia into the Round of 16.\n\nTampines threatened early, with Seiga Sumi shooting over from distance in the second minute and Hide Higashikawa narrowly missing the target four minutes later. Shenhua made the breakthrough in the ninth minute when Rafael Ratao dispossessed Jacob Mahler and squared the ball nicely for Xie Pengfei to finish from close range.",
-        "first_seen": "2026-11-26T14:30:08.331068+00:00"
+        "first_seen": "2026-11-26T14:30:08.331068+00:00",
+        "summary_status": "done",
+        "label": "GCC FOOTBALL",
+        "line": "[Shanghai Shenhua beat Tampines Rovers 7-1] in AFC Champions League Two Group G to move up to seven points.",
+        "angle": "Limited direct relevance to ADNOC, though it is part of the continental competition in which UAE clubs compete.",
+        "stat": {
+          "value": "7-1",
+          "label": "Shenhua's win over Tampines in Group G"
+        }
       },
       {
         "section": "UAE Pro League & GCC Football",
@@ -52172,13 +52528,13 @@
       }
     ]
   },
-  "total": 2141,
+  "total": 2154,
   "edition": {
-    "drafted_at": "2026-11-26T14:32:31.026530+00:00",
+    "drafted_at": "2026-11-26T15:48:23.942478+00:00",
     "days": 14,
     "headline": [
-      "Abu Dhabi finale is on.",
-      "Sprint races arrive in 2027."
+      "Abu Dhabi's finale is confirmed.",
+      "Sprint racing arrives in 2027."
     ],
     "stats": [
       {
@@ -52187,14 +52543,14 @@
         "id": "7416683044e8"
       },
       {
+        "value": "1st",
+        "label": "F1 Sprint Race for Abu Dhabi, in December 2027",
+        "id": "404fbc3240b3"
+      },
+      {
         "value": "18",
         "label": "points: Al Jazira level with Sharjah at the top",
         "id": "d97e5f157f87"
-      },
-      {
-        "value": "2031",
-        "label": "year Emirates' Dubai Hurricanes renewal now runs to",
-        "id": "ff701f88c948"
       },
       {
         "value": "5",
@@ -52204,8 +52560,8 @@
     ],
     "watch": {
       "id": "5836ad929d71",
-      "lead": "F1 is pressing ahead with the Abu Dhabi finale on 6 December despite regional security concerns.",
-      "text": "The race is ADNOC's flagship property as founding partner of the Abu Dhabi Grand Prix, so any change to security or travel conditions would affect it directly. Check [grandprix247]'s report and monitor how the situation develops."
+      "lead": "F1 will stage the Abu Dhabi Grand Prix finale on 6 December despite security concerns.",
+      "text": "The race goes ahead alongside Qatar on 29 November, despite the Middle East conflict. ADNOC, as founding partner, should be ready for questions on security and for fan and hospitality planning around [grandprix247]'s reporting."
     }
   }
 }
